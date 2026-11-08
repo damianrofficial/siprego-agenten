@@ -31,6 +31,7 @@ Ersetzt die bisherigen 8 geplanten Aufgaben (Originale in `alt/geplante-aufgaben
 
 - Brevo: `get_email_campaigns` (limit 3, excludeHtmlContent true, statistics globalStats). Liegt eine NL-Agent-Mail dieser Woche noch als Entwurf, obwohl ihr Versandzeitpunkt (Mi oder So 10:30) heute ist oder vorbei ist: Erinnerung.
 - Metricool: `getScheduledPosts` (brandId 7383922, heute bis +10 Tage). Entwürfe für heute oder morgen, die noch draft true sind: Erinnerung. Was ein Agent behauptet (IDs, Status), kurz bestätigen. Abweichung: beides nennen.
+- Meta Frequenz (täglich, Damian 08.11.2026): ads_get_ad_entities (Konto 301514571034752, level ad, frequency, last_7d, Spend über 0). Grenzen und Empfehlung laut playbooks/ads.md "FREQUENZ JE CREATIVE". ZU HOCH: eigene Nachricht an Damian mit Zahlen und einer Empfehlung, höchstens einmal je Anzeige pro Woche; Beobachten: eine Zeile im Bericht.
 
 ## Schritt 3: Warteschlange pflegen
 

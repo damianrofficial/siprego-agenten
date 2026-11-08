@@ -49,7 +49,13 @@ Stand: 05.11.2026 08:50 (Google Ads liefert in Metricool seit 05.11. Daten; erst
 ### Regeln für Vorschläge (Damian, aus learnings und Entscheidungen Sept bis Nov 2026)
 - Eine Variable auf einmal ändern. Budget höchstens um 20 % pro Schritt, mindestens eine Woche zwischen zwei Schritten, nie während der Lernphase.
 - Skalieren nur, wenn in den letzten 7 Öffnungstagen ROAS über 2,0 UND CPA unter 20 € UND der Spend tatsächlich beim Tagesbudget ankommt (vorher hing er bei 85 bis 95 € trotz 100 €).
-- Frequenz je Creative über 3 in 7 Tagen: zuerst neue Creatives, dann Budget. Creatives kommen aus dem Social-Agenten (Static-Ads in drei Formaten in der WordPress-Mediathek, Dateiname siprego-ad-..., siehe Social-Design) und aus Damians Reels.
+- FREQUENZ JE CREATIVE (Damian, 08.11.2026: "Achte bei den ads auf die Frequenz der creatives. Falls diese zu hoch ist, informiere mich und sag was zu tun ist."):
+  - Quelle: Meta-Connector, ads_get_ad_entities, level ad, Feld frequency, date_preset last_7d, nur Anzeigen mit Spend über 0 (Metricool liefert Frequenz als null). Sortiert frequency_descending.
+  - Grenzen (7 Tage): Neukunden-Anzeigengruppen (Sales "Lokal 10km - Kauf", Awareness, Catering Leads) Beobachten ab 2,5, ZU HOCH ab 3,0. Retargeting-Anzeigengruppen (Name enthält "Retargeting" oder "RT ") ZU HOCH ab 5,0.
+  - Bei ZU HOCH: Damian informieren (eigene Nachricht über den Manager) mit Anzeige, Frequenz, Spend, CTR und Kosten je Ergebnis im Vergleich zur Vorwoche, plus genau eine Empfehlung: (1) Läuft die Anzeigengruppe mit anderen Anzeigen weiter: diese Anzeige pausieren und eine neue Variante mit anderem Motiv anlegen (gleicher Text, nur das Bild neu, Statics aus der Mediathek oder Damians Reels). (2) Ist die ganze Anzeigengruppe über der Grenze: Zielgruppe ist ausgeschöpft, zuerst neue Creatives, dann Radius erweitern; nie das Budget erhöhen, eher um 20 % senken. Umsetzen erst nach Freigabe (Modus UMSETZEN).
+  - Bei Beobachten: nur im Bericht nennen, keine Frage.
+  - Stand 08.11.2026 (letzte 7 Tage): höchste Werte "Napoli Party Menü - Static 2026-10-29" 2,24 und "Beste Pizza in Augsburg - Reel 2026-10-08" 2,03 (Sales, 438 € Spend, 14 Käufe, CPA 31,28 €). Alles unter 2,5.
+  - Creatives kommen aus dem Social-Agenten (Static-Ads in drei Formaten in der WordPress-Mediathek, Dateiname siprego-ad-..., siehe Social-Design) und aus Damians Reels.
 - Audience Network für Kauf-Ziele nicht ausschließen (lokal, günstig), für Lead-Ziele immer ausschließen.
 - Keine Streichpreise in Ads, Menü-Inhalte und Preise nur aus dem Newsletter-Playbook, nur Produkte, die im Shop aktiv sind.
 - Vorschläge immer mit Zahl und Grund, als Entscheidungsfrage mit Antwort A/B. Höchstens 3 Maßnahmen pro Woche, die wichtigste zuerst.
