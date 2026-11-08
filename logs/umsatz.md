@@ -6,11 +6,11 @@ Umsatzdaten der Pizzeria (Hessenbachstr. 1) für die Wochen-Prognose im Montagsb
 - Pizzeria-Umsatz für Prognose und Marketingquote = Bar + Unbar (Brutto). Umsatz "Auf Rechnung" wird getrennt geführt (meist Catering- oder Firmenaufträge über dieselbe Kasse); ob er mitzählt, entscheidet Damian (offen, Stand 04.11.2026).
 - Wochensumme Mi bis So = Summe der Z-Berichte, deren Abschluss zwischen Mittwoch 00:00 und Montag 06:00 liegt (der Sonntagsabschluss kann nach Mitternacht erfolgen).
 - Prognose immer als Spanne mit Gründen, Basis = Durchschnitt der letzten 4 bis 8 Wochen ohne Feiertag oder Sperrtermin.
-- Schulferien Bayern (Damian, 08.11.2026: "Ferien ist der Umsatz schwächer als sonst"): Ferienwochen in der Spalte Faktoren kennzeichnen und im Prognose-Schnitt getrennt führen. Fällt die Prognosewoche in Ferien, Spanne nach unten setzen und Ferien als ersten Grund nennen. Wie viel schwächer, ist noch offen (Frage an Damian 08.11.), bis dahin aus den eigenen Wochen ableiten.
+- Schulferien Bayern (Damian, 08.11.2026: "Ferien ist der Umsatz schwächer als sonst"): Ferienwochen in der Spalte Faktoren kennzeichnen und im Prognose-Schnitt getrennt führen. Fällt die Prognosewoche in Ferien, Spanne nach unten setzen und Ferien als ersten Grund nennen. Richtwert laut Damian (08.11.2026): rund 20 % schwächer. Prognose in Ferienwochen = Basis x 0,8; eine Ferienwoche als Basis für normale Wochen = Ferienwert / 0,8. KW45 (Herbstferien Mi bis Fr) 9.150 € entspricht damit rund 11.000 € Normalwoche, also 73 % vom Wochenziel 15.000 €.
 - Ferientermine Bayern (WebSearch 08.11.2026, Quellen uneinheitlich, vor Gebrauch am km.bayern.de prüfen): Herbstferien Mo 02.11. bis Fr 06.11.2026 (sicher). Weihnachtsferien ab Do 24.12.2026, Ende 05.01. oder 08.01.2027 je nach Quelle. Frühjahrsferien Februar 2027, 08.02. bis 12.02. oder 15.02. bis 19.02. je nach Quelle. Buß- und Bettag Mi 18.11.2026 (schulfrei in Bayern, kein Feiertag für Betriebe).
 
 ## Ziel
-- Monatsumsatz Pizzeria 65.000 € (Damian, 08.11.2026). Umgerechnet rund 15.000 € je Woche Mi bis So (65.000 x 12 / 52) und 3.000 € je Öffnungstag. Der Montagsbericht nennt die Vorwoche immer als Ist gegen dieses Soll in Prozent. Stand KW45: 9.150 € = 61 % (Ferienwoche).
+- Monatsumsatz Pizzeria 65.000 € (Damian, 08.11.2026). Umgerechnet rund 15.000 € je Woche Mi bis So (65.000 x 12 / 52) und 3.000 € je Öffnungstag. Der Montagsbericht nennt die Vorwoche immer als Ist gegen dieses Soll in Prozent. Stand KW45: 9.150 € = 61 % (Ferienwoche, ferienbereinigt rund 11.000 € = 73 %).
 
 ## Z-Berichte (eine Zeile je Kassenabschluss)
 
