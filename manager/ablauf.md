@@ -7,6 +7,7 @@ Ersetzt die bisherigen 8 geplanten Aufgaben (Originale in `alt/geplante-aufgaben
 ## Schritt 0: Start
 
 - Datum, Wochentag, Kalenderwoche: `TZ=Europe/Berlin date "+%F %A KW%V %H:%M"`.
+- Werkzeuge per ToolSearch mit Stichwort laden (z. B. "PushNotification", "AskUserQuestion", "get_email_campaigns", "getScheduledPosts"). Connector-Tools heißen mcp__<Server-ID>__<name>, ein select: mit mcp__Brevo__... findet nichts.
 - `git pull`. Lies `manager/postfach.md`, `playbooks/newsletter.md` (Notizen von Damian, Rabattcodes, Versandmodus, Sperrtermine) und `playbooks/social.md` (Freigabe, Notizen von Damian).
 - Ist `PROBELAUF=1` gesetzt (Umgebungsvariable oder Hinweis im Startprompt): Unteragenten nur im Lesemodus aufrufen ("Probelauf: nichts in Metricool, Brevo oder WordPress anlegen oder ändern, nur berichten, was du anlegen würdest"), keine Nachricht an Damian außer dem Bericht mit Kennzeichnung "PROBELAUF", nichts committen außer `manager/probelauf-JJJJ-MM-TT.md`.
 
@@ -46,7 +47,7 @@ Wie im Original "Siprego Manager Bericht", Schritt 5: Basis aus `logs/umsatz.md`
 
 ## Schritt 5: Bericht an Damian (eine Nachricht)
 
-Nur wenn es etwas Neues gibt, montags immer. SendUserMessage, höchstens 8 Zeilen (montags 14), keine Frage darin:
+Nur wenn es etwas Neues gibt, montags immer. Als normale Chat-Antwort in dieser Sitzung (SendUserMessage gibt es hier nicht), höchstens 8 Zeilen (montags 14), keine Frage darin:
 - Erste Zeile eine WARNUNG, falls ein Eintrag mit "WARNUNG:" kam.
 - "Erledigt:" eine Zeile je Agent mit 2 bis 3 Zahlen.
 - "Störungen:" und "Erinnerungen:" nur wenn vorhanden.
@@ -58,7 +59,7 @@ Dazu PushNotification mit dem wichtigsten Punkt.
 
 - Kandidaten: offen, oder gestellt mit Frist heute oder morgen und seit 20 Stunden unbeantwortet (dann einmal erinnern, höchstens einmal am Tag).
 - Reihenfolge: früheste Frist; bei gleicher Frist Freigaben, dann Zugangsfragen, dann Codes und Menüs, dann Ads-Maßnahmen, dann Rest, Umsatzfrage zuletzt.
-- Genau EINE Frage pro Nachricht, Form: "Frage an dich (n von m):", ein Satz mit Frist und was ohne Antwort passiert (immer die vorsichtige Variante), Antwortmöglichkeiten. Wenn verfügbar mit AskUserQuestion (Antwortknöpfe), sonst SendUserMessage.
+- Genau EINE Frage pro Nachricht, Form: "Frage an dich (n von m):", ein Satz mit Frist und was ohne Antwort passiert (immer die vorsichtige Variante), Antwortmöglichkeiten. Wenn verfügbar mit AskUserQuestion (Antwortknöpfe), sonst als Chat-Antwort, dazu PushNotification mit der Frage in einer Zeile.
 - Mail-Freigabe: Kampagne per `get_email_campaign` mit HTML holen, mit Playwright als Bild rendern (600 px breit, deviceScaleFactor 2, Platzhalter durch "Damian" ersetzt) und per SendUserFile (display render) schicken; dazu Betreff, Vorschautext, Empfängerzahl, Versandzeitpunkt. "Antworte mit senden, Testmail, oder was geändert werden soll."
 - Social-Freigabe: jede Datei per SendUserFile mit Bildunterschrift ("1 Di 10.11. 17:30 Reel"), darunter je Post Caption (bei Videos auch TikTok-Caption und Titel). "Antworte mit passt (alle) oder nenne die Nummern, die geändert werden sollen."
 - Code oder Menü: Hinweis, dass Damian es im orderu-Shop selbst anlegt, bevor er bestätigt.
