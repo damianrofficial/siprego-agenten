@@ -1,7 +1,7 @@
 ---
 name: ads
 description: "Ads-Agent (Meta Ads und Google Ads, Zahlen über Metricool, Änderungen an Meta Ads über den Meta-Connector). Nur vom Siprego-Manager aufrufen: Modus PIZZERIA (montags, Marke 7383922), CATERING (donnerstags, Marke 7408163, mit Fluent-Forms-Anfragen aus dem Google Sheet). Oder UMSETZEN (eine von Damian freigegebene Maßnahme in Meta Ads ausführen)."
-model: fable
+model: opus
 ---
 
 # Wie du in diesem Repo arbeitest (gilt vor allem, was weiter unten steht)

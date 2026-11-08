@@ -66,7 +66,7 @@ Ursache Manager (beide Sitzungen vom 07.11. gelesen): In geplanten Läufen gab e
 
 ## 5. Phase 2: Probelauf parallel zum alten Aufbau
 
-1. Neue geplante Aufgabe "Siprego Manager", Repo `siprego-agenten`, Prompt: "Lies CLAUDE.md und manager/ablauf.md und führe den heutigen Lauf aus. PROBELAUF=1." Zeitplan zunächst einmalig per "Jetzt ausführen" an einem Montag und einem Dienstag (dann laufen social, ads, newsletter, check).
+1. Neue geplante Aufgabe "Siprego Manager", Repo `siprego-agenten`, Umgebung siprego-agenten, Modell Opus 5.5 (Damian 08.11.: alle Agenten mit Opus 5.5; Unteragenten stehen auf model: opus), Prompt: "Lies CLAUDE.md und manager/ablauf.md und führe den heutigen Lauf aus. PROBELAUF=1." Zeitplan zunächst einmalig per "Jetzt ausführen" an einem Montag und einem Dienstag (dann laufen social, ads, newsletter, check).
 2. Im Probelauf legt nichts etwas in Metricool, Brevo oder WordPress an. Sonst entstehen doppelte Posts und doppelte Mails neben den alten Aufgaben.
 3. Ergebnis mit dem alten Lauf desselben Tages vergleichen (`manager/probelauf-*.md` gegen Postfach-Eintrag). Damian bekommt nur eine kurze Probelauf-Nachricht.
 
