@@ -24,6 +24,7 @@ Werden ersetzt bzw. ergänzt, sobald die Z-Berichte vorliegen.
 | Mi 28.10.2026 | 1.430 | Damian, 28.10.2026 | Halloween-Mail 109 mit Code |
 | Mi 04.11.2026 | 1.100 | Damian im Chat, 06.11.2026 | Hauptmail 111 Mittagsmenü, Aktiv + Schläfer |
 | Do 05.11.2026 | 2.000 | Damian im Chat, 06.11.2026 | |
+| So 08.11.2026 | 2.600 | Damian im Chat, 08.11.2026 22:20 | Sales-Kampagne ab 21:37 pausiert (Öffnungstage-Schaltung) |
 
 ## Wochen (Mi bis So)
 
