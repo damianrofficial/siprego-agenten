@@ -24,9 +24,12 @@ Werden ersetzt bzw. ergänzt, sobald die Z-Berichte vorliegen.
 | Mi 28.10.2026 | 1.430 | Damian, 28.10.2026 | Halloween-Mail 109 mit Code |
 | Mi 04.11.2026 | 1.100 | Damian im Chat, 06.11.2026 | Hauptmail 111 Mittagsmenü, Aktiv + Schläfer |
 | Do 05.11.2026 | 2.000 | Damian im Chat, 06.11.2026 | |
+| Fr 06.11.2026 | 2.070 | Damian im Chat, 08.11.2026 | |
+| Sa 07.11.2026 | 1.380 | Damian im Chat, 08.11.2026 | |
 | So 08.11.2026 | 2.600 | Damian im Chat, 08.11.2026 22:20 | Sales-Kampagne ab 21:37 pausiert (Öffnungstage-Schaltung) |
 
 ## Wochen (Mi bis So)
 
 | KW | Mi bis So | Umsatz € (Bar + Unbar) | davon Rechnung € | Prognose € | Faktoren | Notiz |
 | --- | --- | --- | --- | --- | --- | --- |
+| KW45 | Mi 04.11. bis So 08.11.2026 | 9.150 (Tageswerte laut Damian, gerundet, kein Z-Bericht) | fehlt (keine Z-Berichte) | keine | Hauptmail 111 Mittagsmenü (neu ab 29.10.) | Mi 1.100, Do 2.000, Fr 2.070, Sa 1.380, So 2.600 |
