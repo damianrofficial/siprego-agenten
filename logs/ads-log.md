@@ -72,3 +72,8 @@ Hier protokollieren der Pizzeria-Ads-Agent (Montag) und der Catering-Ads-Agent (
 - NICHT angelegt: Creatives und Anzeigen. Grund: Der Ziel-Link (URL plus UTM) des Originals ist über den Meta-Connector nicht lesbar (ads_get_creatives liefert kein link_url, Vorschau zeigt link_url leer, Duplizieren per source_ad_id verlangt ein vollständiges Creative: "creative is required. To duplicate an existing ad, pass source_ad_id (the ad to copy) -- in draft mode its creative is copied automatically."). Ein geratener Link wäre eine zweite Variable, deshalb abgebrochen. Nichts halb angelegt.
 - Offen: Link des Originals von Damian (Ads Manager, Anzeige, Website-URL und URL-Parameter), dann Creatives und Anzeigen "Shop 10 % günstiger - Static 2026-11-07 v2 Mortabella" und "... v3 Salami" anlegen und aktivieren.
 - Prüfung nach Start: Do 12.11. und Do 19.11., CTR und CPA je Motiv gegen das Original.
+
+### 2026-11-08 21:37 | Pizzeria | Umsetzung (Ads-Agent), Freigabe Damian 08.11.: Sales nur an Öffnungstagen
+- Umgesetzt 08.11. 21:37 (Ads-Agent): Kampagne "Pizzeria - Sales - Kauf - 2026-10" (ID 120251130156120078) auf Kampagnenebene von ACTIVE auf PAUSED. Bestätigt per ads_get_ad_entities: status PAUSED, effective_status PAUSED.
+- Sonst nichts geändert: keine Anzeigengruppen, Anzeigen, Budgets; Awareness und Leads - Pizza Catering laufen weiter.
+- Nächste Schaltung: Mi 11.11. 08:00 wieder ACTIVE (Mo 09.11. keine Sonderöffnung).

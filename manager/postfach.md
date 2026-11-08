@@ -27,3 +27,6 @@ Erledigt: Zweitmail nicht angelegt. Bedingung 1 fehlt: Hauptmail 111 enthielt ke
 Zahlen: Hauptmail 111 (KW45, gesendet Mi 04.11. 10:32 an Aktiv + Schläfer, Segmente liefern keine campaignStats, daher globalStats): 2.080 gesendet, 2.060 zugestellt, 8 echte Shop-Klicks, 0,39 Klicks pro 100 Empfänger, 19 Abmeldungen, Abmelderate 0,92 %, 0 Beschwerden. Vorwoche Hauptmail 109 (KW44, nur Aktiv, mit Code HALLOWEEN): 1.026 zugestellt, 17 Klicks, 1,66 pro 100, 6 Abmeldungen (0,58 %), 0 Beschwerden. Vergleich nur bedingt möglich, weil 111 an Aktiv + Schläfer ging und keinen Code hatte. Mittwoch-Umsatz 04.11. laut Playbook 1.100 € (Vorwoche 1.430 €), Donnerstag 05.11. 2.000 €.
 Bericht: keine Zweitmail angelegt, daher kein Betreff, Vorschautext oder Bild. Hinweis: Mit Code hatte die Zweitmail 106 im Oktober 2,1 Klicks pro 100, ohne Code und ohne Frist gibt es laut Regeln keine Zweitmail. Nächster Lauf Sa 14.11. ist der erste Autopilot-Lauf für Zweitmails (scheduledAt Sonntag 10:30).
 Bearbeitet vom Manager: nein
+
+### 2026-11-08 21:37 | Ads-Agent | Umsetzung | Status: OK
+Öffnungstage-Schaltung: "Pizzeria - Sales - Kauf - 2026-10" (120251130156120078) ACTIVE auf PAUSED, bestätigt (status und effective_status PAUSED). Nächste Schaltung Mi 11.11. 08:00. Bearbeitet vom Manager: ja (08.11.)
