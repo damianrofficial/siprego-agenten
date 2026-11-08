@@ -97,7 +97,18 @@ Stand: 05.11.2026 08:50 (Google Ads liefert in Metricool seit 05.11. Daten; erst
 - Jede Maßnahme hat: Was (eine Zeile), Warum (Zahl), Risiko (eine Zeile), Wann prüfen (Datum).
 - Status des Eintrags: OK, VORSCHLAG (mindestens eine Maßnahme), WARNUNG (Ziel klar verfehlt oder Spend außer Kontrolle), FEHLER (Daten nicht erreichbar).
 
+## Öffnungstage-Schaltung (Damian, 08.11.2026)
+
+Diese Einträge laufen nur an Öffnungstagen (Mi bis So). Geplante Aufgaben in der Manager-Sitzung: "Meta Ads aus So 21:30" (trig_016Y3jfrS4Zb1oexEiUzWvQ6, ACTIVE auf PAUSED) und "Meta Ads an Mi 08:00" (trig_01HoGCXfc2gjctWNEitVmExb, PAUSED auf ACTIVE). Ausführung über den ads-Agenten, Modus UMSETZEN. Sperrtermine und Sonderöffnungen aus playbooks/newsletter.md gehen vor. Die Schaltung zählt nicht als Änderung im Sinne der 7-Tage-Regel.
+
+| Ebene | Name | ID |
+| --- | --- | --- |
+| Kampagne | Pizzeria - Sales - Kauf - 2026-10 (Tagesbudget 150 € auf Kampagnenebene, Stand Meta 08.11.) | 120251130156120078 |
+
+Nicht in der Liste (laufen weiter durch): "Pizzeria - Awareness - Lokal - 2026-09", "Leads - Pizza Catering" samt "Retargeting Catering Statics 2026-11" (Damian klärt, ob mit "Retargeting" diese Anzeigengruppe gemeint war; eine aktive Pizzeria-Retargeting-Kampagne gibt es am 08.11. nicht).
+
 ## Notizen von Damian an die Agenten
+- (über Manager, 08.11.) "die sales kampagne und retargeting kampagne solle nur an öffnungstagen laufen. heißt heute um 21:30 abschalten und wieder am mittwoch 8:00 anmachen". Umgesetzt als wöchentliche Schaltung, siehe Abschnitt Öffnungstage-Schaltung.
 - 03.11.2026: Ads-Agenten für Pizzeria und Catering bauen, Google Ads und Meta Ads prüfen, Maßnahmen vorschlagen. Beim Catering die Fluent-Forms-Anfragen einbeziehen.
 - 03.11.2026: Fluent-Forms-Einträge (Anfragen) können automatisch in ein Google Sheet geschrieben werden (Fluent Forms, Integration Google Sheets). Das ist Weg 1 für den Catering-Agenten.
 - 03.11.2026: Ads-Daten kommen über Metricool, Damian verbindet die Ads-Konten dort selbst (Entscheidung im Chat, kein zusätzlicher Connector).
