@@ -8,7 +8,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Entscheidungen von Damian
 - 08.11. (Claude-Code-Chat, Umzug Phase 1) Ads Catering | Teveo v2 und v3 pausieren? | Antwort: "teveo v2 und v3 pausieren." | Umgesetzt 08.11. über den Meta-Connector (beide PAUSED), Prüfung Do 12.11. | Quelle: Eintrag 2026-11-05 08:50. Maßnahmen 2 und 3 aus diesem Eintrag (Google-Keywords) sind noch nicht gefragt.
 
-- 08.11. 19:10 (Chat) Ads Pizzeria | Sales und Retargeting nur an Öffnungstagen | Antwort: "heute um 21:30 abschalten und wieder am mittwoch 8:00 anmachen" | Eingerichtet als wöchentliche geplante Aufgaben So 21:30 aus, Mi 08:00 an, für Kampagne 120251130156120078. Retargeting: offen, welche gemeint ist.
+- 08.11. 19:10 (Chat) Ads Pizzeria | Sales und Retargeting nur an Öffnungstagen | Antwort: "heute um 21:30 abschalten und wieder am mittwoch 8:00 anmachen" | Eingerichtet als wöchentliche geplante Aufgaben So 21:30 aus, Mi 08:00 an, für Kampagne 120251130156120078. Retargeting: Antwort A (08.11.), Catering-Retargeting läuft durch, nicht in der Schaltung.
 
 ## Eingänge
 

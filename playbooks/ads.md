@@ -105,7 +105,7 @@ Diese Einträge laufen nur an Öffnungstagen (Mi bis So). Geplante Aufgaben in d
 | --- | --- | --- |
 | Kampagne | Pizzeria - Sales - Kauf - 2026-10 (Tagesbudget 150 € auf Kampagnenebene, Stand Meta 08.11.) | 120251130156120078 |
 
-Nicht in der Liste (laufen weiter durch): "Pizzeria - Awareness - Lokal - 2026-09", "Leads - Pizza Catering" samt "Retargeting Catering Statics 2026-11" (Damian klärt, ob mit "Retargeting" diese Anzeigengruppe gemeint war; eine aktive Pizzeria-Retargeting-Kampagne gibt es am 08.11. nicht).
+Nicht in der Liste (laufen weiter durch): "Pizzeria - Awareness - Lokal - 2026-09", "Leads - Pizza Catering" samt "Retargeting Catering Statics 2026-11" (Damian, 08.11.: Antwort A, Catering-Retargeting läuft weiter durch, weil Anfragen auch an Ruhetagen kommen; eine aktive Pizzeria-Retargeting-Kampagne gibt es am 08.11. nicht).
 
 ## Notizen von Damian an die Agenten
 - (über Manager, 08.11.) "die sales kampagne und retargeting kampagne solle nur an öffnungstagen laufen. heißt heute um 21:30 abschalten und wieder am mittwoch 8:00 anmachen". Umgesetzt als wöchentliche Schaltung, siehe Abschnitt Öffnungstage-Schaltung.
