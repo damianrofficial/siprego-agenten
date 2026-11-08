@@ -60,7 +60,7 @@ Ursache Manager (beide Sitzungen vom 07.11. gelesen): In geplanten Läufen gab e
    - Geheimnisse als Netzwerk-Geheimnis statt Umgebungsvariable (der Proxy setzt sie ein, kein Wert in der Sitzung). Folge für Playbooks: $WP_APP_PASSWORD und $ELEVENLABS_API_KEY sind leer; curl mit Platzhalter aufrufen, z. B. -u "social-agent:proxy-injected" und -H "xi-api-key: proxy-injected", der Proxy ersetzt den Header. Playbooks dafür in Phase 2 anpassen.
    - siprego.de: ERLEDIGT 08.11. (von Damian korrigiert). Test GET /wp-json/wp/v2/media?context=edit mit -u "social-agent:proxy-injected" liefert 200. /wp/v2/users/me blockt der Hoster immer mit 403, das ist kein Test.
    - api.elevenlabs.io: OFFEN, Geheimnis nicht eingetragen (abgelehnt). Header xi-api-key, ohne Präfix.
-3. Connectoren: werden beim Anlegen der geplanten Aufgabe in Phase 2 gesetzt: Brevo, Metricool_Social_Media_Management, Google_Drive. Brevo am 08.11. von Damian verbunden, in der Sitzung sichtbar. Neu sichtbar: Gmail. Damit kann der Manager die Z-Berichte selbst lesen (Punkt 7), in Phase 2 als vierten Connector mitnehmen.
+3. Connectoren: werden beim Anlegen der geplanten Aufgabe in Phase 2 gesetzt: Brevo, Metricool_Social_Media_Management, Google_Drive. Brevo am 08.11. von Damian verbunden, in der Sitzung sichtbar. Neu sichtbar: Gmail. Damit kann der Manager die Z-Berichte selbst lesen (Punkt 7), in Phase 2 mitnehmen. Ebenfalls mitnehmen: Meta_MCP (Damian 08.11.: "der ads agent kann und soll kampagnen ändern", Modus UMSETZEN in .claude/agents/ads.md). Connectoren der neuen Aufgabe also: Brevo, Metricool, Google Drive, Gmail, Meta_MCP.
 4. Unteragenten-Test: Unteragent (Modell fable wie ads) hat die Metricool-Tools geladen und nur gelesen. Marken 7383922 und 7408163 sichtbar, Meta-Werbekonto 301514571034752 an beiden Marken, Google Ads 3121294482 an siprego.catering. Meta-Kampagnen 04.11. bis 08.11.: 3 rows, Spend 841,75 €. Google Drive sichtbar, Brevo nicht (siehe 3). Die Dateien in .claude/agents/ haben keine tools-Einschränkung, Unteragenten erben also alle Connectoren der Hauptsitzung. Der Aufruf über den Agent-Namen (ads, social ...) wird erst in einer Sitzung mit geklontem Repo getestet.
    - Achtung Ads: Die Catering-Kampagne "Leads - Pizza Catering" erscheint auch unter Marke 7383922 (gleiches Konto). Der Ads-Agent im Modus PIZZERIA muss sie herausfiltern.
 
@@ -80,7 +80,7 @@ Nur nach OK von Damian:
 
 ## 7. Termine, die beim Umschalten nicht verloren gehen dürfen
 
-- Mo 09.11. 12:00: Teveo v2 und v3 pausieren? ERLEDIGT 08.11.: Damian "teveo v2 und v3 pausieren.", eingetragen in postfach.md, ads-log.md, playbooks/ads.md. Achtung: Der alte Lauf Ads Catering (Do 12.11.) liest die claude.ai-Projektdateien, nicht das Repo, und kennt die Entscheidung nicht.
+- Mo 09.11. 12:00: Teveo v2 und v3 pausieren? ERLEDIGT 08.11.: Damian "teveo v2 und v3 pausieren.", über den Meta-Connector pausiert, eingetragen in postfach.md, ads-log.md, playbooks/ads.md. Achtung: Der alte Lauf Ads Catering (Do 12.11.) liest die claude.ai-Projektdateien, nicht das Repo, und kennt die Entscheidung nicht.
 - Mo 09.11.: Nummer 1 im Oktober (Stückzahl) oder Barbabietola bestätigt, sonst Mittwochsmail mit Antipasti-Platte.
 - Di 10.11.: erster Autopilot-Lauf Hauptmail (scheduledAt Mi 11.11. 10:30). Sa 14.11.: erster Autopilot-Lauf Zweitmail. Mo 16.11.: Social-Autopilot laut Playbook, aber Damians Regel vom 29.10. gilt weiter: jeder Social-Entwurf vorher zur Freigabe.
 - Di 10.11. 17:30: Post "Ungeschnitten #11" ist freigegeben und geplant.

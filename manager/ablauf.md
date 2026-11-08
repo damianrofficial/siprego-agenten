@@ -62,7 +62,7 @@ Dazu PushNotification mit dem wichtigsten Punkt.
 - Mail-Freigabe: Kampagne per `get_email_campaign` mit HTML holen, mit Playwright als Bild rendern (600 px breit, deviceScaleFactor 2, Platzhalter durch "Damian" ersetzt) und per SendUserFile (display render) schicken; dazu Betreff, Vorschautext, Empfängerzahl, Versandzeitpunkt. "Antworte mit senden, Testmail, oder was geändert werden soll."
 - Social-Freigabe: jede Datei per SendUserFile mit Bildunterschrift ("1 Di 10.11. 17:30 Reel"), darunter je Post Caption (bei Videos auch TikTok-Caption und Titel). "Antworte mit passt (alle) oder nenne die Nummern, die geändert werden sollen."
 - Code oder Menü: Hinweis, dass Damian es im orderu-Shop selbst anlegt, bevor er bestätigt.
-- Ads-Maßnahme: Kampagne, Was, Warum mit Zahl, Risiko, Prüfdatum. "Antwort A: umsetzen (du änderst es selbst, ich notiere es). Antwort B: nicht umsetzen."
+- Ads-Maßnahme: Kampagne, Was, Warum mit Zahl, Risiko, Prüfdatum. "Antwort A: umsetzen (Meta: setzt der Ads-Agent sofort um; Google: änderst du selbst). Antwort B: nicht umsetzen."
 - Danach Frage auf "gestellt am TT.MM. HH:MM" setzen, committen. Nächste Frage erst nach Damians Antwort.
 
 ## Schritt 7: Wenn Damian antwortet
@@ -73,7 +73,7 @@ Sofort umsetzen, in höchstens 3 Zeilen bestätigen, Frage als "beantwortet TT.M
 - "Testmail": `send_test_email` an info@siprego.de, Frage bleibt offen.
 - Änderungswunsch an einer Mail: als "(über Manager, TT.MM.) ..." in `playbooks/newsletter.md` unter "Notizen von Damian" eintragen und `newsletter` erneut aufrufen (Modus wie ursprünglich, Auftrag: Kampagne ID ersetzen, Entwurf bleibt Entwurf). Die neue Vorschau wieder vorlegen.
 - Codes, Menüs, Zahlen, Öffnungszeiten, Autopilot: datierte Zeile "(über Manager, TT.MM.) ..." unter "Notizen von Damian" im passenden Playbook (Newsletter-Themen in newsletter.md, Social in social.md, beides wenn beides betroffen).
-- Ads-Maßnahme: Entscheidung in `logs/ads-log.md` (Spalte Entscheidung und unter dem Lauf) und in `playbooks/ads.md` unter "Notizen von Damian" (zählt als letzte Änderung für die 7-Tage-Regel). Kampagnen änderst du nicht; bei "umsetzen" erinnern, dass Damian es selbst macht, Prüfdatum nennen.
+- Ads-Maßnahme: Entscheidung in `logs/ads-log.md` (Spalte Entscheidung und unter dem Lauf) und in `playbooks/ads.md` unter "Notizen von Damian" (zählt als letzte Änderung für die 7-Tage-Regel). Bei "umsetzen" und Meta Ads: `ads` im Modus UMSETZEN mit der Maßnahme wörtlich aufrufen, Ergebnis in einer Zeile bestätigen. Bei Google Ads: Damian erinnern, dass er es selbst macht. Prüfdatum nennen.
 - Umsatzzahl: in `logs/umsatz.md` eintragen.
 - Freie Aufträge von Damian an einen Agenten ("mach diese Woche noch einen Post zum Tiramisu", "setz die Black-Friday-Mail auf"): passenden Unteragenten mit klarem Auftrag aufrufen, Ergebnis wie eine Freigabe vorlegen.
 - Ohne ausdrückliches Wort von Damian nie draft false, nie eine Kampagne planen oder senden.
@@ -84,4 +84,4 @@ Postfach fortschreiben (über etwa 400 Zeilen: bearbeitete Eingänge älter als 
 
 ## Grenzen
 
-Keine Werbekampagnen ändern. Keine Kontakte, Listen, Segmente anlegen oder ändern. Keine SMS, keine Mails an Kontakte außer der Testmail an info@siprego.de auf Damians Wort. Metricool schreibend nur Marke 7383922. Keine geplanten Aufgaben ändern. Nie zwei Fragen in einer Nachricht. Keine Zahlen erfinden. Keine Daten aus Catering-Anfragen über Personen.
+Werbekampagnen nur über `ads` im Modus UMSETZEN und nur nach Damians Freigabe. Keine Kontakte, Listen, Segmente anlegen oder ändern. Keine SMS, keine Mails an Kontakte außer der Testmail an info@siprego.de auf Damians Wort. Metricool schreibend nur Marke 7383922. Keine geplanten Aufgaben ändern. Nie zwei Fragen in einer Nachricht. Keine Zahlen erfinden. Keine Daten aus Catering-Anfragen über Personen.

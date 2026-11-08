@@ -19,7 +19,7 @@ Stand: 05.11.2026 08:50 (Google Ads liefert in Metricool seit 05.11. Daten; erst
 ### Werbekonten
 - Meta Ads Konto "Siprego", ID 301514571034752, EIN Konto für Pizzeria und Catering (bestätigt 04.11. über Metricool). Kampagnen am 04.11.2026: "Pizzeria - Sales - Kauf - 2026-10" (OUTCOME_SALES), "Pizzeria - Awareness - Lokal - 2026-09" (OUTCOME_AWARENESS, ThruPlay), "Leads - Pizza Catering" (OUTCOME_LEADS). Dazu beendet: "Head of Pizza Augsburg Job 2026-08" (OUTCOME_LEADS, Bewerbungen, Spend bis 28.10.). Meta Pixel 1560485141472156. Conversion-Tracking über GTM (GTM-WJVHP67V) und PixelYourSite (CAPI) auf siprego.de und orderu-Shop.
 - Google Ads Konto "Siprego", Kundennummer 312-129-4482. Enthält Catering-Kampagnen UND Pizzeria-Kampagnen (siehe Metricool oben, Stand 05.11.).
-- Keine Schreibrechte für Agenten. Kampagnen, Budgets, Gebote, Keywords ändert nur Damian.
+- Schreibrechte (Damian, 08.11.2026): Meta Ads ändert der Ads-Agent über den Meta-Connector (Konto 301514571034752), nach Damians Freigabe. Google Ads (Gebote, Keywords, Budgets) ändert weiter Damian, kein Schreib-Connector.
 
 ### Fluent Forms (Catering-Anfragen, nur Catering-Agent)
 - Anfragen kommen über Fluent Forms auf siprego.de (Catering-Konfigurator auf /pizza-catering/ und /firmen-catering/). Hidden Fields tragen UTM-Parameter und gclid/fbclid (aus localStorage), damit jede Anfrage einem Kanal zugeordnet werden kann. Die Leads gehen per Zapier an Pipedrive (Pipedrive ist nicht angebunden, nicht versuchen).
@@ -102,7 +102,8 @@ Stand: 05.11.2026 08:50 (Google Ads liefert in Metricool seit 05.11. Daten; erst
 - 03.11.2026: Fluent-Forms-Einträge (Anfragen) können automatisch in ein Google Sheet geschrieben werden (Fluent Forms, Integration Google Sheets). Das ist Weg 1 für den Catering-Agenten.
 - 03.11.2026: Ads-Daten kommen über Metricool, Damian verbindet die Ads-Konten dort selbst (Entscheidung im Chat, kein zusätzlicher Connector).
 - 04.11.2026 00:07: "ad accounts sind verbunden." (Meta bei beiden Marken bestätigt, Google Ads lädt noch.)
-- (über Manager, 08.11.) "teveo v2 und v3 pausieren." Meta-Anzeigen "Catering Teveo v2 - Alle Gäste Reden" und "Catering Teveo v3 - Catering gesucht 2027/28" in "Leads - Pizza Catering", Damian pausiert selbst. Zählt als letzte Änderung Catering Meta am 08.11. (7-Tage-Regel bis 15.11.).
+- (über Manager, 08.11.) "der ads agent kann und soll kampagnen ändern"
+- (über Manager, 08.11.) "teveo v2 und v3 pausieren." Meta-Anzeigen "Catering Teveo v2 - Alle Gäste Reden" und "Catering Teveo v3 - Catering gesucht 2027/28" in "Leads - Pizza Catering". Umgesetzt 08.11. über den Meta-Connector (Anzeigen-IDs 120251219060520078 und 120251219060510078, ACTIVE auf PAUSED). Zählt als letzte Änderung Catering Meta am 08.11. (7-Tage-Regel bis 15.11.).
 - 04.11.2026 00:11: Sheets-Integration läuft, manueller Import der letzten 90 Tage erfolgreich, Sheet-Link übergeben (siehe Datenquellen, Fluent Forms).
 
 ## Warteschlange offener Fragen (eine pro Bericht, nach Dringlichkeit)

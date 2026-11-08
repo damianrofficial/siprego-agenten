@@ -6,7 +6,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 (keine)
 
 ## Entscheidungen von Damian
-- 08.11. (Claude-Code-Chat, Umzug Phase 1) Ads Catering | Teveo v2 und v3 pausieren? | Antwort: "teveo v2 und v3 pausieren." | Damian pausiert selbst im Werbeanzeigenmanager, Prüfung Do 12.11. | Quelle: Eintrag 2026-11-05 08:50. Maßnahmen 2 und 3 aus diesem Eintrag (Google-Keywords) sind noch nicht gefragt.
+- 08.11. (Claude-Code-Chat, Umzug Phase 1) Ads Catering | Teveo v2 und v3 pausieren? | Antwort: "teveo v2 und v3 pausieren." | Umgesetzt 08.11. über den Meta-Connector (beide PAUSED), Prüfung Do 12.11. | Quelle: Eintrag 2026-11-05 08:50. Maßnahmen 2 und 3 aus diesem Eintrag (Google-Keywords) sind noch nicht gefragt.
 
 ## Eingänge
 
