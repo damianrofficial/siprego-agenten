@@ -1,0 +1,26 @@
+{
+  "id": "trig_01V9UrU1xPpRXG3YM2FDNuPh",
+  "name": "Siprego Rückfrage-Check (Newsletter + Social)",
+  "cron": "CRON_TZ=Europe/Berlin 27 9 * * 2",
+  "model": "claude-fable-5-1",
+  "permission_mode": "auto",
+  "connectors": [
+    "Canva",
+    "Framer",
+    "Claude_Docs",
+    "Google_Drive",
+    "Notion",
+    "Claude_Code_Remote",
+    "Brevo",
+    "Metricool_Social_Media_Management",
+    "Simplybook_MCP"
+  ],
+  "last_run": {
+    "status": "ROUTINE_RUN_STATUS_SUCCEEDED",
+    "fired_at": "2026-10-29T07:33:42.589125Z",
+    "finished_at": "2026-10-29T07:34:24.531404Z",
+    "session_id": "cse_0147tbo6pJP2guQuJdn2JB7h",
+    "failure_reason": "ROUTINE_RUN_FAILURE_REASON_UNSPECIFIED"
+  },
+  "next_run_at": "2026-11-10T08:27:00Z"
+}

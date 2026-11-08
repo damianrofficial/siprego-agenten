@@ -1,0 +1,114 @@
+# Siprego Ads-Playbook (Pizzeria und Catering)
+
+Stand: 05.11.2026 08:50 (Google Ads liefert in Metricool seit 05.11. Daten; erster Catering-Agentenlauf erledigt). Davor 04.11.2026 00:20 (Ads-Konten in Metricool verbunden, Google Sheet für Anfragen eingerichtet und mit 90 Tagen Historie gefüllt; angelegt 03.11.2026). Faktenquelle für die beiden Ads-Agenten "Siprego Ads Pizzeria" (Montag) und "Siprego Ads Catering" (Donnerstag). Was hier nicht steht, dürfen sie nicht behaupten. Änderungen hier eintragen oder Claude im Chat sagen. Beide Agenten ÄNDERN NICHTS an Kampagnen (sie können es auch nicht, Metricool liest nur). Sie prüfen Zahlen, vergleichen mit den Zielen hier und schlagen Maßnahmen vor. Umsetzen tut Damian im Werbeanzeigenmanager bzw. in Google Ads, nach Freigabe über den Manager-Agenten. Alle Berichte und Fragen laufen über das Manager-Postfach (manager/postfach.md), nie direkt an Damian.
+
+## Datenquellen
+
+### Metricool (Haupt-Datenquelle für beide Agenten)
+- Starter-Tarif (seit 13.10.2026) enthält Ads-Berichte für Meta Ads, Google Ads und TikTok Ads. Die Ads-Konten werden pro Marke in Metricool verbunden (Metricool, Marke öffnen, Verbindungen). Das kann nur Damian, der Agent hat keinen Zugang.
+- STATUS 05.11.2026: VERBUNDEN UND LIEFERT. Meta Ads liefert bei beiden Marken (7383922 und 7408163) dieselben Kampagnen, es ist ein Werbekonto. Google Ads bei siprego.catering (7408163) liefert seit dem Lauf am 05.11. campaigns, keyworks und evolution mit Historie (geprüft bis 08.10.2026 zurück). Der 04.11. war am 05.11. 08:40 erst teilweise geladen (17,88 € Spend), Metricool lädt den Vortag offenbar erst im Lauf des Tages nach. TikTok Ads bei siprego.pizza: Status unbekannt, der Agent prüft per getAnalyticsAvailableMetrics("tiktokAds") und Abruf.
+- Leere rows heißt: Konto nicht verbunden, Historie noch nicht geladen oder keine Daten im Zeitraum. Der Agent erfindet keine Zahlen.
+- Marken: "siprego.pizza" Brand-ID 7383922 (Pizzeria). "siprego.catering" Brand-ID 7408163 (Catering). Zeitzone Europe/Berlin. Da das Meta-Konto gemeinsam ist, ordnet der Agent nach Kampagnenname zu: Pizzeria-Agent nimmt nur Kampagnen, deren Name mit "Pizzeria" beginnt; Catering-Agent nur Kampagnen mit "Catering" im Namen.
+- Abruf: getAnalyticsDataByMetrics(brandId, from, to, metrics). from/to im Format JJJJ-MM-TTT00:00:00+01:00 (Winterzeit vom 25.10.2026 bis 27.03.2027, sonst +02:00). Feld-IDs pro Netzwerk und Connector über getAnalyticsAvailableMetrics(network) prüfen, wenn etwas fehlt. Nie Felder verschiedener Connectoren in einem Aufruf mischen.
+- Google Ads, Connector campaigns: GACA01 Name, GACA03 Impressionen, GACA04 Klicks, GACA05 Conversions, GACA06 Conversion-Wert, GACA07 Ausgaben, GACA09 CPC, GACA10 CTR, GACA13 letzter Status. Geprüft 05.11.: die Antwort hat nur 7 Spalten (Name, Impressionen, Klicks, Conversions, Conversion-Wert, Ausgaben, Status leer), GACA09 und GACA10 kommen nicht mit; CPC und CTR rechnet der Agent selbst (Spend/Klicks, Klicks/Impressionen). Connector keyworks (so geschrieben): GAKW01 Kampagne, GAKW02 Keyword, GAKW03 Impressionen, GAKW04 Klicks, GAKW05 Conversions, GAKW07 Kosten, GAKW12 Kosten je Conversion (geprüft 05.11.: 6 Spalten, GAKW12 fehlt, selbst rechnen). Connector evolution (Tagesverlauf): GAEV01 Impressionen, GAEV02 Ausgaben, GAEV03 Klicks, GAEV04 Conversions (Zeile endet mit dem Datum JJJJMMTT). Achtung: evolution ist kontoweit (Summe aller 4 Kampagnen, auch Pizzeria), eine Budgetprüfung je Kampagne ist damit nicht möglich.
+- Google Ads Konto 312-129-4482 enthält 4 Kampagnen (Metricool 05.11.): Catering "Pizza Catering Hochzeit - Augsburg - 2026-06" und "Firmencatering 2026-07"; Pizzeria "Siprego Brand - Augsburg" (Brand-Keywords siprego, si prego, 28 Tage bis 04.11.: 152 € Spend, 26 Conversions) und "Pizza Bestellen - Augsburg" (Lieferservice-Keywords, 28 Tage 78 € Spend, 3 Conversions). Der Catering-Agent bewertet nur die beiden Catering-Kampagnen. Der Pizzeria-Agent kann die beiden Pizzeria-Kampagnen über Marke 7408163 lesen, solange Google Ads nicht auch mit 7383922 verbunden ist.
+- Meta Ads, Connector campaigns: FACA05 Name, FACA06 ID, FACA07 Ziel, FACA10 Impressionen, FACA12 Reichweite, FACA13 Ausgaben, FACA44 Link-Klicks, FACA104 Outbound-Klicks, FACA102 Landing-Page-Views, FACA26 Pixel-Käufe, FACA28 Omni-Käufe, FACA23 Conversion-Wert, FACA22 ROAS, FACA36 Pixel-Leads, FACA41 Leads, FACA149 ThruPlays, FACA151 Frequenz, FACA152 CTR (Link-Klicks), FACA156 Ergebnisse, FACA157 Ergebnis-Label. Geprüft 04.11.: Sales-Kampagne liefert FACA26 und FACA23 (Pixel-Käufe und Wert), Awareness-Kampagne liefert FACA149 (ThruPlays), Leads-Kampagne liefert FACA36 und FACA41. Geprüft 05.11.: FACA151 und FACA152 kommen bei allen Kampagnen als null, Frequenz fehlt damit, CTR selbst rechnen (Link-Klicks/Impressionen). Für Tagesverlauf und Anzeigengruppen die weiteren Connectoren per getAnalyticsAvailableMetrics("metaAds") ermitteln.
+- TikTok Ads: Felder per getAnalyticsAvailableMetrics("tiktokAds") ermitteln.
+- Metricool-Ads-Daten können bis zu einem Tag hinterherhinken. Deshalb vergleicht der Agent abgeschlossene Tage (bis gestern), nie den laufenden Tag.
+
+### Werbekonten
+- Meta Ads Konto "Siprego", ID 301514571034752, EIN Konto für Pizzeria und Catering (bestätigt 04.11. über Metricool). Kampagnen am 04.11.2026: "Pizzeria - Sales - Kauf - 2026-10" (OUTCOME_SALES), "Pizzeria - Awareness - Lokal - 2026-09" (OUTCOME_AWARENESS, ThruPlay), "Leads - Pizza Catering" (OUTCOME_LEADS). Dazu beendet: "Head of Pizza Augsburg Job 2026-08" (OUTCOME_LEADS, Bewerbungen, Spend bis 28.10.). Meta Pixel 1560485141472156. Conversion-Tracking über GTM (GTM-WJVHP67V) und PixelYourSite (CAPI) auf siprego.de und orderu-Shop.
+- Google Ads Konto "Siprego", Kundennummer 312-129-4482. Enthält Catering-Kampagnen UND Pizzeria-Kampagnen (siehe Metricool oben, Stand 05.11.).
+- Keine Schreibrechte für Agenten. Kampagnen, Budgets, Gebote, Keywords ändert nur Damian.
+
+### Fluent Forms (Catering-Anfragen, nur Catering-Agent)
+- Anfragen kommen über Fluent Forms auf siprego.de (Catering-Konfigurator auf /pizza-catering/ und /firmen-catering/). Hidden Fields tragen UTM-Parameter und gclid/fbclid (aus localStorage), damit jede Anfrage einem Kanal zugeordnet werden kann. Die Leads gehen per Zapier an Pipedrive (Pipedrive ist nicht angebunden, nicht versuchen).
+- WEG 1 (Standard, LÄUFT seit 04.11.2026): Fluent Forms schreibt jede Anfrage automatisch in das Google Sheet "Siprego Catering Anfragen", Datei-ID 1z6s2UDDRSPQUwUtAoDPUB1d4fPxxYUjIrQ6QBHUq4OI (https://docs.google.com/spreadsheets/d/1z6s2UDDRSPQUwUtAoDPUB1d4fPxxYUjIrQ6QBHUq4OI/edit), Eigentümer damianrofficial@gmail.com, Tabellenblatt "Anfragen". Der Agent liest es über Google Drive: read_file_content zeigt nur die ersten rund 40 Zeilen, deshalb download_file_content mit exportMimeType text/csv verwenden (geprüft 05.11., liefert alle Zeilen, Ergebnis landet in einer Datei, mit jq .content extrahieren). Spalten in dieser Reihenfolge: Eingangsdatum (JJJJ-MM-TT HH:MM:SS), Formular, Art des Events, Datum des Events, Gäste, Ort, PLZ, Paket, utm_source, utm_medium, utm_campaign, gclid, fbclid, Name, E-Mail, Telefon. Historie: Anfragen seit 07.08.2026 manuell importiert (150 Zeilen bis 02.11.), Neues kommt automatisch dazu (05.11.: 152 Zeilen ohne Test, letzter Eingang 04.11., die Automatik läuft). Testzeile vom 04.11. 01:08 mit Name "TEST Agent" und utm_source "test" ausschließen; generell Zeilen mit "TEST" im Namen oder utm_source "test" nicht zählen. Quellen-Zuordnung: gclid gefüllt oder utm_source "google" = Google; fbclid gefüllt oder utm_source "ig", "fb", "facebook", "instagram" = Meta; alles andere (leer, "chatgpt.com", Platzhalter wie "{{site_source_name}}") = sonstige. Werte "Art des Events": "Hochzeit", "Privat- / Familienfeier", "Firmenevent · Weihnachtsfeier", "Firmenevent · Kundenevent", "Firmenevent · Sommerfest", "Firmenevent · Jubiläum", "Firmenevent · Sonstiges", "Sonstige". Referenz 07.08. bis 02.11.2026 (ohne Test): 150 Anfragen, davon 116 Hochzeit, 20 Privat, 13 Firma; Gäste Median 70, 14 unter 50; Quellen Meta 52, Google 41, sonstige 57; je Monat Eingang Aug 54, Sep 49, Okt 44; letzte 7 Tage bis 02.11.: 8 (Google 3, Meta 2, sonstige 3), letzte 28 Tage: 45 (Meta 20, Google 13, sonstige 12). Eventmonate liegen überwiegend Mai bis September 2027. Region: Ort ist Freitext ohne PLZ, die Zuordnung Augsburg/München/sonst ist nur grob (Stichwortsuche im Ort).
+- WEG 2 (Rückfall): Fluent Forms REST-API auf siprego.de, Route GET /wp-json/fluentform/v1/forms (Formulare) und GET /wp-json/fluentform/v1/submissions?form_id=ID&per_page=50&page=1 (Einträge, neueste zuerst). Geprüft 03.11.2026: Routen existieren, aber der WordPress-Benutzer "social-agent" (Anwendungspasswort im Social-Playbook) bekommt 403. Damian müsste ihm unter Fluent Forms, Globale Einstellungen, Managers die Berechtigung "View Submissions" geben. Nur verwenden, wenn Weg 1 nicht geht und Damian die Berechtigung bestätigt hat.
+- Datenschutz: Namen, Telefonnummern und E-Mail-Adressen aus Anfragen stehen NIE im Postfach, im Log oder in Berichten. Der Agent zählt und bewertet (Anzahl, Gäste, Art, Monat, Region, Quelle), nennt keine Personen.
+
+### Umsatz- und Verkaufsdaten
+- Pizzeria: Wochenumsatz Mi bis So in logs/umsatz.md (vom Manager gepflegt), Mittwoch-Umsätze im Newsletter-Playbook ("Wirkung der Mittwochsmail"). Telefon- und Lieferando-Bestellungen tauchen im Ads-Tracking nicht auf. Google-Analytics-Attribution Website zu orderu-Shop funktioniert erst seit ca. 21.10.2026.
+- Catering: Abschlüsse stehen in Pipedrive (nicht angebunden). Abschlussquote laut Damian rund 15 % der Anfragen (Stand Sept 2026). Damian kann Abschlüsse hier unter "Notizen von Damian" nachtragen.
+
+## Teil A: Pizzeria (Agent "Siprego Ads Pizzeria", Montag)
+
+### Lage (Stand 02.11.2026, Damian; Kampagnennamen 04.11. aus Metricool)
+- Meta Ads 150 €/Tag: Sales-Kampagne "Pizzeria - Sales - Kauf - 2026-10" (ID 120251130156120078, Anzeigengruppe "Lokal 10km - Kauf") 120 €/Tag, Awareness-Kampagne "Pizzeria - Awareness - Lokal - 2026-09" (Reach-Video, ThruPlay, Meta und TikTok) 30 €/Tag. Davor 24.10.: 80 €/Tag (Reach 30, Sales 50); 01.11.: Sales von 100 auf 120 €.
+- Ads laufen nur an Öffnungstagen Mi bis So. Montag und Dienstag sind die Ads aus (Ruhetage). Ein Wochenvergleich heißt deshalb immer Mi bis So gegen Mi bis So der Vorwoche.
+- Basiswert 21. bis 31.10. (Damian): 29 Käufe, 550 € Spend, ROAS 2,73, 18,97 € je Kauf.
+- Erste Metricool-Zahlen Mi 28.10. bis So 01.11. (Abruf 04.11. mit Zeitraum 28.10. bis 02.11., Mo und Di ohne Spend): Sales 398,18 € Spend, 28 Pixel-Käufe, 1.695,80 € Pixel-Umsatz, ROAS 4,26, CPA 14,22 €, Reichweite 28.132. Awareness 176,21 € Spend, Reichweite 65.254, 19.356 ThruPlays, 0,9 Cent je ThruPlay. Lesart: beide Ziele (ROAS über 2, CPA unter 20 €) erfüllt; Spend lag mit rund 80 € je Tag unter dem Budget von 100 bzw. 120 €, Auslieferung prüfen.
+- Google Ads Pizzeria (Metricool 05.11., im Catering-Konto): "Siprego Brand - Augsburg" und "Pizza Bestellen - Augsburg", zusammen 28 Tage bis 04.11. rund 231 € Spend und 29 Conversions. Der Pizzeria-Agent kann sie über Marke 7408163 mitlesen (Connector campaigns, nur diese zwei Namen).
+- Flyer-Welle 1 (Nov 2026) in Stadtbergen und Pfersee mit Codes STADTBERGEN und PFERSEE (Gratis-Arancino ab 20 €, bis 14.12.) läuft parallel, ist kein Ads-Kanal, kann aber Shop-Umsatz heben. Code-Einlösungen aus orderu kann nur Damian liefern.
+
+### Ziele
+- 15.000 € Wochenumsatz (alle Kanäle) bis Ende November 2026. Dafür Meta-Spend schrittweise auf 250 €/Tag skalieren, solange ROAS und CPA halten.
+- Sales-Kampagne: 7-Tage-ROAS über 2,0 und CPA unter 20 € je Kauf. Awareness-Kampagne: Kosten je ThruPlay und Reichweite je Tag, keine Kauf-Ziele.
+- Marketingquote langfristig 5 bis 8 % vom Umsatz (Zielvorstellung 60 bis 80k € Monatsumsatz).
+
+### Regeln für Vorschläge (Damian, aus learnings und Entscheidungen Sept bis Nov 2026)
+- Eine Variable auf einmal ändern. Budget höchstens um 20 % pro Schritt, mindestens eine Woche zwischen zwei Schritten, nie während der Lernphase.
+- Skalieren nur, wenn in den letzten 7 Öffnungstagen ROAS über 2,0 UND CPA unter 20 € UND der Spend tatsächlich beim Tagesbudget ankommt (vorher hing er bei 85 bis 95 € trotz 100 €).
+- Frequenz je Creative über 3 in 7 Tagen: zuerst neue Creatives, dann Budget. Creatives kommen aus dem Social-Agenten (Static-Ads in drei Formaten in der WordPress-Mediathek, Dateiname siprego-ad-..., siehe Social-Design) und aus Damians Reels.
+- Audience Network für Kauf-Ziele nicht ausschließen (lokal, günstig), für Lead-Ziele immer ausschließen.
+- Keine Streichpreise in Ads, Menü-Inhalte und Preise nur aus dem Newsletter-Playbook, nur Produkte, die im Shop aktiv sind.
+- Vorschläge immer mit Zahl und Grund, als Entscheidungsfrage mit Antwort A/B. Höchstens 3 Maßnahmen pro Woche, die wichtigste zuerst.
+
+### Was der Montags-Bericht enthält (Zahlen zuerst)
+1. Sales-Kampagne Mi bis So: Spend, Käufe, Umsatz laut Pixel, ROAS, CPA, Link-Klicks, CTR, Frequenz. Vergleich zur Vorwoche in Prozent.
+2. Awareness-Kampagne: Spend, Reichweite, ThruPlays, Kosten je ThruPlay, Frequenz. TikTok-Anteil, wenn verbunden.
+3. Spend je Tag gegen Tagesbudget (kommt das Budget an?).
+4. Wochenumsatz aus logs/umsatz.md daneben, wenn vorhanden, plus Marketingquote (Spend geteilt durch Umsatz).
+5. Höchstens 3 Maßnahmen mit Grund.
+
+## Teil B: Catering (Agent "Siprego Ads Catering", Donnerstag)
+
+### Lage (Stand Okt 2026; Meta-Kampagne 04.11. aus Metricool; Google-Zahlen 05.11.)
+- Google Ads, zwei Kampagnen: "Pizza Catering Hochzeit - Augsburg - 2026-06" (Hochzeiten, Landingpage siprego.de/pizza-catering/, eine Anzeigengruppe "Pizza Catering Claude Optimiert 2026-06", Ziel-CPA 100 € seit 21.09.2026, Top-Performer-Keywords plus günstige Broad-Keywords, Tagesbudget hier noch nicht eingetragen) und "Firmencatering 2026-07" (Landingpage siprego.de/firmen-catering/, 45 €/Tag, Anzeigengruppe "Firmenfeier & Events - 2026-09", Ziel-CPA 200 € seit 15.09.2026, Pin an Position 2 "Ab 50 Gästen | 60 bis 115 € p.P." als Qualifizierer, B2B-Keywords phrase).
+- Erste Metricool-Zahlen Google (Lauf 05.11., 28 Tage 08.10. bis 04.11.): Hochzeit 1.754,67 € Spend, 801 Klicks, CPC 2,19 €, CTR 8,2 %, 10 Conversions, 175 € je Conversion. Firma 524,99 € Spend, 178 Klicks, 1 Conversion, 525 € je Conversion, Spend nur rund 42 % vom Budget. Woche 29.10. bis 04.11.: Hochzeit 411 €, 3 Conversions, 137 €; Firma 134 €, 0 Conversions. Hauptkeyword der Firma-Kampagne ist "catering firma" (28 Tage 417 € Spend, 1 Conversion); Weihnachtsfeier-Keywords bekommen kaum Klicks (6 in 28 Tagen).
+- Negativ-Keywords auf Kampagnenebene: Wettbewerber, Food Truck, Partyservice, Metzgerei, Lieferservice, fremde Städte, "siprego pizza". Generische Catering-Keywords nur in der Hochzeitskampagne (kein Gegeneinander-Bieten). Widerspruch (05.11.): In der Hochzeitskampagne läuft das Keyword "partyservice pizza" (28 Tage 94 € Spend, 0 Conversions) und "foodtruck hochzeit" (36 €, 0 Conversions), obwohl Partyservice und Food Truck als Negativ gelten. Damian prüfen lassen (Warteschlange).
+- Meta Ads fürs Catering: Kampagne "Leads - Pizza Catering" (OUTCOME_LEADS) im gemeinsamen Konto 301514571034752, Audience Network ausgeschlossen. Tagesbudget der Anzeigengruppe "Siprego Catering 2026-10-26" seit 04.11.2026 00:30 auf 80 € gesenkt (vorher 160 €), Wirkung ab Do 12.11. bewerten. Erste Metricool-Zahlen 28.10. bis 02.11.: 1.069,51 € Spend, 2 Leads laut Meta, 534,76 € je Lead, Reichweite 47.134. Woche 29.10. bis 04.11.: 1.039,61 € Spend, 3 Leads laut Meta (347 €), 2 Anfragen mit Meta-Quelle im Sheet (520 €). 28 Tage bis 04.11.: 4.551,73 € Spend, 21 Leads laut Meta (217 €), 18 Meta-Anfragen im Sheet (253 €). Alles weit über dem Maximum von 100 € je Anfrage.
+- Das Anfrageformular filtert kleine Anfragen heraus, eine Anfrage ist fast immer qualifiziert und mindestens 50 Personen groß. 2026 höhere Preise, dadurch weniger, aber bessere Anfragen als 2025.
+- Zielregionen: Augsburg, München, Bayern, Baden-Württemberg.
+- Saison: Weihnachtsfeiern (Firmen) ab Oktober bis Anfang Dezember, "weihnachtsfeier catering" als Keyword-Thema. Hochzeiten: Anfragewelle Januar bis Mai für Mai bis September. Dezember schwächster Monat insgesamt.
+
+### Ziele
+- Kosten je Anfrage (CPL): Ziel 70 bis 85 €, Maximum 100 €. 150 € gilt als zu teuer. Grenze aus der Rechnung: Abschlussquote 15 %, höchstens 700 € je Abschluss. Gilt für Google und Meta.
+- Möglichst niedrige Leadkosten ohne Verzicht auf Qualifizierung und Auftragsgröße (Preis-Pin bleibt).
+- Anfragen je Woche: Ziel noch nicht festgelegt (Damian trägt ein). Referenz aus dem Sheet: rund 10 bis 12 je Woche im Aug bis Okt 2026, 8 in der letzten Woche bis 02.11., 10 in der Woche 29.10. bis 04.11.
+
+### Regeln für Vorschläge (learnings, Sept 2026)
+- Ziel-CPA höchstens 15 bis 20 % pro Schritt senken oder heben, mindestens eine Woche dazwischen. Häufige CPA-Änderungen setzen die Lernphase zurück. 50 Conversions nötig, bis Ziel-CPA sauber kalibriert ist.
+- Keywords nie in größerer Zahl ohne CPA-Deckel hinzufügen, Erweiterungen staffeln (Sept 2026: 27 neue Keywords ohne Deckel führten zu 300 €/Tag bei 120 € Budget).
+- Google darf bis zum Doppelten des Tagesbudgets ausgeben. Spend über 1,5 mal Budget an mehreren Tagen melden.
+- Schlanke Struktur: wenige Anzeigengruppen, wenige Änderungen, solange die Lernphase läuft.
+- Lead-Qualität vor Volumen: Vorschläge, die den Preis-Pin oder die Formular-Filter aufweichen, nicht machen.
+- Vorschläge mit Zahl und Grund, als Frage mit Antwort A/B, höchstens 3 pro Woche.
+
+### Was der Donnerstags-Bericht enthält (Zahlen zuerst, Zeitraum letzte 7 abgeschlossene Tage gegen die 7 davor, dazu 28 Tage)
+1. Je Google-Kampagne: Spend, Klicks, CPC, Conversions (Google-Zählung), CPL, Impressionen, CTR, Spend gegen Tagesbudget. Dazu die 5 teuersten Keywords ohne Conversion und die 5 besten Keywords nach CPL (Connector keyworks).
+2. Meta-Catering-Kampagne: Spend, Leads, CPL, Reichweite, Frequenz.
+3. Fluent-Forms-Anfragen aus dem Sheet: Anzahl in 7 und 28 Tagen, davon Google, Meta, sonstige (Zuordnung siehe Datenquellen); Art (Hochzeit, Firma, privat), Gästezahl (Median), Eventmonat, Region. Echter CPL = Spend je Kanal geteilt durch Anfragen aus diesem Kanal. Weicht die Google- oder Meta-Zählung von den Sheet-Anfragen ab, beides nennen.
+4. Höchstens 3 Maßnahmen mit Grund.
+
+## Berichtsformat (beide Agenten, Regeln von Damian 25.10., 27.10. und 03.11.2026)
+- Eintrag im Manager-Postfach, Zahlen zuerst, kurz. Pro Lauf nur die dringendste Frage unter "Frage an Damian:" (eine Zeile, mit Frist und Antwort A/B), die übrigen Maßnahmen als Warteschlange unter "Bericht:". Der Manager stellt die Fragen einzeln.
+- Keine Gedankenstriche. Per Du. Nichts erfinden: Jede Zahl kommt aus Metricool, dem Sheet, umsatz.md oder diesem Playbook. Fehlt eine Zahl, steht "fehlt" und der Grund.
+- Jede Maßnahme hat: Was (eine Zeile), Warum (Zahl), Risiko (eine Zeile), Wann prüfen (Datum).
+- Status des Eintrags: OK, VORSCHLAG (mindestens eine Maßnahme), WARNUNG (Ziel klar verfehlt oder Spend außer Kontrolle), FEHLER (Daten nicht erreichbar).
+
+## Notizen von Damian an die Agenten
+- 03.11.2026: Ads-Agenten für Pizzeria und Catering bauen, Google Ads und Meta Ads prüfen, Maßnahmen vorschlagen. Beim Catering die Fluent-Forms-Anfragen einbeziehen.
+- 03.11.2026: Fluent-Forms-Einträge (Anfragen) können automatisch in ein Google Sheet geschrieben werden (Fluent Forms, Integration Google Sheets). Das ist Weg 1 für den Catering-Agenten.
+- 03.11.2026: Ads-Daten kommen über Metricool, Damian verbindet die Ads-Konten dort selbst (Entscheidung im Chat, kein zusätzlicher Connector).
+- 04.11.2026 00:07: "ad accounts sind verbunden." (Meta bei beiden Marken bestätigt, Google Ads lädt noch.)
+- 04.11.2026 00:11: Sheets-Integration läuft, manueller Import der letzten 90 Tage erfolgreich, Sheet-Link übergeben (siehe Datenquellen, Fluent Forms).
+
+## Warteschlange offener Fragen (eine pro Bericht, nach Dringlichkeit)
+1. Erledigt 05.11.: Google Ads liefert in Metricool Daten (Punkt war: Historie bis Do 05.11. geladen).
+2. Google Ads läuft auch für die Pizzeria (Kampagnen "Siprego Brand - Augsburg" und "Pizza Bestellen - Augsburg" im Konto 312-129-4482, seit 05.11. bekannt). Offen: Google Ads auch mit der Marke siprego.pizza (7383922) verbinden, damit der Pizzeria-Agent sie unter seiner Marke liest.
+3. Tagesbudget der Google-Kampagne "Pizza Catering Hochzeit - Augsburg - 2026-06" (Zahl), damit Spend gegen Budget geprüft werden kann.
+4. Keywords "partyservice pizza" und "foodtruck hochzeit" in der Hochzeitskampagne prüfen: laufen entgegen der Negativ-Liste (Partyservice, Food Truck), 28 Tage zusammen 130 € ohne Conversion.
+5. Ziel für Catering-Anfragen je Woche (Zahl) und Abschlüsse Okt 2026 aus Pipedrive (Anzahl, Summe), damit der CPL gegen echte Aufträge gerechnet werden kann.
+6. Retargeting-Anzeigengruppe Meta mit Static Ads (aus dem manuellen Lauf 04.11.).
+7. Nebenbei: Code-Einlösungen STADTBERGEN und PFERSEE wöchentlich aus orderu, damit Flyer und Ads getrennt bewertet werden.

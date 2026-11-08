@@ -1,0 +1,199 @@
+{
+  "siprego-ads-catering.meta.json": {
+    "id": "trig_01FgZ243iqtR7rJdPfYdjpie",
+    "name": "Siprego Ads Catering",
+    "cron": "CRON_TZ=Europe/Berlin 40 8 * * 4",
+    "model": "claude-fable-5-1",
+    "permission_mode": "auto",
+    "connectors": [
+      "Canva",
+      "Framer",
+      "Claude_Docs",
+      "Google_Drive",
+      "Notion",
+      "Claude_Code_Remote",
+      "Brevo",
+      "Metricool_Social_Media_Management",
+      "Simplybook_MCP"
+    ],
+    "last_run": {
+      "status": "ROUTINE_RUN_STATUS_SUCCEEDED",
+      "fired_at": "2026-11-05T07:41:18.342056Z",
+      "finished_at": "2026-11-05T07:47:43.613145Z",
+      "session_id": "cse_0147tbo6uK1t9hDTiHUeYWmh",
+      "failure_reason": "ROUTINE_RUN_FAILURE_REASON_UNSPECIFIED"
+    },
+    "next_run_at": "2026-11-12T07:40:00Z"
+  },
+  "siprego-ads-pizzeria.meta.json": {
+    "id": "trig_01JpdtS8eYrEuyh7f23LHZoK",
+    "name": "Siprego Ads Pizzeria",
+    "cron": "CRON_TZ=Europe/Berlin 39 8 * * 1",
+    "model": "claude-fable-5-1",
+    "permission_mode": "auto",
+    "connectors": [
+      "Canva",
+      "Framer",
+      "Claude_Docs",
+      "Google_Drive",
+      "Notion",
+      "Claude_Code_Remote",
+      "Brevo",
+      "Metricool_Social_Media_Management",
+      "Simplybook_MCP"
+    ],
+    "last_run": null,
+    "next_run_at": "2026-11-09T07:39:00Z"
+  },
+  "siprego-manager-bericht.meta.json": {
+    "id": "trig_018h494JszYi28DnSPq4HKX6",
+    "name": "Siprego Manager Bericht",
+    "cron": "CRON_TZ=Europe/Berlin 45 9 * * 1-6",
+    "model": "claude-fable-5-1",
+    "permission_mode": "auto",
+    "connectors": [
+      "Canva",
+      "Framer",
+      "Claude_Docs",
+      "Google_Drive",
+      "Notion",
+      "Claude_Code_Remote",
+      "Brevo",
+      "Metricool_Social_Media_Management",
+      "Simplybook_MCP"
+    ],
+    "last_run": {
+      "status": "ROUTINE_RUN_STATUS_SUCCEEDED",
+      "fired_at": "2026-11-07T08:46:06.491930Z",
+      "finished_at": "2026-11-07T08:47:28.724746Z",
+      "session_id": "cse_0147tbo6XwNxJEdZeBqhD6c1",
+      "failure_reason": "ROUTINE_RUN_FAILURE_REASON_UNSPECIFIED"
+    },
+    "next_run_at": "2026-11-09T08:45:00Z"
+  },
+  "siprego-manager-fragen.meta.json": {
+    "id": "trig_012EDhR6jJSsgs2RhYrXMb6f",
+    "name": "Siprego Manager Fragen",
+    "cron": "CRON_TZ=Europe/Berlin 15 10 * * 1-6",
+    "model": "claude-fable-5-1",
+    "permission_mode": "auto",
+    "connectors": [
+      "Canva",
+      "Framer",
+      "Claude_Docs",
+      "Google_Drive",
+      "Notion",
+      "Claude_Code_Remote",
+      "Brevo",
+      "Metricool_Social_Media_Management",
+      "Simplybook_MCP"
+    ],
+    "last_run": {
+      "status": "ROUTINE_RUN_STATUS_SUCCEEDED",
+      "fired_at": "2026-11-07T09:16:00.672667Z",
+      "finished_at": "2026-11-07T09:16:45.947882Z",
+      "session_id": "cse_0147tbo3bMRjrr15HQeLzJYz",
+      "failure_reason": "ROUTINE_RUN_FAILURE_REASON_UNSPECIFIED"
+    },
+    "next_run_at": "2026-11-09T09:15:00Z"
+  },
+  "siprego-newsletter-hauptmail.meta.json": {
+    "id": "trig_01MYMNNDuU9HntmcyhRaVtBj",
+    "name": "Siprego Newsletter Hauptmail",
+    "cron": "CRON_TZ=Europe/Berlin 48 8 * * 2",
+    "model": "claude-fable-5-1",
+    "permission_mode": "auto",
+    "connectors": [
+      "Canva",
+      "Claude_Docs",
+      "Google_Drive",
+      "Notion",
+      "Claude_Code_Remote",
+      "Brevo",
+      "Simplybook_MCP"
+    ],
+    "last_run": {
+      "status": "ROUTINE_RUN_STATUS_SUCCEEDED",
+      "fired_at": "2026-11-03T07:49:15.607695Z",
+      "finished_at": "2026-11-03T07:57:57.430932Z",
+      "session_id": "cse_0147tbo5EAmrXwW6vwrYT6SU",
+      "failure_reason": "ROUTINE_RUN_FAILURE_REASON_UNSPECIFIED"
+    },
+    "next_run_at": "2026-11-10T07:48:00Z"
+  },
+  "siprego-newsletter-zweitmail.meta.json": {
+    "id": "trig_014aL88F7xAtG5wjJLpdyPf4",
+    "name": "Siprego Newsletter Zweitmail",
+    "cron": "CRON_TZ=Europe/Berlin 48 8 * * 6",
+    "model": "claude-fable-5-1",
+    "permission_mode": "auto",
+    "connectors": [
+      "Canva",
+      "Claude_Docs",
+      "Google_Drive",
+      "Notion",
+      "Claude_Code_Remote",
+      "Brevo",
+      "Simplybook_MCP"
+    ],
+    "last_run": {
+      "status": "ROUTINE_RUN_STATUS_SUCCEEDED",
+      "fired_at": "2026-11-07T07:48:28.279087Z",
+      "finished_at": "2026-11-07T07:50:37.142725Z",
+      "session_id": "cse_0147tbo6M9VVYFkRswzsYTjc",
+      "failure_reason": "ROUTINE_RUN_FAILURE_REASON_UNSPECIFIED"
+    },
+    "next_run_at": "2026-11-14T07:48:00Z"
+  },
+  "siprego-rueckfrage-check-newsletter-social.meta.json": {
+    "id": "trig_01V9UrU1xPpRXG3YM2FDNuPh",
+    "name": "Siprego Rückfrage-Check (Newsletter + Social)",
+    "cron": "CRON_TZ=Europe/Berlin 27 9 * * 2",
+    "model": "claude-fable-5-1",
+    "permission_mode": "auto",
+    "connectors": [
+      "Canva",
+      "Framer",
+      "Claude_Docs",
+      "Google_Drive",
+      "Notion",
+      "Claude_Code_Remote",
+      "Brevo",
+      "Metricool_Social_Media_Management",
+      "Simplybook_MCP"
+    ],
+    "last_run": {
+      "status": "ROUTINE_RUN_STATUS_SUCCEEDED",
+      "fired_at": "2026-10-29T07:33:42.589125Z",
+      "finished_at": "2026-10-29T07:34:24.531404Z",
+      "session_id": "cse_0147tbo6pJP2guQuJdn2JB7h",
+      "failure_reason": "ROUTINE_RUN_FAILURE_REASON_UNSPECIFIED"
+    },
+    "next_run_at": "2026-11-10T08:27:00Z"
+  },
+  "siprego-social-wochenplan.meta.json": {
+    "id": "trig_011Qan9TUTTfL7kdvtThRQdX",
+    "name": "Siprego Social Wochenplan",
+    "cron": "CRON_TZ=Europe/Berlin 51 8 * * 1",
+    "model": "claude-opus-5-5",
+    "permission_mode": "auto",
+    "connectors": [
+      "Canva",
+      "Claude_Docs",
+      "Google_Drive",
+      "Notion",
+      "Claude_Code_Remote",
+      "Brevo",
+      "Metricool_Social_Media_Management",
+      "Simplybook_MCP"
+    ],
+    "last_run": {
+      "status": "ROUTINE_RUN_STATUS_SUCCEEDED",
+      "fired_at": "2026-11-02T07:58:48.588927Z",
+      "finished_at": "2026-11-02T08:08:23.453579Z",
+      "session_id": "cse_0147tbo3snQX2Agv4E9sA8JW",
+      "failure_reason": "ROUTINE_RUN_FAILURE_REASON_UNSPECIFIED"
+    },
+    "next_run_at": "2026-11-09T07:51:00Z"
+  }
+}

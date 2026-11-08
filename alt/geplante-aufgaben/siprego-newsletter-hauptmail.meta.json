@@ -1,0 +1,24 @@
+{
+  "id": "trig_01MYMNNDuU9HntmcyhRaVtBj",
+  "name": "Siprego Newsletter Hauptmail",
+  "cron": "CRON_TZ=Europe/Berlin 48 8 * * 2",
+  "model": "claude-fable-5-1",
+  "permission_mode": "auto",
+  "connectors": [
+    "Canva",
+    "Claude_Docs",
+    "Google_Drive",
+    "Notion",
+    "Claude_Code_Remote",
+    "Brevo",
+    "Simplybook_MCP"
+  ],
+  "last_run": {
+    "status": "ROUTINE_RUN_STATUS_SUCCEEDED",
+    "fired_at": "2026-11-03T07:49:15.607695Z",
+    "finished_at": "2026-11-03T07:57:57.430932Z",
+    "session_id": "cse_0147tbo5EAmrXwW6vwrYT6SU",
+    "failure_reason": "ROUTINE_RUN_FAILURE_REASON_UNSPECIFIED"
+  },
+  "next_run_at": "2026-11-10T07:48:00Z"
+}

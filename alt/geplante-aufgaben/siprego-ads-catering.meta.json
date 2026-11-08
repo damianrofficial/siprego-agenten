@@ -1,0 +1,26 @@
+{
+  "id": "trig_01FgZ243iqtR7rJdPfYdjpie",
+  "name": "Siprego Ads Catering",
+  "cron": "CRON_TZ=Europe/Berlin 40 8 * * 4",
+  "model": "claude-fable-5-1",
+  "permission_mode": "auto",
+  "connectors": [
+    "Canva",
+    "Framer",
+    "Claude_Docs",
+    "Google_Drive",
+    "Notion",
+    "Claude_Code_Remote",
+    "Brevo",
+    "Metricool_Social_Media_Management",
+    "Simplybook_MCP"
+  ],
+  "last_run": {
+    "status": "ROUTINE_RUN_STATUS_SUCCEEDED",
+    "fired_at": "2026-11-05T07:41:18.342056Z",
+    "finished_at": "2026-11-05T07:47:43.613145Z",
+    "session_id": "cse_0147tbo6uK1t9hDTiHUeYWmh",
+    "failure_reason": "ROUTINE_RUN_FAILURE_REASON_UNSPECIFIED"
+  },
+  "next_run_at": "2026-11-12T07:40:00Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "trig_018h494JszYi28DnSPq4HKX6",
+  "name": "Siprego Manager Bericht",
+  "cron": "CRON_TZ=Europe/Berlin 45 9 * * 1-6",
+  "model": "claude-fable-5-1",
+  "permission_mode": "auto",
+  "connectors": [
+    "Canva",
+    "Framer",
+    "Claude_Docs",
+    "Google_Drive",
+    "Notion",
+    "Claude_Code_Remote",
+    "Brevo",
+    "Metricool_Social_Media_Management",
+    "Simplybook_MCP"
+  ],
+  "last_run": {
+    "status": "ROUTINE_RUN_STATUS_SUCCEEDED",
+    "fired_at": "2026-11-07T08:46:06.491930Z",
+    "finished_at": "2026-11-07T08:47:28.724746Z",
+    "session_id": "cse_0147tbo6XwNxJEdZeBqhD6c1",
+    "failure_reason": "ROUTINE_RUN_FAILURE_REASON_UNSPECIFIED"
+  },
+  "next_run_at": "2026-11-09T08:45:00Z"
+}

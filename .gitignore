@@ -1,0 +1,10 @@
+.env
+*.env
+!.env.example
+NICHT-INS-REPO_*
+fonts/
+scratch/
+__pycache__/
+*.mp4
+*.mov
+*.heic

@@ -1,0 +1,26 @@
+{
+  "id": "trig_012EDhR6jJSsgs2RhYrXMb6f",
+  "name": "Siprego Manager Fragen",
+  "cron": "CRON_TZ=Europe/Berlin 15 10 * * 1-6",
+  "model": "claude-fable-5-1",
+  "permission_mode": "auto",
+  "connectors": [
+    "Canva",
+    "Framer",
+    "Claude_Docs",
+    "Google_Drive",
+    "Notion",
+    "Claude_Code_Remote",
+    "Brevo",
+    "Metricool_Social_Media_Management",
+    "Simplybook_MCP"
+  ],
+  "last_run": {
+    "status": "ROUTINE_RUN_STATUS_SUCCEEDED",
+    "fired_at": "2026-11-07T09:16:00.672667Z",
+    "finished_at": "2026-11-07T09:16:45.947882Z",
+    "session_id": "cse_0147tbo3bMRjrr15HQeLzJYz",
+    "failure_reason": "ROUTINE_RUN_FAILURE_REASON_UNSPECIFIED"
+  },
+  "next_run_at": "2026-11-09T09:15:00Z"
+}

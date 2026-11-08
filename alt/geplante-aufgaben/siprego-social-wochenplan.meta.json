@@ -1,0 +1,25 @@
+{
+  "id": "trig_011Qan9TUTTfL7kdvtThRQdX",
+  "name": "Siprego Social Wochenplan",
+  "cron": "CRON_TZ=Europe/Berlin 51 8 * * 1",
+  "model": "claude-opus-5-5",
+  "permission_mode": "auto",
+  "connectors": [
+    "Canva",
+    "Claude_Docs",
+    "Google_Drive",
+    "Notion",
+    "Claude_Code_Remote",
+    "Brevo",
+    "Metricool_Social_Media_Management",
+    "Simplybook_MCP"
+  ],
+  "last_run": {
+    "status": "ROUTINE_RUN_STATUS_SUCCEEDED",
+    "fired_at": "2026-11-02T07:58:48.588927Z",
+    "finished_at": "2026-11-02T08:08:23.453579Z",
+    "session_id": "cse_0147tbo3snQX2Agv4E9sA8JW",
+    "failure_reason": "ROUTINE_RUN_FAILURE_REASON_UNSPECIFIED"
+  },
+  "next_run_at": "2026-11-09T07:51:00Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "trig_01JpdtS8eYrEuyh7f23LHZoK",
+  "name": "Siprego Ads Pizzeria",
+  "cron": "CRON_TZ=Europe/Berlin 39 8 * * 1",
+  "model": "claude-fable-5-1",
+  "permission_mode": "auto",
+  "connectors": [
+    "Canva",
+    "Framer",
+    "Claude_Docs",
+    "Google_Drive",
+    "Notion",
+    "Claude_Code_Remote",
+    "Brevo",
+    "Metricool_Social_Media_Management",
+    "Simplybook_MCP"
+  ],
+  "last_run": null,
+  "next_run_at": "2026-11-09T07:39:00Z"
+}
