@@ -6,6 +6,8 @@ Umsatzdaten der Pizzeria (Hessenbachstr. 1) für die Wochen-Prognose im Montagsb
 - Pizzeria-Umsatz für Prognose und Marketingquote = Bar + Unbar (Brutto). Umsatz "Auf Rechnung" wird getrennt geführt (meist Catering- oder Firmenaufträge über dieselbe Kasse); ob er mitzählt, entscheidet Damian (offen, Stand 04.11.2026).
 - Wochensumme Mi bis So = Summe der Z-Berichte, deren Abschluss zwischen Mittwoch 00:00 und Montag 06:00 liegt (der Sonntagsabschluss kann nach Mitternacht erfolgen).
 - Prognose immer als Spanne mit Gründen, Basis = Durchschnitt der letzten 4 bis 8 Wochen ohne Feiertag oder Sperrtermin.
+- Schulferien Bayern (Damian, 08.11.2026: "Ferien ist der Umsatz schwächer als sonst"): Ferienwochen in der Spalte Faktoren kennzeichnen und im Prognose-Schnitt getrennt führen. Fällt die Prognosewoche in Ferien, Spanne nach unten setzen und Ferien als ersten Grund nennen. Wie viel schwächer, ist noch offen (Frage an Damian 08.11.), bis dahin aus den eigenen Wochen ableiten.
+- Ferientermine Bayern (WebSearch 08.11.2026, Quellen uneinheitlich, vor Gebrauch am km.bayern.de prüfen): Herbstferien Mo 02.11. bis Fr 06.11.2026 (sicher). Weihnachtsferien ab Do 24.12.2026, Ende 05.01. oder 08.01.2027 je nach Quelle. Frühjahrsferien Februar 2027, 08.02. bis 12.02. oder 15.02. bis 19.02. je nach Quelle. Buß- und Bettag Mi 18.11.2026 (schulfrei in Bayern, kein Feiertag für Betriebe).
 
 ## Z-Berichte (eine Zeile je Kassenabschluss)
 
@@ -32,4 +34,4 @@ Werden ersetzt bzw. ergänzt, sobald die Z-Berichte vorliegen.
 
 | KW | Mi bis So | Umsatz € (Bar + Unbar) | davon Rechnung € | Prognose € | Faktoren | Notiz |
 | --- | --- | --- | --- | --- | --- | --- |
-| KW45 | Mi 04.11. bis So 08.11.2026 | 9.150 (Tageswerte laut Damian, gerundet, kein Z-Bericht) | fehlt (keine Z-Berichte) | keine | Hauptmail 111 Mittagsmenü (neu ab 29.10.) | Mi 1.100, Do 2.000, Fr 2.070, Sa 1.380, So 2.600 |
+| KW45 | Mi 04.11. bis So 08.11.2026 | 9.150 (Tageswerte laut Damian, gerundet, kein Z-Bericht) | fehlt (keine Z-Berichte) | keine | HERBSTFERIEN Bayern Mi bis Fr (02.11. bis 06.11.); Hauptmail 111 Mittagsmenü (neu ab 29.10.) | Mi 1.100, Do 2.000, Fr 2.070, Sa 1.380, So 2.600 |

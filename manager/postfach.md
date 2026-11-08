@@ -3,6 +3,7 @@
 Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmail und Zweitmail, Rückfrage-Check, Ads Pizzeria, Ads Catering). Die Agenten hängen ihre Berichte und Fragen unter "## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
+- [gestellt am 08.11. 23:10] Manager | Wie viel schwächer ist der Umsatz in Schulferien, ungefähr in Prozent? | Frist Mo 09.11. 20:00 | Antworten: A rund 10 % ... B rund 20 % oder mehr ... C weiß nicht, aus den Wochen ableiten | Quelle: Chat 08.11.
 - [gestellt am 08.11. 19:35] Ads Pizzeria | Ziel-Link und URL-Parameter der Anzeige "Shop 10 % günstiger - Static 2026-11-07" (120251441634880078) für v2 Mortabella und v3 Salami | Frist Di 10.11. 20:00 | Antworten: A Link nennen, B Shop-Link mit eigenen UTM | Quelle: logs/ads-log.md 2026-11-08 19:20
 
 ## Entscheidungen von Damian
