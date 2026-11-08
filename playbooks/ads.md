@@ -45,7 +45,7 @@ Stand: 05.11.2026 08:50 (Google Ads liefert in Metricool seit 05.11. Daten; erst
 ### Ziele
 - 15.000 € Wochenumsatz (alle Kanäle) bis Ende November 2026. Dafür Meta-Spend schrittweise auf 250 €/Tag skalieren, solange ROAS und CPA halten.
 - Sales-Kampagne: 7-Tage-ROAS über 2,0 und CPA unter 20 € je Kauf. Awareness-Kampagne: Kosten je ThruPlay und Reichweite je Tag, keine Kauf-Ziele.
-- Marketingquote langfristig 5 bis 8 % vom Umsatz (Zielvorstellung 60 bis 80k € Monatsumsatz).
+- Marketingquote langfristig 5 bis 8 % vom Umsatz. Umsatzziel Pizzeria (Damian, 08.11.2026): 65.000 € im Monat, das sind rund 15.000 € je Woche Mi bis So bzw. 3.000 € je Öffnungstag. Bei 65.000 € entsprechen 5 bis 8 % einem Werbebudget von 3.250 bis 5.200 € im Monat, also 108 bis 173 € am Tag für die Pizzeria gesamt (Meta und Google).
 
 ### Regeln für Vorschläge (Damian, aus learnings und Entscheidungen Sept bis Nov 2026)
 - Eine Variable auf einmal ändern. Budget höchstens um 20 % pro Schritt, mindestens eine Woche zwischen zwei Schritten, nie während der Lernphase.

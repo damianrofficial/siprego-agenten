@@ -9,6 +9,9 @@ Umsatzdaten der Pizzeria (Hessenbachstr. 1) für die Wochen-Prognose im Montagsb
 - Schulferien Bayern (Damian, 08.11.2026: "Ferien ist der Umsatz schwächer als sonst"): Ferienwochen in der Spalte Faktoren kennzeichnen und im Prognose-Schnitt getrennt führen. Fällt die Prognosewoche in Ferien, Spanne nach unten setzen und Ferien als ersten Grund nennen. Wie viel schwächer, ist noch offen (Frage an Damian 08.11.), bis dahin aus den eigenen Wochen ableiten.
 - Ferientermine Bayern (WebSearch 08.11.2026, Quellen uneinheitlich, vor Gebrauch am km.bayern.de prüfen): Herbstferien Mo 02.11. bis Fr 06.11.2026 (sicher). Weihnachtsferien ab Do 24.12.2026, Ende 05.01. oder 08.01.2027 je nach Quelle. Frühjahrsferien Februar 2027, 08.02. bis 12.02. oder 15.02. bis 19.02. je nach Quelle. Buß- und Bettag Mi 18.11.2026 (schulfrei in Bayern, kein Feiertag für Betriebe).
 
+## Ziel
+- Monatsumsatz Pizzeria 65.000 € (Damian, 08.11.2026). Umgerechnet rund 15.000 € je Woche Mi bis So (65.000 x 12 / 52) und 3.000 € je Öffnungstag. Der Montagsbericht nennt die Vorwoche immer als Ist gegen dieses Soll in Prozent. Stand KW45: 9.150 € = 61 % (Ferienwoche).
+
 ## Z-Berichte (eine Zeile je Kassenabschluss)
 
 | Nr. | Zeitraum von | Zeitraum bis | Brutto € | Netto € | Bar € | Unbar € | Rechnung € | Bestellungen | Online | Rabatte € | Storno € | Quelle |

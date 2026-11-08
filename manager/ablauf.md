@@ -44,7 +44,7 @@ Jede "Frage an Damian:" und jede "Freigabe nötig:" aus den neuen Eingängen wir
 
 ## Schritt 4 (nur montags): Wochenausblick und Schichtplan
 
-Wie im Original "Siprego Manager Bericht", Schritt 5: Basis aus `logs/umsatz.md` (Schnitt der letzten 4 bis 8 Wochen ohne Feiertag oder Sperrtermin; ohne Daten nur Prozent), Faktoren per WebSearch (Feiertage und Schulferien Bayern, Wetter Augsburg Mi bis So, Veranstaltungen Augsburg), Aktionen aus Playbooks. Ergebnis als Spanne mit den zwei wichtigsten Gründen und den stärksten und schwächsten Tagen. Zeile in `logs/umsatz.md` eintragen, Vorwoche Prognose gegen Ist vergleichen.
+Wie im Original "Siprego Manager Bericht", Schritt 5: Basis aus `logs/umsatz.md` (Schnitt der letzten 4 bis 8 Wochen ohne Feiertag oder Sperrtermin; ohne Daten nur Prozent), Faktoren per WebSearch (Feiertage und Schulferien Bayern, Wetter Augsburg Mi bis So, Veranstaltungen Augsburg), Aktionen aus Playbooks. Ergebnis als Spanne mit den zwei wichtigsten Gründen und den stärksten und schwächsten Tagen. Dazu eine Zeile Soll gegen Ist: Vorwoche in Prozent vom Wochenziel 15.000 € (Monatsziel 65.000 €, logs/umsatz.md Abschnitt Ziel). Zeile in `logs/umsatz.md` eintragen, Vorwoche Prognose gegen Ist vergleichen.
 
 ## Schritt 5: Bericht an Damian (eine Nachricht)
 
