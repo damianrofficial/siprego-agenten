@@ -49,6 +49,21 @@ Läuft weiter in der Cloud, nicht auf dem Kassen-PC: Die Cloud läuft, auch wenn
 3. Connectoren der neuen Aufgabe: Brevo, Metricool, Google Drive. Nicht nötig: Canva, Framer, Notion, Simplybook, Claude Docs.
 4. Prüfen, ob die Unteragenten die Connector-Tools sehen (in einer Testsitzung `ads` im Modus PIZZERIA mit "nur Metricool-Abruf testen" aufrufen).
 
+### Stand Phase 1 (So 08.11.2026, erledigt in Claude Code)
+
+Ursache Manager (beide Sitzungen vom 07.11. gelesen): In geplanten Läufen gab es kein Projects-Tool (project_read). Der Bericht-Lauf hat deshalb nur Brevo und Metricool abgefragt, der Fragen-Lauf hat sofort abgebrochen. Postfach, Playbooks und umsatz.md waren in keinem Manager-Lauf lesbar. Mit dem Repo ist das behoben: alle Dateien liegen auf der Platte.
+
+1. Repo: github.com/damianrofficial/siprego-agenten, privat, Branch main, erster Commit gepusht. Geprüft: keiner der beiden Geheimwerte (auch nicht ohne Leerzeichen oder als Anfang) steht in einer Datei. fonts/ und NICHT-INS-REPO_* sind in .gitignore.
+2. Umgebung: neue persönliche Cloud-Umgebung "siprego-agenten" (env_01BkwinaEhnV8vFuMUxTmmpA). Die Default-Umgebung der alten Aufgaben sperrte siprego.de, Shop, ElevenLabs, static.metricool.com und docs.google.com (getestet), deshalb eigene Umgebung.
+   - Netzwerk: die 7 Hosts aus Punkt 2 freigegeben, Paketquellen und MCP-Server erlaubt. Alle 7 antworten. GitHub-Release-Downloads (rembg-Modell) gehen ohne Freigabe.
+   - Setup-Skript gespeichert und hier einmal komplett durchgelaufen: ffmpeg, pip, pillow, pillow-heif, playwright 1.63.0 (passt zum vorinstallierten Chromium, sonst playwright install chromium), rembg mit onnxruntime, Schriften fonts/Lacquer-Regular.ttf, fonts/Bricolage.ttf, fonts/Figtree.ttf (Dateinamen wie in scripts/). Chromium-Start und Bricolage mit Achsen getestet. In einer frischen Sitzung noch unbewiesen.
+   - Geheimnisse als Netzwerk-Geheimnis statt Umgebungsvariable (der Proxy setzt sie ein, kein Wert in der Sitzung). Folge für Playbooks: $WP_APP_PASSWORD und $ELEVENLABS_API_KEY sind leer; curl mit Platzhalter aufrufen, z. B. -u "social-agent:proxy-injected" und -H "xi-api-key: proxy-injected", der Proxy ersetzt den Header. Playbooks dafür in Phase 2 anpassen.
+   - siprego.de: Geheimnis gespeichert, aber Test GET /wp-json/wp/v2/media?context=edit liefert 401 (nicht angemeldet). OFFEN: in den Umgebungseinstellungen unter Netzwerk-Geheimnisse prüfen, Typ Basic, Benutzer social-agent, Passwort = WP_APP_PASSWORD mit Leerzeichen. /wp/v2/users/me blockt der Hoster immer mit 403, das ist kein Test.
+   - api.elevenlabs.io: OFFEN, Geheimnis nicht eingetragen (abgelehnt). Header xi-api-key, ohne Präfix.
+3. Connectoren: werden beim Anlegen der geplanten Aufgabe in Phase 2 gesetzt: Brevo, Metricool_Social_Media_Management, Google_Drive. Hinweis: In dieser Claude-Code-Sitzung ist Brevo nicht verbunden (die alten Aufgaben haben ihn). Vor Phase 2 in claude.ai unter Connectoren prüfen.
+4. Unteragenten-Test: Unteragent (Modell fable wie ads) hat die Metricool-Tools geladen und nur gelesen. Marken 7383922 und 7408163 sichtbar, Meta-Werbekonto 301514571034752 an beiden Marken, Google Ads 3121294482 an siprego.catering. Meta-Kampagnen 04.11. bis 08.11.: 3 rows, Spend 841,75 €. Google Drive sichtbar, Brevo nicht (siehe 3). Die Dateien in .claude/agents/ haben keine tools-Einschränkung, Unteragenten erben also alle Connectoren der Hauptsitzung. Der Aufruf über den Agent-Namen (ads, social ...) wird erst in einer Sitzung mit geklontem Repo getestet.
+   - Achtung Ads: Die Catering-Kampagne "Leads - Pizza Catering" erscheint auch unter Marke 7383922 (gleiches Konto). Der Ads-Agent im Modus PIZZERIA muss sie herausfiltern.
+
 ## 5. Phase 2: Probelauf parallel zum alten Aufbau
 
 1. Neue geplante Aufgabe "Siprego Manager", Repo `siprego-agenten`, Prompt: "Lies CLAUDE.md und manager/ablauf.md und führe den heutigen Lauf aus. PROBELAUF=1." Zeitplan zunächst einmalig per "Jetzt ausführen" an einem Montag und einem Dienstag (dann laufen social, ads, newsletter, check).
