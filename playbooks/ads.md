@@ -102,6 +102,7 @@ Stand: 05.11.2026 08:50 (Google Ads liefert in Metricool seit 05.11. Daten; erst
 - 03.11.2026: Fluent-Forms-Einträge (Anfragen) können automatisch in ein Google Sheet geschrieben werden (Fluent Forms, Integration Google Sheets). Das ist Weg 1 für den Catering-Agenten.
 - 03.11.2026: Ads-Daten kommen über Metricool, Damian verbindet die Ads-Konten dort selbst (Entscheidung im Chat, kein zusätzlicher Connector).
 - 04.11.2026 00:07: "ad accounts sind verbunden." (Meta bei beiden Marken bestätigt, Google Ads lädt noch.)
+- (über Manager, 08.11.) "teveo v2 und v3 pausieren." Meta-Anzeigen "Catering Teveo v2 - Alle Gäste Reden" und "Catering Teveo v3 - Catering gesucht 2027/28" in "Leads - Pizza Catering", Damian pausiert selbst. Zählt als letzte Änderung Catering Meta am 08.11. (7-Tage-Regel bis 15.11.).
 - 04.11.2026 00:11: Sheets-Integration läuft, manueller Import der letzten 90 Tage erfolgreich, Sheet-Link übergeben (siehe Datenquellen, Fluent Forms).
 
 ## Warteschlange offener Fragen (eine pro Bericht, nach Dringlichkeit)

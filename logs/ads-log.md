@@ -16,7 +16,7 @@ Hier protokollieren der Pizzeria-Ads-Agent (Montag) und der Catering-Ads-Agent (
 | Sept 2026 (Monat) | fehlt | fehlt | fehlt | 5.089 | 18 | 49 | 18 | 19 | | |
 | Okt 2026 (Monat) | fehlt | fehlt | fehlt | 5.271 | 22 | 44 | 12 | 21 | | |
 | 28.10. bis 02.11. | fehlt (Metricool lädt) | fehlt | fehlt | 1.070 | 2 | 8 | 3 | 2 | Meta-Budget 160 auf 80 €/Tag | ja, umgesetzt 04.11. 00:30 |
-| 29.10. bis 04.11. | 545 (Hochzeit 411, Firma 134) | 3 (Hochzeit 3, Firma 0) | 182 (Hochzeit 137, Firma fehlt, 0 Conv.) | 1.040 | 3 | 10 | 3 | 2 | Meta-Anzeigen Teveo v2 und v3 pausieren; Google-Keyword "italienisches catering" pausieren; Google-Keyword "catering firma" pausieren | |
+| 29.10. bis 04.11. | 545 (Hochzeit 411, Firma 134) | 3 (Hochzeit 3, Firma 0) | 182 (Hochzeit 137, Firma fehlt, 0 Conv.) | 1.040 | 3 | 10 | 3 | 2 | Meta-Anzeigen Teveo v2 und v3 pausieren; Google-Keyword "italienisches catering" pausieren; Google-Keyword "catering firma" pausieren | 08.11.: Teveo v2 und v3 pausieren (Damian macht es selbst); Google-Keywords noch offen |
 
 ## Läufe
 
@@ -44,6 +44,7 @@ Hier protokollieren der Pizzeria-Ads-Agent (Montag) und der Catering-Ads-Agent (
 - Echter CPL 7 Tage: Google 545,29 € / 3 = 182 €; Meta 1.039,61 € / 2 = 520 € (Meta-Zählung 3 Leads = 347 €); bezahlt gesamt 1.584,90 € / 5 = 317 €; alle Kanäle 158 €. 28 Tage: Google 2.279,67 € / 13 = 175 € (Google-Zählung 11 = 207 €); Meta 4.551,73 € / 18 = 253 € (Meta-Zählung 21 = 217 €).
 - Tracking: Google 7 Tage 3 zu 3 passt. 28 Tage Google-Zählung 11, Sheet 13 (3 Google-Anfragen ohne utm_campaign). Meta 7 Tage 3 zu 2, 28 Tage 21 zu 18 (Meta zählt mehr als das Sheet). 04.11. in Metricool Google nur 17,88 €, Nachladen abwarten.
 - Maßnahme 1 (Frage an Damian): Meta-Anzeigen "Catering Teveo v2" und "Catering Teveo v3" pausieren. Warum: zusammen 453 € ohne Lead (Log 04.11., 05.10. bis 03.11.), Meta-CPL 347 bis 520 € bei Maximum 100 €. Risiko: weniger Creative-Rotation, Frequenz des TikTok-Creatives steigt. Prüfen: Do 12.11.
+- Entscheidung 08.11. (über Manager): "teveo v2 und v3 pausieren." Damian pausiert selbst. Prüfen Do 12.11.: Frequenz und CPL des TikTok-Creatives, Leads der Kampagne.
 - Maßnahme 2: Google-Keyword "italienisches catering" pausieren. Warum: 169,46 € in 28 Tagen, 90 Klicks, 0 Conversions (Regel über 100 € ohne Conversion). Risiko: 1.071 Impressionen weniger, generisches Suchvolumen fällt weg. Prüfen: Do 19.11.
 - Maßnahme 3: Google-Keyword "catering firma" pausieren, Firmencatering bis Anfang Dezember nur mit "firmen catering" und Weihnachtsfeier-Keywords laufen lassen. Warum: 416,81 € je Conversion in 28 Tagen, 7 Tage 118 € ohne Conversion, Kampagne gesamt 525 € je Conversion. Risiko: Firma-Kampagne verliert rund 80 % der Klicks, Weihnachtsfeier-Keywords haben nur 6 Klicks in 28 Tagen. Prüfen: Do 19.11.
 - Offen (Warteschlange): Tagesbudget Hochzeit-Kampagne fürs Playbook; "partyservice pizza" gegen Negativ-Liste prüfen; Google Ads auch mit siprego.pizza verbinden (Pizzeria-Kampagnen laufen im selben Konto); Ziel Anfragen je Woche und Pipedrive-Abschlüsse Okt; Retargeting-Anzeigengruppe mit Statics (aus Lauf 04.11.).
