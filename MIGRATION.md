@@ -89,6 +89,15 @@ Nur nach OK von Damian:
 - Offen im Social-Log: Pizza in upload-24/-15, Napoli Famiglia im Shop, upload-9/-10/-11 posten oder Ads, Pizzaiolo in upload.mp4 und -5 erkennbar zeigen. siprego-upload-33.mp4 ist ein privates Video, öffentlich in der Mediathek: nie verwenden, Damian löscht es.
 - Z-Berichte: Weiterleitung von info@siprego.de an Gmail war geplant (03.11.), Gmail-Connector noch nicht verbunden. Sobald da: Manager liest die Z-Bericht-PDFs selbst und füllt `logs/umsatz.md`.
 
+## Stand Umstellung (So 08.11.2026, 18:55)
+
+Damian hat entschieden: kein Probelauf, direkt umstellen ("alles umstellen auf montag").
+- Sitzung "Siprego Manager" (session_0147tbo5DJSERRcDaV58aKAh), Umgebung siprego-agenten, Repo siprego-agenten, Opus 5.5. Ein fortlaufender Chat: Damian antwortet immer dort.
+- Geplante Aufgabe "Siprego Manager" (trig_01Vf89qfXM2P2hWNmK9VHm95), CRON_TZ=Europe/Berlin 31 8 * * 1-6, feuert in diese Sitzung. Erster Lauf Mo 09.11. 08:31. Connectoren hängen an der Sitzung (Parameter connectors für Aufgaben ist in dieser Organisation nicht verfügbar).
+- Selbsttest der Sitzung 08.11.: Repo, Push, Setup-Skript, Netzwerk, WordPress 200, Brevo, Metricool, Drive, Gmail, Meta, Unteragent ads mit Metricool: ok. Gefunden und behoben: SendUserMessage gibt es nicht (Bericht und Fragen jetzt als Chat-Antwort plus PushNotification, Fragen mit AskUserQuestion); Connector-Tools heißen mcp__<Server-ID>__<name> (laden per Stichwort, Punkt 5a in den Agent-Dateien).
+- Die 8 alten Aufgaben sind seit 08.11. 18:51 pausiert (nicht gelöscht). Löschen nach 2 Wochen ohne Störung, also frühestens 23.11.
+- Offen: ElevenLabs-Geheimnis (bis dahin nur Musik-Pool). Hinweis "veraltet, gilt: GitHub siprego-agenten" im claude.ai-Projekt setzt Damian.
+
 ## 8. Was sich für Damian ändert
 
 - Er bekommt pro Tag höchstens einen kurzen Bericht und danach Fragen einzeln, alles vom Manager.
