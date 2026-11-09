@@ -365,3 +365,51 @@ Noch offen (ab jetzt über den Siprego Manager, nicht im Chat): Pizza in upload-
 - Damian hat Ungeschnitten #10 selbst auf Instagram gepostet (Ferdi-Clip). Upload über den Kurzbefehl "An Siprego senden" ging nicht (Meldung "Du kannst dies in Einstellungen erlauben" bei "Inhalte von URL abrufen").
 - Agent-Entwurf #10 Ofen-Clip (IG 420574904, TikTok 420574912) bleibt Entwurf, geht nicht raus. Reserve für später, Nummer wird beim Einplanen neu vergeben (nächste freie nach #11 am Di 10.11.).
 - Fallback, solange der Kurzbefehl hakt: Videos direkt in den Chat ziehen oder per AirDrop an den Mac und von dort in WordPress unter Medien hochladen.
+
+## Lauf Mo 09.11.2026 (Wochenplan KW46, Di 10.11. bis So 15.11., Modus WOCHENPLAN über den Siprego Manager)
+
+### Geprüft
+
+- Instagram-Reels bis 09.11. 08:30: letzte Nummer #10 (Damian, Ferdi-Clip, 08.11.). Sa 07.11. kam Dough diary #3 von Damian. #11 Kartons ist für Di 10.11. 17:30 freigegeben (IG 419801653, TikTok 419801658, unverändert). Neue Nummern dieser Woche: #12, #13, #14.
+- Mediathek: seit 08.11. kein neues Rohmaterial von Damian (nur Ad-Statics 6147, 6148, nicht organisch). upload-33 (6136) privat, nicht angefasst.
+- Shop 09.11. 08:35: Mittagsmenü 16,90 € aktiv. Mortabella Piccola 16,90 €, Grande 18,90 €, LIMITIERT. Napoli per Due und Famiglia nicht im Shop. ACHTUNG: Antipasti-Platte für 2 steht im Shop mit 24,90 € (Playbook: 19,90 €). Deshalb kein Antipasti-Post. Zusätzlich ist das einzige Antipasti-Foto (gleiche Platte wie siprego.de/home/antipasti-platte-fuer-2.jpg) seit dem Static vom 15.10. bis 26.11. gesperrt.
+- Newsletter 11.11.: Mail wird erst Di 10.11. angelegt. Laut Playbook Fallback-Kette Nummer 1 im Oktober (Zahl fehlt), Barbabietola (nicht bestätigt), sonst Antipasti-Platte für 2 (Preiskonflikt, siehe oben). Mittwoch-Post deshalb auf das Mittagsmenü gelegt (im Shop bestätigt, Mi bis Fr 11:00 bis 15:30, Bestellanlass am schwachen Mittwoch).
+
+### Medien (WordPress-Mediathek)
+
+- Mi Static Mittagsmenü, Karten-Layout, Foto arancini-holzbrett.jpg (siprego.de/home, bisher unbenutzt): https://siprego.de/wp-content/uploads/2026/11/siprego-ad-mittagsmenue-arancino-2026-11-feed.jpg (6151), -square.jpg (6152, nur Ad), -story.jpg (6153, Story Mi 10:15)
+- Fr Karussell Mortabella, 7 Slides (Foto pizza-mortabella-burrata-pistazie-hero.jpg und Freisteller sauce, mortadella, burrata, pesto, pistachio, basil): https://siprego.de/wp-content/uploads/2026/11/siprego-mortabella-karussell-2026-11-13-1.jpg bis -7.jpg (IDs 6154 bis 6157, 6161, 6162, 6160). Erste Fassung von Slide 5 und 6 (6158, 6159) gelöscht.
+- Do Reel #12: https://siprego.de/wp-content/uploads/2026/11/siprego-ungeschnitten-12-teig-kneter-2026-11-12-reel.mp4 (6149, upload-26 komplett, 8,4 s, Kneter in Bewegung ab Sekunde 0, mean_volume -21,2 dB)
+- Sa Reel #13: https://siprego.de/wp-content/uploads/2026/11/siprego-ungeschnitten-10-ofen-2026-11-08-reel-v2.mp4 (6145, v2 ab 3,7 s von upload-1, 8,7 s, Pizza auf der Schaufel im Ofen als erstes Bild)
+- So Reel #14: https://siprego.de/wp-content/uploads/2026/11/siprego-ungeschnitten-14-teig-ofen-2026-11-15-reel.mp4 (6150, upload-36 komplett, 13,1 s, Rand geht im Ofen auf, mean_volume -19,9 dB)
+- Ton: Originalton, loudnorm -18 LUFS, keine Musik, kein Hook (Raw-Regel).
+- Gesperrt bis 21.12.2026: upload-26, upload-36, arancini-holzbrett.jpg, pizza-mortabella-burrata-pistazie-hero.jpg, Freisteller sauce, mortadella, burrata, pesto, pistachio, basil.
+
+### Geplante Posts (Metricool 7383922, alle draft true außer #11)
+
+| Nr | Tag | Zeit | Format | Hook | Instagram-ID | TikTok-ID |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Di 10.11. | 17:30 | Reel #11 Kartons (freigegeben, unverändert) | Ungeschnitten #11 | 419801653 | 419801658 |
+| 2 | Mi 11.11. | 10:15 | Story Mittagsmenü | Pizza zum Mittag. Plus Arancino. | 421456398 | nur IG |
+| 3 | Mi 11.11. | 10:30 | Static Mittagsmenü | Pizza zum Mittag. Plus Arancino. | 421456462 | nur IG |
+| 4 | Do 12.11. | 10:30 | Raw-Reel Teig im Kneter | Ungeschnitten #12 | 421456496 | 421456534 |
+| 5 | Fr 13.11. | 10:30 | Karussell Mortabella (7 Slides) | Was steckt in der Mortabella? | 421456596 | nur IG |
+| 6 | Sa 14.11. | 18:30 | Raw-Reel Ofen v2 (Reserve-Entwurf umgewidmet) | Ungeschnitten #13 | 421456781 (vorher 420574904) | 421456830 (vorher 420574912) |
+| 7 | So 15.11. | 10:30 | Raw-Reel Rand im Ofen, Community-Frage | Ungeschnitten #14 | 421456644 | 421456684 |
+
+### Kennzahlen Woche 02. bis 08.11.2026 (Metricool)
+
+- Instagram: Follower 3.772 (02.11.) auf 3.806 (08.11.), seit 01.11. (3.769) +37; 44 gewonnen, 9 verloren. Kontoreichweite Summe 101.308 (Vorwoche 69.446). Interaktionen Feed plus Reels 165 (Vorwoche 108). Reel-Views 16.046 (Vorwoche 9.543).
+- Reels: #10 Damian 2.745 Reichweite / 32 Interaktionen, Dough diary #3 3.023 / 21, #8 Inga 2.487 / 33, #7 Damian 2.408 / 29, #9 Arancini 2.000 / 17, Inga Mortabella 695 / 24, Samstag im Laden 346 / 5 (schwächster).
+- TikTok: Follower 3.232 auf 3.253 (+21, seit 01.11. +23), Interaktionen 46 (Vorwoche 35), 4 Videos. Views meldet Metricool weiter nicht.
+
+### Ausgefallen
+
+- Keiner. Antipasti als Mittwoch-Thema bewusst nicht genommen (Preis 24,90 im Shop gegen 19,90 im Playbook, Foto gesperrt).
+
+### Offene Punkte (an den Manager)
+
+- Dringend vor dem Newsletter-Lauf Di 10.11.: Antipasti-Platte für 2 kostet im Shop 24,90 €, im Playbook 19,90 €. Welcher Preis gilt?
+- Mittwoch-Abgleich: Nimmt die Mail 11.11. ein anderes Thema als das Mittagsmenü, Mittwoch-Static per AENDERUNG anpassen.
+- Rohmaterial: Nach dieser Woche ist kein frischer Teig- oder Ofen-Clip mehr frei (nur upload-2 Ofen ähnlich -1, upload.mp4 Teig ausziehen in 478x850).
+- Weiter offen: Pizza in upload-24 und -15, upload-9/-10 und -11 (posten oder Ads), Mann in upload.mp4 und -5 (Team?), upload-33 privat aus der Mediathek löschen, Alt-Entwürfe 406322950, 406323120, 406323232, 406323322 löschen.
