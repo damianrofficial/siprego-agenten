@@ -443,3 +443,10 @@ Noch offen (ab jetzt über den Siprego Manager, nicht im Chat): Pizza in upload-
 - Rohmaterial: Damians Foto flyer-pfersee-hand-damian-2026-11-09.jpg als https://siprego.de/wp-content/uploads/2026/11/siprego-flyer-pfersee-hand-2026-11-scaled.jpg (ID 6176) in der Mediathek, im Playbook eingetragen, gesperrt bis 21.12.2026.
 - Caption Feed wie von Damian vorgegeben, unverändert (keine Bezahlung, kein Alter, keine Stunden genannt), erster Kommentar leer. Hashtags: #siprego #augsburg #pfersee #stadtbergen #nebenjob #schülerjob #augsburgjobs #pizzeria.
 - Manager 09.11. 16:54: Flyer-Helfer Post 421997180 und Story 421997223 laut Metricool PUBLISHED, Post https://www.instagram.com/p/Dfhr0U6CDsU/
+
+### Änderung Mo 09.11.2026 ca. 20:40 (Modus AENDERUNG, Damian zum Karussell Mortabella: "letztes bild die freigestellte finale pizza.")
+
+- Post 5, Fr 13.11. 10:30, Karussell Mortabella v4: Nur Slide 8 neu. Statt Foto im Karten-Layout jetzt Freisteller assembled.webp (mit getbbox() beschnitten) im Stil der Zutaten-Slides: Creme-Fläche, weicher Ellipsen-Schatten, exakt gleiche Größe und Position wie der Pizzaboden auf Slide 2 (880x478 px, y 271 bis 749), Label "PIZZA MORTABELLA · LIMITIERT", Headline "Mortabella." / "Vollendet." (zweite Zeile rot, 104 px, y 830), "ab 16,90 €" in Rot, rechts daneben "Piccola 16,90 €, Grande 18,90 €" und "Bestellen über den Link in der Bio", Fußzeile wie Slides 1 bis 7. Kanten geprüft, kein Rand vom Freisteller.
+- Mediathek: https://siprego.de/wp-content/uploads/2026/11/siprego-mortabella-karussell-2026-11-13-v4-8.jpg (ID 6179). Slides 1 bis 7 und Caption unverändert, Alt-Text Slide 8 angepasst.
+- Metricool neue ID Instagram 422309303 (vorher 421992068, uuid 6415882592933396930), draft true, per getScheduledPosts bestätigt.
+- Freisteller assembled.webp jetzt bis 21.12.2026 gesperrt. Ersetzte v3-8 (ID 6175) nicht gelöscht (Löschen in den letzten Läufen von der Rechteprüfung blockiert), liegt weiter in der Mediathek.
