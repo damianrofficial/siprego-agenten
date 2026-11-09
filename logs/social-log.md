@@ -450,3 +450,25 @@ Noch offen (ab jetzt über den Siprego Manager, nicht im Chat): Pizza in upload-
 - Mediathek: https://siprego.de/wp-content/uploads/2026/11/siprego-mortabella-karussell-2026-11-13-v4-8.jpg (ID 6179). Slides 1 bis 7 und Caption unverändert, Alt-Text Slide 8 angepasst.
 - Metricool neue ID Instagram 422309303 (vorher 421992068, uuid 6415882592933396930), draft true, per getScheduledPosts bestätigt.
 - Freisteller assembled.webp jetzt bis 21.12.2026 gesperrt. Ersetzte v3-8 (ID 6175) nicht gelöscht (Löschen in den letzten Läufen von der Rechteprüfung blockiert), liegt weiter in der Mediathek.
+
+### Änderung Mo 09.11.2026 ca. 20:55 (Modus AENDERUNG, zwei Aufträge von Damian über den Manager)
+
+- Karussell Mortabella v4, Fr 13.11. 10:30: Damian "A." (freigegeben). draft false, autoPublish true. Neue ID Instagram 422327019 (vorher 422309303, uuid 6415882592933396930). Per getScheduledPosts bestätigt (draft false, PENDING).
+- Neue Dauerregel von Damian: manuelle Instagram-Reels auf TikTok nachziehen. Im Social-Playbook als eigener Abschnitt und unter Notizen von Damian eingetragen.
+
+### TikTok-Nachzug (Liste aller geprüften manuellen Reels, vor jedem Einplanen lesen)
+
+Erster Lauf 09.11.2026 20:55, Zeitraum 26.10. bis 09.11. Quelle: Metricool Analytics (IG reels, IG posts, TikTok posts) und Metricool-Planer. Zeiten Europe/Berlin.
+
+| Datum IG | Titel | Instagram-Link | Auf TikTok | Status |
+| --- | --- | --- | --- | --- |
+| Fr 30.10. 18:29 | Ungeschnitten #5 "Die Hütte brennt!" | https://www.instagram.com/reel/DfIHuv9Nc9D/ | nein | Datei fehlt |
+| Sa 31.10. 18:19 | Ungeschnitten #6 | https://www.instagram.com/reel/DfKrRVZNBVy/ | nein | Datei fehlt |
+| Do 05.11. 09:33 | Ungeschnitten #7 "Verbessertes Biga Rezept" | https://www.instagram.com/reel/DfWm-NPNwZY/ | nein | Datei fehlt (Kandidat upload-26 Kneter, 8,3 s, Upload 04.11. 13:14, nicht sicher dasselbe Video, deshalb nicht eingeplant) |
+| Sa 07.11. 11:38 | Dough diary #3 (Biga 33 %, als Reel veröffentlicht) | https://www.instagram.com/reel/Dfb-r8PtQ4C/ | nein | Datei fehlt |
+| So 08.11. 10:29 | Ungeschnitten #10 (Ferdi-Clip) | https://www.instagram.com/reel/Dfeb4FaN4Ux/ | nein | Datei fehlt (Kurzbefehl-Upload am 08.11. gescheitert) |
+
+- Nicht nachzuziehen: Flyer-Helfer 09.11. (Bild), Dough diary #2 01.11. (Karussell), "Pizza können wir" 30.10. (Foto). Alle übrigen Reels im Zeitraum stammen vom Agenten und laufen schon auf TikTok (Was steckt da drin, So entsteht deine Pizza, Inga Mortabella, #8 bzw. TikTok "#7" Inga, #9 Arancini, Samstag im Laden).
+- TikTok @siprego hat laut Metricool seit 26.10. nur die 7 Agent-Posts (letzter Sa 07.11. 18:31). Kein eigener TikTok-Post von Damian sichtbar.
+- Nichts eingeplant. Grund: keine der 5 Dateien liegt eindeutig in der Mediathek. Metricool Analytics liefert für Reels nur das Vorschaubild (IGRE05), keine Video-URL. Vorschaubild-Download und Seitenabruf scheitern: "CONNECT tunnel failed, response 403" für scontent-lhr6-1.cdninstagram.com, scontent-lhr11-1.cdninstagram.com, scontent-lhr6-2.cdninstagram.com, www.instagram.com und www.tiktok.com (Proxy: connect_rejected).
+- Bitte an Damian (über den Manager): die 5 Originalvideos ohne Instagram-Wasserzeichen in die Mediathek laden, oder bestätigen, dass #7 = siprego-upload-26 ist. Danach plant der Agent je ein Video pro Tag ein. Freie Slots KW46 mit 3 Stunden Abstand: Mi 11.11. 14:00 bis 20:00, Do 12.11. 14:00 bis 20:00, Fr 13.11. 14:00 bis 20:00, Sa 14.11. 10:00 bis 15:30, So 15.11. 14:00 bis 20:00.
