@@ -66,3 +66,6 @@ Erledigt: Post 6 fest geplant (IG 421520990, TikTok 421521040). Post 5 Karussell
 Offen: Ist der Pizzaiolo in upload.mp4 vom Team und darf gezeigt werden? Geht mit der Freigabe von Post 4.
 Bearbeitet vom Manager: ja (09.11.)
 
+### 2026-11-09 16:37 | Social-Media-Agent | Sonderpost Flyer-Helfer | Status: OK
+Auftrag Damian 09.11. ("Baue einen Post und eine Story und Post es"). Instagram Feed-Post 421997180 und Story 421997223, Mo 09.11. 16:45, draft false. Bilder WP 6177 (Feed), 6178 (Story), Foto 6176. Caption ohne Bezahlung, Alter, Stunden. Prüfung nach 16:50, ob veröffentlicht. Bearbeitet vom Manager: ja (09.11.)
+
