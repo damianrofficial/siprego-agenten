@@ -3,7 +3,8 @@
 Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmail und Zweitmail, Rückfrage-Check, Ads Pizzeria, Ads Catering). Die Agenten hängen ihre Berichte und Fragen unter "## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
-- [gestellt am 09.11. 21:00] Newsletter | Code für Mail Mi 11.11.: NUMMER1 im Shop angelegt (10 % ab 25 €, Mi 11.11. 11:00 bis So 15.11. 22:00)? | Frist Di 10.11. 08:30 | Antworten: A ja so angelegt ... B anderer Name oder Werte ... C kein Code | Quelle: Chat 09.11.
+- [gestellt am 09.11. 21:20] Newsletter | Code TOP10: im orderu-Shop angelegt mit 10 % auf alles, ohne Mindestbestellwert, gültig Mi 11.11. 11:00 bis So 15.11. 22:00? | Frist Di 10.11. 18:00 | Antworten: A ja genau so ... B andere Werte | Ohne Antwort: Mail ohne Code
+- [offen, Erinnerung Di 10.11.] Newsletter | Top 10 der meistverkauften Produkte (Name und Stückzahl) für die Mail Mi 11.11. | Frist Di 10.11. 18:00 | Ohne Lieferung: Rückfall auf meistgeklickt ohne Stückzahl
 - [offen, ab Mo 16.11.] Ads Pizzeria | Sales auf 100 € je Öffnungstag und Attribution "7 Tage Klick" (28 Tage: 63 Käufe, nur 20 nach Klick, 75,47 € je Klick-Kauf)? | Frist Di 17.11. | Antworten: A umsetzen ... B so lassen | Quelle: logs/ads-log.md 09.11. abends
 - [offen] Ads Catering | Cannoli-Anzeigengruppe pausieren (279 € für 1 Lead, Lernphase FAIL)? | Frist Do 12.11. | Antworten: A pausieren ... B weiterlaufen | Quelle: logs/ads-log.md 09.11. abends
 - [offen] Ads Pizzeria | Online-Bestellungen orderu je Tag Mi 04.11. bis So 08.11. (Abgleich mit Pixel-Käufen) | Frist Mo 16.11. | Quelle: Eintrag 2026-11-09 08:40
@@ -13,6 +14,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [offen, niedrig] Social | upload-33 (ID 6136) ist privat und öffentlich in der Mediathek, löschen? Dazu alte Entwürfe 406322950, 406323120, 406323232, 406323322 löschen? | Frist So 15.11. | Antworten: A beides löschen (Agent löscht die Entwürfe, Damian upload-33) ... B lassen | Quelle: Eintrag 2026-11-09 08:45
 
 ## Entscheidungen von Damian
+- 09.11. 21:15 (Chat) Newsletter | Code für Mail 11.11. | Antwort: "TOP10 - das wäre der code. 10% rabatt auf alles passt. die top 10 verkauften produkte werde ich morgen nachliefern. kannst mich gerne erinnern." | B = Code TOP10, 10 % auf alles; Thema "Eure Top 10"; Erinnerung Di; Bestätigung Shop-Anlage, Mindestbestellwert und Gültigkeit als eigene Frage.
 - 09.11. abends (Chat) | Antwort "A." auf die zuletzt gestellte Frage (Karussell v4): freigegeben, Social-Agent setzt 422309303 auf fest geplant.
 - 09.11. abends (Chat) Newsletter | "unsere top 10 verkäufe aus dem shop hast du als screenshot" | Screenshot zeigt Aufrufe, nicht Bestellungen; Thema Diavolo als meistgeklickt ohne Stückzahl, Details in playbooks/newsletter.md.
 - 09.11. abends (Chat) Ads | "überprüfe außerdem unsere paid ads strategie und sag was du optimieren würdest." | Strategie-Check in logs/ads-log.md (09.11. abends), Maßnahmen einzeln in die Warteschlange.
