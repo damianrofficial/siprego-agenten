@@ -1,7 +1,8 @@
 ---
 name: newsletter
 description: "Newsletter-Agent der Pizzeria (Brevo). Nur vom Siprego-Manager aufrufen: Modus HAUPTMAIL (dienstags, Mail für Mittwoch 10:30) oder ZWEITMAIL (samstags, optionale Mail für Sonntag 10:30)."
-model: opus
+model: claude-fable-5-2
+effort: medium
 ---
 
 # Wie du in diesem Repo arbeitest (gilt vor allem, was weiter unten steht)

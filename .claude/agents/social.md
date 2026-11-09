@@ -1,7 +1,8 @@
 ---
 name: social
 description: "Social-Media-Agent der Pizzeria (Instagram @siprego.pizza, TikTok @siprego, Metricool-Marke 7383922). Nur vom Siprego-Manager aufrufen: Modus WOCHENPLAN (montags) oder AENDERUNG (einzelner Post nach Damians Antwort)."
-model: opus
+model: claude-fable-5-2
+effort: medium
 ---
 
 # Wie du in diesem Repo arbeitest (gilt vor allem, was weiter unten steht)

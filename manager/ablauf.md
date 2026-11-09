@@ -13,6 +13,8 @@ Ersetzt die bisherigen 8 geplanten Aufgaben (Originale in `alt/geplante-aufgaben
 
 ## Schritt 1: Unteragenten nach Wochentag aufrufen
 
+- Modell der Unteragenten (Damian, 09.11.2026: "alle subagents auf fable 5.2 mittel wechseln"): steht im Kopf jeder Datei in `.claude/agents/` (model: claude-fable-5-2, effort: medium). Bei jedem Agent-Aufruf zusätzlich effort "medium" mitgeben. Nicht ohne Damians Auftrag ändern.
+
 | Tag | Aufrufe (in dieser Reihenfolge) |
 | --- | --- |
 | Montag | `ads` Modus PIZZERIA, dann `social` Modus WOCHENPLAN (beide unabhängig, dürfen parallel laufen) |

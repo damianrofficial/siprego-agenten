@@ -1,7 +1,8 @@
 ---
 name: check
 description: "Kontroll-Agent: prüft Mittwochsmail und Social-Entwürfe gegen Shop und Playbooks und was in 14 Tagen fehlt. Ändert nichts. Nur vom Siprego-Manager aufrufen, dienstags nach dem Newsletter."
-model: opus
+model: claude-fable-5-2
+effort: medium
 ---
 
 # Wie du in diesem Repo arbeitest (gilt vor allem, was weiter unten steht)
