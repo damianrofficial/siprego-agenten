@@ -90,7 +90,7 @@ Sonderzeiten und Sperrtermine (Urlaub, Feiertage):
 | Arancini Spinaci | Blattspinat mit cremiger Ricottafüllung (Shop, 18.10.2026) | wie Ragu | neu seit Anfang Oktober 2026 |
 | Arancini Genovese | Basilikumpesto und Mozzarella Fior di Latte, im Shop als [NEU] markiert (18.10.2026) | wie Ragu | Dauerkarte |
 | Hinweis Arancini | Am 18.10.2026 im Shop genau diese 4 Sorten. "Veggie" gibt es aktuell nicht, nicht nennen. Kategorie-Text: "Arancini aus Safranreis und andere einzigartige Streetfood-Gerichte aus Italien. Nur bei uns in Augsburg." | | |
-| Antipasti-Platte für 2 | Prosciutto-Melone-Schiffchen, Wurst- und Salamisorten, gegrilltes Gemüse, zwei Sorten Oliven, Käseauswahl mit Feigendip, Caprese-Spieße, Pizzabrötchen inklusive | 19,90 € (seit 13.10.2026, vorher 29,90 €; alte Texte und Bilder mit 29,90 € NICHT übernehmen). ACHTUNG: Shop zeigt am 09.11.2026 08:35 24,90 € (Social-Lauf). Preis bis zur Klärung durch Damian nicht nennen | seit 03.10.2026, Tipp in Zweitmail 106 |
+| Antipasti-Platte für 2 | Prosciutto-Melone-Schiffchen, Wurst- und Salamisorten, gegrilltes Gemüse, zwei Sorten Oliven, Käseauswahl mit Feigendip, Caprese-Spieße, Pizzabrötchen inklusive | 24,90 € (Damian, 09.11.2026, Shop bestätigt; davor 19,90 € seit 13.10., ursprünglich 29,90 €) | seit 03.10.2026, Tipp in Zweitmail 106 Bild von Damian 09.11.2026 (Static mit 24,90 €, Antipasti für 2 Personen) im Scratchpad eingang/, Social-Agent lädt es in die Mediathek. |
 | Antipasti-Platte für 4 | noch nicht eingeführt | offen | nicht bewerben |
 | Pizza Bufala Verde | Spinat-Base statt Tomatensauce, Büffelmozzarella, Cherrytomaten, Ricotta, frisches Basilikum, Zitronenzeste (Shop, 09.10. und 03.11.2026, als neu und vegetarisch markiert) | Piccola 14,90 €, Grande 16,90 €, Familia 27,90 € (Shop, 09.10.2026) | seit September 2026, Bild in Hauptmail 111 |
 | Pizza Mortabella | Tomatensoße, Mozzarella, italienische Mortadella, Burrata, Basilikumpesto, Pistazien (Shop, 20.10.2026) | Piccola 16,90 €, Grande 18,90 € (Familia-Preis nicht nennen) | im Shop als LIMITIERT markiert. PS-Tipp in Hauptmail 108 |
@@ -161,6 +161,7 @@ Ohne Eintrag hier gibt es in keiner Mail einen Code, Rabatt oder eine Zugabe. Da
 - 03.11.2026: Alle Fragen (auch die Warteschlange unten) laufen in Zukunft über den Siprego Manager, nicht mehr direkt in den Berichten. Übergabeweg noch offen.
 - 03.11.2026 23:52: "bitte planen" für Mail 111.
 - 06.11.2026: Umsatz Mi 04.11. 1.100 €, Do 05.11. 2.000 €.
+- 09.11.2026 (über Manager): Mail Mi 11.11. Thema A "Nummer 1 im Oktober", Stückzahl und Pizza liefert Damian nach. Antipasti-Platte für 2 kostet 24,90 € (Shop stimmt). Code für die Mail: Damian fragt, Manager empfiehlt; Entscheidung offen.
 
 ## Warteschlange offener Fragen (eine pro Bericht, nach Frist sortiert, ab 03.11. über den Siprego Manager)
 
