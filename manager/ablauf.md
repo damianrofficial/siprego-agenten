@@ -33,6 +33,8 @@ Ersetzt die bisherigen 8 geplanten Aufgaben (Originale in `alt/geplante-aufgaben
 - Metricool: `getScheduledPosts` (brandId 7383922, heute bis +10 Tage). Entwürfe für heute oder morgen, die noch draft true sind: Erinnerung. Was ein Agent behauptet (IDs, Status), kurz bestätigen. Abweichung: beides nennen.
 - Meta Frequenz (täglich, Damian 08.11.2026): ads_get_ad_entities (Konto 301514571034752, level ad, frequency, last_7d, Spend über 0). Grenzen und Empfehlung laut playbooks/ads.md "FREQUENZ JE CREATIVE". ZU HOCH: eigene Nachricht an Damian mit Zahlen und einer Empfehlung, höchstens einmal je Anzeige pro Woche; Beobachten: eine Zeile im Bericht.
 
+- Manuelle Instagram-Posts auf TikTok nachziehen (Damian, 09.11.2026): montags im WOCHENPLAN, dazu donnerstags und samstags den social-Agenten kurz im Modus AENDERUNG aufrufen ("manuelle Reels der letzten 14 Tage prüfen und auf TikTok nachziehen", Regel in playbooks/social.md). "Datei fehlt" wird eine Frage an Damian.
+
 ## Schritt 3: Warteschlange pflegen
 
 Jede "Frage an Damian:" und jede "Freigabe nötig:" aus den neuen Eingängen wird eine Zeile unter "## Offene Fragen an Damian":
@@ -60,7 +62,8 @@ Dazu PushNotification mit dem wichtigsten Punkt.
 
 - Kandidaten: offen, oder gestellt mit Frist heute oder morgen und seit 20 Stunden unbeantwortet (dann einmal erinnern, höchstens einmal am Tag).
 - Reihenfolge: früheste Frist; bei gleicher Frist Freigaben, dann Zugangsfragen, dann Codes und Menüs, dann Ads-Maßnahmen, dann Rest, Umsatzfrage zuletzt.
-- Genau EINE Frage pro Nachricht, Form: "Frage an dich (n von m):", ein Satz mit Frist und was ohne Antwort passiert (immer die vorsichtige Variante), Antwortmöglichkeiten. Wenn verfügbar mit AskUserQuestion (Antwortknöpfe), sonst als Chat-Antwort, dazu PushNotification mit der Frage in einer Zeile.
+- NEU 09.11.2026 (Damian überliest Fragen): Immer nur EINE Frage gleichzeitig offen, nächste erst nach Antwort oder Fristablauf (keine Serie per send_later mehr). Format laut CLAUDE.md "Frage-Format": eigene Nachricht, höchstens 6 Zeilen, erste Zeile fett "❓ FRAGE (Antwort bis ...)", Frage fett, A, B, "Ohne Antwort: ...". Dateien zur Freigabe kommen in der Nachricht davor. Der Bericht nennt nur die Zahl offener Punkte, keine Liste.
+- Genau EINE Frage pro Nachricht, Form (alt, ersetzt durch die Zeile darüber): "Frage an dich (n von m):", ein Satz mit Frist und was ohne Antwort passiert (immer die vorsichtige Variante), Antwortmöglichkeiten. Wenn verfügbar mit AskUserQuestion (Antwortknöpfe), sonst als Chat-Antwort, dazu PushNotification mit der Frage in einer Zeile.
 - Mail-Freigabe: Kampagne per `get_email_campaign` mit HTML holen, mit Playwright als Bild rendern (600 px breit, deviceScaleFactor 2, Platzhalter durch "Damian" ersetzt) und per SendUserFile (display render) schicken; dazu Betreff, Vorschautext, Empfängerzahl, Versandzeitpunkt. "Antworte mit senden, Testmail, oder was geändert werden soll."
 - Social-Freigabe: jede Datei per SendUserFile mit Bildunterschrift ("1 Di 10.11. 17:30 Reel"), darunter je Post Caption (bei Videos auch TikTok-Caption und Titel). "Antworte mit passt (alle) oder nenne die Nummern, die geändert werden sollen."
 - Code oder Menü: Hinweis, dass Damian es im orderu-Shop selbst anlegt, bevor er bestätigt.
