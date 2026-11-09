@@ -3,6 +3,7 @@
 Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmail und Zweitmail, Rückfrage-Check, Ads Pizzeria, Ads Catering). Die Agenten hängen ihre Berichte und Fragen unter "## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
+- [gestellt am 09.11. 08:05] Ads Pizzeria | Sales-Tagesbudget an Öffnungstagen: jetzt auf 180 € heben oder diese Woche bei 150 € messen? | Frist Mo 09.11. 20:00 | Antworten: A bei 150 € bleiben, Entscheidung Mo 16.11. mit Zahlen ... B jetzt auf 180 € (plus 20 %) | Quelle: Chat 09.11.
 
 ## Entscheidungen von Damian
 - 09.11. (Chat) Ads Pizzeria | Ziel-Link für v2 Mortabella und v3 Salami? | Antwort: "Nimm den Shop-Link für die Varianten" | Umgesetzt 09.11.: Anzeigen 120251468821930078 (v2) und 120251468822940078 (v3) in "Lokal 10km - Kauf", ACTIVE, Meta-Prüfung läuft. Prüfung Do 12.11. und Do 19.11.

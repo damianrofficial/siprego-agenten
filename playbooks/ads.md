@@ -115,6 +115,7 @@ Diese Einträge laufen nur an Öffnungstagen (Mi bis So). Geplante Aufgaben in d
 Nicht in der Liste (laufen weiter durch): "Pizzeria - Awareness - Lokal - 2026-09", "Leads - Pizza Catering" samt "Retargeting Catering Statics 2026-11" (Damian, 08.11.: Antwort A, Catering-Retargeting läuft weiter durch, weil Anfragen auch an Ruhetagen kommen; eine aktive Pizzeria-Retargeting-Kampagne gibt es am 08.11. nicht).
 
 ## Notizen von Damian an die Agenten
+- (über Manager, 09.11.) "Wir haben außerdem mehr Tagesbudget zur Verfügung da Montag und Dienstag die Ads aus sind (reach ausgenommen)". Lesart Manager: Das Wochenbudget der Sales-Kampagne darf auf die 5 Öffnungstage verteilt werden (bisher 150 x 7 = 1.050 €/Woche, jetzt 150 x 5 = 750 €/Woche; rechnerisch wären 210 € je Öffnungstag dasselbe Wochenbudget). Gilt weiter: höchstens plus 20 % je Schritt, eine Woche Abstand, nur bei ROAS über 2 und CPA unter 20 €. Entscheidung offen, Frage an Damian 09.11.
 - (über Manager, 08.11.) "die sales kampagne und retargeting kampagne solle nur an öffnungstagen laufen. heißt heute um 21:30 abschalten und wieder am mittwoch 8:00 anmachen". Umgesetzt als wöchentliche Schaltung, siehe Abschnitt Öffnungstage-Schaltung.
 - 03.11.2026: Ads-Agenten für Pizzeria und Catering bauen, Google Ads und Meta Ads prüfen, Maßnahmen vorschlagen. Beim Catering die Fluent-Forms-Anfragen einbeziehen.
 - 03.11.2026: Fluent-Forms-Einträge (Anfragen) können automatisch in ein Google Sheet geschrieben werden (Fluent Forms, Integration Google Sheets). Das ist Weg 1 für den Catering-Agenten.
