@@ -67,5 +67,5 @@ Offen: Ist der Pizzaiolo in upload.mp4 vom Team und darf gezeigt werden? Geht mi
 Bearbeitet vom Manager: ja (09.11.)
 
 ### 2026-11-09 16:37 | Social-Media-Agent | Sonderpost Flyer-Helfer | Status: OK
-Auftrag Damian 09.11. ("Baue einen Post und eine Story und Post es"). Instagram Feed-Post 421997180 und Story 421997223, Mo 09.11. 16:45, draft false. Bilder WP 6177 (Feed), 6178 (Story), Foto 6176. Caption ohne Bezahlung, Alter, Stunden. Prüfung nach 16:50, ob veröffentlicht. Bearbeitet vom Manager: ja (09.11.)
+Auftrag Damian 09.11. ("Baue einen Post und eine Story und Post es"). Instagram Feed-Post 421997180 und Story 421997223, Mo 09.11. 16:45, draft false. Bilder WP 6177 (Feed), 6178 (Story), Foto 6176. Caption ohne Bezahlung, Alter, Stunden. Geprüft 16:54: beide PUBLISHED. Post https://www.instagram.com/p/Dfhr0U6CDsU/ , Story https://www.instagram.com/stories/siprego.pizza/4026692253942033789 . Bearbeitet vom Manager: ja (09.11.)
 
