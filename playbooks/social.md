@@ -19,6 +19,7 @@ Stand: 03.11.2026 abends (Dienstag-Post im Rhythmus, Catering nur spärlich, Nap
 - Upload: curl -sS -m 300 -u "social-agent:proxy-injected" -H "Content-Disposition: attachment; filename=siprego-THEMA-DATUM.jpg" -H "Content-Type: image/jpeg" --data-binary @DATEI.jpg https://siprego.de/wp-json/wp/v2/media ; die JSON-Antwort enthält source_url, das ist die öffentliche URL für Metricool. Videos genauso mit Content-Type video/mp4. Upload-Limit seit 17.10.2026: 512 MB (getestet mit 250 MB). Dateinamen sprechend, ohne Umlaute, Präfix "siprego-".
 - Löschen (nur eigene Zwischen- oder Testdateien): curl -X DELETE -u "social-agent:proxy-injected" "https://siprego.de/wp-json/wp/v2/media/ID?force=true". Rohmaterial von Damian nie löschen.
 - Eingerichtet 13.10.2026, Limits erhöht 17.10.2026 (Plesk PHP 512M, nginx client_max_body_size, wp-config WP_MEMORY_LIMIT 512M).
+- Fertige Statics von Damian in der Mediathek: Antipasti-Platte für 2 Personen, 24,90 €, "Jetzt im Siprego Shop bestellen" (Quelle Damian, 09.11.2026, 1254x1254, frei ab sofort, Preis 24,90 € von Damian bestätigt): https://siprego.de/wp-content/uploads/2026/11/siprego-antipasti-fuer-2-24-90-damian-2026-11.jpg (ID 6163). Noch kein Post daraus angelegt.
 
 ## Rohmaterial
 
