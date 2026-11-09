@@ -53,6 +53,7 @@ Stand: 05.11.2026 08:50 (Google Ads liefert in Metricool seit 05.11. Daten; erst
 ### Regeln für Vorschläge (Damian, aus learnings und Entscheidungen Sept bis Nov 2026)
 - Eine Variable auf einmal ändern. Budget höchstens um 20 % pro Schritt, mindestens eine Woche zwischen zwei Schritten, nie während der Lernphase.
 - Skalieren nur, wenn in den letzten 7 Öffnungstagen ROAS über 2,0 UND CPA unter 20 € UND der Spend tatsächlich beim Tagesbudget ankommt (vorher hing er bei 85 bis 95 € trotz 100 €).
+- ATTRIBUTION (Strategie-Check 09.11.2026): Die Sales-Anzeigengruppe zählt 7 Tage Klick plus 1 Tag Ansicht. 28 Tage bis 09.11.: 63 Käufe gesamt, davon 20 nach Klick (75,47 € je Kauf) und 43 nur nach Ansicht. Jeder Pizzeria-Bericht nennt deshalb Käufe und Kosten je Kauf zweimal: Standard und nur Klick (ads_get_ad_entities mit action_attribution_windows ["default","7d_click","1d_view"]). Budget-Entscheidungen stützen sich auf den Klick-Wert.
 - FREQUENZ JE CREATIVE (Damian, 08.11.2026: "Achte bei den ads auf die Frequenz der creatives. Falls diese zu hoch ist, informiere mich und sag was zu tun ist."):
   - Quelle: Meta-Connector, ads_get_ad_entities, level ad, Feld frequency, date_preset last_7d, nur Anzeigen mit Spend über 0 (Metricool liefert Frequenz als null). Sortiert frequency_descending.
   - Grenzen (7 Tage): Neukunden-Anzeigengruppen (Sales "Lokal 10km - Kauf", Awareness, Catering Leads) Beobachten ab 2,5, ZU HOCH ab 3,0. Retargeting-Anzeigengruppen (Name enthält "Retargeting" oder "RT ") ZU HOCH ab 5,0.

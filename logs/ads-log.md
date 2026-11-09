@@ -104,3 +104,24 @@ Hier protokollieren der Pizzeria-Ads-Agent (Montag) und der Catering-Ads-Agent (
 - Maßnahme 2 (nach der Lernphase, nicht jetzt): "Erst backen, dann belegen - Reel" (107,37 €, 0 Käufe) und "Napoli Party Menü - Static" (103,60 €, 1 Kauf) pausieren, wenn sie in der Woche 11.11. bis 15.11. wieder über 50 € ohne Kauf liegen; das Budget fließt dann in die neuen Motive vom 07.11. und 09.11. Warum: zusammen 210,97 € für 1 Kauf, neue Motive 7,10 € je Kauf. Risiko: Neue Motive haben erst 56,79 € Spend, Werte können kippen. Prüfen: Mo 16.11.
 - Maßnahme 3: Pixel-Kaufzählung gegen den orderu-Shop abgleichen. Warum: Mi bis Sa 7 Pixel-Käufe bei 6.550 € Kassenumsatz, Wert je Kauf fiel von 58,78 auf 39,51 €. Risiko: keins, nur Prüfung (Damian: Online-Bestellungen orderu Mi bis So mit Anzahl). Prüfen: Mo 16.11.
 - Offen (Warteschlange): Online-Bestellungen orderu je Tag; Code-Einlösungen STADTBERGEN und PFERSEE; Google Ads mit 7383922 verbinden; Wochenumsatz KW44 komplett (für Vorwochen-Quote).
+
+## 2026-11-09 abends | Manager | Strategie-Check Paid Ads (Auftrag Damian: "überprüfe unsere paid ads strategie und sag was du optimieren würdest")
+
+Datenbasis: Meta direkt (ads_get_ad_entities, letzte 28 Tage bis 09.11., Anzeigengruppen mit Targeting und Attribution), Google und Sheet aus den Läufen 05.11. und 09.11.
+
+- Ausgaben 28 Tage gesamt rund 9.340 €: Catering 6.744 € (Meta 4.464 €, Google 2.280 €) = 72 %; Pizzeria 2.524 € (Meta Sales 1.509 €, Awareness 785 €, Google 230 €) = 27 %.
+- WICHTIGSTER BEFUND Sales Pizzeria: Attribution der Anzeigengruppe ist 7 Tage Klick plus 1 Tag Ansicht. Von 63 Käufen in 28 Tagen kamen nur 20 nach einem Klick (7d_click), 43 sind reine Ansichts-Käufe (1d_view). Kosten je Kauf: 23,96 € mit Ansicht, 75,47 € nur Klick. Bei Frequenz 3,98 in 28 Tagen und 60.976 erreichten Personen im 10-km-Radius sehen viele Stammkunden die Anzeige und bestellen ohnehin. Der gemeldete ROAS 2,07 überschätzt die echte Wirkung.
+- Sales Struktur: 1 Kampagne, 1 Anzeigengruppe "Lokal 10km - Kauf", 18 bis 65, 10 km um den Laden, Advantage-Zielgruppe an, kein Ausschluss von Käufern, kein Retargeting. Budget 6 mal in 15 Tagen erhöht (20 auf 150 €).
+- Awareness: 30 €/Tag, 785 € in 28 Tagen, Reichweite 168.589, CPM 2,52 €, Radius 10 Meilen (16 km) um Augsburg Mitte statt 10 km um den Laden, läuft auch Mo und Di, speist kein Retargeting.
+- Catering Meta: Haupt-Anzeigengruppe 4.110 €, 20 Leads, 205,50 € je Lead, Frequenz 2,79; Cannoli 279 €, 1 Lead, Lernphase FAIL; Statics-Test 45,60 € und Retargeting 28,57 €, je 0 Leads, Lernphase läuft (Start 06.11.). Vier Anzeigengruppen mit zusammen 140 €/Tag teilen sich rund 5 Leads je Woche, zu wenig für Metas Lernphase. Echte Kosten je Anfrage laut Sheet: Meta 253 €, Google 175 €, Ziel 70 bis 85 €, Maximum 100 €. Bei 15 % Abschlussquote sind 218 € je bezahlter Anfrage rund 1.450 € je Auftrag, Grenze laut Playbook 700 €.
+- Google: Hochzeit 175 € je Conversion (bester bezahlter Catering-Kanal), Firma 525 € je Conversion, Brand Pizzeria 6,83 € je Conversion, "Pizza Bestellen" 60,84 € je Conversion.
+
+Empfehlungen in Reihenfolge (jede einzeln als Frage, eine Variable auf einmal):
+1. Sales ehrlich messen: ab sofort im Bericht immer auch Käufe und Kosten je Kauf nur nach Klick ausweisen. Entscheidung Mo 16.11.: Budget auf 100 € je Öffnungstag und Attribution der Anzeigengruppe auf "7 Tage Klick" stellen (Meta optimiert dann auf Klick-Käufer).
+2. Tracking prüfen: Online-Bestellungen aus orderu je Tag gegen Pixel-Käufe (Mi bis Sa KW45 nur 7 Pixel-Käufe bei 6.550 € Kasse).
+3. Sales Struktur: Käufer der letzten 14 Tage aus der Neukunden-Anzeigengruppe ausschließen, dazu eine kleine Retargeting-Anzeigengruppe (15 bis 20 €/Tag: Shop-Besucher 30 Tage ohne Kauf, Instagram-Interaktion, Videozuschauer der Awareness-Kampagne) mit Angebots-Statics (Mittagsmenü, 10 % günstiger).
+4. Creatives: Angebots-Statics vom 07.11. (7,10 € je Kauf) ausbauen, "Erst backen, dann belegen" (107 € ohne Kauf) und "Napoli Party Menü" (104 €, 1 Kauf) pausieren, wenn sie 11. bis 15.11. wieder über 50 € ohne Kauf liegen.
+5. Catering Meta: Cannoli-Anzeigengruppe pausieren (FAIL, 279 € je Lead). Haupt-Anzeigengruppe am Do 12.11. bewerten; liegt der Lead weiter über 150 €, von 80 auf 40 €/Tag bis Januar. Danach Test Meta-Lead-Formular mit Pflichtfragen (Datum, Gästezahl) gegen Website-Formular.
+6. Awareness: Radius auf 10 km um den Laden, als Quelle für Retargeting nutzen; bringt das nichts, auf 20 €/Tag.
+7. Google: "catering firma" pausieren (Frage läuft, Frist 12.11.), "Pizza Bestellen" nach zwei weiteren Wochen über 40 € je Conversion pausieren, Brand behalten.
+

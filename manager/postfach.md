@@ -4,6 +4,9 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 
 ## Offene Fragen an Damian
 - [offen, als nächste] Newsletter | Code für Mail Mi 11.11.: NUMMER1 im Shop angelegt (10 % ab 25 €, Mi 11.11. 11:00 bis So 15.11. 22:00)? | Frist Di 10.11. 08:30 | Antworten: A ja so angelegt ... B anderer Name oder Werte ... C kein Code | Quelle: Chat 09.11.
+- [offen, ab Mo 16.11.] Ads Pizzeria | Sales auf 100 € je Öffnungstag und Attribution "7 Tage Klick" (28 Tage: 63 Käufe, nur 20 nach Klick, 75,47 € je Klick-Kauf)? | Frist Di 17.11. | Antworten: A umsetzen ... B so lassen | Quelle: logs/ads-log.md 09.11. abends
+- [offen] Ads Catering | Cannoli-Anzeigengruppe pausieren (279 € für 1 Lead, Lernphase FAIL)? | Frist Do 12.11. | Antworten: A pausieren ... B weiterlaufen | Quelle: logs/ads-log.md 09.11. abends
+- [offen] Ads Pizzeria | Online-Bestellungen orderu je Tag Mi 04.11. bis So 08.11. (Abgleich mit Pixel-Käufen) | Frist Mo 16.11. | Quelle: Eintrag 2026-11-09 08:40
 - [offen] Social | Neues Rohmaterial für die Woche ab 18.11. (Teig ausziehen 4K, Arancino aufbrechen, Team am Ofen) | Frist So 15.11. | Antworten: A kommt per AirDrop/WordPress ... B diese Woche kein Dreh, Reel-Tage entfallen | Quelle: Eintrag 2026-11-09 08:45
 - [offen] Ads Catering | Google-Keywords "italienisches catering" (169 € ohne Conv.) und "catering firma" (417 € je Conv.) pausieren? | Frist Do 12.11. 12:00 | Antworten: A beide pausieren ... B nur italienisches catering ... C weiterlaufen | Quelle: Eintrag 2026-11-05 08:50
 - [offen, niedrig] Social | upload-33 (ID 6136) ist privat und öffentlich in der Mediathek, löschen? Dazu alte Entwürfe 406322950, 406323120, 406323232, 406323322 löschen? | Frist So 15.11. | Antworten: A beides löschen (Agent löscht die Entwürfe, Damian upload-33) ... B lassen | Quelle: Eintrag 2026-11-09 08:45

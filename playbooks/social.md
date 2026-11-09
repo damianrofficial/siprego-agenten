@@ -132,6 +132,20 @@ Daraus die Regeln:
 - Woche 10. bis 15.11.2026 (Lauf vom 09.11.): Ungeschnitten #11 bis #14, Static Mittagsmenü mit arancini-holzbrett.jpg, Karussell Mortabella mit allen Freistellern; Details und gesperrte Medien bis 21.12. in logs/social-log.md.
 - Mo 09.11.2026 16:45, Instagram (Auftrag Damian, sofort veröffentlicht): Sonderpost Flyer-Helfer "Flyer verteilen. Wir suchen dich." als Feed-Post (Metricool 421997180) und Story (421997223), Foto siprego-flyer-pfersee-hand-2026-11 (ID 6176) gesperrt bis 21.12.2026. Details in logs/social-log.md.
 
+## Manuelle Instagram-Posts auf TikTok nachziehen (Dauerregel seit 09.11.2026, Damian)
+
+Damian wörtlich: "der social media agent muss außerdem regelmäßig prüfen, ob wir manuell posts veröffentlicht haben um diese dann auch auf tiktok zu posten."
+
+1. Wann: bei jedem Lauf (WOCHENPLAN, AENDERUNG) und wenn der Manager den Agenten täglich dafür aufruft.
+2. Finden: Instagram-Reels der letzten 14 Tage aus Metricool Analytics lesen (Netzwerk instagram, Connector reels: IGRE02 Datum mit Uhrzeit in UTC, IGRE03 Text, IGRE06 Link; zusätzlich Connector posts IGPO02, IGPO03, IGPO06, IGPO07 für den Typ). Mit den vom Agenten angelegten Posts vergleichen (Social-Log, Metricool-Planer per getScheduledPosts, dort stehen auch veröffentlichte Posts mit publicUrl). Ein Reel, das nicht vom Agenten stammt, ist ein manueller Post von Damian. Nur Videos (Reels); Fotos und Karussells werden nicht nachgezogen.
+3. Prüfen, ob es schon auf TikTok @siprego ist: TikTok-Videos aus Metricool Analytics (Netzwerk tiktok, Connector posts: TKPO02, TKPO03, TKPO05) und TikTok-Posts im Planer, Abgleich über gleiche Caption-Nummer (z. B. "Ungeschnitten #10") oder gleichen Tag und gleiches Motiv. Damian kann auch selbst auf TikTok gepostet haben. Im Zweifel nicht posten und melden.
+4. Datei beschaffen: zuerst WordPress-Mediathek (siprego-upload-*, Motiv per Kontaktbogen prüfen); nur wenn die Datei eindeutig dasselbe Video ist. Sonst die Medien-URL aus Metricool Analytics per curl. Nie eine Fassung mit Instagram-Wasserzeichen. Stand 09.11.2026: Metricool Analytics liefert für Reels nur das Vorschaubild (IGRE05), keine Video-URL, und die Instagram-Server (cdninstagram.com, instagram.com) sowie tiktok.com sind aus der Cloud-Umgebung gesperrt. Praktisch bleibt also nur die Mediathek.
+5. Aufbereiten: Posting-Version wie für Raw-Reels (1080x1920, H.264, 30 fps, Originalton, kein Hook, keine Musik, wenn Damians Fassung keine hat). Upload als siprego-tiktok-THEMA-DATUM.mp4.
+6. TikTok-Caption kurz aus der Instagram-Caption ableiten (10 bis 40 Wörter, gleiche Nummer, keine neuen Fakten, 3 bis 5 Hashtags, kein Link) plus TikTok-Titel mit höchstens 60 Zeichen.
+7. Einplanen: als reiner TikTok-Post (providers tiktok, tiktokData mit title), fest eingeplant mit draft false (Damians Regel ist die Freigabe), autoPublish true. Nächster freier Slot zwischen 10:00 und 20:00, höchstens ein nachgezogenes Video pro Tag, mindestens 3 Stunden Abstand zu jedem geplanten Agent-Post auf TikTok oder Instagram, nicht Montag oder Dienstag vormittags.
+8. Lässt sich die Datei nicht beschaffen: im Social-Log als "Datei fehlt" führen und dem Manager melden, damit er Damian um den Upload in die Mediathek bittet (Kurzbefehl "An Siprego senden", sonst per AirDrop an den Mac und von dort in WordPress unter Medien).
+9. Protokoll: Jedes geprüfte manuelle Reel im Social-Log unter "TikTok-Nachzug" mit Instagram-Link, Datum, Status (nachgezogen mit TikTok-ID und Termin, schon auf TikTok, Datei fehlt), damit nichts doppelt gepostet wird. Vor jedem Einplanen diese Liste lesen.
+
 ## Sperrtermine und Sonderfälle
 
 - Betriebsurlaub, Feiertage, Veranstaltungen: hier eintragen. Aktuell keine.
