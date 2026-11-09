@@ -7,6 +7,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [offen, ab Mo 16.11.] Ads Pizzeria | Sales auf 100 € je Öffnungstag und Attribution "7 Tage Klick" (28 Tage: 63 Käufe, nur 20 nach Klick, 75,47 € je Klick-Kauf)? | Frist Di 17.11. | Antworten: A umsetzen ... B so lassen | Quelle: logs/ads-log.md 09.11. abends
 - [offen] Ads Catering | Cannoli-Anzeigengruppe pausieren (279 € für 1 Lead, Lernphase FAIL)? | Frist Do 12.11. | Antworten: A pausieren ... B weiterlaufen | Quelle: logs/ads-log.md 09.11. abends
 - [offen] Ads Pizzeria | Online-Bestellungen orderu je Tag Mi 04.11. bis So 08.11. (Abgleich mit Pixel-Käufen) | Frist Mo 16.11. | Quelle: Eintrag 2026-11-09 08:40
+- [offen] Social | TikTok-Nachzug: 5 manuelle Reels fehlen auf TikTok (Ungeschnitten #5 30.10., #6 31.10., #7 05.11., Dough diary #3 07.11., #10 08.11.), Originaldateien nicht in der Mediathek. Lädt Damian sie hoch (AirDrop an den Mac, WordPress Medien)? | Frist So 15.11. | Antworten: A lade ich hoch ... B nur ab jetzt, die alten nicht | Quelle: Eintrag 2026-11-09 20:58
 - [offen] Social | Neues Rohmaterial für die Woche ab 18.11. (Teig ausziehen 4K, Arancino aufbrechen, Team am Ofen) | Frist So 15.11. | Antworten: A kommt per AirDrop/WordPress ... B diese Woche kein Dreh, Reel-Tage entfallen | Quelle: Eintrag 2026-11-09 08:45
 - [offen] Ads Catering | Google-Keywords "italienisches catering" (169 € ohne Conv.) und "catering firma" (417 € je Conv.) pausieren? | Frist Do 12.11. 12:00 | Antworten: A beide pausieren ... B nur italienisches catering ... C weiterlaufen | Quelle: Eintrag 2026-11-05 08:50
 - [offen, niedrig] Social | upload-33 (ID 6136) ist privat und öffentlich in der Mediathek, löschen? Dazu alte Entwürfe 406322950, 406323120, 406323232, 406323322 löschen? | Frist So 15.11. | Antworten: A beides löschen (Agent löscht die Entwürfe, Damian upload-33) ... B lassen | Quelle: Eintrag 2026-11-09 08:45
@@ -75,4 +76,8 @@ Bearbeitet vom Manager: ja (09.11.)
 
 ### 2026-11-09 16:37 | Social-Media-Agent | Sonderpost Flyer-Helfer | Status: OK
 Auftrag Damian 09.11. ("Baue einen Post und eine Story und Post es"). Instagram Feed-Post 421997180 und Story 421997223, Mo 09.11. 16:45, draft false. Bilder WP 6177 (Feed), 6178 (Story), Foto 6176. Caption ohne Bezahlung, Alter, Stunden. Geprüft 16:54: beide PUBLISHED. Post https://www.instagram.com/p/Dfhr0U6CDsU/ , Story https://www.instagram.com/stories/siprego.pizza/4026692253942033789 . Bearbeitet vom Manager: ja (09.11.)
+
+### 2026-11-09 20:58 | Social-Media-Agent | AENDERUNG (Karussell frei, TikTok-Nachzug) | Status: TEILWEISE
+Erledigt: Karussell Mortabella v4 fest geplant, Fr 13.11. 10:30, IG 422327019. Regel "Manuelle Instagram-Posts auf TikTok nachziehen" in playbooks/social.md. Erste Prüfung 26.10. bis 09.11.: 5 manuelle Reels von Damian, keines auf TikTok (dort seit 26.10. nur die 7 Agent-Posts): Ungeschnitten #5 (30.10.), #6 (31.10.), #7 Biga (05.11.), Dough diary #3 (07.11.), #10 Ferdi (08.11.). Nichts eingeplant: Datei fehlt bei allen. Metricool liefert für Reels nur das Vorschaubild, keine Video-URL; instagram.com, cdninstagram.com und tiktok.com sind über den Proxy gesperrt (403). #7 könnte upload-26 sein, nicht prüfbar. Freie TikTok-Slots KW46: Mi, Do, Fr, So ab 14:00, Sa 10:00 bis 15:30.
+Bearbeitet vom Manager: ja (09.11.)
 
