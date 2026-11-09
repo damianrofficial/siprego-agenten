@@ -20,6 +20,7 @@ Stand: 03.11.2026 abends (Dienstag-Post im Rhythmus, Catering nur spärlich, Nap
 - Löschen (nur eigene Zwischen- oder Testdateien): curl -X DELETE -u "social-agent:proxy-injected" "https://siprego.de/wp-json/wp/v2/media/ID?force=true". Rohmaterial von Damian nie löschen.
 - Eingerichtet 13.10.2026, Limits erhöht 17.10.2026 (Plesk PHP 512M, nginx client_max_body_size, wp-config WP_MEMORY_LIMIT 512M).
 - Fertige Statics von Damian in der Mediathek: Antipasti-Platte für 2 Personen, 24,90 €, "Jetzt im Siprego Shop bestellen" (Quelle Damian, 09.11.2026, 1254x1254, frei ab sofort, Preis 24,90 € von Damian bestätigt): https://siprego.de/wp-content/uploads/2026/11/siprego-antipasti-fuer-2-24-90-damian-2026-11.jpg (ID 6163). Noch kein Post daraus angelegt.
+- Foto von Damian: neuer Flyer "Deine Pizzeria in Pfersee" (Pizza Bufala Verde) in der Hand vor dem Siprego-Logo an der Wand (Quelle Damian, 09.11.2026, Original 1932x2576, WordPress hat auf 1920x2560 skaliert): https://siprego.de/wp-content/uploads/2026/11/siprego-flyer-pfersee-hand-2026-11-scaled.jpg (ID 6176). Verwendet am 09.11.2026 im Sonderpost Flyer-Helfer (Feed und Story), gesperrt bis 21.12.2026.
 
 ## Rohmaterial
 
@@ -129,6 +130,7 @@ Daraus die Regeln:
 - So 18.10.2026 10:30, Instagram Reel (Metricool-ID 398982897) und TikTok (398982930) getrennt: Hook "Wie lang wird der Käsefaden?", dann "4 Füllungen. Welche nimmst du?" Arancini Ragu, 4 Käse, Spinaci, Genovese mit Sortennamen im Bild, Musik von Damians CapCut-Version (https://siprego.de/wp-content/uploads/2026/10/siprego-arancini-4-sorten-2026-10-18-reel-v2.mp4). Ersetzt den vorher für 11:30 geplanten Käsefaden-Reel. Verbrauchte Rohclips (6 Wochen nicht wiederverwenden): siprego-upload-11, -12, -18, -20 und die ersten 3 s von -19 (Tischszene). Frei: -10 (dritter Arancino), Rest von -19.
 - Woche 28.10. bis 01.11.2026 (Lauf vom 26.10.), Menü-Posts 29./30.10. und Woche 04. bis 08.11.2026 (Lauf vom 02.11.): siehe logs/social-log.md.
 - Woche 10. bis 15.11.2026 (Lauf vom 09.11.): Ungeschnitten #11 bis #14, Static Mittagsmenü mit arancini-holzbrett.jpg, Karussell Mortabella mit allen Freistellern; Details und gesperrte Medien bis 21.12. in logs/social-log.md.
+- Mo 09.11.2026 16:45, Instagram (Auftrag Damian, sofort veröffentlicht): Sonderpost Flyer-Helfer "Flyer verteilen. Wir suchen dich." als Feed-Post (Metricool 421997180) und Story (421997223), Foto siprego-flyer-pfersee-hand-2026-11 (ID 6176) gesperrt bis 21.12.2026. Details in logs/social-log.md.
 
 ## Sperrtermine und Sonderfälle
 
