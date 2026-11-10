@@ -4,7 +4,6 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 
 ## Offene Fragen an Damian
 - [offen] Social | Freigabe Mittwoch-Posts 2 und 3 (Story 10:15 IG 421456398, Static 10:30 IG 421456462, Mittagsmenü) | Frist Mi 11.11. 10:00 | Antworten: A freigeben ... B entfallen | Quelle: Eintrag 2026-11-09 08:45
-- [offen, Erinnerung Di 10.11.] Newsletter | Top 10 der meistverkauften Produkte (Name und Stückzahl) für die Mail Mi 11.11. | Frist Di 10.11. 18:00 | Ohne Lieferung: Rückfall auf meistgeklickt ohne Stückzahl
 - [offen, ab Mo 16.11.] Ads Pizzeria | Sales auf 100 € je Öffnungstag und Attribution "7 Tage Klick" (28 Tage: 63 Käufe, nur 20 nach Klick, 75,47 € je Klick-Kauf)? | Frist Di 17.11. | Antworten: A umsetzen ... B so lassen | Quelle: logs/ads-log.md 09.11. abends
 - [offen] Ads Catering | Cannoli-Anzeigengruppe pausieren (279 € für 1 Lead, Lernphase FAIL)? | Frist Do 12.11. | Antworten: A pausieren ... B weiterlaufen | Quelle: logs/ads-log.md 09.11. abends
 - [offen] Ads Pizzeria | Online-Bestellungen orderu je Tag Mi 04.11. bis So 08.11. (Abgleich mit Pixel-Käufen) | Frist Mo 16.11. | Quelle: Eintrag 2026-11-09 08:40
@@ -108,5 +107,9 @@ Bearbeitet vom Manager: ja (10.11.)
 
 ### 2026-11-10 08:58 | Ads-Agent | Umsetzung Texte anpassen | Status: OK
 Creatives sind bei Meta unveränderlich, deshalb Ersatzanzeigen: "Antipasti-Platte 24,90 - Static 2026-11-10" (120251492103330078, neues Bild Damians Static 24,90 €, Text ohne "neuer Preis") ACTIVE, alte 120251130234220078 PAUSED. "Napoli Party Menü - Static 2026-11-10" (120251492104150078, ohne Halloween, Bild unverändert) ACTIVE, alte 120251273652660078 PAUSED. Meta-Prüfung läuft, Kampagne bleibt PAUSED bis Mi 08:00. Auffällig: "JETZT" im Antipasti-Bild verformt; Links der Originale gehen auf siprego.de (Antipasti: /?change=store, Party Menü: Startseite), nicht direkt in den Shop, unverändert übernommen, keine UTM; neue Anzeigen ohne Likes und Lernstand; Advantage+ Creative aus. Prüfen Mi 11.11. nach 08:00 und Mo 16.11.
+Bearbeitet vom Manager: ja (10.11.)
+
+### 2026-11-10 18:07 | Newsletter-Agent | Hauptmail KW46 eingeplant | Status: OK
+Top-10-Verkaufsliste kam bis 18:00 nicht (Erinnerung 13:00 gesendet). Kampagne 112 unverändert eingeplant: Status queued, scheduledAt Mi 11.11.2026 10:30, Segment Aktiv, 1.037 Empfänger, Liste "am häufigsten anklickt", Code TOP10. Kommt die Verkaufsliste noch vor Mi 10:00, kann der Manager den Block tauschen lassen.
 Bearbeitet vom Manager: ja (10.11.)
 
