@@ -3,6 +3,8 @@
 Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmail und Zweitmail, Rückfrage-Check, Ads Pizzeria, Ads Catering). Die Agenten hängen ihre Berichte und Fragen unter "## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
+- [offen, als nächste, dringend] Ads Pizzeria | Anzeige "Antipasti-Platte 19,90 - Static 2026-10-15" (120251130234220078) pausieren? Nennt 19,90 €, Preis ist 24,90 €; Kampagne startet Mi 11.11. 08:00 wieder | Frist Mi 11.11. 07:45 | Antworten: A pausieren ... B weiterlaufen | Quelle: Stichprobe Manager 10.11.
+- [offen] Social | Freigabe Mittwoch-Posts 2 und 3 (Story 10:15 IG 421456398, Static 10:30 IG 421456462, Mittagsmenü) | Frist Mi 11.11. 10:00 | Antworten: A freigeben ... B entfallen | Quelle: Eintrag 2026-11-09 08:45
 - [offen, Erinnerung Di 10.11.] Newsletter | Top 10 der meistverkauften Produkte (Name und Stückzahl) für die Mail Mi 11.11. | Frist Di 10.11. 18:00 | Ohne Lieferung: Rückfall auf meistgeklickt ohne Stückzahl
 - [offen, ab Mo 16.11.] Ads Pizzeria | Sales auf 100 € je Öffnungstag und Attribution "7 Tage Klick" (28 Tage: 63 Käufe, nur 20 nach Klick, 75,47 € je Klick-Kauf)? | Frist Di 17.11. | Antworten: A umsetzen ... B so lassen | Quelle: logs/ads-log.md 09.11. abends
 - [offen] Ads Catering | Cannoli-Anzeigengruppe pausieren (279 € für 1 Lead, Lernphase FAIL)? | Frist Do 12.11. | Antworten: A pausieren ... B weiterlaufen | Quelle: logs/ads-log.md 09.11. abends
@@ -84,4 +86,15 @@ Auftrag Damian 09.11. ("Baue einen Post und eine Story und Post es"). Instagram 
 ### 2026-11-09 20:58 | Social-Media-Agent | AENDERUNG (Karussell frei, TikTok-Nachzug) | Status: TEILWEISE
 Erledigt: Karussell Mortabella v4 fest geplant, Fr 13.11. 10:30, IG 422327019. Regel "Manuelle Instagram-Posts auf TikTok nachziehen" in playbooks/social.md. Erste Prüfung 26.10. bis 09.11.: 5 manuelle Reels von Damian, keines auf TikTok (dort seit 26.10. nur die 7 Agent-Posts): Ungeschnitten #5 (30.10.), #6 (31.10.), #7 Biga (05.11.), Dough diary #3 (07.11.), #10 Ferdi (08.11.). Nichts eingeplant: Datei fehlt bei allen. Metricool liefert für Reels nur das Vorschaubild, keine Video-URL; instagram.com, cdninstagram.com und tiktok.com sind über den Proxy gesperrt (403). #7 könnte upload-26 sein, nicht prüfbar. Freie TikTok-Slots KW46: Mi, Do, Fr, So ab 14:00, Sa 10:00 bis 15:30.
 Bearbeitet vom Manager: ja (09.11.)
+
+### 2026-11-10 08:37 | Newsletter-Agent | Hauptmail KW46 | Status: OK
+Freigabe nötig: Kampagne 112 "NL-Agent | 2026-KW46 | C Angebot | Eure Top 10 Code TOP10 | Versand Mi 11.11. 10:30 | v1 Entwurf, Bild Bufala, Liste meistgeklickt", Entwurf ohne scheduledAt, Segment Aktiv (ID 1), 1.038 Empfänger. Betreff "{{ contact.VORNAME | default : "Ciao" }}, eure Top 10 und 10 % auf alles 🍕", Vorschautext "Code TOP10 gilt ab heute 11 Uhr bis Sonntag 22 Uhr, ohne Mindestbestellwert."
+Erledigt: Entwurf angelegt und zurückgelesen. Top-10-Block (meistgeklickt, ohne Zahlen, ohne Preise) ist einzeln tauschbar. Shop-Gegenprüfung 08:33: alle 10 Pizzen aktiv, Preise stimmen.
+Zahlen: Mail 111 Stand 10.11.: 2.060 zugestellt, 9 Klicks (0,44 pro 100), 19 Abmeldungen (0,92 %), 0 Beschwerden. Mail 109: 1.026 zugestellt, 17 Klicks (1,66 pro 100), 6 Abmeldungen.
+Bedarf: Top-10-Verkaufsliste heute 18:00; Zahlen Catering-Saison 2026 bis Mo 16.11. (Mail 18.11.); Black-Friday-Code bis Mo 23.11.; Zweitmail So 15.11. mit TOP10 braucht anderes Bild.
+Offene Punkte: Preise nicht in der Liste; Code TOP10 im Shop-JSON nicht sichtbar, technisch nicht prüfbar; zweiter Aufruf heute plant ein (mit Liste oder um 18:00 ohne).
+Bearbeitet vom Manager: ja (10.11.)
+
+### 2026-11-10 08:45 | Manager | Stichproben
+Metricool: Di 17:30 #11 fest, Do, Fr, Sa, So fest, Mi Story und Static Entwurf. Meta: v2 Mortabella und v3 Salami durch die Prüfung (CAMPAIGN_PAUSED). Frequenz 7 Tage höchster Wert 2,24 (Napoli Party Menü), nichts über 2,5. Abweichung: Anzeige "Antipasti-Platte 19,90" in der Sales-Kampagne nennt alten Preis (35,54 € Spend in 7 Tagen).
 
