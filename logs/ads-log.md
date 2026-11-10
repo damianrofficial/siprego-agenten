@@ -125,3 +125,21 @@ Empfehlungen in Reihenfolge (jede einzeln als Frage, eine Variable auf einmal):
 6. Awareness: Radius auf 10 km um den Laden, als Quelle für Retargeting nutzen; bringt das nichts, auf 20 €/Tag.
 7. Google: "catering firma" pausieren (Frage läuft, Frist 12.11.), "Pizza Bestellen" nach zwei weiteren Wochen über 40 € je Conversion pausieren, Brand behalten.
 
+### 2026-11-10 08:58 | Pizzeria | Umsetzung (Ads-Agent), Freigabe Damian 10.11.: "Texte anpassen." (zwei Anzeigen mit veraltetem Text)
+- Kampagne "Pizzeria - Sales - Kauf - 2026-10" (120251130156120078), Anzeigengruppe "Lokal 10km - Kauf" (120251130156130078). Kampagnenstatus nicht angefasst (PAUSED, startet Mi 11.11. 08:00). Kein Budget, keine Zielgruppe, keine anderen Anzeigen geändert.
+- Technik: Creatives sind bei Meta unveränderlich, die Zuweisung eines neuen Creatives an eine bestehende Anzeige lehnt der Connector ab ("Ad creatives are immutable and cannot be edited in place"). Deshalb je Anzeige: neues Creative, neue Anzeige (ACTIVE), alte Anzeige PAUSED. Die alten Anzeigen behalten ihre Zahlen, die neuen starten ohne Historie (Likes, Kommentare, Lernstand).
+- Ziel-Link der Originale über ads_get_ad_preview lesbar (Feld creative.link_url; ads_get_creatives liefert ihn weiter nicht): Antipasti https://siprego.de/?change=store, Napoli https://siprego.de/. Unverändert übernommen. URL-Parameter (UTM) der Originale sind nicht lesbar, die neuen Creatives haben keine.
+- Umgesetzt 10.11. 08:58 (Ads-Agent), Anzeige 1 Antipasti:
+  - Alt: "Antipasti-Platte 19,90 - Static 2026-10-15" (120251130234220078, Creative 1643714044081325, Bild-Hash 5785f31187b12988c164a1c4341c8b19, Bild zeigt 19,90 €), ACTIVE auf PAUSED.
+  - Neu: "Antipasti-Platte 24,90 - Static 2026-11-10" (120251492103330078, Creative 28953158267675705), ACTIVE. Bild getauscht: Damians Static mit 24,90 € (Mediathek-ID 6163, Meta-Hash 890a33d6b63af4ccbbe67dfe65e2eaae, 1254x1254).
+  - Text: "Für 19,90 €" auf "Für 24,90 €"; "hat einen neuen Preis" gestrichen; Gedankenstriche in Text und Beschreibung durch Komma ersetzt. Überschrift unverändert (enthält keinen Preis). Preis 24,90 € am 10.11. im Shop bestätigt.
+  - Auffällig: Im Ersatzbild ist das Wort "JETZT" in der Fußzeile "JETZT IM SIPREGO SHOP BESTELLEN" verformt (beide T beschädigt). Bild wie beauftragt verwendet, Damian melden.
+- Umgesetzt 10.11. 08:58 (Ads-Agent), Anzeige 2 Napoli Party Menü:
+  - Alt: "Napoli Party Menü - Static 2026-10-29" (120251273652660078, Creative 1621395279470650), ACTIVE auf PAUSED.
+  - Neu: "Napoli Party Menü - Static 2026-11-10" (120251492104150078, Creative 1661109308734969), ACTIVE. Bild unverändert (Hash d624519ad1ee5c19cb199f4dff4b500e), keine Halloween-Elemente im Bild.
+  - Text: "Für Halloween am Samstag, den Spieleabend oder einfach, weil ihr hungrig seid." auf "Für den Spieleabend oder einfach, weil ihr hungrig seid."; "Bestellen über den Link in der Bio oder ruf an" auf "Jetzt im Siprego Shop bestellen oder ruf an". Preis 79,90 € und Inhalt am 10.11. im Shop bestätigt.
+- Beide neu: Seite 107161917608798, Instagram 17841437370330749, CTA ORDER_NOW, Überschrift "Pizza & Arancini in Augsburg-Pfersee | SIPREGO Pizzeria", Beschreibung "Online bestellen, Lieferung & Abholung in Augsburg". Advantage+ Creative aus (keine Erweiterung aktiv; die Originale hatten mehrere an, unter anderem Textoptimierung und Bildvorlagen).
+- Bestätigt per ads_get_ad_entities und ads_get_creatives: neue Anzeigen status ACTIVE, alte PAUSED, alle effective_status IN_PROCESS (Prüfung durch Meta), Kampagne PAUSED. Texte der neuen Creatives wörtlich zurückgelesen. Link der neuen Creatives ist nicht rücklesbar (Vorschau liefert bei neuen Creatives link_url leer, wie am 09.11.).
+- Hinweis: Der Link beider Anzeigen führt auf siprego.de (Startseite), nicht direkt in den Shop, obwohl Text und Bild "Jetzt im Siprego Shop bestellen" sagen. Nicht geändert (Auftrag: Link unverändert).
+- Prüfung: Mi 11.11. nach 08:00 (Freigabe durch Meta, Auslieferung der zwei neuen Anzeigen) und Mo 16.11. im Wochenbericht.
+

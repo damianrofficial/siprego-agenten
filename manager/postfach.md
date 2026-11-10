@@ -106,3 +106,7 @@ Widersprüche: Mail 112 keine (Text, Code TOP10, Zutaten aller 10 Pizzen, Link, 
 Erinnerungen: Mail 112 heute bis 18:00 einplanen. Mail nennt TOP10, kein Post nennt ihn (Mittwoch-Regel "ein Thema, zwei Kanäle" nicht erfüllt). Shop-Feld popularity zeigt andere Reihenfolge als der Screenshot (Diavolo, Margherita, Funghi, Sofia, Bufala Verde, Mortabella, Tonno, Bufala, Cheese Supreme, Salami). Nach So 15.11. ist nichts geplant. Feiertags-Öffnungszeiten 24.12. bis 01.01. fehlen (Frist 01.12.). Tiramisu im Shop 7,90 €, im Playbook "nicht bestätigt".
 Bearbeitet vom Manager: ja (10.11.)
 
+### 2026-11-10 08:58 | Ads-Agent | Umsetzung Texte anpassen | Status: OK
+Creatives sind bei Meta unveränderlich, deshalb Ersatzanzeigen: "Antipasti-Platte 24,90 - Static 2026-11-10" (120251492103330078, neues Bild Damians Static 24,90 €, Text ohne "neuer Preis") ACTIVE, alte 120251130234220078 PAUSED. "Napoli Party Menü - Static 2026-11-10" (120251492104150078, ohne Halloween, Bild unverändert) ACTIVE, alte 120251273652660078 PAUSED. Meta-Prüfung läuft, Kampagne bleibt PAUSED bis Mi 08:00. Auffällig: "JETZT" im Antipasti-Bild verformt; Links der Originale gehen auf siprego.de (Antipasti: /?change=store, Party Menü: Startseite), nicht direkt in den Shop, unverändert übernommen, keine UTM; neue Anzeigen ohne Likes und Lernstand; Advantage+ Creative aus. Prüfen Mi 11.11. nach 08:00 und Mo 16.11.
+Bearbeitet vom Manager: ja (10.11.)
+
