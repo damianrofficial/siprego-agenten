@@ -155,6 +155,8 @@ Damian wörtlich: "der social media agent muss außerdem regelmäßig prüfen, o
 
 ## Notizen von Damian an den Agenten
 
+- (über Manager, 12.11.2026) Neue Fotos von Damian in der Mediathek, über WordPress hochgeladen: ID 6185 Salami-Pizza im Karton, 6186 Margherita im Siprego-Karton vor der Bar, 6187 Prosciutto-Funghi auf dem Holzbrett (dicker Rand). Frei für Social. ID 6189 (Teig im Behälter) ist im Newsletter 113 verwendet. ID 6188 (IMG_0096) ist ein privater Screenshot: NIE verwenden.
+
 - (über Manager, 11.11.2026) "zum reel. nimm den ganzen clip. nicht schneiden!" Dauerregel: Ungeschnitten-Clips von Damian werden in voller Länge gepostet, nicht gekürzt, auch nicht am Anfang (geht der Hook-Regel vom 07.11. und der Kürzungsregel für Raw-Reels vor). Wirkt etwas rechtlich oder inhaltlich heikel (z. B. erkennbare Gäste), vorher dem Manager melden statt selbst zu kürzen.
 
 - (über Manager, 11.11.2026) Upload-Wege für Rohmaterial: Kurzbefehl "An Siprego senden" bricht bei Damian teils mit "Die Netzwerkverbindung wurde unterbrochen" ab (kein Autorisierungsfehler; Zugang social-agent funktioniert, Upload-Limit laut WordPress 512 MB, bisher größter Upload 120 MB). Die WordPress-App geht nicht, weil der Server /wp-json/wp/v2/users und /xmlrpc.php mit 403 sperrt (Sicherheitsregel des Hostings, nicht ändern). Ausweichweg: Safari auf dem iPhone, siprego.de/wp-admin, Medien, Datei hinzufügen; oder AirDrop an den Mac. Dateien heißen dann nicht siprego-upload-N: bei jedem Lauf ALLE neuen Videos in der Mediathek sichten, nicht nur siprego-upload-*.

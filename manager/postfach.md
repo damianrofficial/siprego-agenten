@@ -138,3 +138,7 @@ Bearbeitet vom Manager: ja (11.11.)
 Kampagne 113 "NL-Agent | 2026-KW46 | Sondermail | neuer Stil | Teig Biga, PS Code TOP10 | Versand Do 12.11. 10:30", Status queued, scheduledAt Do 12.11.2026 10:30, Segment Aktiv, 1.028 Empfänger. Absendername "Damian von Siprego" (info@siprego.de). Betreff "ich hab am teig gedreht", Vorschautext "Erst ließ er sich kaum ausziehen. Dann war er morgens übergärt." Kein Bild, Ich-Form, rund 115 Wörter, Frage zum Antworten, PS mit Code TOP10 bis So 22 Uhr und Donnerstag 11 bis 22 Uhr. Belege: Dough diary #2 (01.11.), Dough diary #3 (07.11.), Ungeschnitten #7 (05.11.). Vorschau an Damian geschickt 11.11. 23:45; Absendername und Stil hat er noch nicht bestätigt, kann bis Do 10:30 stoppen. Hinweis: Dauertext "48 Stunden Teigruhe" passt eventuell nicht mehr zum Biga-Teig, später klären. Antworten landen bei info@siprego.de.
 Bearbeitet vom Manager: ja (11.11.)
 
+### 2026-11-12 00:40 | Newsletter-Agent | Kampagne 113 Fassung v3 | Status: OK
+Bild getauscht gegen Damians Foto IMG_0187 (WP 6189, Ausschnitt als WP 6190 siprego-nl-vorteig-2026-11-12.jpg). Text wie v2. Status queued, Do 12.11. 10:30, 1.028 Empfänger. Neue Uploads von Damian 12.11.: 6185 Salami im Karton, 6186 Margherita im Karton vor der Bar, 6187 Prosciutto-Funghi auf Brett, 6189 Teig im Behälter; 6188 (IMG_0096) ist ein privater Sperrbildschirm-Screenshot, nie verwenden, Damian gebeten zu löschen. TODO Do 08:31: Social-Agent über die drei Pizza-Fotos informieren.
+Bearbeitet vom Manager: ja (12.11.)
+
