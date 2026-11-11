@@ -15,6 +15,8 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [offen, niedrig] Social | upload-33 (ID 6136) ist privat und öffentlich in der Mediathek, löschen? Dazu alte Entwürfe 406322950, 406323120, 406323232, 406323322 löschen? | Frist So 15.11. | Antworten: A beides löschen (Agent löscht die Entwürfe, Damian upload-33) ... B lassen | Quelle: Eintrag 2026-11-09 08:45
 
 ## Entscheidungen von Damian
+- 11.11. 22:55 (Chat) Social | "ich habe einen neuen ungeschnitten clip rein. kannst du gerne für morgen planen" | Umgesetzt: Clip 6181 (IMG_0242.mov, gefilmt 11.11. 17:54) ersetzt das Teig-Reel am Do 12.11. 10:30, fest geplant (IG 425000756, TikTok 425000831), "Ungeschnitten #12", Start bei 4,6 s (Gäste am Tisch vorher erkennbar), 7,3 s.
+- 11.11. 23:00 (Chat) Preise | "scheint also so als wären wir bereits gut bzw. gehoben bepreist? lohnt sich dann zu erhöhen?" | Antwort Manager: nicht pauschal; Piccola +1 € und Spezialpizzen +1 €, Klassiker Grande lassen; größerer Hebel Lieferando und Werbekosten. Keine Entscheidung.
 - 11.11. abends (Chat) Manager | "Wir überlegen außerdem unsere Pizza Preise leicht anzuheben. +1-2€ für Piccola & Grande, Familie gleich lassen ... Checke unsere Preise und vergleiche mit anderen bekannten Pizzerien aus unserem Segment." | Vergleich per WebSearch (Drittportale, gemischt alt): Margherita Standardgröße bei Neapolitanern 8,90 bis 13 € (München 9,90 bis 12,50; 60 Seconds to Napoli 12 bis 13; L'Osteria 10,90 bis 12,50), Diavola 13,90 bis 18,90 €. Siprego Grande Margherita 13,90 € liegt schon am oberen Rand, Diavolo 16,90 € in der Mitte. Empfehlung: Klassiker Grande nicht erhöhen, Piccola +1 €, Spezialpizzen +1 €, unter 20 € bleiben, Start frühestens Mi 18.11. nach Ende von TOP10. Noch keine Entscheidung. Bei Umsetzung Playbook, Posts und Anzeigen mit Preisen anpassen.
 - 11.11. (Chat) Social | Mittwoch-Posts freigeben? | Antwort: "Um 12:00 posten. Wir haben davor zu viele vorbestellungen" | Freigegeben und verschoben: Story 12:00 (IG 424097139), Static 12:05 (IG 424097190), beide fest geplant.
 - 10.11. (Chat) Ads Pizzeria | Zwei Anzeigen mit veraltetem Text pausieren? | Antwort: "Texte anpassen." | Nicht pausieren, sondern Texte ändern: Antipasti auf 24,90 € (Bild tauschen, falls 19,90 im Bild), Party Menü ohne Halloween. Ads-Agent UMSETZEN läuft.
@@ -122,4 +124,8 @@ Brevo: Kampagne 112 queued für heute 10:30, 1.037 Empfänger. Metricool: Di 17:
 
 ### 2026-11-11 14:10 | Manager | Hinweis Damian: "Reel wurde manuell hochgeladen."
 Geprüft 14:10: In der WordPress-Mediathek kein neuer Upload seit 09.11. (letzte ID 6179). Metricool Analytics zeigt für 09. bis 11.11. nur Ungeschnitten #11 (Agent), das manuelle Reel ist dort noch nicht synchronisiert. TODO Lauf Do 12.11. 08:31: social-Agent AENDERUNG, manuelles Reel vom 11.11. suchen (Nummer?), bei Bedarf Do #12, Sa #13 umnummerieren (vor Do 10:30), TikTok-Nachzug nur mit Originaldatei aus der Mediathek.
+
+### 2026-11-11 23:05 | Social-Media-Agent | AENDERUNG neuer Clip Do | Status: OK
+Do 12.11. 10:30 "Ungeschnitten #12" jetzt mit Clip 6181 (Gang zur Pizzastation, Pesto von Hand, Team im Bild), Reel WP 6182, IG 425000756, TikTok 425000831, fest geplant. Altes Teig-Reel (6172) Reserve. TODO Do 08:31: Damians manuelles Reel vom 11.11. (vor 14:09 gepostet, also anderes Video als 6181) in Metricool suchen; trägt es #12, Do auf #13 und Sa auf #14 umnummerieren, vor 10:30. TikTok-Nachzug des manuellen Reels braucht die Originaldatei.
+Bearbeitet vom Manager: ja (11.11.)
 
