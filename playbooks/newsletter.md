@@ -11,6 +11,22 @@ Stand: 06.11.2026 (Damian im Chat: Umsatz Mi 04.11. 1.100 €, Do 05.11. 2.000 �
 - Push-Benachrichtigung: erste Zeile ist die Frage (falls es eine gibt), sonst die wichtigste Zahl.
 - Seit 03.11. (Notiz unten): Fragen sollen künftig über den Siprego Manager laufen. Solange der Übergabeweg offen ist, gelten die Regeln oben.
 
+## Stil der Mails ab 12.11.2026 (Damian, 11.11.2026, hat Vorrang vor den Stilregeln in der Agent-Anweisung)
+
+Damian wörtlich: "mir gefällt die performance garnicht. die betreffzeilen sind zu lang und schreien förmlich nach newsletter / werbung. die open-rate ist schlecht. die mails sind außerdem unpersönlich. keine story und kein wunsch nach mehr."
+
+Ausgangslage (Brevo, Öffnungen ohne Apple MPP): 109 Halloween-Code 24,8 %, 110 Zweitmail 25,8 %, 111 Mittagsmenü 15,2 % (mit Schläfern), 112 Top 10 mit TOP10 18,3 % bei nur 4 Klicks (0,39 pro 100) und 9 Abmeldungen.
+
+1. Betreff: höchstens 30 Zeichen, besser 2 bis 5 Wörter. Klingt wie eine private Nachricht, nicht wie eine Aktion. Kein Emoji, kein Preis, kein Prozentzeichen, kein "Neu:", kein Ausrufezeichen, keine Aufzählung mit "und". Offene Schleife oder ein konkretes Detail aus der Geschichte. Vorname höchstens in jeder dritten Mail. Beispiele für die Machart (nicht blind übernehmen, nur mit echtem Anlass): "33 % biga", "ich hab am teig gedreht", "kurze frage", "nur noch heute".
+2. Vorschautext: führt den Gedanken des Betreffs weiter, 40 bis 70 Zeichen, nennt nicht das Angebot.
+3. Absender: Vorschlag "Damian von Siprego" statt "SIPREGO" (gleiche Adresse info@siprego.de). Erst nach Damians OK umstellen.
+4. Text: persönliche Mail in Ich-Form von Damian (oder Inga, wenn es ihre Geschichte ist), 80 bis 150 Wörter, kurze Absätze. Einstieg mitten in einer Szene oder mit einem Satz, den man einem Stammgast sagen würde. Eine Geschichte, ein Gedanke. Das Angebot oder der Code kommt erst am Ende oder im PS, in einem Satz. Die Pflichtzeile "heute geöffnet" (Mittwoch 11 bis 22 Uhr) steht im PS oder im letzten Absatz, nicht als Einstieg.
+5. Wunsch nach mehr: Jede Mail endet mit einem Ausblick ("nächsten Mittwoch erzähle ich dir ...", nur wenn das Thema feststeht) oder mit einer echten Frage zum Antworten ("Antworte einfach auf diese Mail"). Wiederkehrende Reihe ist erlaubt (Teig-Tagebuch, Blick hinter die Theke).
+6. Aufbau: kein großes Produktbild ganz oben. Erst Text, dann höchstens ein Foto, das wie vom Handy aussieht (aus Damians Material), dann ein schlichter Button oder Textlink in den Shop. Keine Listen mit zehn Punkten, keine Rangfolgen als Hauptinhalt.
+7. Stoff für Geschichten, nur echte Quellen: Damians eigene Instagram-Posts der Woche (Dough diary, Ungeschnitten, z. B. verbessertes Biga-Rezept vom 05.11., Dough diary #3 vom 07.11.), Notizen von Damian, was Damian im Chat erzählt, Zahlen aus dem Shop. Nichts ausschmücken, was nicht belegt ist. Fehlt eine Geschichte, fragt der Manager Damian montags nach einem Satz zur Woche.
+8. Erste Mails im neuen Stil gehen NICHT im Autopilot raus: Entwurf plus Vorschau an Damian, bis er den Stil bestätigt (Zweitmail So 15.11. und Hauptmail Mi 18.11.).
+9. Messen: Öffnungsrate ohne Apple MPP (Ziel über 25 %), Klicks pro 100 (Ziel über 1,5), Abmeldungen (Ziel unter 0,5 %). Ab 18.11. Betreff-Test über Brevo, wenn die Liste dafür reicht.
+
 ## Öffnungszeiten (ab Mi 14.10.2026)
 
 - Montag, Dienstag: geschlossen
@@ -167,6 +183,7 @@ Ohne Eintrag hier gibt es in keiner Mail einen Code, Rabatt oder eine Zugabe. Da
 - 03.11.2026: Alle Fragen (auch die Warteschlange unten) laufen in Zukunft über den Siprego Manager, nicht mehr direkt in den Berichten. Übergabeweg noch offen.
 - 03.11.2026 23:52: "bitte planen" für Mail 111.
 - 06.11.2026: Umsatz Mi 04.11. 1.100 €, Do 05.11. 2.000 €.
+- 11.11.2026 (über Manager): Kritik an Stil und Öffnungsrate, neuer Stil siehe Abschnitt "Stil der Mails ab 12.11.2026". Mail 112 Stand 11.11. 23:20: 1.032 zugestellt, 18,3 % geöffnet, 4 Klicks, 9 Abmeldungen.
 - 11.11.2026 (über Manager): Umsatz Mi 11.11. 1.500 € (Mail 112 Top 10 mit Code TOP10).
 - 09.11.2026 21:15 (über Manager): "TOP10 - das wäre der code. 10% rabatt auf alles passt. die top 10 verkauften produkte werde ich morgen nachliefern." Thema der Mail Mi 11.11. ist damit "Eure Top 10" (die 10 meistverkauften Produkte) mit Code TOP10. Die Verkaufszahlen kommen am Di 10.11. von Damian. Ablauf für den Lauf Di 10.11.: Mail als ENTWURF anlegen (kein scheduledAt, Ausnahme vom Autopilot), weil Top-10-Liste und Code-Bestätigung noch fehlen; Platz für die Liste vorsehen. Der Manager ruft den Agenten erneut auf, sobald Liste und Code-Bestätigung da sind, dann einplanen für Mi 10:30. Kommt die Liste bis Di 18:00 nicht: Rückfall auf "meistgeklickt" (Diavolo, Margherita, Bufala laut Aufrufen, siehe nächste Zeile) ohne Stückzahl. Kommt die Code-Bestätigung nicht: Mail ohne Code. NACHTRAG 09.11. 21:25: Code TOP10 ist bestätigt (10 % auf alles, kein Mindestbestellwert, Mi 11.11. 11:00 bis So 15.11. 22:00), darf in die Mail. Offen ist nur noch die Top-10-Liste.
 - 09.11.2026 abends (über Manager): Damian schickt Screenshot "Top-Produkte" aus dem Shop als Grundlage für "Nummer 1". ACHTUNG: Die Spalte heißt AUFRUFE (Produktaufrufe im Shop), nicht Bestellungen, Zeitraum im Screenshot nicht sichtbar. Reihenfolge: diavolo 65 (10,9 %), margherita 55 (9,2 %), bufala 40 (6,7 %), pizza-mortabella 35 (5,9 %), pizza-bufala-verde 32 (5,4 %), pizza-cheese-supreme 29 (4,9 %), tonno 26 (4,4 %), paradiso 25 (4,2 %), salami 24 (4 %), sofia 24 (4 %); 30 Produkte gesamt. Für die Mail am 11.11.: Thema "Eure Nummer 1: Pizza Diavolo", Formulierung nur "die Pizza, die ihr im Shop am häufigsten anklickt" oder "meistgeklickt", KEINE Stückzahl und nicht "meistbestellt", solange Damian keine Bestellzahlen liefert. Top 3 (Diavolo, Margherita, Bufala) dürfen als Rangfolge genannt werden. Zutaten und Preise der Diavolo aus dem Shop. Code: Frage an Damian läuft (Vorschlag NUMMER1, 10 % ab 25 €, Mi 11.11. 11:00 bis So 15.11. 22:00); ohne bestätigten Code geht die Mail ohne Code raus.
