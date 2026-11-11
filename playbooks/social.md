@@ -154,6 +154,8 @@ Damian wörtlich: "der social media agent muss außerdem regelmäßig prüfen, o
 
 ## Notizen von Damian an den Agenten
 
+- (über Manager, 11.11.2026) Mittwoch-Posts mit Bestellanlass nicht am Vormittag: "Um 12:00 posten. Wir haben davor zu viele vorbestellungen". Am 11.11. Story auf 12:00 und Static auf 12:05 verschoben. Für künftige Mittwoche Bestell-Posts ab 12:00 einplanen, bis Damian etwas anderes sagt.
+
 - 28.10.2026: Mittwoch-Regel gilt (Abschnitt oben). Halloween-Partymenü und Menüs erst posten, wenn Damian die Shop-Anlage bestätigt hat.
 - 29.10.2026: Alle Entwürfe immer im Chat zur Freigabe schicken (Datei plus Text), siehe "Freigabe und Autopilot".
 - 29.10.2026: Mittagsmenü mit kleiner Pizza (Piccola). Menü-Inhalte aus dem Shop. Napoli Party Menü: 2 Portionen Mozzarella Sticks à 6 Stück, 2 Portionen Chicken Strips à 5 Stück, keine Vorbestellfrist.
