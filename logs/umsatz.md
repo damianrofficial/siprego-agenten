@@ -32,6 +32,7 @@ Werden ersetzt bzw. ergänzt, sobald die Z-Berichte vorliegen.
 | Fr 06.11.2026 | 2.070 | Damian im Chat, 08.11.2026 | |
 | Sa 07.11.2026 | 1.380 | Damian im Chat, 08.11.2026 | |
 | So 08.11.2026 | 2.600 | Damian im Chat, 08.11.2026 22:20 | Sales-Kampagne ab 21:37 pausiert (Öffnungstage-Schaltung) |
+| Mi 11.11.2026 | 1.500 | Damian im Chat, 11.11.2026 | Hauptmail 112 "Eure Top 10" mit Code TOP10 (Aktiv, 1.037), Posts ab 12:00, Martinstag, keine Ferien |
 
 ## Wochen (Mi bis So)
 
