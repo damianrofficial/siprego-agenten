@@ -154,6 +154,8 @@ Damian wörtlich: "der social media agent muss außerdem regelmäßig prüfen, o
 
 ## Notizen von Damian an den Agenten
 
+- (über Manager, 11.11.2026) Upload-Wege für Rohmaterial: Kurzbefehl "An Siprego senden" bricht bei Damian teils mit "Die Netzwerkverbindung wurde unterbrochen" ab (kein Autorisierungsfehler; Zugang social-agent funktioniert, Upload-Limit laut WordPress 512 MB, bisher größter Upload 120 MB). Die WordPress-App geht nicht, weil der Server /wp-json/wp/v2/users und /xmlrpc.php mit 403 sperrt (Sicherheitsregel des Hostings, nicht ändern). Ausweichweg: Safari auf dem iPhone, siprego.de/wp-admin, Medien, Datei hinzufügen; oder AirDrop an den Mac. Dateien heißen dann nicht siprego-upload-N: bei jedem Lauf ALLE neuen Videos in der Mediathek sichten, nicht nur siprego-upload-*.
+
 - (über Manager, 11.11.2026) Mittwoch-Posts mit Bestellanlass nicht am Vormittag: "Um 12:00 posten. Wir haben davor zu viele vorbestellungen". Am 11.11. Story auf 12:00 und Static auf 12:05 verschoben. Für künftige Mittwoche Bestell-Posts ab 12:00 einplanen, bis Damian etwas anderes sagt.
 
 - 28.10.2026: Mittwoch-Regel gilt (Abschnitt oben). Halloween-Partymenü und Menüs erst posten, wenn Damian die Shop-Anlage bestätigt hat.
