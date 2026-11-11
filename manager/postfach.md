@@ -119,3 +119,6 @@ Bearbeitet vom Manager: ja (10.11.)
 ### 2026-11-11 08:35 | Manager | Stichproben Mittwoch
 Brevo: Kampagne 112 queued für heute 10:30, 1.037 Empfänger. Metricool: Di 17:30 Ungeschnitten #11 veröffentlicht (Instagram und TikTok). Heute 10:15 Story und 10:30 Static Mittagsmenü weiter Entwurf, Freigabe-Frage gestellt (Frist 10:00). Meta: Sales-Kampagne seit 08:06 aktiv, 11 Anzeigen aktiv.
 
+### 2026-11-11 14:10 | Manager | Hinweis Damian: "Reel wurde manuell hochgeladen."
+Geprüft 14:10: In der WordPress-Mediathek kein neuer Upload seit 09.11. (letzte ID 6179). Metricool Analytics zeigt für 09. bis 11.11. nur Ungeschnitten #11 (Agent), das manuelle Reel ist dort noch nicht synchronisiert. TODO Lauf Do 12.11. 08:31: social-Agent AENDERUNG, manuelles Reel vom 11.11. suchen (Nummer?), bei Bedarf Do #12, Sa #13 umnummerieren (vor Do 10:30), TikTok-Nachzug nur mit Originaldatei aus der Mediathek.
+
