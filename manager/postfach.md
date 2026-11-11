@@ -133,3 +133,7 @@ Geprüft 14:10: In der WordPress-Mediathek kein neuer Upload seit 09.11. (letzte
 Do 12.11. 10:30 "Ungeschnitten #12" jetzt mit Clip 6181 (Gang zur Pizzastation, Pesto von Hand, Team im Bild), Reel WP 6182, IG 425000756, TikTok 425000831, fest geplant. Altes Teig-Reel (6172) Reserve. TODO Do 08:31: Damians manuelles Reel vom 11.11. (vor 14:09 gepostet, also anderes Video als 6181) in Metricool suchen; trägt es #12, Do auf #13 und Sa auf #14 umnummerieren, vor 10:30. TikTok-Nachzug des manuellen Reels braucht die Originaldatei.
 Bearbeitet vom Manager: ja (11.11.)
 
+### 2026-11-11 23:40 | Newsletter-Agent | Sondermail KW46 (neuer Stil) | Status: OK
+Kampagne 113 "NL-Agent | 2026-KW46 | Sondermail | neuer Stil | Teig Biga, PS Code TOP10 | Versand Do 12.11. 10:30", Status queued, scheduledAt Do 12.11.2026 10:30, Segment Aktiv, 1.028 Empfänger. Absendername "Damian von Siprego" (info@siprego.de). Betreff "ich hab am teig gedreht", Vorschautext "Erst ließ er sich kaum ausziehen. Dann war er morgens übergärt." Kein Bild, Ich-Form, rund 115 Wörter, Frage zum Antworten, PS mit Code TOP10 bis So 22 Uhr und Donnerstag 11 bis 22 Uhr. Belege: Dough diary #2 (01.11.), Dough diary #3 (07.11.), Ungeschnitten #7 (05.11.). Vorschau an Damian geschickt 11.11. 23:45; Absendername und Stil hat er noch nicht bestätigt, kann bis Do 10:30 stoppen. Hinweis: Dauertext "48 Stunden Teigruhe" passt eventuell nicht mehr zum Biga-Teig, später klären. Antworten landen bei info@siprego.de.
+Bearbeitet vom Manager: ja (11.11.)
+
