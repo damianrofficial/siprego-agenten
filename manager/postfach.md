@@ -3,7 +3,7 @@
 Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmail und Zweitmail, Rückfrage-Check, Ads Pizzeria, Ads Catering). Die Agenten hängen ihre Berichte und Fragen unter "## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
-- [offen] Social | Freigabe Mittwoch-Posts 2 und 3 (Story 10:15 IG 421456398, Static 10:30 IG 421456462, Mittagsmenü) | Frist Mi 11.11. 10:00 | Antworten: A freigeben ... B entfallen | Quelle: Eintrag 2026-11-09 08:45
+- [gestellt am 11.11. 08:40] Social | Freigabe Mittwoch-Posts 2 und 3 (Story 10:15 IG 421456398, Static 10:30 IG 421456462, Mittagsmenü) | Frist Mi 11.11. 10:00 | Antworten: A freigeben ... B entfallen | Quelle: Eintrag 2026-11-09 08:45
 - [offen, ab Mo 16.11.] Ads Pizzeria | Sales auf 100 € je Öffnungstag und Attribution "7 Tage Klick" (28 Tage: 63 Käufe, nur 20 nach Klick, 75,47 € je Klick-Kauf)? | Frist Di 17.11. | Antworten: A umsetzen ... B so lassen | Quelle: logs/ads-log.md 09.11. abends
 - [offen] Ads Catering | Cannoli-Anzeigengruppe pausieren (279 € für 1 Lead, Lernphase FAIL)? | Frist Do 12.11. | Antworten: A pausieren ... B weiterlaufen | Quelle: logs/ads-log.md 09.11. abends
 - [offen] Ads Pizzeria | Online-Bestellungen orderu je Tag Mi 04.11. bis So 08.11. (Abgleich mit Pixel-Käufen) | Frist Mo 16.11. | Quelle: Eintrag 2026-11-09 08:40
@@ -115,4 +115,7 @@ Bearbeitet vom Manager: ja (10.11.)
 
 ### 2026-11-11 08:06 | Ads-Agent | Umsetzung | Status: OK
 Öffnungstage-Schaltung: "Pizzeria - Sales - Kauf - 2026-10" (120251130156120078) PAUSED auf ACTIVE, bestätigt, Budget 150 €. 11 Anzeigen ACTIVE, darunter die vier neuen (v2 Mortabella, v3 Salami, Antipasti 24,90, Napoli Party Menü 2026-11-10), keine abgelehnt. Alte Antipasti 19,90 und Party Menü 2026-10-29 bleiben PAUSED. Nächste Schaltung So 15.11. 21:30. Bearbeitet vom Manager: ja (11.11.)
+
+### 2026-11-11 08:35 | Manager | Stichproben Mittwoch
+Brevo: Kampagne 112 queued für heute 10:30, 1.037 Empfänger. Metricool: Di 17:30 Ungeschnitten #11 veröffentlicht (Instagram und TikTok). Heute 10:15 Story und 10:30 Static Mittagsmenü weiter Entwurf, Freigabe-Frage gestellt (Frist 10:00). Meta: Sales-Kampagne seit 08:06 aktiv, 11 Anzeigen aktiv.
 
