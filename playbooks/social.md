@@ -130,7 +130,7 @@ Daraus die Regeln:
 - So 18.10.2026 10:30, Instagram Reel (Metricool-ID 398982897) und TikTok (398982930) getrennt: Hook "Wie lang wird der Käsefaden?", dann "4 Füllungen. Welche nimmst du?" Arancini Ragu, 4 Käse, Spinaci, Genovese mit Sortennamen im Bild, Musik von Damians CapCut-Version (https://siprego.de/wp-content/uploads/2026/10/siprego-arancini-4-sorten-2026-10-18-reel-v2.mp4). Ersetzt den vorher für 11:30 geplanten Käsefaden-Reel. Verbrauchte Rohclips (6 Wochen nicht wiederverwenden): siprego-upload-11, -12, -18, -20 und die ersten 3 s von -19 (Tischszene). Frei: -10 (dritter Arancino), Rest von -19.
 - Woche 28.10. bis 01.11.2026 (Lauf vom 26.10.), Menü-Posts 29./30.10. und Woche 04. bis 08.11.2026 (Lauf vom 02.11.): siehe logs/social-log.md.
 - Woche 10. bis 15.11.2026 (Lauf vom 09.11.): Ungeschnitten #11 bis #14, Static Mittagsmenü mit arancini-holzbrett.jpg, Karussell Mortabella mit allen Freistellern; Details und gesperrte Medien bis 21.12. in logs/social-log.md.
-- Do 12.11.2026 10:30, Instagram Reel (Metricool 425000756) und TikTok (425000831), fest geplant: Ungeschnitten #12 Pesto an der Pizzastation aus Damians Clip IMG_0242.mov (Mediathek ID 6181, ab 4,6 s; Posting-Version ID 6182). IMG_0242.mov gesperrt bis 24.12.2026. Ersetzt das Reel Teig ausziehen (ID 6172, jetzt Reserve; siprego-upload.mp4 wieder frei).
+- Do 12.11.2026 10:30, Instagram Reel (Metricool 425006674) und TikTok (425006727), fest geplant: Ungeschnitten #12 Gang von der Bar zur Pizzastation aus Damians Clip IMG_0242.mov (Mediathek ID 6181, volle Länge 11,9 s; Posting-Version ID 6183). IMG_0242.mov gesperrt bis 24.12.2026. Ersetzt das Reel Teig ausziehen (ID 6172, jetzt Reserve; siprego-upload.mp4 wieder frei).
 - Mo 09.11.2026 16:45, Instagram (Auftrag Damian, sofort veröffentlicht): Sonderpost Flyer-Helfer "Flyer verteilen. Wir suchen dich." als Feed-Post (Metricool 421997180) und Story (421997223), Foto siprego-flyer-pfersee-hand-2026-11 (ID 6176) gesperrt bis 21.12.2026. Details in logs/social-log.md.
 
 ## Manuelle Instagram-Posts auf TikTok nachziehen (Dauerregel seit 09.11.2026, Damian)
@@ -154,6 +154,8 @@ Damian wörtlich: "der social media agent muss außerdem regelmäßig prüfen, o
 - Feiertage 24.12. bis 01.01.: noch offen, bis 01.12.2026 keine Aussage dazu.
 
 ## Notizen von Damian an den Agenten
+
+- (über Manager, 11.11.2026) "zum reel. nimm den ganzen clip. nicht schneiden!" Dauerregel: Ungeschnitten-Clips von Damian werden in voller Länge gepostet, nicht gekürzt, auch nicht am Anfang (geht der Hook-Regel vom 07.11. und der Kürzungsregel für Raw-Reels vor). Wirkt etwas rechtlich oder inhaltlich heikel (z. B. erkennbare Gäste), vorher dem Manager melden statt selbst zu kürzen.
 
 - (über Manager, 11.11.2026) Upload-Wege für Rohmaterial: Kurzbefehl "An Siprego senden" bricht bei Damian teils mit "Die Netzwerkverbindung wurde unterbrochen" ab (kein Autorisierungsfehler; Zugang social-agent funktioniert, Upload-Limit laut WordPress 512 MB, bisher größter Upload 120 MB). Die WordPress-App geht nicht, weil der Server /wp-json/wp/v2/users und /xmlrpc.php mit 403 sperrt (Sicherheitsregel des Hostings, nicht ändern). Ausweichweg: Safari auf dem iPhone, siprego.de/wp-admin, Medien, Datei hinzufügen; oder AirDrop an den Mac. Dateien heißen dann nicht siprego-upload-N: bei jedem Lauf ALLE neuen Videos in der Mediathek sichten, nicht nur siprego-upload-*.
 
