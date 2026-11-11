@@ -113,3 +113,6 @@ Bearbeitet vom Manager: ja (10.11.)
 Top-10-Verkaufsliste kam bis 18:00 nicht (Erinnerung 13:00 gesendet). Kampagne 112 unverändert eingeplant: Status queued, scheduledAt Mi 11.11.2026 10:30, Segment Aktiv, 1.037 Empfänger, Liste "am häufigsten anklickt", Code TOP10. Kommt die Verkaufsliste noch vor Mi 10:00, kann der Manager den Block tauschen lassen.
 Bearbeitet vom Manager: ja (10.11.)
 
+### 2026-11-11 08:06 | Ads-Agent | Umsetzung | Status: OK
+Öffnungstage-Schaltung: "Pizzeria - Sales - Kauf - 2026-10" (120251130156120078) PAUSED auf ACTIVE, bestätigt, Budget 150 €. 11 Anzeigen ACTIVE, darunter die vier neuen (v2 Mortabella, v3 Salami, Antipasti 24,90, Napoli Party Menü 2026-11-10), keine abgelehnt. Alte Antipasti 19,90 und Party Menü 2026-10-29 bleiben PAUSED. Nächste Schaltung So 15.11. 21:30. Bearbeitet vom Manager: ja (11.11.)
+
