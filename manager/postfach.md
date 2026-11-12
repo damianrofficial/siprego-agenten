@@ -180,4 +180,10 @@ Bearbeitet vom Manager: ja (12.11.), Damian informiert
 
 ### 2026-11-12 19:00 | Manager | TODO Fr 13.11. 08:31
 Mail 113 ("ich hab am teig gedreht", Versand Do 12.11. 10:30) gegen 112 vergleichen (Öffnung, Klicks, Abmeldungen) und Damian berichten: am 12.11. abends zugesagt, aber Brevo-Connector war in der Sitzung ab etwa 18:30 nicht erreichbar (Server verbunden, Tools fehlten). Zahlen fehlen deshalb.
-Bearbeitet vom Manager: nein
+Bearbeitet vom Manager: ja (12.11. abends nachgeholt, siehe nächster Eintrag)
+
+### 2026-11-12 19:30 | Manager | Mail 113 Zwischenstand, Damian fragt nach Versand an alle
+Brevo 19:25: 113 "ich hab am teig gedreht" (Aktiv, Absender "Damian von Siprego"): 1.028 gesendet, 994 zugestellt, 6 Soft Bounces, 182 messbare Öffnungen (21,54 %), 4 Klicks, 12 Abmeldungen (1,2 %), 0 Beschwerden, nach 9 Stunden. 112 Endstand: 1.032 zugestellt, 172 Öffnungen (20,95 %), 7 Klicks, 10 Abmeldungen. 111 (Aktiv + Schläfer, 04.11.): 2.060 zugestellt, 233 Öffnungen (15,69 %), 9 Klicks, 19 Abmeldungen, 575 Apple-MPP-Öffnungen (112: 211). Brevo-Plan Starter, 13.794 Mails frei bis 24.11.
+Damian 12.11. abends: "warum ging die mail nur an 1000 empfänger und nicht alle? es gibt doch kaum nachteile wenn wir an alle schicken oder?" Antwort Manager: Regel Aktiv seit 09.10., Schläfer nur erster Mittwoch; rund 1.590 Abgemeldete nie anschreibbar, "alle" = rund 2.080. Plan: Zweitmail So 15.11. als zwei getrennte Kampagnen mit gleichem Inhalt (Segment 1 Aktiv, Segment 2 Schläfer), beide als Entwurf mit Vorschau am Sa 14.11., damit Zahlen je Gruppe vorliegen. Regel danach: bleiben Schläfer-Abmeldungen unter 1,5 % und 0 Beschwerden, gehen ab Mi 18.11. alle Mails an beide Gruppen (weiter getrennt gemessen).
+TODO Sa 14.11.: newsletter ZWEITMAIL mit diesem Auftrag (zwei Kampagnen, neuer Stil, Code TOP10 bis So 22 Uhr, anderes Bild).
+Bearbeitet vom Manager: ja (12.11.)
