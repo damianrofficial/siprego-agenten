@@ -491,3 +491,36 @@ Erster Lauf 09.11.2026 20:55, Zeitraum 26.10. bis 09.11. Quelle: Metricool Analy
 - Gekürzte Fassung (ID 6182, siprego-ungeschnitten-12-pesto-station-2026-11-12-reel.mp4) wird nicht mehr verwendet, liegt noch in der Mediathek (eigene Zwischendatei, kann gelöscht werden).
 - Neue Dauerregel von Damian ins Playbook (Notizen, 11.11.2026): Ungeschnitten-Clips von Damian in voller Länge, nie kürzen; Heikles dem Manager melden.
 - Nummer und Doppelpost-Prüfung Do früh bleiben offen wie im Eintrag davor, jetzt mit den IDs 425006674 (Instagram) und 425006727 (TikTok).
+
+### Änderung Do 12.11.2026 ca. 08:40 (Modus AENDERUNG, Tageslauf des Managers: Nummer prüfen, TikTok-Nachzug, neue Fotos)
+
+- Nummern-Befund: Damians manuelles Reel von Mi 11.11. 14:08 (Europe/Berlin) ist jetzt in Metricool Analytics sichtbar und trägt "Ungeschnitten #12 👏🏼" (https://www.instagram.com/reel/DfmjOxZNj38/, Caption nur Serien-Satz, Standort, Hashtags). Die Nummer #12 war damit doppelt vergeben.
+- Umgestellt, nur Texte, Medien und Zeiten unverändert, alle weiter fest geplant (draft false, autoPublish true, PENDING), per getScheduledPosts bestätigt:
+  - Do 12.11. 10:30 Instagram: jetzt "Ungeschnitten #13 🌿", neue ID 425352921 (vorher 425006674). Ganzer Clip, nicht gekürzt.
+  - Do 12.11. 10:30 TikTok: Caption "Ungeschnitten #13. ...", Titel "Ungeschnitten #13: Von der Bar zur Pizzastation", neue ID 425352961 (vorher 425006727).
+  - Sa 14.11. 18:30 Instagram: jetzt "Ungeschnitten #14 🔥", neue ID 425353007 (vorher 421520990).
+  - Sa 14.11. 18:30 TikTok: Caption "Ungeschnitten #14. ...", Titel "Ungeschnitten #14: Pizza raus, ab in den Karton", neue ID 425353043 (vorher 421521040).
+- Doppelpost-Prüfung: Clip IMG_0242.mov (ID 6181) wurde laut Metadaten am 11.11. um 17:54 gefilmt, das manuelle Reel ging um 14:08 online. Es ist also ein anderes Video, der heutige Instagram-Post bleibt drin.
+- Nächste freie Ungeschnitten-Nummer: #15. So 15.11. ("Ein Stück reicht nie.") trägt keine Nummer.
+- Neue Fotos 6185, 6186, 6187 gesichtet und im Social-Playbook unter Mediathek eingetragen (Motiv, Qualität, Eignung). Kein Post gebaut. 6188 nicht geöffnet (privat). Kurz: 6186 Margherita im Siprego-Karton vor der Bar gut (bestes), 6187 Prosciutto-Funghi auf dem Brett gut (Rand-Thema), 6185 Salami im Karton mittel (stark komprimiert, Küchengerät im Hintergrund).
+- Mediathek seit dem letzten Lauf: keine neuen Videos außer IMG_0242.mov (6181). Neu sind nur die Bilder 6185 bis 6189 und die Newsletter-Bilder 6184, 6190.
+
+TikTok-Nachzug, Stand Do 12.11.2026 08:40 (Zeitraum 29.10. bis 12.11., ersetzt die Tabelle vom 09.11. nicht, sondern führt sie fort):
+
+| Datum IG | Titel | Instagram-Link | Auf TikTok | Status |
+| --- | --- | --- | --- | --- |
+| Fr 30.10. 18:29 | Ungeschnitten #5 "Die Hütte brennt!" | https://www.instagram.com/reel/DfIHuv9Nc9D/ | nein | Datei fehlt |
+| Sa 31.10. 18:19 | Ungeschnitten #6 | https://www.instagram.com/reel/DfKrRVZNBVy/ | nein | Datei fehlt |
+| Do 05.11. 09:33 | Ungeschnitten #7 "Verbessertes Biga Rezept" | https://www.instagram.com/reel/DfWm-NPNwZY/ | nein | Datei fehlt (Kandidat upload-26 weiter unbestätigt) |
+| Sa 07.11. 11:38 | Dough diary #3 (als Reel) | https://www.instagram.com/reel/Dfb-r8PtQ4C/ | nein | Datei fehlt |
+| So 08.11. 10:29 | Ungeschnitten #10 (Ferdi-Clip) | https://www.instagram.com/reel/Dfeb4FaN4Ux/ | nein | Datei fehlt |
+| Mi 11.11. 14:08 | Ungeschnitten #12 (neu) | https://www.instagram.com/reel/DfmjOxZNj38/ | nein | Datei fehlt (kein passendes Video in der Mediathek, IMG_0242.mov ist ein anderer Clip) |
+
+- TikTok @siprego laut Metricool: letzter Post Di 10.11. 17:31 (#11, vom Agenten). Kein eigener TikTok-Post von Damian sichtbar. Nichts eingeplant, weil keine der 6 Dateien vorliegt. #5 und #6 fallen ab Fr 13.11. bzw. Sa 14.11. aus dem 14-Tage-Fenster.
+- Hinweis: Auf TikTok laufen die Nummern nach der Umstellung gleich wie auf Instagram (#11, #13, #14); #12 fehlt dort, solange Damians Reel nicht nachgezogen ist.
+
+Geplante Posts Do 12.11. bis So 15.11., alle draft false, PENDING (getScheduledPosts 12.11. 08:40):
+- Do 12.11. 10:30 Reel Ungeschnitten #13: Instagram 425352921, TikTok 425352961.
+- Fr 13.11. 10:30 Karussell Mortabella (8 Slides): Instagram 422327019.
+- Sa 14.11. 18:30 Reel Ungeschnitten #14: Instagram 425353007, TikTok 425353043.
+- So 15.11. 10:30 Reel "Ein Stück reicht nie.": Instagram 421991851, TikTok 421991910.
