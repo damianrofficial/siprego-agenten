@@ -177,3 +177,7 @@ Bearbeitet vom Manager: ja (12.11.)
 ### 2026-11-12 18:47 | Ads-Agent | Umsetzung Cannoli pausiert | Status: OK
 Anzeigengruppe "Website Leads - IG Reel - Cannoli" (120233038216000078): ACTIVE auf PAUSED, zurückgelesen, Budget 10 €/Tag unverändert, nichts gelöscht. Grund: 28 Tage 282,08 € ohne Lead, Lernphase FAIL. Grundlage: Damian 12.11. "Generell Änderungen erlauben". Kampagne jetzt 3 aktive Anzeigengruppen mit 130 €/Tag (Hauptgruppe 80, Statics-Test 30, Retargeting 20). Prüfen Do 19.11.
 Bearbeitet vom Manager: ja (12.11.), Damian informiert
+
+### 2026-11-12 19:00 | Manager | TODO Fr 13.11. 08:31
+Mail 113 ("ich hab am teig gedreht", Versand Do 12.11. 10:30) gegen 112 vergleichen (Öffnung, Klicks, Abmeldungen) und Damian berichten: am 12.11. abends zugesagt, aber Brevo-Connector war in der Sitzung ab etwa 18:30 nicht erreichbar (Server verbunden, Tools fehlten). Zahlen fehlen deshalb.
+Bearbeitet vom Manager: nein
