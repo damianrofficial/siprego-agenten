@@ -8,7 +8,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 
 ## Offene Fragen an Damian
 - [offen, ab Mo 16.11.] Ads Pizzeria | Sales auf 100 € je Öffnungstag und Attribution "7 Tage Klick" (28 Tage: 63 Käufe, nur 20 nach Klick, 75,47 € je Klick-Kauf)? | Frist Di 17.11. | Antworten: A umsetzen ... B so lassen | Quelle: logs/ads-log.md 09.11. abends
-- [gestellt Do 12.11. 08:50] Ads Catering | Meta-Anzeigengruppe "Website Leads - IG Reel - Cannoli" (10 €/Tag) pausieren (28 Tage 282,08 € ohne Lead, Lernphase FAIL)? | Frist Do 12.11. 20:00 | Antworten: A pausieren (Ads-Agent UMSETZEN) ... B weiterlaufen | Ohne Antwort: läuft weiter, Wiedervorlage Mo 16.11. | Quelle: Eintrag 2026-11-12 08:35
+- [erledigt 12.11. 18:47] Ads Catering | Cannoli-Anzeigengruppe 120233038216000078 pausiert (Regel "Generell Änderungen erlauben", ohne Einzelantwort) | Prüfen Do 19.11.
 - [offen] Ads Pizzeria | Online-Bestellungen orderu je Tag Mi 04.11. bis So 08.11. (Abgleich mit Pixel-Käufen) | Frist Mo 16.11. | Quelle: Eintrag 2026-11-09 08:40
 - [offen] Social | TikTok-Nachzug: 6 manuelle Reels fehlen auf TikTok (Ungeschnitten #5 30.10., #6 31.10., #7 05.11., Dough diary #3 07.11., #10 08.11., #12 11.11.), Originaldateien nicht in der Mediathek. #5 und #6 fallen ab 13.11. bzw. 14.11. aus dem 14-Tage-Fenster. Lädt Damian sie hoch (Safari wp-admin oder Chat)? | Frist So 15.11. | Antworten: A lade ich hoch ... B nur ab jetzt, die alten nicht | Quelle: Eintrag 2026-11-12 08:42
 - [offen] Social | Autopilot ab Mo 16.11. (Posts ohne Einzelfreigabe), bleibt es dabei? | Frist So 15.11. 20:00 | Antworten: A ja ... B weiter Freigabe je Post | Quelle: Check 10.11.
@@ -173,3 +173,7 @@ Bearbeitet vom Manager: ja (12.11.)
 ### 2026-11-12 18:45 | Ads-Agent | Umsetzung Bildtausch Stufe 1 | Status: OK
 3 von 3 getauscht, neue Anzeigen ACTIVE, alte PAUSED, nichts gelöscht. Test Static 80 Gaeste 2026-11 v2 = 120251533290180078 (Creative 4174268052705082, alt 120251437518830078). RT Static 80 Gaeste 2026-11 v2 = 120251533284650078 (Creative 1646592960543003, alt 120251437544390078). Test Static Gesucht 2026-11 v2 = 120251533290990078 (Creative 2991371917865671, alt 120251437496270078). Feed-Bild WP 6191 bzw. 6194, KI-Erweiterungen aus (zurückgelesen), Text, Titel, Button wie Original, Zielseite /pizza-catering/, UTM jetzt nach Schema (statics-test bzw. retargeting-statics, utm_content 80gaeste bzw. gesucht). Story zeigt weiter das 4:5-Bild. UTM der übrigen 13 Anzeigen gelesen: 7 richtig, 6 falsch (siehe Warteschlange). Lernphase beider Gruppen läuft neu an. Prüfen Do 19.11., bis dahin keine weitere Änderung an beiden Statics-Gruppen.
 Bearbeitet vom Manager: ja (12.11.)
+
+### 2026-11-12 18:47 | Ads-Agent | Umsetzung Cannoli pausiert | Status: OK
+Anzeigengruppe "Website Leads - IG Reel - Cannoli" (120233038216000078): ACTIVE auf PAUSED, zurückgelesen, Budget 10 €/Tag unverändert, nichts gelöscht. Grund: 28 Tage 282,08 € ohne Lead, Lernphase FAIL. Grundlage: Damian 12.11. "Generell Änderungen erlauben". Kampagne jetzt 3 aktive Anzeigengruppen mit 130 €/Tag (Hauptgruppe 80, Statics-Test 30, Retargeting 20). Prüfen Do 19.11.
+Bearbeitet vom Manager: ja (12.11.), Damian informiert

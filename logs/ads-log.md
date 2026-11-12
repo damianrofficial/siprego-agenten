@@ -195,3 +195,9 @@ Empfehlungen in Reihenfolge (jede einzeln als Frage, eine Variable auf einmal):
 - UTM der übrigen 13 Anzeigen (nur gelesen, nichts geändert). Richtig (7): Test Parmesanlaib, Test Unbedingt, Test Steinofen, RT Firmenevent, RT Unbedingt, RT Steinofen, RT Weihnachtsfeier. Falsch (6): Test Hochzeit 2027 (statics-test, content allesdrin statt 2027), Test Pavillon (retargeting-statics statt statics-test, content parmesanlaib statt allesdrin), Test Stehenbleiben (retargeting-statics statt statics-test, content allesdrin statt stehenbleiben), RT Pavillon (content parmesanlaib statt allesdrin), RT Parmesanlaib (statics-test statt retargeting-statics), RT Stehenbleiben (content allesdrin statt stehenbleiben).
 - Korrektur zum Befund vom Vormittag: Das laufende Parmesanlaib-Bild in Meta ist ein Video-Still (Hand mit Kelle im Laib), weich, aber ohne Menükarte und ohne Schriftreste. Die Menükarten-Fassung liegt nur in der WordPress-Mediathek.
 - Prüfen: Do 19.11. mit dem Catering-Lauf (v2 je Anzeige, Lernphase, Leads). Bis dahin keine weitere Änderung an beiden Anzeigengruppen.
+
+### 2026-11-12 18:47 | Catering | Umsetzung (Ads-Agent), Auftrag Manager nach Regel Damian 12.11. "Generell Änderungen erlauben": Cannoli-Anzeigengruppe pausieren
+- Umgesetzt 12.11. 18:47 (Ads-Agent): Anzeigengruppe "Website Leads - IG Reel - Cannoli" (ID 120233038216000078, Kampagne "Leads - Pizza Catering" 120209268286870078, 10 €/Tag) status ACTIVE auf PAUSED. Einziger Treffer für "Cannoli" auf Ebene Anzeigengruppe. Nachgelesen: status PAUSED, effective_status PAUSED, Budget unverändert 10 €/Tag, nichts gelöscht.
+- Warum: 28 Tage 282,08 € ohne Lead, Lernphase FAIL (Maßnahme 1 aus dem Lauf vom 12.11.).
+- Danach aktiv in der Kampagne: "Siprego Catering 2026-10-26" 80 €/Tag, "Leads Statics Test 2026-11" 30 €/Tag, "Retargeting Catering Statics 2026-11" 20 €/Tag, zusammen 130 €/Tag (vorher 140 €).
+- Prüfen: Do 19.11. (Leads und Kosten je Lead der Kampagne ohne Cannoli).
