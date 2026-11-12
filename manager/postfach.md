@@ -3,6 +3,8 @@
 Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmail und Zweitmail, Rückfrage-Check, Ads Pizzeria, Ads Catering). Die Agenten hängen ihre Berichte und Fragen unter "
 - 12.11.2026 18:20 | "passt" | Bildtausch Catering-Statics Stufe 1 (80 Gäste Test und RT, Gesucht Test) freigegeben, umgesetzt 18:45.
 - 12.11.2026 18:35 | "Generell Änderungen erlauben" | Meta Ads ohne Einzelfreigabe (Auslegung Manager: pausieren, aktivieren, Bild/Text/Tracking tauschen, Budgets senken; Budget-Erhöhung, neue Kampagnen, Zielgruppen, Löschen weiter mit Antwort). In CLAUDE.md, manager/ablauf.md, playbooks/ads.md, .claude/agents/ads.md eingetragen.
+- 13.11.2026 00:55 | "Außerdem müssen wir noch TikTok ads in den ad Agenten integrieren" | In .claude/agents/ads.md (Abschnitt 7 TIKTOK ADS, beide Modi), playbooks/ads.md (Feld-IDs, Status) und CLAUDE.md eingetragen. Stand: TikTok Ads in Metricool bei keiner Marke verbunden, Connector "TikTok for Business" nicht installiert; beides kann nur Damian.
+- 13.11.2026 00:55 | "Das ist normal, da wir jetzt nur mit Consent tracken. Catering leads laufen über offline conversions via Zapier" | Tracking-Befund vom 13.11. ist Absicht; im Playbook vermerkt.
 
 ## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
@@ -196,3 +198,7 @@ TRACKING: Seit 21.10.2026 kommen bei Meta nur noch rund 15 bis 20 % der Link-Kli
 BEWERTUNG: Hauptursachen Pizzeria = Budget zu schnell zu hoch für 10 km (Käufe wachsen nicht mit) und zu viele Anzeigen (Geld fließt in neue ohne Käufe); Mi und Do immer schwach. Catering = Budget seit 03.09. über dem, was die Zielgruppe hergibt, Videos seit Juni bzw. September verbraucht, neue Statics-Gruppen ohne Lead. Damians Ideen: zu viele Ads ja; Statics nur ins Retargeting ja; Retargeting auf Video Views 50 % ja (entsteht auf der Plattform, unabhängig vom Banner).
 Umgesetzt 13.11. nachts (Regel "Generell Änderungen erlauben"): 4 Sales-Anzeigen pausiert (Arancini Ragu, Welche nimmst du zuerst, Shop 10 % v2 und v3), Auftrag an Ads-Agent. Rest als eine Frage an Damian (Umbau A/B).
 Bearbeitet vom Manager: ja (13.11.)
+
+### 2026-11-13 00:42 | Ads-Agent | Umsetzung 4 Sales-Anzeigen pausiert | Status: OK
+"Lokal 10km - Kauf" (120251130156130078): Arancini Ragu 6,90 (120251245352650078), Welche nimmst du zuerst (120251441635370078), Shop 10 % v2 Mortabella (120251468821930078), Shop 10 % v3 Salami (120251468822940078) von ACTIVE auf PAUSED, nichts gelöscht. Aktiv bleiben 7: Beste Pizza in Augsburg Reel, Erst backen dann belegen Reel, Ein Clip kein Schnitt Inga Reel, Shop 10 % günstiger Static, Napoli Party Menü 2026-11-10, Antipasti-Platte 24,90, Mittagsmenü 16,90. Prüfen Mo 16.11. im Pizzeria-Lauf.
+Bearbeitet vom Manager: ja (13.11.), Damian informiert

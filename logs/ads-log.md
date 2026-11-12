@@ -201,3 +201,13 @@ Empfehlungen in Reihenfolge (jede einzeln als Frage, eine Variable auf einmal):
 - Warum: 28 Tage 282,08 € ohne Lead, Lernphase FAIL (Maßnahme 1 aus dem Lauf vom 12.11.).
 - Danach aktiv in der Kampagne: "Siprego Catering 2026-10-26" 80 €/Tag, "Leads Statics Test 2026-11" 30 €/Tag, "Retargeting Catering Statics 2026-11" 20 €/Tag, zusammen 130 €/Tag (vorher 140 €).
 - Prüfen: Do 19.11. (Leads und Kosten je Lead der Kampagne ohne Cannoli).
+
+### 2026-11-13 00:42 | Pizzeria | Umsetzung (Ads-Agent), Auftrag Manager nach Regel Damian 12.11. "Generell Änderungen erlauben": Anzeigen ausdünnen in "Lokal 10km - Kauf"
+- Anlass: Damian 12.11. abends "Zu viel ads in einem ad set?". Befund Manager: 11 aktive Anzeigen; die vier unten bekamen Mi 11. und Do 12.11. zusammen 170,58 € von 475,49 € und brachten 0 Käufe.
+- Umgesetzt 13.11. 00:42 (Ads-Agent): Kampagne "Pizzeria - Sales - Kauf - 2026-10" (120251130156120078), Anzeigengruppe "Lokal 10km - Kauf" (120251130156130078), vier Anzeigen ACTIVE auf PAUSED, ID und Name vorher abgeglichen, nichts gelöscht:
+  - "Arancini Ragu 6,90 - Static 2026-10-27" 120251245352650078 (laut Manager seit 27.10. 167,10 €, 2 Käufe, 83,55 € je Kauf)
+  - "Welche nimmst du zuerst - Reel 2026-11-07" 120251441635370078 (53,97 €, 0 Käufe)
+  - "Shop 10 % günstiger - Static 2026-11-07 v2 Mortabella" 120251468821930078 (37,91 €, 0 Käufe, Doppelung zum Original)
+  - "Shop 10 % günstiger - Static 2026-11-07 v3 Salami" 120251468822940078 (42,46 €, 0 Käufe, Doppelung zum Original)
+- Nachgelesen: alle vier status PAUSED (v2 und v3 kurz effective_status IN_PROCESS). Aktiv bleiben 7: "Beste Pizza in Augsburg - Reel 2026-10-08" (120251130247860078), "Erst backen, dann belegen - Reel 2026-10-21" (120251130156140078), "Ein Clip kein Schnitt - Inga Reel 2026-11-07" (120251441635760078), "Shop 10 % günstiger - Static 2026-11-07" (120251441634880078), "Napoli Party Menü - Static 2026-11-10" (120251492104150078), "Antipasti-Platte 24,90 - Static 2026-11-10" (120251492103330078), "Mittagsmenü 16,90 - Static 2026-11-07" (120251441634600078). Budget, Anzeigengruppe und Kampagne unverändert.
+- Prüfen: Mo 16.11. im Pizzeria-Lauf (Verteilung des Spends auf die 7, CPA und ROAS Mi 11. bis So 15.11.).
