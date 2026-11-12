@@ -33,10 +33,11 @@ Werden ersetzt bzw. ergänzt, sobald die Z-Berichte vorliegen.
 | Sa 07.11.2026 | 1.380 | Damian im Chat, 08.11.2026 | |
 | So 08.11.2026 | 2.600 | Damian im Chat, 08.11.2026 22:20 | Sales-Kampagne ab 21:37 pausiert (Öffnungstage-Schaltung) |
 | Mi 11.11.2026 | 1.500 | Damian im Chat, 11.11.2026 | Hauptmail 112 "Eure Top 10" mit Code TOP10 (Aktiv, 1.037), Posts ab 12:00, Martinstag, keine Ferien |
+| Do 12.11.2026 | 1.730 | Damian im Chat, 12.11.2026 abends | Sondermail 113 "ich hab am teig gedreht" 10:30 (Aktiv, 1.028, Code TOP10 im PS), Reel Ungeschnitten #13 10:30, keine Ferien. Do 05.11. (Ferien): 2.000 |
 
 ## Wochen (Mi bis So)
 
 | KW | Mi bis So | Umsatz € (Bar + Unbar) | davon Rechnung € | Prognose € | Faktoren | Notiz |
 | --- | --- | --- | --- | --- | --- | --- |
 | KW45 | Mi 04.11. bis So 08.11.2026 | 9.150 (Tageswerte laut Damian, gerundet, kein Z-Bericht) | fehlt (keine Z-Berichte) | keine | HERBSTFERIEN Bayern Mi bis Fr (02.11. bis 06.11.); Hauptmail 111 Mittagsmenü (neu ab 29.10.) | Mi 1.100, Do 2.000, Fr 2.070, Sa 1.380, So 2.600 |
-| KW46 | Mi 11.11. bis So 15.11.2026 | offen | offen | 10.500 bis 12.500 (Basis 11.000 ferienbereinigt aus KW45, erst 1 Woche Daten) | keine Ferien, kein Feiertag; Mi 11.11. Martinstag (Laternenumzüge abends); So 15.11. Volkstrauertag; kein FCA-Heimspiel (Länderspielpause); Wetter kühl bis frostig, Regenrisiko hoch (wetter.de Trend, keine verlässliche Tagesprognose gefunden); Mittwochsmail 11.11. erster Autopilot; Sales-Ads 150 €/Tag mit 2 neuen Motiven ab Mi; Flyer Stadtbergen/Pfersee | stärkste Tage So und Fr, schwächste Mi und Sa. Soll 15.000 €, Prognose 70 bis 83 % |
+| KW46 | Mi 11.11. bis So 15.11.2026 | offen | offen | 10.500 bis 12.500 (Basis 11.000 ferienbereinigt aus KW45, erst 1 Woche Daten) | keine Ferien, kein Feiertag; Mi 11.11. Martinstag (Laternenumzüge abends); So 15.11. Volkstrauertag; kein FCA-Heimspiel (Länderspielpause); Wetter kühl bis frostig, Regenrisiko hoch (wetter.de Trend, keine verlässliche Tagesprognose gefunden); Mittwochsmail 11.11. erster Autopilot; Sales-Ads 150 €/Tag mit 2 neuen Motiven ab Mi; Flyer Stadtbergen/Pfersee | stärkste Tage So und Fr, schwächste Mi und Sa. Soll 15.000 €, Prognose 70 bis 83 %. Zwischenstand Do 12.11.: Mi 1.500 + Do 1.730 = 3.230 (KW45 Mi + Do: 3.100). Mit Fr bis So wie KW45 (6.050) wären es rund 9.300, unter der Prognose-Untergrenze |
