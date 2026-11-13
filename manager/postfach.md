@@ -17,7 +17,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [erledigt 12.11. 18:47] Ads Catering | Cannoli-Anzeigengruppe 120233038216000078 pausiert (Regel "Generell Änderungen erlauben", ohne Einzelantwort) | Prüfen Do 19.11.
 - [offen] Ads Pizzeria | Online-Bestellungen orderu je Tag Mi 04.11. bis So 08.11. (Abgleich mit Pixel-Käufen) | Frist Mo 16.11. | Quelle: Eintrag 2026-11-09 08:40
 - [offen] Social | TikTok-Nachzug: 6 manuelle Reels fehlen auf TikTok (Ungeschnitten #5 30.10., #6 31.10., #7 05.11., Dough diary #3 07.11., #10 08.11., #12 11.11.), Originaldateien nicht in der Mediathek. #5 und #6 fallen ab 13.11. bzw. 14.11. aus dem 14-Tage-Fenster. Lädt Damian sie hoch (Safari wp-admin oder Chat)? | Frist So 15.11. | Antworten: A lade ich hoch ... B nur ab jetzt, die alten nicht | Quelle: Eintrag 2026-11-12 08:42
-- [offen] Social | Autopilot ab Mo 16.11. (Posts ohne Einzelfreigabe), bleibt es dabei? | Frist So 15.11. 20:00 | Antworten: A ja ... B weiter Freigabe je Post | Quelle: Check 10.11.
+- [beantwortet 13.11. "A"] Social | Autopilot ab Mo 16.11.: ja, Posts ohne Einzelfreigabe, Wochenplan montags zur Ansicht
 - [offen] Newsletter | Zahlen zur Catering-Saison 2026 für die Mail am 18.11. | Frist Mo 16.11. 18:00 | Antworten: A Zahlen liefern ... B anderes Thema | Quelle: Check 10.11.
 - [offen] Newsletter | Black-Friday-Code (Name, Wert, Mindestbestellwert, Gültigkeit), im Shop anlegen | Frist Mo 23.11. | Quelle: playbooks/newsletter.md
 - [offen] Social | Neues Rohmaterial für die Woche ab 18.11. (Teig ausziehen 4K, Arancino aufbrechen, Team am Ofen) | Frist So 15.11. | Antworten: A kommt per AirDrop/WordPress ... B diese Woche kein Dreh, Reel-Tage entfallen | Quelle: Eintrag 2026-11-09 08:45
@@ -34,6 +34,8 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [offen, niedrig] Social | upload-33 (ID 6136) ist privat und öffentlich in der Mediathek, löschen? Dazu alte Entwürfe 406322950, 406323120, 406323232, 406323322 löschen? | Frist So 15.11. | Antworten: A beides löschen (Agent löscht die Entwürfe, Damian upload-33) ... B lassen | Quelle: Eintrag 2026-11-09 08:45
 
 ## Entscheidungen von Damian
+- 13.11. (Chat) Social | Autopilot ab Mo 16.11.? | Antwort: "A" | A = Autopilot, Posts ab Wochenplan 16.11. fest geplant ohne Einzelfreigabe; eingetragen in playbooks/social.md.
+- 13.11. (Chat) Ads | "Gib mir den prompt für die Video views Zielgruppe" | Prompt für Browser-Assistent geliefert (zwei Video-Zielgruppen 50 %, 30d und 90d), Damian meldet IDs oder "angelegt".
 - 13.11. früh (Chat) Ads | "Sales-Kampagne einschalten" und "Alle Änderungen erlauben" | Kampagne eingeschaltet, Umbau fertiggestellt 13.11. 08:50 (Eintrag unten). Regel in CLAUDE.md.
 - 13.11. früh (Chat) Ads | "Video-Zielgruppen gehen über die Anbindung gar nicht. Kannst du es über chrome lösen?" | Nein, Chrome ist aus der Cloud-Sitzung nicht steuerbar. Damian legt "Pizzeria Video 50 % 30d" und "Catering Video 50 % 90d" im Ads Manager an, Manager hängt sie danach ein.
 - 12.11. nachts (Chat) Newsletter | Rückmeldungen zu Mail 113: "kürzer. und doch evtl ein bild?", "bedenke dass die meisten nicht wissen was BIGA ist", "doch fachbegriffe dürfen rein aber vllt in klammern als ergänzung. % angaben gerne rein. das unterstreicht, dass wir profis sind und wissen wovon wir reden" | Umgesetzt in 113 Fassung v2 (67 Wörter, "Vorteig (Biga)", 50 und 33 Prozent, Standbild aus upload-36 unter dem Text, WP 6184), bleibt queued für Do 12.11. 10:30. Dauerregel Punkt 4a im Stil-Abschnitt.
