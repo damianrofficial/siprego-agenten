@@ -60,12 +60,12 @@ const arrow = (c = '#76503C', w = 34) => `<svg width="${w}" height="${Math.round
 
 const foot = (i, n, light) => `<div class="footline"></div><div class="foot"><div class="l"><img src="${F('img/logo-circ.png')}"${light ? ' style="box-shadow:0 0 0 2px rgba(250,246,240,.9);border-radius:50%"' : ''}><span>Siprego Catering</span></div><div class="n">${String(i).padStart(2, '0')} / ${String(n).padStart(2, '0')}</div></div>`;
 
-const cover = ({ img, pos = 'center', eyebrow, h, lead, photoH = 730, size = 92 }) => `
+const cover = ({ img, pos = 'center', eyebrow, h, lead, photoH = 730, size = 92, gap = 70, tight = 30 }) => `
 <div class="cover-photo" style="height:${photoH}px;background-image:url(${F(img)});background-position:${pos}"></div>
-<div class="cover-body" style="top:${photoH + 70}px">
+<div class="cover-body" style="top:${photoH + gap}px">
   <div class="eyebrow">${eyebrow}</div>
-  <div class="h" style="font-size:${size}px">${h}</div>
-  <div class="lead">${lead}</div>
+  <div class="h" style="font-size:${size}px;margin-top:${tight}px">${h}</div>
+  <div class="lead" style="margin-top:${tight}px">${lead}</div>
 </div>`;
 
 const paket = ({ nr, of = 3, unit = 'pro Person,<br>inkl. MwSt.', img, pos = 'center', name, price, rows, badge }) => `
@@ -161,7 +161,7 @@ const p2 = [
 // ---------- Beitrag 3: Verkostung ----------
 const fact = (k, v) => `<div style="display:flex;align-items:baseline;gap:30px;padding:30px 0;border-top:1px solid #DCD8CF"><div class="eyebrow" style="flex:0 0 190px;font-size:22px">${k}</div><div class="h" style="font-size:46px;line-height:1.15;letter-spacing:-.01em;color:#42301C">${v}</div></div>`;
 const p3 = [
-  { v: 2, html: cover({ img: 'img/5753.jpg', pos: '50% 78%', eyebrow: 'Bevor ihr bucht', h: 'Erst probieren, dann <em>entscheiden</em>', lead: 'Verkostung in unserer Pizzeria in Augsburg.' }) },
+  { v: 3, html: cover({ img: 'img/ig-DAMH8ZZomrf-1.jpg', pos: '50% 62%', photoH: 850, size: 78, gap: 48, tight: 22, eyebrow: 'Bevor ihr bucht', h: 'Erst probieren, dann <em>entscheiden</em>', lead: 'Verkostung in unserer Pizzeria in Augsburg.' }) },
   { html: `
 <div class="pad">
   <div class="eyebrow">Die Verkostung</div>

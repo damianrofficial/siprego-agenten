@@ -29,3 +29,9 @@ Offene Punkte für den Manager:
 - Firmen-Fakten und Damians Hinweise im Playbook eingetragen. Vorlage scripts/catering_karussell.js um Firmen-Beitrag, variable Titelhöhe und Paketzahl erweitert.
 
 Offene Punkte für den Manager: Anrede in Firmen-Beiträgen (Seite sagt "Sie", Entwurf nach Damians Titel "euer"), Ziel des Profil-Links für Firmen, Rundungsregel Mindestanzahl, Team-Fotos.
+
+### 2026-11-14 23:25 | AENDERUNG (Beitrag 3, Titelfoto nach Damians Wahl) | Status: OK
+
+- Damian: "nimm dieses bild" (Instagram-Beitrag DAMH8ZZomrf von siprego.catering, erstes Bild). Original in die Mediathek geladen (6282), Titel-Slide neu gebaut (6283): Fotoanteil 850 statt 730 px hoch, alle drei Bretter sichtbar, Foto in Originalbreite 1080 px, Text gleich, Textblock kompakter (Überschrift 78 px).
+- Entwurf aktualisiert, neue Metricool-ID 428404410 (uuid 8645212795312491167), Fr 20.11.2026 19:00, draft true, Marke 7408163. Foto 5753 ist raus.
+
