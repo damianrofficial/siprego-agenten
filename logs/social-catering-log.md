@@ -54,3 +54,10 @@ Offene Punkte für den Manager: Anrede in Firmen-Beiträgen (Seite sagt "Sie", E
 - Zwei Varianten für das Antipasti-Foto gebaut: A Buffet ohne Gesichter, B Brautpaar am Buffet. Pakete Hochzeit Slide 2 bekommt B (Mediathek 6290), Firmen Slide 3 bekommt A (6294), weil ein Brautpaar nicht in den Firmen-Beitrag passt.
 - Neue Metricool-IDs: Pakete Hochzeit 428412596, Firmen 428412719. Beide draft true, Termine unverändert.
 
+### 2026-11-15 | AENDERUNG (Freigabe, feste Einplanung) | Status: OK
+
+- Damian über Manager: "B." und "passt". Alle vier Beiträge fest eingeplant (draft false, autoPublish true), Marke 7408163, Instagram und Facebook, Inhalt unverändert.
+- Endgültige Metricool-IDs: Pakete Hochzeit 428418036 (Mo 16.11.2026 19:00), Gästezahl 428418120 (Mi 18.11.2026 19:00), Verkostung 428418192 (Fr 20.11.2026 19:00), Pakete Firmenevent 428418280 (Mo 07.12.2026 19:00).
+- Vorher geprüft: alle 24 Slides in der Mediathek stimmen mit den finalen lokalen Dateien überein (WordPress komprimiert neu, Bildinhalt gleich). Nachher geprüft: in Metricool gespeicherte Medien je Beitrag heruntergeladen und mit den finalen Slides verglichen, Reihenfolge und Inhalt stimmen (Beitrag 1 Slide 2 Variante B, Beitrag 2 Slides 4 und 5 v2, Beitrag 3 Titel v3, Beitrag 4 Slide 3 Variante A).
+- Weiter offen für die Firmen-Variante: Anrede (Seite "Sie", Beitrag "euer") und Ziel des Profil-Links; bis 07.12. klärbar.
+
