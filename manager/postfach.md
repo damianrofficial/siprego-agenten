@@ -13,7 +13,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
-- [gestellt 15.11.] Ads Catering | Brautpaar-Static: Ist das Bild mit KI erstellt? Meta verlangt die Angabe beim Anlegen, nachträglich nicht änderbar | A ja, mit KI-Kennzeichnung ... B nein, echtes Foto | Ohne Antwort: Anzeige wird nicht angelegt (Mediathek 6300 liegt bereit)
+- [beantwortet 15.11.] Ads Catering | Brautpaar-Static: Bild ist KI (Damian), Anzeige mit KI-Angabe, erstes schärferes Bild
 - [offen] Social Catering | Firmen-Beiträge: Anrede "ihr/euer" (Entwurf, wie Damians Titel) oder "Sie" (wie Firmen-Seite)? A ihr ... B Sie
 - [offen] Social Catering | Führt der Profil-Link von @siprego.catering auch zum Firmen-Konfigurator (siprego.de/firmen-catering/)? A ja ... B nein, Schluss-Slide ändern oder Link ergänzen
 - [beantwortet 14.11. "A"] Social Catering | 5 % Rabatt bei Vollzahlung nur bei Events in mehr als 6 Monaten, wie Landingpage. Beitrag "So könnt ihr sparen" baubar
@@ -45,6 +45,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [offen, niedrig] Social | upload-33 (ID 6136) ist privat und öffentlich in der Mediathek, löschen? Dazu alte Entwürfe 406322950, 406323120, 406323232, 406323322 löschen? | Frist So 15.11. | Antworten: A beides löschen (Agent löscht die Entwürfe, Damian upload-33) ... B lassen | Quelle: Eintrag 2026-11-09 08:45
 
 ## Entscheidungen von Damian
+- 15.11. nachts (Chat) Ads Catering | "nimm das vorherige bild. ist schärfer. und ja, ist KI" | Anzeige mit dem ersten Bild (V3-Fassung aus out-v1) und KI-Angabe in Meta (OPT_IN). Ads-Agent legt an.
 - 15.11. nachts (Chat) Ads Catering | Brautpaar-Static: "bild auswechseln. das ist das orginal." (neu gerendert) und auf die Frage V3 oder V1 in die kalte Hauptgruppe: "A" | A = V3 ("Was kostet italienisches Catering für eure Hochzeit?", ab 75 €) als dritte Anzeige in "Siprego Catering 2026-10-26". Ads-Agent setzt um. Prüfen Do 19.11. und Do 26.11.
 - 15.11. nachts (Chat) Ads Catering | Bild Brautpaar mit Pizzastücken (vermutlich KI, wie Mediathek 5656): "mach daraus eine static ad für pizza catering. in cold audience rein?" | Drei Varianten gebaut (lokal, nichts in Meta), Empfehlung V3 (Frage plus "Ab 75 € pro Person, Festpreis."), kalt als dritte Anzeige in der Hauptgruppe. Vorschau an Damian, live erst nach seinem OK.
 - 15.11. nachts (Chat) Ads Pizzeria | Diavolo, Bufala Verde, Margherita jetzt ins Retargeting trotz Ruhe bis 27.11.? | Antwort: "A" | A = jetzt live mit Textzeile und Preis, Antipasti-Platte RT pausieren. Ads-Agent setzt um. Reserve Bufala und Mortabella, Prüfen Mo 23.11.
