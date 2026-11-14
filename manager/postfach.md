@@ -16,7 +16,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [offen] Social Catering | Firmen-Beiträge: Anrede "ihr/euer" (Entwurf, wie Damians Titel) oder "Sie" (wie Firmen-Seite)? A ihr ... B Sie
 - [offen] Social Catering | Führt der Profil-Link von @siprego.catering auch zum Firmen-Konfigurator (siprego.de/firmen-catering/)? A ja ... B nein, Schluss-Slide ändern oder Link ergänzen
 - [beantwortet 14.11. "A"] Social Catering | 5 % Rabatt bei Vollzahlung nur bei Events in mehr als 6 Monaten, wie Landingpage. Beitrag "So könnt ihr sparen" baubar
-- [gestellt 14.11. zusammen mit der Vorschau] Social Catering | Freigabe der drei Musterkarussells (Entwürfe 428387088 Pakete Mo 16.11., 428387209 Gästezahl Mi 18.11., 428387305 Verkostung Fr 20.11., je 18:30) bzw. Rückmeldung zur Optik
+- [erledigt 15.11., Damian "passt"] Social Catering | Vier Karussells fest geplant, je 19:00, Instagram und Facebook: Mo 16.11. Pakete Hochzeit 428418036, Mi 18.11. Gästezahl 428418120, Fr 20.11. Verkostung 428418192, Mo 07.12. Pakete Firmenevent 428418280
 - [offen] Social Catering | Vorlaufzeiten für "Wann müsst ihr euch um euer Catering kümmern?" (Hochzeit, Weihnachtsfeier, Sommerfest in Monaten)
 - [offen] Social Catering | Gästezahl: Rundung der Mindestanzahl bei Kommazahl (96 minus 10 % = 86,4): A abrunden ... B aufrunden
 - [offen] Social Catering | Team-Fotos mit erkennbaren Mitarbeitern (Mediathek 5019, 5024, 5267, 5273, 5276, 5277, 5825) verwenden? A ja ... B nur ohne Gesichter
