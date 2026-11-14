@@ -167,7 +167,7 @@ Gesichtet am 14.11.2026 (Mediathek-Suche catering, hochzeit, pavillon, antipasti
 | 5149 | 500x500 | Brautpaar küsst sich | ja | nein (wirkt KI-erzeugt, zu klein) |
 | 5445 | 1080x1080 | Geschäftsleute mit Pizzatellern | ja | nein (wirkt KI-erzeugt) |
 | 5656 | 600x800 | Brautpaar mit Pizza | ja | nein (wirkt KI-erzeugt) |
-| nicht in der Mediathek | 1493x2000 | Brautpaar mit Sonnenbrillen, beide mit einem Stück Pizza, mediterrane Location, Lichterkette (gleiches Motiv wie 5656, groß). Von Damian am 15.11.2026 im Chat geschickt für eine Static-Anzeige | ja, vermutlich KI-erzeugte Personen | nur als Stimmungsbild (Anzeige, Entwürfe im Scratchpad catering-ad-brautpaar), nie als echtes Siprego-Event ausgeben, kein "unser Brautpaar", kein Ortsname |
+| nicht in der Mediathek | 1493x2000 | Brautpaar mit Sonnenbrillen, beide mit einem Stück Pizza, mediterrane Location, Lichterkette (gleiches Motiv wie 5656, groß). Von Damian am 15.11.2026 im Chat geschickt für eine Static-Anzeige; die zweite Datei (images/7.jpg, natürlichere Farben, weniger überschärft) ist laut Damian das Original ("bild auswechseln. das ist das orginal."), nur diese verwenden | ja, vermutlich KI-erzeugte Personen | nur als Stimmungsbild (Anzeige, Entwürfe im Scratchpad catering-ad-brautpaar), nie als echtes Siprego-Event ausgeben, kein "unser Brautpaar", kein Ortsname |
 | 5893, 6163 | | Antipasti-Platte der Pizzeria mit Preis | nein | nein (Pizzeria-Angebot) |
 | 2112 bis 3881 | | Bilder von 2019 (Theme-Material, Burger, Churros, Tacos) | | nein |
 | 6082 bis 6144, 6191 bis 6196 | | fertige Catering-Anzeigen (Statics) | | nein, nur Ads |
