@@ -13,7 +13,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
-- [gestellt 14.11., Frist Mo 16.11. 18:00] Social Catering | 5 % Rabatt bei Vollzahlung: für alle Events oder nur bei mehr als 6 Monaten Vorlauf (Landingpage)? | A nur über 6 Monate ... B alle | Ohne Antwort: Beitrag "So könnt ihr sparen" wartet
+- [beantwortet 14.11. "A"] Social Catering | 5 % Rabatt bei Vollzahlung nur bei Events in mehr als 6 Monaten, wie Landingpage. Beitrag "So könnt ihr sparen" baubar
 - [gestellt 14.11. zusammen mit der Vorschau] Social Catering | Freigabe der drei Musterkarussells (Entwürfe 428387088 Pakete Mo 16.11., 428387209 Gästezahl Mi 18.11., 428387305 Verkostung Fr 20.11., je 18:30) bzw. Rückmeldung zur Optik
 - [offen] Social Catering | Vorlaufzeiten für "Wann müsst ihr euch um euer Catering kümmern?" (Hochzeit, Weihnachtsfeier, Sommerfest in Monaten)
 - [offen] Social Catering | Gästezahl: Rundung der Mindestanzahl bei Kommazahl (96 minus 10 % = 86,4): A abrunden ... B aufrunden
@@ -42,6 +42,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [offen, niedrig] Social | upload-33 (ID 6136) ist privat und öffentlich in der Mediathek, löschen? Dazu alte Entwürfe 406322950, 406323120, 406323232, 406323322 löschen? | Frist So 15.11. | Antworten: A beides löschen (Agent löscht die Entwürfe, Damian upload-33) ... B lassen | Quelle: Eintrag 2026-11-09 08:45
 
 ## Entscheidungen von Damian
+- 14.11. 23:15 (Chat) Social Catering | 5 % Rabatt für alle Events oder nur über 6 Monate? | Antwort: "A" | A = nur bei Events in mehr als 6 Monaten, Landingpage stimmt. Im Playbook eingetragen.
 - 14.11. 23:05 (Chat) Social Catering | Strom | Damian: "steckdosen 1x230V für pizza station, zusätzlich 2x230V für pasta (oder 1x400V)" | Gilt als Faktenstand für Beiträge: Pizza-Station 1x 230 V; mit Pasta-Station zusätzlich 2x 230 V oder stattdessen 1x 400 V. Weicht von der Landingpage ab (dort: Outdoor 2x 230 V, Indoor 400 V Starkstrom 16 A; FAQ "2x 230 V Steckdosen reichen"). Damian darauf hingewiesen. TODO Manager: nach dem Musterlauf in playbooks/social-catering.md eintragen (zusammen mit Wasser).
 - 14.11. 23:00 (Chat) Social Catering | Wasseranschluss nötig? | Antwort: "A" | A = kein Wasseranschluss nötig, Landingpage stimmt. Beitrag "Anschlüsse": Gas bringt Siprego mit, Strom laut Landingpage, kein Wasser. TODO Manager: in playbooks/social-catering.md unter "Offene Widersprüche" austragen, sobald der Musterlauf des Agenten fertig ist (Datei wird gerade bearbeitet).
 - 14.11. spät (Chat) Umsatz | "umsatz heute 2140€" | Sa 14.11. in logs/umsatz.md.
