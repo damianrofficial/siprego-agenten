@@ -250,3 +250,7 @@ Meta Fr 13.11. (erster Tag neue Struktur): Sales-Kampagne 137,64 € (kalt 117,6
 ### 2026-11-14 17:32 | Social-Media-Agent | AENDERUNG Ungeschnitten neuer Clip | Status: TEILWEISE
 Clip IMG_0256.mov (Mediathek 6252, gefilmt 14.11. 17:21, 21,5 s, Hochformat): Pass mit Pizzen, Pizza wird geschnitten, Teiglinge auf Marmor, Blick in den Gastraum, Leuchtschild. Posting-Version ganzer Clip 6253 (1080x1920, Ton plus 11 dB). Nicht veröffentlicht: 16,5 bis 19,5 s Gruppe am Tisch mit Kind, Mann und Frau im Profil, Mann frontal scharf. Entwürfe Metricool draft true, Platzhalter 20:00: IG 428139126, TikTok 428139170, Caption "Ungeschnitten #15". 18:30-Post bleibt #14 (IG 425353007, TikTok 425353043). Bei Freigabe vor 18:30 und sofortigem Posten Nummern tauschen (#14 neu, #15 für 18:30). Bei Verwerfen beide Entwürfe löschen.
 Bearbeitet vom Manager: ja, Damian informiert 14.11. 17:35
+
+### 2026-11-14 19:55 | Social-Media-Agent | AENDERUNG Ungeschnitten #15 veröffentlicht | Status: OK
+Damian "Posten". Ganzer Clip 21,5 s (Mediathek 6253, Original 6252) um 19:51 veröffentlicht: Instagram 428255861 (https://www.instagram.com/reel/Dfu5EZljgT2/), TikTok 428255882. #14 lief planmäßig 18:30 (IG 425353007, TikTok 425353043). Nächste Nummer #16. Gäste an den Tischen (16,5 bis 19,5 s) auf Damians Freigabe ungekürzt online.
+Bearbeitet vom Manager: ja, Damian informiert

@@ -535,3 +535,10 @@ Geplante Posts Do 12.11. bis So 15.11., alle draft false, PENDING (getScheduledP
 - Nummern: Seit Do 12.11. kein manuelles Ungeschnitten von Damian in Metricool Analytics (IGRE02/03/06 und TKPO, 10. bis 14.11., Abruf 17:25); letztes Reel ist #13. Weil der neue Clip nicht vor 18:30 erscheint, bleibt Sa 18:30 unverändert #14 (Instagram 425353007, TikTok 425353043, nicht angefasst) und der Entwurf trägt #15. Gibt Damian vor 18:30 frei und soll der Clip sofort raus: Entwurf auf #14 und den 18:30-Post auf #15 ändern (nur Nummer in Caption und TikTok-Titel).
 - Gesperrt bis 26.12.2026: IMG_0256.mov (ID 6252), sofern der Entwurf veröffentlicht wird.
 - Offene Frage an Damian (über den Manager): Clip trotz erkennbarer Personen an den Tischen (16,5 bis 19,5 s, darunter ein Kind) ungekürzt posten, oder nicht posten.
+
+### Änderung Sa 14.11.2026 ca. 19:50 (Modus AENDERUNG, Damian im Chat nach Ansicht des Standbilds der Stelle 16,5 bis 19,5 s: "Posten")
+
+- Ungeschnitten #15 (IMG_0256.mov, ID 6252; Posting-Version ID 6253, ganzer Clip 21,5 s, unverändert) veröffentlicht: draft false, Termin Sa 14.11. 19:51. Instagram Reel 428255861 (vorher 428139126), PUBLISHED, https://www.instagram.com/reel/Dfu5EZljgT2/ ; TikTok 428255882 (vorher 428139170), PUBLISHED, https://www.tiktok.com/@siprego/video/7708101718466104598. Per getScheduledPosts um 19:54 bestätigt.
+- Nummern unverändert, weil die Freigabe nach 18:30 kam: #14 lief um 18:30 (Instagram 425353007 https://www.instagram.com/reel/Dfuv4epgJd0/, TikTok 425353043 https://www.tiktok.com/@siprego/video/7708081122588019990, beide PUBLISHED), der neue Clip ist #15. Nächste freie Nummer: #16.
+- Erkennbare Personen an den Tischen (16,5 bis 19,5 s) auf Damians ausdrückliche Freigabe ungekürzt gepostet.
+- Gesperrt bis 26.12.2026: IMG_0256.mov (ID 6252).
