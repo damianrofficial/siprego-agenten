@@ -60,8 +60,22 @@ Stand: 14.11.2026, angelegt vom Manager auf Damians Auftrag. Faktenquelle ist di
 - Bezahlung: Event in weniger als 6 Monaten 80 % Anzahlung bei Vertragsunterschrift, 20 % am Veranstaltungstag; mehr als 6 Monate 50 % und 50 %. 5 % Rabatt bei Vollzahlung (nur bei Events in mehr als 6 Monaten).
 - Bewertungen auf der Seite (öffentlich, Google): zwei Hochzeitsbewertungen mit Vornamen. Nur wörtlich und gekürzt zitieren.
 
+## Fakten Firmen-Catering (https://siprego.de/firmen-catering/, gelesen 14.11.2026)
+
+Die Firmen-Seite weicht von der Hochzeits-Landingpage ab. Für Firmen-Beiträge nur diese Zahlen verwenden:
+- Anrede auf der Seite: "Sie". Preise netto, zzgl. 7 % MwSt. "ab 60 € pro Person netto".
+- Vier Pakete: Pizza Live Cooking 60 € (5 Kreationen aus 22, bis zu 2 Pizzen à 26 cm pro Person, mobiler Steinofen); Antipasti & Pizza 75 € (dazu Antipasti-Buffet mit 7 Variationen, auch vegetarisch, Pizzabrot); Antipasti, Pizza & Dessert 95 €, "Bestseller" (dazu Dessert nach Wahl: Tiramisu & Panna Cotta oder Cannoli Concierge, Dessert-Service); Antipasti, Pizza, Trüffelpasta & Dessert 115 € (dazu Trüffelpasta live im Parmesanlaib, eigene Station).
+- In jedem Paket: Steinofen mit Live-Cooking, Service-Team, betreutes Buffet, Auf- und Abbau. Außerdem auf der Seite: "Vollausstattung inklusive: Pavillon, Beleuchtung, Buffet-Präsentation". Kein Mitternachtssnack genannt.
+- Anfahrt bis 60 km ab Augsburg inklusive (Hochzeit: 25 km). Zahlung auf Rechnung. Angebot in 48 h. Bis 500+ Gäste. Unter der Woche (Mo bis Mi) auch kurzfristig.
+- Upgrades netto: Flying Antipasti Buffet plus 12 € pro Person, Geschirr und Besteck plus 8 € pro Person, Mietmobiliar auf Anfrage.
+- Mindestauftragswert 4.500 € (Mai bis September) bzw. 3.500 € (Oktober bis April), jeweils netto, ohne Anfahrt.
+- Bezahlung: 80 % Anzahlung bei Events in den nächsten 3 Monaten, sonst 50 %, Rest nach dem Event; 5 % Rabatt auf die Nettosumme bei Vollzahlung (Events in mehr als 3 Monaten). Storno: mehr als 60 Tage 25 %, 30 bis 60 Tage 50 %, unter 30 Tagen volle Summe.
+- Indoor: 1x 400 V Starkstrom plus 2x 230 V. Outdoor 2x 230 V. Wasser: kein Anschluss notwendig.
+- Anlässe: Sommerfest, Weihnachtsfeier, Team-Event und Offsite, Firmenjubiläum, Kundenevent und Eröffnung, Messe und Roadshow.
+
 ## Angaben von Damian (Chat 14.11.2026), nicht auf der Landingpage
 
+- Gästezahl (Präzisierung 14.11. spät): Es wird NICHT gezählt, wie viele Gäste am Eventtag tatsächlich kommen. Maßgeblich ist die Zahl, die eine Woche vor dem Event erfragt wird. Nie so formulieren, als würde am Tag gezählt.
 - Gästezahl: geplante Gästezahl (Kinder unter 6 Jahren zählen nicht) minus 10 % (Krankheit, Absagen) = Mindestanzahl. Eine Woche vor dem Event wird die finale Zahl erfragt; liegt sie über der Mindestanzahl, wird die Differenz mit der Schlussrechnung nachberechnet.
 - Teller: "tipp: kleine teller reichen 20-23cm", Gäste kommen mehrmals ans Buffet, bleiben in Bewegung, lockere Atmosphäre. Eigenes Besteck "aus logistischen gründen" nicht.
 - Verkostung: "ihr probiert wofür ihr euch interessiert, ihr zahlt was es euch wert war = das geld geht an unser team".
@@ -114,7 +128,7 @@ Gesichtet am 14.11.2026 (Mediathek-Suche catering, hochzeit, pavillon, antipasti
 | 5020 | 2000x1333 | Pizzen auf Edelstahl-Buffet, Basilikum, Schild | nein | ja |
 | 5066 | 1500x1500 | wie 5020, quadratisch | nein | ja (verwendet: Gästezahl Titel) |
 | 5091 | 2000x1000 | wie 5020, Querformat | nein | ja, für 4:5 zu flach |
-| 5021 | 2000x1333 | Öl und Gewürze auf dem Buffet, Pizzen dahinter | nein | ja |
+| 5021 | 2000x1333 | Öl und Gewürze auf dem Buffet, Pizzen dahinter | nein | ja (verwendet: Firmen Titel) |
 | 5067 | 1500x1500 | wie 5021, quadratisch | nein | ja |
 | 5023 | 2000x1333 | Pavillon mit Buffet, Gäste davor | ja, Gäste | nein |
 | 5069 | 1500x1500 | Pavillon mit Buffet, Gäste davor | ja, Gäste | nein |
@@ -122,9 +136,9 @@ Gesichtet am 14.11.2026 (Mediathek-Suche catering, hochzeit, pavillon, antipasti
 | 5065 | 1500x1500 | wie 5019 | ja, Team | nur nach Rückfrage |
 | 5024 | 2000x1333 | Pizzabäcker belegt Pizza, Profil | ja, Team | nur nach Rückfrage |
 | 5064 | 1500x1500 | wie 5024 | ja, Team | nur nach Rückfrage |
-| 5060 | 1500x1500 | Käsebrett mit Trauben, in der Pizzeria | nein | ja (Verkostung, Antipasti) |
-| 5061 | 1500x1500 | Bruschetta und Oliven auf Holzbrett, Pizzeria | nein | ja (Verkostung, Antipasti) |
-| 5062 | 1500x1500 | Wurstbrett mit Feigen und Grissini, Pizzeria | nein | ja (verwendet: Verkostung Titel) |
+| 5060 | 1500x1500 | Käsebrett mit Trauben, in der Pizzeria | nein | nur klein im Beitrag, nicht als Titel (gleiche Serie wie 5062) |
+| 5061 | 1500x1500 | Bruschetta und Oliven auf Holzbrett, Pizzeria | nein | nur klein im Beitrag, nicht als Titel (gleiche Serie wie 5062) |
+| 5062 | 1500x1500 | Wurstbrett mit Feigen und Grissini, Pizzeria | nein | nein als Titel (Damian 14.11.: gefällt nicht) |
 | 5266 | 819x1024 | Hände mit Handschuhen am Antipasti-Buffet, Teller | nein (nur Hände) | ja, kleine Auflösung |
 | 5267 | 819x1024 | zwei Mitarbeiter hinter dem Antipasti-Buffet | ja, Team | nur nach Rückfrage |
 | 5268 | 819x1024 | Antipasti-Buffet in Holzkisten, Prosciutto e Melone | nein | ja (verwendet: Paket 1), kleine Auflösung |
@@ -137,7 +151,7 @@ Gesichtet am 14.11.2026 (Mediathek-Suche catering, hochzeit, pavillon, antipasti
 | 5275 | 819x1024 | Buffet mit Pizzen abends, Lichterkette, Ofen | nein | ja (Stimmung, Mitternachtssnack) |
 | 5276 | 1024x767 | zwei Mitarbeiter unter dem Pavillon | ja, Team | nur nach Rückfrage |
 | 5277 | 1024x873 | zwei Mitarbeiterinnen unter dem Pavillon | ja, Team | nur nach Rückfrage |
-| 5753 | 1200x1600 | Pizzen vorn, Team am Ofen von hinten, Abendlicht (Hero der Landingpage) | nein (von hinten, unscharf) | ja, gut für Titel |
+| 5753 | 1200x1600 | Pizzen vorn, Team am Ofen von hinten, Abendlicht (Hero der Landingpage) | nein (von hinten, unscharf) | ja, sehr gut (verwendet: Verkostung Titel v2) |
 | 5793 | 750x1000 | Pavillon mit Fähnchen, Buffet, Kind von hinten | Team seitlich, Kind von hinten | nein |
 | 5825 | 720x900 | Standbild Hero-Video, Mitarbeiterin am Buffet | ja, Team | nur nach Rückfrage |
 | 5824 | Video | Hero-Video Hochzeit (mp4) | noch nicht gesichtet | offen, vor Reel prüfen |
@@ -153,7 +167,7 @@ Gesichtet am 14.11.2026 (Mediathek-Suche catering, hochzeit, pavillon, antipasti
 | 5893, 6163 | | Antipasti-Platte der Pizzeria mit Preis | nein | nein (Pizzeria-Angebot) |
 | 2112 bis 3881 | | Bilder von 2019 (Theme-Material, Burger, Churros, Tacos) | | nein |
 | 6082 bis 6144, 6191 bis 6196 | | fertige Catering-Anzeigen (Statics) | | nein, nur Ads |
-| 6254 bis 6270 | 1080x1350 | Slides der drei Musterbeiträge vom 14.11.2026 | nein | eigene Beiträge |
+| 6254 bis 6281 | 1080x1350 | Slides der Musterbeiträge vom 14.11.2026 (6271 bis 6274 geänderte Slides, 6275 bis 6281 Firmen-Variante; 6260, 6257, 6258, 6266 sind überholt) | nein | eigene Beiträge |
 
 Lücken im Bestand (Bild gesucht, Stand 14.11.2026): hochauflösende Hochformat-Fotos von Antipasti-Buffet, Pasta im Parmesanlaib und Dessert (vorhanden nur 800 bis 819 px breit), Pavillon mit Beleuchtung am Abend ohne Personen, gedeckter Tisch oder Stimmung für Titel-Slides, Motiv für Videoberatung.
 
@@ -163,12 +177,15 @@ Musterlauf 14.11.2026, alle drei als ENTWURF (draft true), Instagram und Faceboo
 
 | Nr. | Termin | Thema | Format | Metricool-ID | uuid | Mediathek | Stand |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Mo 16.11.2026 18:30 | Thema 1, Drei Pakete mit Festpreis pro Person | Karussell, 6 Slides | 428387088 | -4351427074396372338 | 6260 bis 6265 | Entwurf, wartet auf Damian |
-| 2 | Mi 18.11.2026 18:30 | Thema 3, Wie kalkulieren wir die Gästezahl? (Beispiel 104, 4 Kinder, 100, Mindestanzahl 90) | Karussell, 6 Slides | 428387209 | -4601885445321831632 | 6254 bis 6259 | Entwurf, wartet auf Damian |
-| 3 | Fr 20.11.2026 18:30 | Thema 6, Verkostung vor der Buchung | Karussell, 5 Slides | 428387305 | 8645212795312491167 | 6266 bis 6270 | Entwurf, wartet auf Damian |
+| 1 | Mo 16.11.2026 19:00 | Thema 1, Pakete Hochzeit. Titel seit 14.11. spät: "Was kostet italienisches Catering für eure Hochzeit?" | Karussell, 6 Slides | 428398395 | -4351427074396372338 | 6271 (Titel v2), 6261 bis 6265 | Entwurf, nach Damians Änderung, wartet auf Freigabe |
+| 2 | Mi 18.11.2026 19:00 | Thema 3, Wie kalkulieren wir die Gästezahl? (Beispiel 104, 4 Kinder, 100, Mindestanzahl 90; eine Woche vorher 94 genannt, 4 nachberechnet) | Karussell, 6 Slides | 428398481 | -4601885445321831632 | 6254 bis 6256, 6272 (Slide 4 v2), 6273 (Slide 5 v2), 6259 | Entwurf, nach Damians Änderung, wartet auf Freigabe |
+| 3 | Fr 20.11.2026 19:00 | Thema 6, Verkostung vor der Buchung (Titelfoto jetzt 5753) | Karussell, 5 Slides | 428398551 | 8645212795312491167 | 6274 (Titel v2), 6267 bis 6270 | Entwurf, nach Damians Änderung, wartet auf Freigabe |
+| 4 | Mo 07.12.2026 19:00 | Thema 1 Variante Firmen: "Was kostet italienisches Catering für euer Firmenevent?", vier Pakete netto laut Firmen-Seite | Karussell, 7 Slides | 428398629 | -6949295604068892181 | 6275 bis 6281 | Entwurf, wartet auf Freigabe (Anrede und Link klären) |
 
 Hinweis: Nach jedem updateScheduledPost ändert sich die Metricool-ID, die uuid bleibt.
 
 ## Notizen von Damian
 
 - 14.11.2026 (über Manager): Auftrag wie oben. Fehlende Bilder liefert Damian über ChatGPT nach Prompt.
+- 14.11.2026 spät (über Manager, zu den Musterkarussells): Titel-Slide als Frage, "Was kostet Italienisches Catering für eure Hochzeit?", ein paar Wochen später Variante "Was kostet Italienisches Catering für euer Firmenevent?". Lehre: Titel-Slides als Frage der Zielgruppe formulieren, je Zielgruppe (Hochzeit, Firma) eine eigene Variante.
+- 14.11.2026 spät: Titelfoto der Verkostung (5062, Antipasti-Brett in der Pizzeria) "bild ist scheiße. nimm ein anderes." Lehre: Handyfotos aus der Pizzeria (5060, 5061, 5062) nicht als Titelbild. Für Titel nur die professionellen Aufnahmen (5022, 5068, 5020, 5066, 5021, 5067, 5753).

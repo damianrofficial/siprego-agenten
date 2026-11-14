@@ -1,5 +1,5 @@
 // Siprego Catering: Karussell-Slides 1080x1350 im CI der Landingpage (Fraunces 500, Karla).
-// Vorlage vom Musterlauf 14.11.2026. Aufruf im Arbeitsordner: node /home/user/siprego-agenten/scripts/catering_karussell.js [pakete|gaestezahl|verkostung]
+// Vorlage vom Musterlauf 14.11.2026. Aufruf im Arbeitsordner: node /home/user/siprego-agenten/scripts/catering_karussell.js [pakete|gaestezahl|verkostung|firmen]
 // Der Arbeitsordner braucht img/ (Fotos als <Mediathek-ID>.jpg, Logo als img/logo-circ.png), Ausgabe nach out/.
 // Neue Beiträge: unten ein weiteres Slide-Array anlegen (Bausteine cover, paket, step, statement, cta) und in posts eintragen.
 const { chromium } = require('playwright');
@@ -32,7 +32,7 @@ body{background:#F3F1EB;color:#42301C;font-family:Karla,sans-serif;-webkit-font-
 /* Titel */
 .cover-photo{position:absolute;left:0;top:0;width:1080px;height:730px;background-size:cover}
 .cover-body{position:absolute;left:88px;right:88px;top:800px;bottom:150px;display:flex;flex-direction:column}
-.cover-body .h{font-size:92px;margin-top:30px}
+.cover-body .h{margin-top:30px}
 .cover-body .lead{margin-top:30px;font-size:35px}
 /* Paket */
 .photo{width:100%;border-radius:18px;background-size:cover;background-position:center}
@@ -60,24 +60,24 @@ const arrow = (c = '#76503C', w = 34) => `<svg width="${w}" height="${Math.round
 
 const foot = (i, n, light) => `<div class="footline"></div><div class="foot"><div class="l"><img src="${F('img/logo-circ.png')}"${light ? ' style="box-shadow:0 0 0 2px rgba(250,246,240,.9);border-radius:50%"' : ''}><span>Siprego Catering</span></div><div class="n">${String(i).padStart(2, '0')} / ${String(n).padStart(2, '0')}</div></div>`;
 
-const cover = ({ img, pos = 'center', eyebrow, h, lead }) => `
-<div class="cover-photo" style="background-image:url(${F(img)});background-position:${pos}"></div>
-<div class="cover-body">
+const cover = ({ img, pos = 'center', eyebrow, h, lead, photoH = 730, size = 92 }) => `
+<div class="cover-photo" style="height:${photoH}px;background-image:url(${F(img)});background-position:${pos}"></div>
+<div class="cover-body" style="top:${photoH + 70}px">
   <div class="eyebrow">${eyebrow}</div>
-  <div class="h">${h}</div>
+  <div class="h" style="font-size:${size}px">${h}</div>
   <div class="lead">${lead}</div>
 </div>`;
 
-const paket = ({ nr, img, pos = 'center', name, price, rows, badge }) => `
+const paket = ({ nr, of = 3, unit = 'pro Person,<br>inkl. MwSt.', img, pos = 'center', name, price, rows, badge }) => `
 <div class="pad">
   <div style="display:flex;align-items:center;justify-content:space-between;height:42px">
-    <div class="eyebrow">Paket ${nr} von 3</div>${badge ? `<div class="badge">${badge}</div>` : ''}
+    <div class="eyebrow">Paket ${nr} von ${of}</div>${badge ? `<div class="badge">${badge}</div>` : ''}
   </div>
   <div class="photo" style="height:384px;margin-top:30px;background-image:url(${F(img)});background-position:${pos}"></div>
   <div class="h" style="font-size:62px;margin-top:44px">${name}</div>
   <div style="display:flex;align-items:flex-end;gap:28px;margin-top:22px">
     <div class="price" style="font-size:150px;font-weight:400">${price}&nbsp;€</div>
-    <div class="muted" style="font-size:30px;line-height:1.3;padding-bottom:20px">pro Person,<br>inkl. MwSt.</div>
+    <div class="muted" style="font-size:30px;line-height:1.3;padding-bottom:20px">${unit}</div>
   </div>
   <div class="list nolast" style="margin-top:38px">${rows.map(r => `<div class="row">${check}<div>${r}</div></div>`).join('')}</div>
 </div>`;
@@ -120,7 +120,7 @@ const ctaNote = `${tick}140+ Paare <span style="display:inline-block;width:34px"
 
 // ---------- Beitrag 1: Pakete ----------
 const p1 = [
-  { html: cover({ img: 'img/5022.jpg', pos: '50% 62%', eyebrow: 'Hochzeit · Privatfeier · Firmenevent', h: 'Drei Pakete mit <em>Festpreis</em> pro Person', lead: 'Italienisches Catering, live vor euren Gästen.' }) },
+  { v: 2, html: cover({ img: 'img/5022.jpg', pos: '50% 60%', photoH: 660, size: 80, eyebrow: 'Hochzeits-Catering', h: 'Was kostet italienisches Catering für eure <em>Hochzeit</em>?', lead: 'Drei Pakete mit Festpreis pro Person.' }) },
   { html: paket({ nr: 1, img: 'img/5268.jpg', pos: '50% 62%', name: 'Antipasti &amp; Pizza', price: 75, rows: ['Antipasti-Buffet mit 7 Variationen, klassisch oder komplett vegetarisch', 'Pizza Live Cooking aus dem Steinofen, 5 Kreationen eurer Wahl'] }) },
   { html: paket({ nr: 2, img: 'img/5849.jpg', pos: '50% 38%', name: 'Antipasti, Pizza &amp; Pasta', price: 95, badge: 'Unsere Empfehlung', rows: ['Alles aus „Antipasti &amp; Pizza“', 'Pasta im Parmesanlaib an der Live-Station: Fettuccine al Tartufo und Pasta al Limone'] }) },
   { html: paket({ nr: 3, img: 'img/5872.jpg', pos: '50% 70%', name: 'Antipasti, Pizza, Pasta &amp; Dessert', price: 115, rows: ['Alles aus „Antipasti, Pizza &amp; Pasta“', 'Dessert nach Wahl: Tiramisu und Panna Cotta im Glas oder Cannoli Concierge'] }) },
@@ -142,8 +142,8 @@ const p2 = [
   { html: cover({ img: 'img/5066.jpg', pos: '50% 70%', eyebrow: 'Gut zu wissen', h: 'Wie kalkulieren wir die <em>Gästezahl</em>?', lead: 'Drei Schritte und ein Rechenbeispiel.' }) },
   { html: step({ nr: '1', eyebrow: 'Schritt 1 von 3', h: 'Eure geplante Gästezahl', lead: 'Kinder unter 6 Jahren zählen nicht mit.' }) },
   { html: step({ nr: '2', eyebrow: 'Schritt 2 von 3', h: 'Minus 10&nbsp;%', lead: 'Für Krankheit und kurzfristige Absagen. Das Ergebnis ist eure Mindestanzahl.' }) },
-  { html: step({ nr: '3', eyebrow: 'Schritt 3 von 3', h: 'Die finale Zahl, eine Woche vorher', lead: 'Liegt sie über der Mindestanzahl, berechnen wir die Differenz mit der Schlussrechnung nach.' }) },
-  { html: `
+  { v: 2, html: step({ nr: '3', eyebrow: 'Schritt 3 von 3', h: 'Eure finale Zahl, eine Woche vorher', lead: 'Wir fragen sie bei euch ab. Liegt sie über der Mindestanzahl, berechnen wir die Differenz mit der Schlussrechnung nach.' }) },
+  { v: 2, html: `
 <div class="pad">
   <div class="eyebrow">Rechenbeispiel</div>
   <div class="h" style="font-size:92px;margin-top:40px">Ein Beispiel <em>in Zahlen</em></div>
@@ -153,7 +153,7 @@ const p2 = [
     ${ex('10 % davon für Absagen', '10')}
     ${ex('Eure Mindestanzahl <span style="font-weight:400;color:#6D573C">(100 minus 10)</span>', '90', true)}
   </div>
-  <div class="muted" style="font-size:28px;line-height:1.45;margin-top:44px">Die Zahlen sind ein Beispiel. Kommen am Ende 94 Gäste, berechnen wir 4 Gäste mit der Schlussrechnung nach.</div>
+  <div class="muted" style="font-size:28px;line-height:1.45;margin-top:44px">Die Zahlen sind ein Beispiel. Nennt ihr uns eine Woche vorher 94 Gäste, berechnen wir 4 Gäste mit der Schlussrechnung nach.</div>
 </div>` },
   { cls: 'cta', html: cta({ h: 'Preis in 2&nbsp;Minuten berechnen', lead: 'Im Konfigurator stellt ihr euer Catering zusammen und seht euren Preis sofort.', note: ctaNote }) },
 ];
@@ -161,7 +161,7 @@ const p2 = [
 // ---------- Beitrag 3: Verkostung ----------
 const fact = (k, v) => `<div style="display:flex;align-items:baseline;gap:30px;padding:30px 0;border-top:1px solid #DCD8CF"><div class="eyebrow" style="flex:0 0 190px;font-size:22px">${k}</div><div class="h" style="font-size:46px;line-height:1.15;letter-spacing:-.01em;color:#42301C">${v}</div></div>`;
 const p3 = [
-  { html: cover({ img: 'img/5062.jpg', pos: '50% 100%', eyebrow: 'Bevor ihr bucht', h: 'Erst probieren, dann <em>entscheiden</em>', lead: 'Verkostung in unserer Pizzeria in Augsburg.' }) },
+  { v: 2, html: cover({ img: 'img/5753.jpg', pos: '50% 78%', eyebrow: 'Bevor ihr bucht', h: 'Erst probieren, dann <em>entscheiden</em>', lead: 'Verkostung in unserer Pizzeria in Augsburg.' }) },
   { html: `
 <div class="pad">
   <div class="eyebrow">Die Verkostung</div>
@@ -179,7 +179,30 @@ const p3 = [
   { cls: 'cta', html: cta({ eyebrow: 'So kommt ihr zur Verkostung', h: 'Erst anfragen, dann probieren', lead: 'Preis in 2 Minuten berechnen. Nach eurem Angebot vereinbaren wir die Verkostung.', note: ctaNote }) },
 ];
 
-const posts = { 'pakete': p1, 'gaestezahl': p2, 'verkostung': p3 };
+// ---------- Beitrag 4: Pakete Firmenevent (Zahlen von siprego.de/firmen-catering/, netto) ----------
+const netto = 'pro Person,<br>netto';
+const tickF = tick;
+const ctaNoteF = `${tickF}Bis 500+ Gäste <span style="display:inline-block;width:34px"></span>${tickF}Angebot in 48 h <span style="display:inline-block;width:34px"></span>${tickF}Zahlung auf Rechnung`;
+const p4 = [
+  { html: cover({ img: 'img/5021.jpg', pos: '50% 55%', photoH: 660, size: 80, eyebrow: 'Sommerfest · Weihnachtsfeier · Team-Event', h: 'Was kostet italienisches Catering für euer <em>Firmenevent</em>?', lead: 'Vier Pakete mit Festpreis pro Person.' }) },
+  { html: paket({ nr: 1, of: 4, unit: netto, img: 'img/5022.jpg', pos: '50% 62%', name: 'Pizza Live Cooking', price: 60, rows: ['5 Pizzakreationen nach Wahl aus 22', 'Bis zu 2 Pizzen à 26 cm pro Person, live aus dem mobilen Steinofen'] }) },
+  { html: paket({ nr: 2, of: 4, unit: netto, img: 'img/5268.jpg', pos: '50% 62%', name: 'Antipasti &amp; Pizza', price: 75, rows: ['Alles aus „Pizza Live Cooking“', 'Antipasti-Buffet mit 7 Variationen, auch vegetarisch, dazu Pizzabrot aus dem Steinofen'] }) },
+  { html: paket({ nr: 3, of: 4, unit: netto, img: 'img/5872.jpg', pos: '50% 70%', name: 'Antipasti, Pizza &amp; Dessert', price: 95, badge: 'Bestseller', rows: ['Alles aus „Antipasti &amp; Pizza“', 'Dessert nach Wahl: Tiramisu und Panna Cotta oder Cannoli Concierge'] }) },
+  { html: paket({ nr: 4, of: 4, unit: netto, img: 'img/5849.jpg', pos: '50% 38%', name: 'Antipasti, Pizza, Trüffelpasta &amp; Dessert', price: 115, rows: ['Alles aus dem Bestseller', 'Trüffelpasta, live im Parmesanlaib geschwenkt'] }) },
+  { html: `
+<div class="pad">
+  <div class="eyebrow">Immer dabei</div>
+  <div class="h" style="font-size:96px;margin-top:40px">In <em>jedem</em> Paket</div>
+  <div class="list" style="margin-top:52px">
+    ${['Steinofen mit Live-Cooking', 'Bis zu 2 Pizzen à 26 cm pro Person', 'Service-Team und betreutes Buffet', 'Pavillon und Beleuchtung', 'Auf- und Abbau', 'Zahlung auf Rechnung'].map(r => `<div class="row" style="font-size:36px;padding:26px 0">${check}<div>${r}</div></div>`).join('')}
+  </div>
+  <div class="muted" style="font-size:28px;line-height:1.45;margin-top:40px">Preise pro Person netto, zzgl. 7 % MwSt.<br>Anfahrt bis 60 km ab Augsburg inklusive.</div>
+</div>` },
+  { cls: 'cta', html: cta({ h: 'Preis in 2&nbsp;Minuten berechnen', lead: 'Im Konfigurator stellt ihr euer Catering zusammen und seht euren Preis sofort.', note: ctaNoteF }) },
+];
+
+const posts = { 'pakete': p1, 'gaestezahl': p2, 'verkostung': p3, 'firmen': p4 };
+const monat = { firmen: '2026-12' };
 (async () => {
   const only = process.argv[2];
   const b = await chromium.launch();
@@ -197,7 +220,7 @@ const posts = { 'pakete': p1, 'gaestezahl': p2, 'verkostung': p3 };
       await pg.evaluate(() => document.fonts.ready);
       await pg.waitForTimeout(250);
       const over = await pg.evaluate(() => { const p = document.querySelector('.pad,.cover-body'); return p ? p.scrollHeight - p.clientHeight : 0; });
-      const f = path.join(D, 'out', `siprego-catering-${name}-2026-11-${i + 1}.jpg`);
+      const f = path.join(D, 'out', `siprego-catering-${name}-${monat[name] || '2026-11'}-${i + 1}${s.v ? '-v' + s.v : ''}.jpg`);
       await pg.screenshot({ path: f, type: 'jpeg', quality: 93 });
       console.log(f, 'overflow', over);
     }
