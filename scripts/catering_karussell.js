@@ -121,7 +121,7 @@ const ctaNote = `${tick}140+ Paare <span style="display:inline-block;width:34px"
 // ---------- Beitrag 1: Pakete ----------
 const p1 = [
   { v: 2, html: cover({ img: 'img/5022.jpg', pos: '50% 60%', photoH: 660, size: 80, eyebrow: 'Hochzeits-Catering', h: 'Was kostet italienisches Catering für eure <em>Hochzeit</em>?', lead: 'Drei Pakete mit Festpreis pro Person.' }) },
-  { html: paket({ nr: 1, img: 'img/5268.jpg', pos: '50% 62%', name: 'Antipasti &amp; Pizza', price: 75, rows: ['Antipasti-Buffet mit 7 Variationen, klassisch oder komplett vegetarisch', 'Pizza Live Cooking aus dem Steinofen, 5 Kreationen eurer Wahl'] }) },
+  { v: 2, html: paket({ nr: 1, img: 'img/ig-bretter-hinten.jpg', pos: '50% 50%', name: 'Antipasti &amp; Pizza', price: 75, rows: ['Antipasti-Buffet mit 7 Variationen, klassisch oder komplett vegetarisch', 'Pizza Live Cooking aus dem Steinofen, 5 Kreationen eurer Wahl'] }) },
   { html: paket({ nr: 2, img: 'img/5849.jpg', pos: '50% 38%', name: 'Antipasti, Pizza &amp; Pasta', price: 95, badge: 'Unsere Empfehlung', rows: ['Alles aus „Antipasti &amp; Pizza“', 'Pasta im Parmesanlaib an der Live-Station: Fettuccine al Tartufo und Pasta al Limone'] }) },
   { html: paket({ nr: 3, img: 'img/5872.jpg', pos: '50% 70%', name: 'Antipasti, Pizza, Pasta &amp; Dessert', price: 115, rows: ['Alles aus „Antipasti, Pizza &amp; Pasta“', 'Dessert nach Wahl: Tiramisu und Panna Cotta im Glas oder Cannoli Concierge'] }) },
   { html: `
@@ -186,7 +186,7 @@ const ctaNoteF = `${tickF}Bis 500+ Gäste <span style="display:inline-block;widt
 const p4 = [
   { html: cover({ img: 'img/5021.jpg', pos: '50% 55%', photoH: 660, size: 80, eyebrow: 'Sommerfest · Weihnachtsfeier · Team-Event', h: 'Was kostet italienisches Catering für euer <em>Firmenevent</em>?', lead: 'Vier Pakete mit Festpreis pro Person.' }) },
   { html: paket({ nr: 1, of: 4, unit: netto, img: 'img/5022.jpg', pos: '50% 62%', name: 'Pizza Live Cooking', price: 60, rows: ['5 Pizzakreationen nach Wahl aus 22', 'Bis zu 2 Pizzen à 26 cm pro Person, live aus dem mobilen Steinofen'] }) },
-  { html: paket({ nr: 2, of: 4, unit: netto, img: 'img/5268.jpg', pos: '50% 62%', name: 'Antipasti &amp; Pizza', price: 75, rows: ['Alles aus „Pizza Live Cooking“', 'Antipasti-Buffet mit 7 Variationen, auch vegetarisch, dazu Pizzabrot aus dem Steinofen'] }) },
+  { v: 2, html: paket({ nr: 2, of: 4, unit: netto, img: 'img/ig-bretter-hinten.jpg', pos: '50% 50%', name: 'Antipasti &amp; Pizza', price: 75, rows: ['Alles aus „Pizza Live Cooking“', 'Antipasti-Buffet mit 7 Variationen, auch vegetarisch, dazu Pizzabrot aus dem Steinofen'] }) },
   { html: paket({ nr: 3, of: 4, unit: netto, img: 'img/5872.jpg', pos: '50% 70%', name: 'Antipasti, Pizza &amp; Dessert', price: 95, badge: 'Bestseller', rows: ['Alles aus „Antipasti &amp; Pizza“', 'Dessert nach Wahl: Tiramisu und Panna Cotta oder Cannoli Concierge'] }) },
   { html: paket({ nr: 4, of: 4, unit: netto, img: 'img/5849.jpg', pos: '50% 38%', name: 'Antipasti, Pizza, Trüffelpasta &amp; Dessert', price: 115, rows: ['Alles aus dem Bestseller', 'Trüffelpasta, live im Parmesanlaib geschwenkt'] }) },
   { html: `

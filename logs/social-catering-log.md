@@ -35,3 +35,10 @@ Offene Punkte für den Manager: Anrede in Firmen-Beiträgen (Seite sagt "Sie", E
 - Damian: "nimm dieses bild" (Instagram-Beitrag DAMH8ZZomrf von siprego.catering, erstes Bild). Original in die Mediathek geladen (6282), Titel-Slide neu gebaut (6283): Fotoanteil 850 statt 730 px hoch, alle drei Bretter sichtbar, Foto in Originalbreite 1080 px, Text gleich, Textblock kompakter (Überschrift 78 px).
 - Entwurf aktualisiert, neue Metricool-ID 428404410 (uuid 8645212795312491167), Fr 20.11.2026 19:00, draft true, Marke 7408163. Foto 5753 ist raus.
 
+### 2026-11-14 23:30 | AENDERUNG (Antipasti-Foto in Beitrag 1 und Firmen-Variante) | Status: OK
+
+- Damian: Foto 5268 raus, Kunstpflanze sichtbar. Ersetzt durch Ausschnitt der hinteren Bretter aus 6282 (Bruschetta, Oliven, Caprese-Spieße, Käse, Trauben; 1080x459, auf 904x384 verkleinert, nicht hochskaliert).
+- Weitere Bilder des Instagram-Karussells DAMH8ZZomrf ließen sich nicht laden (Einbettungsseite liefert ohne Anmeldung keine Medien).
+- Pakete Hochzeit: Slide 2 neu (Mediathek 6284), neue Metricool-ID 428406749. Firmen: Slide 3 neu (6285), neue ID 428406849. Beide draft true, Termine unverändert.
+- 5268 im Bildbestand gesperrt.
+
