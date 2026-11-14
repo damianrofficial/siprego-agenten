@@ -68,18 +68,20 @@ const cover = ({ img, pos = 'center', eyebrow, h, lead, photoH = 730, size = 92,
   <div class="lead" style="margin-top:${tight}px">${lead}</div>
 </div>`;
 
-const paket = ({ nr, of = 3, unit = 'pro Person,<br>inkl. MwSt.', img, pos = 'center', name, price, rows, badge }) => `
+const paket = ({ nr, of = 3, unit = 'pro Person, inkl. MwSt.', img, pos = 'center', name, price, rows, badge, photoH = 600, rowSize = 30 }) => `
 <div class="pad">
   <div style="display:flex;align-items:center;justify-content:space-between;height:42px">
     <div class="eyebrow">Paket ${nr} von ${of}</div>${badge ? `<div class="badge">${badge}</div>` : ''}
   </div>
-  <div class="photo" style="height:384px;margin-top:30px;background-image:url(${F(img)});background-position:${pos}"></div>
-  <div class="h" style="font-size:62px;margin-top:44px">${name}</div>
-  <div style="display:flex;align-items:flex-end;gap:28px;margin-top:22px">
-    <div class="price" style="font-size:150px;font-weight:400">${price}&nbsp;€</div>
-    <div class="muted" style="font-size:30px;line-height:1.3;padding-bottom:20px">${unit}</div>
+  <div class="photo" style="height:${photoH}px;margin-top:26px;background-image:url(${F(img)});background-position:${pos}"></div>
+  <div style="display:flex;align-items:flex-end;justify-content:space-between;gap:30px;margin-top:34px">
+    <div class="h" style="font-size:54px;line-height:1.08;padding-bottom:6px">${name}</div>
+    <div style="flex:0 0 auto;text-align:right">
+      <div class="price" style="font-size:100px;font-weight:400;white-space:nowrap">${price}&nbsp;€</div>
+      <div class="muted" style="font-size:25px;line-height:1.2;margin-top:6px;white-space:nowrap">${unit}</div>
+    </div>
   </div>
-  <div class="list nolast" style="margin-top:38px">${rows.map(r => `<div class="row">${check}<div>${r}</div></div>`).join('')}</div>
+  <div class="list nolast" style="margin-top:26px">${rows.map(r => `<div class="row" style="font-size:${rowSize}px;padding:17px 0">${check.replace('class="ck"', 'class="ck" style="margin-top:7px"')}<div>${r}</div></div>`).join('')}</div>
 </div>`;
 
 const step = ({ nr, eyebrow, h, lead, extra = '' }) => `
@@ -121,9 +123,9 @@ const ctaNote = `${tick}140+ Paare <span style="display:inline-block;width:34px"
 // ---------- Beitrag 1: Pakete ----------
 const p1 = [
   { v: 2, html: cover({ img: 'img/5022.jpg', pos: '50% 60%', photoH: 660, size: 80, eyebrow: 'Hochzeits-Catering', h: 'Was kostet italienisches Catering für eure <em>Hochzeit</em>?', lead: 'Drei Pakete mit Festpreis pro Person.' }) },
-  { v: 3, html: paket({ nr: 1, img: 'img/damian-antipasti-ausschnitt.jpg', pos: '50% 50%', name: 'Antipasti &amp; Pizza', price: 75, rows: ['Antipasti-Buffet mit 7 Variationen, klassisch oder komplett vegetarisch', 'Pizza Live Cooking aus dem Steinofen, 5 Kreationen eurer Wahl'] }) },
-  { html: paket({ nr: 2, img: 'img/5849.jpg', pos: '50% 38%', name: 'Antipasti, Pizza &amp; Pasta', price: 95, badge: 'Unsere Empfehlung', rows: ['Alles aus „Antipasti &amp; Pizza“', 'Pasta im Parmesanlaib an der Live-Station: Fettuccine al Tartufo und Pasta al Limone'] }) },
-  { html: paket({ nr: 3, img: 'img/5872.jpg', pos: '50% 70%', name: 'Antipasti, Pizza, Pasta &amp; Dessert', price: 115, rows: ['Alles aus „Antipasti, Pizza &amp; Pasta“', 'Dessert nach Wahl: Tiramisu und Panna Cotta im Glas oder Cannoli Concierge'] }) },
+  { v: 5, html: paket({ nr: 1, img: 'img/damian-antipasti-B.jpg', pos: '50% 50%', name: 'Antipasti &amp; Pizza', price: 75, rows: ['Antipasti-Buffet mit 7 Variationen, klassisch oder komplett vegetarisch', 'Pizza Live Cooking aus dem Steinofen, 5 Kreationen eurer Wahl'] }) },
+  { v: 2, html: paket({ nr: 2, img: 'img/5849.jpg', pos: '50% 40%', name: 'Antipasti, Pizza &amp; Pasta', price: 95, badge: 'Unsere Empfehlung', rows: ['Alles aus „Antipasti &amp; Pizza“', 'Pasta im Parmesanlaib an der Live-Station: Fettuccine al Tartufo und Pasta al Limone'] }) },
+  { v: 2, html: paket({ nr: 3, img: 'img/5872.jpg', pos: '50% 80%', name: 'Antipasti, Pizza, Pasta &amp; Dessert', price: 115, rows: ['Alles aus „Antipasti, Pizza &amp; Pasta“', 'Dessert nach Wahl: Tiramisu und Panna Cotta im Glas oder Cannoli Concierge'] }) },
   { html: `
 <div class="pad">
   <div class="eyebrow">Immer dabei</div>
@@ -180,15 +182,15 @@ const p3 = [
 ];
 
 // ---------- Beitrag 4: Pakete Firmenevent (Zahlen von siprego.de/firmen-catering/, netto) ----------
-const netto = 'pro Person,<br>netto';
+const netto = 'pro Person, netto';
 const tickF = tick;
 const ctaNoteF = `${tickF}Bis 500+ Gäste <span style="display:inline-block;width:34px"></span>${tickF}Angebot in 48 h <span style="display:inline-block;width:34px"></span>${tickF}Zahlung auf Rechnung`;
 const p4 = [
   { html: cover({ img: 'img/5021.jpg', pos: '50% 55%', photoH: 660, size: 80, eyebrow: 'Sommerfest · Weihnachtsfeier · Team-Event', h: 'Was kostet italienisches Catering für euer <em>Firmenevent</em>?', lead: 'Vier Pakete mit Festpreis pro Person.' }) },
-  { html: paket({ nr: 1, of: 4, unit: netto, img: 'img/5022.jpg', pos: '50% 62%', name: 'Pizza Live Cooking', price: 60, rows: ['5 Pizzakreationen nach Wahl aus 22', 'Bis zu 2 Pizzen à 26 cm pro Person, live aus dem mobilen Steinofen'] }) },
-  { v: 3, html: paket({ nr: 2, of: 4, unit: netto, img: 'img/damian-antipasti-ausschnitt.jpg', pos: '50% 50%', name: 'Antipasti &amp; Pizza', price: 75, rows: ['Alles aus „Pizza Live Cooking“', 'Antipasti-Buffet mit 7 Variationen, auch vegetarisch, dazu Pizzabrot aus dem Steinofen'] }) },
-  { html: paket({ nr: 3, of: 4, unit: netto, img: 'img/5872.jpg', pos: '50% 70%', name: 'Antipasti, Pizza &amp; Dessert', price: 95, badge: 'Bestseller', rows: ['Alles aus „Antipasti &amp; Pizza“', 'Dessert nach Wahl: Tiramisu und Panna Cotta oder Cannoli Concierge'] }) },
-  { html: paket({ nr: 4, of: 4, unit: netto, img: 'img/5849.jpg', pos: '50% 38%', name: 'Antipasti, Pizza, Trüffelpasta &amp; Dessert', price: 115, rows: ['Alles aus dem Bestseller', 'Trüffelpasta, live im Parmesanlaib geschwenkt'] }) },
+  { v: 2, html: paket({ nr: 1, of: 4, unit: netto, img: 'img/5022.jpg', pos: '50% 50%', name: 'Pizza Live Cooking', price: 60, rows: ['5 Pizzakreationen nach Wahl aus 22', 'Bis zu 2 Pizzen à 26 cm pro Person, live aus dem mobilen Steinofen'] }) },
+  { v: 4, html: paket({ nr: 2, of: 4, unit: netto, img: 'img/damian-antipasti-A.jpg', pos: '50% 50%', name: 'Antipasti &amp; Pizza', price: 75, rows: ['Alles aus „Pizza Live Cooking“', 'Antipasti-Buffet mit 7 Variationen, auch vegetarisch, dazu Pizzabrot aus dem Steinofen'] }) },
+  { v: 2, html: paket({ nr: 3, of: 4, unit: netto, img: 'img/5872.jpg', pos: '50% 80%', name: 'Antipasti, Pizza &amp; Dessert', price: 95, badge: 'Bestseller', rows: ['Alles aus „Antipasti &amp; Pizza“', 'Dessert nach Wahl: Tiramisu und Panna Cotta oder Cannoli Concierge'] }) },
+  { v: 2, html: paket({ nr: 4, of: 4, unit: netto, img: 'img/5849.jpg', pos: '50% 40%', name: 'Antipasti, Pizza, Trüffelpasta &amp; Dessert', price: 115, rows: ['Alles aus dem Bestseller', 'Trüffelpasta, live im Parmesanlaib geschwenkt'] }) },
   { html: `
 <div class="pad">
   <div class="eyebrow">Immer dabei</div>

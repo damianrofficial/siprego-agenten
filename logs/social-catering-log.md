@@ -48,3 +48,9 @@ Offene Punkte für den Manager: Anrede in Firmen-Beiträgen (Seite sagt "Sie", E
 - Ausschnitt unten ohne Personen (944x401, auf 904x384 verkleinert) in Pakete Hochzeit Slide 2 (Mediathek 6288, neue Metricool-ID 428410306) und Firmen Slide 3 (6289, neue ID 428410422). Beide draft true, Termine unverändert. Der Ausschnitt aus dem Instagram-Foto ist dort raus, die Doppelung mit dem Verkostungs-Titel damit weg.
 - Themen-Idee im Playbook: 5841 als ganzes Bild für einen späteren Titel.
 
+### 2026-11-14 23:40 | AENDERUNG (Paket-Slides mit hohem Bildkasten, Ausschnitt aus 5841) | Status: OK
+
+- Damian: "schlechter ausschnitt". Paket-Slide neu gesetzt: Bildkasten 904x600 statt 904x384, Name links und Preis rechts in einer Zeile, Zeilen 30 px. Alle Paket-Slides in Beitrag 1 und 4 umgestellt (gleiche Skalierung wie vorher, weil die Breite gleich bleibt).
+- Zwei Varianten für das Antipasti-Foto gebaut: A Buffet ohne Gesichter, B Brautpaar am Buffet. Pakete Hochzeit Slide 2 bekommt B (Mediathek 6290), Firmen Slide 3 bekommt A (6294), weil ein Brautpaar nicht in den Firmen-Beitrag passt.
+- Neue Metricool-IDs: Pakete Hochzeit 428412596, Firmen 428412719. Beide draft true, Termine unverändert.
+
