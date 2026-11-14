@@ -70,7 +70,8 @@ Stand: 14.11.2026, angelegt vom Manager auf Damians Auftrag. Faktenquelle ist di
 
 ## Offene Widersprüche (erst klären, dann posten)
 
-- Wasser: Damian nennt "anschlüsse - gas (nehmen wir mit), strom und wasser", die Landingpage sagt "Wasser: kein Anschluss notwendig".
+- GEKLÄRT 14.11.2026 (Damian "A"): kein Wasseranschluss nötig, Landingpage stimmt.
+- GEKLÄRT 14.11.2026 Strom (Damian wörtlich: "steckdosen 1x230V für pizza station, zusätzlich 2x230V für pasta (oder 1x400V)"): Pizza-Station 1x 230 V; mit Pasta-Station zusätzlich 2x 230 V oder stattdessen 1x 400 V. Diese Angabe gilt für Beiträge, die Landingpage (Outdoor 2x 230 V, Indoor 400 V 16 A) weicht ab, Damian weiß es. Gas bringt Siprego mit. Thema 7 "Anschlüsse" damit baubar.
 - 5 % Rabatt: Damian schreibt allgemein "begleiche die gesamte rechnung direkt nach vertragsunterschrift und ihr spart 5%", die Landingpage schränkt ein "nur bei Events in mehr als 6 Monaten".
 - Vorlaufzeiten für "Wann musst du dich um dein Catering kümmern?" (Hochzeit, Weihnachtsfeier, Sommerfest): keine Monatsangaben vorhanden.
 
