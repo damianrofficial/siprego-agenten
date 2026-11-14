@@ -44,6 +44,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [offen, niedrig] Social | upload-33 (ID 6136) ist privat und öffentlich in der Mediathek, löschen? Dazu alte Entwürfe 406322950, 406323120, 406323232, 406323322 löschen? | Frist So 15.11. | Antworten: A beides löschen (Agent löscht die Entwürfe, Damian upload-33) ... B lassen | Quelle: Eintrag 2026-11-09 08:45
 
 ## Entscheidungen von Damian
+- 15.11. nachts (Chat) Ads Pizzeria | Diavolo, Bufala Verde, Margherita jetzt ins Retargeting trotz Ruhe bis 27.11.? | Antwort: "A" | A = jetzt live mit Textzeile und Preis, Antipasti-Platte RT pausieren. Ads-Agent setzt um. Reserve Bufala und Mortabella, Prüfen Mo 23.11.
 - 15.11. nachts (Chat) Ads Pizzeria | "pizzeria ads: wir brauchen mehr / andere creatives für retargeting. ich dachte einfach an produktbilder. kannst du sie aus dem shop herunterladen?" | Ja. Ads-Agent bereitet 4 bis 5 Produktbild-Anzeigen vor (nur Vorbereitung, nichts in Meta), Vorschau an Damian.
 - 15.11. nachts (Chat) Social Catering | Freigabe der vier Karussells | Antwort: "passt" | Alle vier fest einplanen: Mo 16.11., Mi 18.11., Fr 20.11., Mo 07.12., je 19:00. Agent setzt um.
 - 15.11. nachts (Chat) Social Catering | Slide 2 Beitrag 1: Variante A (Buffet) oder B (Brautpaar am Buffet)? | Antwort: "B." | B = Brautpaar-Ausschnitt bleibt in Beitrag 1 (Metricool 428412596); Firmen-Variante behält A. Freigabe zum Einplanen der vier Entwürfe steht noch aus.
