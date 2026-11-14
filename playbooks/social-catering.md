@@ -117,6 +117,8 @@ Ergänzt vom Manager (aus der Landingpage belegt):
 21. Was passiert mit übrigen Pizzen
 22. Mindestauftragswert einfach erklärt
 
+Ideen für Titelbilder: Mediathek 5841 (Brautpaar am Antipasti-Buffet, Erlaubnis liegt vor) als ganzes Bild für den Titel eines späteren Beitrags, z. B. Thema 12 (Antipasti-Buffet) oder Thema 17 (Was eine Bewertung sagt).
+
 ## Bildbestand
 
 Gesichtet am 14.11.2026 (Mediathek-Suche catering, hochzeit, pavillon, antipasti, parmesan, cannoli, steinofen, buffet, pasta, dessert, tiramisu, wedding, event; jede Datei angesehen). "Team" heißt: Mitarbeiter erkennbar, keine Gäste; vor Verwendung als Hauptmotiv einmal bei Damian nachfragen.
@@ -138,7 +140,7 @@ Gesichtet am 14.11.2026 (Mediathek-Suche catering, hochzeit, pavillon, antipasti
 | 5064 | 1500x1500 | wie 5024 | ja, Team | nur nach Rückfrage |
 | 5060 | 1500x1500 | Käsebrett mit Trauben, in der Pizzeria | nein | nur klein im Beitrag, nicht als Titel (gleiche Serie wie 5062) |
 | 5061 | 1500x1500 | Bruschetta und Oliven auf Holzbrett, Pizzeria | nein | nur klein im Beitrag, nicht als Titel (gleiche Serie wie 5062) |
-| 6282 | 1080x1350 | Drei Holzbretter mit Antipasti in der Pizzeria (vorn Schinken, Salami, Feigen, Grissini; hinten Bruschetta, Oliven, Käse, Trauben; grüner Stuhl, Ziegelwand). Quelle: eigener Instagram-Beitrag DAMH8ZZomrf von siprego.catering, erstes Bild | nein | ja, von Damian am 14.11.2026 ausdrücklich gewählt (verwendet: Verkostung Titel v3; Ausschnitt der hinteren Bretter 1080x459 als Antipasti-Foto in Pakete Hochzeit Slide 2 und Firmen Slide 3). Nicht breiter als 1080 px verwenden |
+| 6282 | 1080x1350 | Drei Holzbretter mit Antipasti in der Pizzeria (vorn Schinken, Salami, Feigen, Grissini; hinten Bruschetta, Oliven, Käse, Trauben; grüner Stuhl, Ziegelwand). Quelle: eigener Instagram-Beitrag DAMH8ZZomrf von siprego.catering, erstes Bild | nein | ja, von Damian am 14.11.2026 ausdrücklich gewählt (verwendet: Verkostung Titel v3). Nicht breiter als 1080 px verwenden |
 | 5062 | 1500x1500 | Wurstbrett mit Feigen und Grissini, Pizzeria | nein | nein als Titel (Damian 14.11.: gefällt nicht) |
 | 5266 | 819x1024 | Hände mit Handschuhen am Antipasti-Buffet, Teller | nein (nur Hände) | ja, kleine Auflösung |
 | 5267 | 819x1024 | zwei Mitarbeiter hinter dem Antipasti-Buffet | ja, Team | nur nach Rückfrage |
@@ -156,7 +158,7 @@ Gesichtet am 14.11.2026 (Mediathek-Suche catering, hochzeit, pavillon, antipasti
 | 5793 | 750x1000 | Pavillon mit Fähnchen, Buffet, Kind von hinten | Team seitlich, Kind von hinten | nein |
 | 5825 | 720x900 | Standbild Hero-Video, Mitarbeiterin am Buffet | ja, Team | nur nach Rückfrage |
 | 5824 | Video | Hero-Video Hochzeit (mp4) | noch nicht gesichtet | offen, vor Reel prüfen |
-| 5841 | 944x1500 | Team serviert Braut und Gast am Antipasti-Buffet | ja, Gäste (Brautpaar) | nein, außer Damian gibt es frei |
+| 5841 | 944x1500 | Hochzeit, Antipasti-Buffet im Freien: oben Brautpaar und zwei Teammitglieder erkennbar, unten Basilikumtopf, Grissini im Glas, Salami- und Schinkenplatte, grüne und schwarze Oliven. Von Damian am 14.11.2026 im Chat geschickt und freigegeben ("dieses bild kannst du nehmen"); dieselbe Datei wie das Paketfoto der Landingpage | ja, Brautpaar und Team | ja, ganzes Bild verwendbar: Erlaubnis von Paar und Team liegt laut Damian vor (14.11.2026, "wir haben die erlaubnis vom paar und team"). Ausschnitt unten ohne Personen (y 1035 bis 1436, 944x401) verwendet in Pakete Hochzeit Slide 2 und Firmen Slide 3 |
 | 5842 | 1178x1500 | Pizza-Buffet unter dem Pavillon, Mitarbeiterin von hinten, Ofen | nein (von hinten) | ja, gut (Pavillon, Aufbau) |
 | 5849 | 800x1000 | Pasta im Parmesanlaib, Pasta-Karte | nein | ja (verwendet: Paket 2), kleine Auflösung |
 | 5872 | 800x1000 | Tiramisu und Panna Cotta im Glas | nein | ja (verwendet: Paket 3), kleine Auflösung |
@@ -178,10 +180,10 @@ Musterlauf 14.11.2026, alle drei als ENTWURF (draft true), Instagram und Faceboo
 
 | Nr. | Termin | Thema | Format | Metricool-ID | uuid | Mediathek | Stand |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Mo 16.11.2026 19:00 | Thema 1, Pakete Hochzeit. Titel seit 14.11. spät: "Was kostet italienisches Catering für eure Hochzeit?" | Karussell, 6 Slides | 428406749 | -4351427074396372338 | 6271 (Titel v2), 6284 (Slide 2 v2, Foto aus 6282), 6262 bis 6265 | Entwurf, nach Damians Änderung, wartet auf Freigabe |
+| 1 | Mo 16.11.2026 19:00 | Thema 1, Pakete Hochzeit. Titel seit 14.11. spät: "Was kostet italienisches Catering für eure Hochzeit?" | Karussell, 6 Slides | 428410306 | -4351427074396372338 | 6271 (Titel v2), 6288 (Slide 2 v3, Ausschnitt aus 5841), 6262 bis 6265 | Entwurf, nach Damians Änderung, wartet auf Freigabe |
 | 2 | Mi 18.11.2026 19:00 | Thema 3, Wie kalkulieren wir die Gästezahl? (Beispiel 104, 4 Kinder, 100, Mindestanzahl 90; eine Woche vorher 94 genannt, 4 nachberechnet) | Karussell, 6 Slides | 428398481 | -4601885445321831632 | 6254 bis 6256, 6272 (Slide 4 v2), 6273 (Slide 5 v2), 6259 | Entwurf, nach Damians Änderung, wartet auf Freigabe |
 | 3 | Fr 20.11.2026 19:00 | Thema 6, Verkostung vor der Buchung (Titelfoto 6282, von Damian gewählt) | Karussell, 5 Slides | 428404410 | 8645212795312491167 | 6283 (Titel v3), 6267 bis 6270 | Entwurf, nach Damians Änderung, wartet auf Freigabe |
-| 4 | Mo 07.12.2026 19:00 | Thema 1 Variante Firmen: "Was kostet italienisches Catering für euer Firmenevent?", vier Pakete netto laut Firmen-Seite | Karussell, 7 Slides | 428406849 | -6949295604068892181 | 6275, 6276, 6285 (Slide 3 v2, Foto aus 6282), 6278 bis 6281 | Entwurf, wartet auf Freigabe (Anrede und Link klären) |
+| 4 | Mo 07.12.2026 19:00 | Thema 1 Variante Firmen: "Was kostet italienisches Catering für euer Firmenevent?", vier Pakete netto laut Firmen-Seite | Karussell, 7 Slides | 428410422 | -6949295604068892181 | 6275, 6276, 6289 (Slide 3 v3, Ausschnitt aus 5841), 6278 bis 6281 | Entwurf, wartet auf Freigabe (Anrede und Link klären) |
 
 Hinweis: Nach jedem updateScheduledPost ändert sich die Metricool-ID, die uuid bleibt.
 
@@ -190,5 +192,6 @@ Hinweis: Nach jedem updateScheduledPost ändert sich die Metricool-ID, die uuid 
 - 14.11.2026 (über Manager): Auftrag wie oben. Fehlende Bilder liefert Damian über ChatGPT nach Prompt.
 - 14.11.2026 spät (über Manager, zu den Musterkarussells): Titel-Slide als Frage, "Was kostet Italienisches Catering für eure Hochzeit?", ein paar Wochen später Variante "Was kostet Italienisches Catering für euer Firmenevent?". Lehre: Titel-Slides als Frage der Zielgruppe formulieren, je Zielgruppe (Hochzeit, Firma) eine eigene Variante.
 - 14.11.2026 spät, zweite Antwort: Für die Verkostung will Damian das erste Bild aus dem eigenen Instagram-Beitrag DAMH8ZZomrf ("nimm dieses bild"), Mediathek 6282. Lehre: Bei Antipasti und Verkostung das Gesamtbild mit allen drei Brettern zeigen, nicht nur einen engen Ausschnitt; eigene Instagram-Beiträge von siprego.catering sind eine Bildquelle.
+- 14.11.2026 spät, vierte Antwort: Foto vom Antipasti-Buffet mit Brautpaar geschickt (Mediathek 5841), "dieses bild kannst du nehmen." und "wir haben die erlaubnis vom paar und team." Damit ist 5841 ganz verwendbar.
 - 14.11.2026 spät, dritte Antwort: "zu 1. slide 2 - anders bild nehmen. man sieht dass es eine plastipflanze ist" (Foto 5268). Lehre: Vor jeder Verwendung prüfen, ob künstliche Pflanzen oder Deko im Bild sind; solche Fotos nicht nehmen. Verdacht auch bei 5266, 5269, 5270 (Zitronenzweige, Grün auf dem Buffet) und bei den Efeuranken am Pavillon (5020, 5021, 5066, 5067, 5023, 5069).
 - 14.11.2026 spät: Titelfoto der Verkostung (5062, Antipasti-Brett in der Pizzeria) "bild ist scheiße. nimm ein anderes." Lehre: Handyfotos aus der Pizzeria (5060, 5061, 5062) nicht als Titelbild. Für Titel nur die professionellen Aufnahmen (5022, 5068, 5020, 5066, 5021, 5067, 5753).

@@ -42,3 +42,9 @@ Offene Punkte für den Manager: Anrede in Firmen-Beiträgen (Seite sagt "Sie", E
 - Pakete Hochzeit: Slide 2 neu (Mediathek 6284), neue Metricool-ID 428406749. Firmen: Slide 3 neu (6285), neue ID 428406849. Beide draft true, Termine unverändert.
 - 5268 im Bildbestand gesperrt.
 
+### 2026-11-14 23:35 | AENDERUNG (Antipasti-Foto von Damian in Beitrag 1 und Firmen-Variante) | Status: OK
+
+- Damian schickt Foto (Antipasti-Buffet mit Brautpaar), "dieses bild kannst du nehmen", später "wir haben die erlaubnis vom paar und team". Die Datei ist bildgleich mit Mediathek 5841 (gleiche Größe 944x1500, mittlere Pixelabweichung 1,5 von 255), deshalb nicht noch einmal hochgeladen, Eintrag 5841 aktualisiert.
+- Ausschnitt unten ohne Personen (944x401, auf 904x384 verkleinert) in Pakete Hochzeit Slide 2 (Mediathek 6288, neue Metricool-ID 428410306) und Firmen Slide 3 (6289, neue ID 428410422). Beide draft true, Termine unverändert. Der Ausschnitt aus dem Instagram-Foto ist dort raus, die Doppelung mit dem Verkostungs-Titel damit weg.
+- Themen-Idee im Playbook: 5841 als ganzes Bild für einen späteren Titel.
+
