@@ -20,7 +20,7 @@ Ersetzt die bisherigen 8 geplanten Aufgaben (Originale in `alt/geplante-aufgaben
 | Montag | `ads` Modus PIZZERIA, dann `social` Modus WOCHENPLAN (beide unabhängig, dürfen parallel laufen) |
 | Dienstag | `newsletter` Modus HAUPTMAIL, danach `check` (der Check prüft die eben angelegte Mail und die Social-Entwürfe) |
 | Mittwoch | keine |
-| Donnerstag | `ads` Modus CATERING |
+| Donnerstag | `ads` Modus CATERING, dann `social-catering` Modus WOCHENPLAN (Beiträge für die Folgewoche, nur Entwürfe, seit 14.11.2026) |
 | Freitag | keine |
 | Samstag | `newsletter` Modus ZWEITMAIL |
 

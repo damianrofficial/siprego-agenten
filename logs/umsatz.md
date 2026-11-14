@@ -35,6 +35,7 @@ Werden ersetzt bzw. ergänzt, sobald die Z-Berichte vorliegen.
 | Mi 11.11.2026 | 1.500 | Damian im Chat, 11.11.2026 | Hauptmail 112 "Eure Top 10" mit Code TOP10 (Aktiv, 1.037), Posts ab 12:00, Martinstag, keine Ferien |
 | Do 12.11.2026 | 1.730 | Damian im Chat, 12.11.2026 abends | Sondermail 113 "ich hab am teig gedreht" 10:30 (Aktiv, 1.028, Code TOP10 im PS), Reel Ungeschnitten #13 10:30, keine Ferien. Do 05.11. (Ferien): 2.000 |
 | Fr 13.11.2026 | 2.570 | Damian im Chat, 14.11.2026 | Karussell Mortabella 10:30 (IG), erster Tag neue Meta-Struktur (Sales 137,64 €, 0 Käufe laut Meta), keine Ferien. Fr 06.11. (Ferien): 2.070. KW46 Zwischenstand Mi 1.500 + Do 1.730 + Fr 2.570 = 5.800 € |
+| Sa 14.11.2026 | 2.140 | Damian im Chat, 14.11.2026 abends | Ungeschnitten #14 18:30 und #15 19:51 (IG, TikTok), keine Ferien. KW46 Zwischenstand Mi 1.500 + Do 1.730 + Fr 2.570 + Sa 2.140 = 7.940 € |
 
 ## Wochen (Mi bis So)
 
