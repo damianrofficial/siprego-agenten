@@ -13,6 +13,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
+- [gestellt 15.11.] Ads Catering | Brautpaar-Static: Ist das Bild mit KI erstellt? Meta verlangt die Angabe beim Anlegen, nachträglich nicht änderbar | A ja, mit KI-Kennzeichnung ... B nein, echtes Foto | Ohne Antwort: Anzeige wird nicht angelegt (Mediathek 6300 liegt bereit)
 - [offen] Social Catering | Firmen-Beiträge: Anrede "ihr/euer" (Entwurf, wie Damians Titel) oder "Sie" (wie Firmen-Seite)? A ihr ... B Sie
 - [offen] Social Catering | Führt der Profil-Link von @siprego.catering auch zum Firmen-Konfigurator (siprego.de/firmen-catering/)? A ja ... B nein, Schluss-Slide ändern oder Link ergänzen
 - [beantwortet 14.11. "A"] Social Catering | 5 % Rabatt bei Vollzahlung nur bei Events in mehr als 6 Monaten, wie Landingpage. Beitrag "So könnt ihr sparen" baubar
