@@ -24,7 +24,15 @@ Stand: 14.11.2026, angelegt vom Manager auf Damians Auftrag. Faktenquelle ist di
 ## CI (von der Landingpage)
 
 - Farben: Creme #F3F1EB (Hintergrund), Dunkelbraun #2A1A10 (Text, dunkle Flächen), Braun #76503C (Nebentext, Linien, Akzent), Rot #B0241F (sparsam: ein Wort, Preis, Button; dunkler #A6201C, #801511), Hell #E6E1D6 und #EADFD2 (Karten, Flächen), Linie #DCD8CF, Weiß.
-- Schriften der Seite: Karla (Fließtext), Figtree. Überschriften-Schrift der Landingpage beim ersten Lauf aus dem CSS der Seite bestimmen und hier eintragen.
+- Schriften der Seite (am 14.11.2026 im Browser gemessen, getComputedStyle auf der Live-Seite):
+  - Überschriften (h1, h2, h3, Preise, große Zahlen, Menünamen): **Fraunces**, Gewicht 500, Laufweite minus 0,02 em (h1) bzw. minus 0,015 em (h2), Zeilenhöhe 0,98 bis 1,05, Farbe #5E3F2C. Betontes Wort in der Überschrift: Fraunces kursiv in Rot #B0241F (wie "Hochzeit" im Hero). Die Seite lädt Fraunces ohne optische Größe (kräftiger Schnitt), nicht den dünnen Display-Schnitt.
+  - Fließtext, Listen, Buttons, Badges: **Karla**, 400, Zeilenhöhe 1,5 bis 1,6, Farbe #4D3823 (Lead) bzw. #42301C (Standard), Nebentext #6D573C. Figtree und Bricolage Grotesque gehören nur zu Kopf und Fuß der Seite (Pizzeria-Design), nicht zum Catering-Inhalt.
+  - Gemessene Größen auf der Seite (Desktop): h1 64 px, h2 40 px, h3 22 px, Lead 17,5 px, Liste 13,5 bis 14,5 px.
+- Textfarben wie gemessen: Überschrift #5E3F2C, Text #42301C, Lead #4D3823, Nebentext #6D573C. Linien #DCD8CF bzw. rgba(90,66,40,.28).
+- Buttons: Hauptbutton Rot #B0241F, Text weiß, Karla 600, Radius 8 px, Höhe 52 px, Innenabstand 24 px, Pfeil am Ende. Paketbutton Braun #5E3F2C, Radius 8 px. Schluss-Abschnitt: Verlauf 165 Grad von #B0241F nach #801511, Button darauf in Creme #F3F1EB mit Text #5A4228.
+- Karten: weiß, Radius 12 bis 14 px, Rand 1 px rgba(28,24,22,.12), Innenabstand 28 bis 32 px. Fotos mit Radius 18 px. Badge "Unsere Empfehlung": Rot, weiß, Karla 600, Versalien, Laufweite 1 px, Pille. Listen mit rotem Haken.
+- Schriftdateien: `fonts/Fraunces-LP-normal.woff2`, `fonts/Fraunces-LP-italic.woff2`, `fonts/Karla-latin.woff2` (Ordner fonts/ ist nicht im Git; fehlen sie, neu laden: Karla von https://siprego.de/wp-content/uploads/siprego/karla-latin.woff2, Fraunces über https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,500;0,600;1,400;1,500 mit Browser-User-Agent, die beiden latin-Dateien von fonts.gstatic.com).
+- Slide-Vorlage: `scripts/catering_karussell.js` (HTML und CSS, Playwright, 1080x1350). Bausteine: Titel mit Foto oben und Text unten, Paket-Slide mit Foto, Schritt-Slide mit großer kursiver Zahl, Aussage-Slide, Rechenkarte, roter Schluss mit "Link im Profil". Seitenrand 88 px, Fußzeile mit Logo, "Siprego Catering" und Zähler. Logo: https://siprego.de/wp-content/uploads/2021/01/cropped-siprego-logomark-circ.png.
 - Ton der Seite: "ihr" und "euch", ruhig, konkret, Festpreis und Zahlen, keine Übertreibung. Beispiele: "Drei Pakete mit Festpreis pro Person", "Preis in 2 Minuten berechnen", "Antwort in 48 h, unverbindlich".
 - Handlungsaufruf: "Preis in 2 Minuten berechnen" bzw. "Jetzt unverbindlich anfragen", Link im Profil.
 
@@ -96,11 +104,69 @@ Ergänzt vom Manager (aus der Landingpage belegt):
 
 ## Bildbestand
 
-Beim ersten Lauf füllen (Mediathek-ID, Motiv, Personen erkennbar ja oder nein, verwendbar ja oder nein). Bekannt aus den Catering-Statics vom 12.11.: Mediathek 6191 bis 6196 (catering4 "80 Gäste" und "gesucht", je Feed, Square, Story).
+Gesichtet am 14.11.2026 (Mediathek-Suche catering, hochzeit, pavillon, antipasti, parmesan, cannoli, steinofen, buffet, pasta, dessert, tiramisu, wedding, event; jede Datei angesehen). "Team" heißt: Mitarbeiter erkennbar, keine Gäste; vor Verwendung als Hauptmotiv einmal bei Damian nachfragen.
+
+| ID | Größe | Motiv | Personen erkennbar | Verwendbar |
+| --- | --- | --- | --- | --- |
+| 5022 | 2000x1333 | Pizza im Steinofen, Flamme, nah | nein | ja, sehr gut (verwendet: Pakete Titel) |
+| 5068 | 1500x1500 | wie 5022, quadratisch | nein | ja |
+| 5020 | 2000x1333 | Pizzen auf Edelstahl-Buffet, Basilikum, Schild | nein | ja |
+| 5066 | 1500x1500 | wie 5020, quadratisch | nein | ja (verwendet: Gästezahl Titel) |
+| 5091 | 2000x1000 | wie 5020, Querformat | nein | ja, für 4:5 zu flach |
+| 5021 | 2000x1333 | Öl und Gewürze auf dem Buffet, Pizzen dahinter | nein | ja |
+| 5067 | 1500x1500 | wie 5021, quadratisch | nein | ja |
+| 5023 | 2000x1333 | Pavillon mit Buffet, Gäste davor | ja, Gäste | nein |
+| 5069 | 1500x1500 | Pavillon mit Buffet, Gäste davor | ja, Gäste | nein |
+| 5019 | 1333x2000 | zwei Pizzabäcker am Ofen | ja, Team | nur nach Rückfrage |
+| 5065 | 1500x1500 | wie 5019 | ja, Team | nur nach Rückfrage |
+| 5024 | 2000x1333 | Pizzabäcker belegt Pizza, Profil | ja, Team | nur nach Rückfrage |
+| 5064 | 1500x1500 | wie 5024 | ja, Team | nur nach Rückfrage |
+| 5060 | 1500x1500 | Käsebrett mit Trauben, in der Pizzeria | nein | ja (Verkostung, Antipasti) |
+| 5061 | 1500x1500 | Bruschetta und Oliven auf Holzbrett, Pizzeria | nein | ja (Verkostung, Antipasti) |
+| 5062 | 1500x1500 | Wurstbrett mit Feigen und Grissini, Pizzeria | nein | ja (verwendet: Verkostung Titel) |
+| 5266 | 819x1024 | Hände mit Handschuhen am Antipasti-Buffet, Teller | nein (nur Hände) | ja, kleine Auflösung |
+| 5267 | 819x1024 | zwei Mitarbeiter hinter dem Antipasti-Buffet | ja, Team | nur nach Rückfrage |
+| 5268 | 819x1024 | Antipasti-Buffet in Holzkisten, Prosciutto e Melone | nein | ja (verwendet: Paket 1), kleine Auflösung |
+| 5269 | 1024x683 | Antipasti-Buffet, Steinofen im Hintergrund | nein | ja, klein und quer |
+| 5270 | 1024x683 | Bruschetta und Menükarte auf dem Buffet | nein | ja, klein und quer |
+| 5271 | 819x1024 | Hand hält Cannolo, Cannoli-Schild, abends | nein (nur Hand) | ja (Cannoli Concierge) |
+| 5272 | 1024x683 | Cannolo auf schwarzer Serviette, Zitronen | nein | ja (Cannoli Concierge) |
+| 5273 | 819x1024 | Cannoli Concierge füllt Cannolo am Bauchladen | ja, Team | nur nach Rückfrage (steht so auf der Landingpage) |
+| 5274 | 1024x683 | Menükarte abends, Mitarbeiterin am Ofen unscharf | kaum | ja, klein und quer |
+| 5275 | 819x1024 | Buffet mit Pizzen abends, Lichterkette, Ofen | nein | ja (Stimmung, Mitternachtssnack) |
+| 5276 | 1024x767 | zwei Mitarbeiter unter dem Pavillon | ja, Team | nur nach Rückfrage |
+| 5277 | 1024x873 | zwei Mitarbeiterinnen unter dem Pavillon | ja, Team | nur nach Rückfrage |
+| 5753 | 1200x1600 | Pizzen vorn, Team am Ofen von hinten, Abendlicht (Hero der Landingpage) | nein (von hinten, unscharf) | ja, gut für Titel |
+| 5793 | 750x1000 | Pavillon mit Fähnchen, Buffet, Kind von hinten | Team seitlich, Kind von hinten | nein |
+| 5825 | 720x900 | Standbild Hero-Video, Mitarbeiterin am Buffet | ja, Team | nur nach Rückfrage |
+| 5824 | Video | Hero-Video Hochzeit (mp4) | noch nicht gesichtet | offen, vor Reel prüfen |
+| 5841 | 944x1500 | Team serviert Braut und Gast am Antipasti-Buffet | ja, Gäste (Brautpaar) | nein, außer Damian gibt es frei |
+| 5842 | 1178x1500 | Pizza-Buffet unter dem Pavillon, Mitarbeiterin von hinten, Ofen | nein (von hinten) | ja, gut (Pavillon, Aufbau) |
+| 5849 | 800x1000 | Pasta im Parmesanlaib, Pasta-Karte | nein | ja (verwendet: Paket 2), kleine Auflösung |
+| 5872 | 800x1000 | Tiramisu und Panna Cotta im Glas | nein | ja (verwendet: Paket 3), kleine Auflösung |
+| 4795 | 1920x1080 | Vorspeisen auf Tellern, älter | nein | eher nein, passt nicht zum heutigen Buffet |
+| 4978 | 1280x720 | Brautpaar unter Schleier | ja | nein (Gäste bzw. Stockfoto) |
+| 5149 | 500x500 | Brautpaar küsst sich | ja | nein (wirkt KI-erzeugt, zu klein) |
+| 5445 | 1080x1080 | Geschäftsleute mit Pizzatellern | ja | nein (wirkt KI-erzeugt) |
+| 5656 | 600x800 | Brautpaar mit Pizza | ja | nein (wirkt KI-erzeugt) |
+| 5893, 6163 | | Antipasti-Platte der Pizzeria mit Preis | nein | nein (Pizzeria-Angebot) |
+| 2112 bis 3881 | | Bilder von 2019 (Theme-Material, Burger, Churros, Tacos) | | nein |
+| 6082 bis 6144, 6191 bis 6196 | | fertige Catering-Anzeigen (Statics) | | nein, nur Ads |
+| 6254 bis 6270 | 1080x1350 | Slides der drei Musterbeiträge vom 14.11.2026 | nein | eigene Beiträge |
+
+Lücken im Bestand (Bild gesucht, Stand 14.11.2026): hochauflösende Hochformat-Fotos von Antipasti-Buffet, Pasta im Parmesanlaib und Dessert (vorhanden nur 800 bis 819 px breit), Pavillon mit Beleuchtung am Abend ohne Personen, gedeckter Tisch oder Stimmung für Titel-Slides, Motiv für Videoberatung.
 
 ## Bereits geplante oder veröffentlichte Beiträge
 
-(noch keine)
+Musterlauf 14.11.2026, alle drei als ENTWURF (draft true), Instagram und Facebook, Termine sind Platzhalter:
+
+| Nr. | Termin | Thema | Format | Metricool-ID | uuid | Mediathek | Stand |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Mo 16.11.2026 18:30 | Thema 1, Drei Pakete mit Festpreis pro Person | Karussell, 6 Slides | 428387088 | -4351427074396372338 | 6260 bis 6265 | Entwurf, wartet auf Damian |
+| 2 | Mi 18.11.2026 18:30 | Thema 3, Wie kalkulieren wir die Gästezahl? (Beispiel 104, 4 Kinder, 100, Mindestanzahl 90) | Karussell, 6 Slides | 428387209 | -4601885445321831632 | 6254 bis 6259 | Entwurf, wartet auf Damian |
+| 3 | Fr 20.11.2026 18:30 | Thema 6, Verkostung vor der Buchung | Karussell, 5 Slides | 428387305 | 8645212795312491167 | 6266 bis 6270 | Entwurf, wartet auf Damian |
+
+Hinweis: Nach jedem updateScheduledPost ändert sich die Metricool-ID, die uuid bleibt.
 
 ## Notizen von Damian
 
