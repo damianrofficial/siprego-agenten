@@ -214,3 +214,4 @@ Ohne Eintrag hier gibt es in keiner Mail einen Code, Rabatt oder eine Zugabe. Da
 4. Feiertags-Öffnungszeiten 24.12. bis 01.01. Frist 01.12.
 5. Napoli Famiglia und Napoli per Due: erst bewerben, wenn im Shop sichtbar. Keine eigene Frage nötig, der Agent prüft den Shop bei jedem Lauf.
 6. Nebenbei, keine Frist: Code-Einlösungen WOCHENENDE10 und HALLOWEEN. Wie viele Mittagsmenüs wurden Mi bis Fr verkauft (Wirkung von Mail 111)? Wie kommen neue Shop-Kunden regelmäßig nach Brevo? Entscheidung zum A/B-Test-Vorschlag. Mittwoch-Umsatz jede Woche.
+- 114 und 115, Nachtrag Sa 14.11. 21:28 (Manager): Damian gibt Fassung v3 frei ("A", an beide Gruppen). Beide GEPLANT für So 15.11.2026 10:30 (queued, scheduledAt 2026-11-15T10:30:00+01:00), 114 Segment Aktiv 1.016, 115 Segment Schläfer 1.020. Einplanen über die Anbindung ging durch. Stoppen: in Brevo unter Kampagnen, Aussetzen.
