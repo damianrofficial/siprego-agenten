@@ -294,3 +294,7 @@ Bearbeitet vom Manager: ja (14.11.), neue Übersichten an Damian
 ### 2026-11-14 23:56 | Ads-Agent | Umsetzung Produktbild-Anzeigen Retargeting Pizzeria | Status: OK
 Damian "A". In "Retargeting Pizzeria 2026-11" (120251536954290078) neu und aktiviert: RT Produkt Diavolo 120251568201670078, RT Produkt Bufala Verde 120251568201790078, RT Produkt Margherita 120251568201980078 (Mediathek 6297 bis 6299, Link Menüseite mit utm_campaign retargeting-pizzeria, utm_content produkt-NAME). Pausiert: RT Antipasti-Platte 120251536955490078. Gruppe und Kampagne ACTIVE, Budget unverändert, 6 Anzeigen. Offen: Meta-Prüfung der drei neuen, Link bei Diavolo nicht zurücklesbar (Mi 18.11. prüfen), Story-Format nur im Ads Manager zuordenbar. Reserve Bufala, Mortabella. Prüfen Mo 23.11.
 Bearbeitet vom Manager: ja, zurückgelesen und an Damian gemeldet
+
+### 2026-11-15 00:08 | Ads-Agent | Umsetzung Catering Brautpaar-Static | Status: OK
+Damian "A", "nimm das vorherige bild", "ja, ist KI". Anzeige "Static Brautpaar Pizza Frage 2026-11-15" (120251568227080078, Creative 1857782172017967, Mediathek 6301) in "Siprego Catering 2026-10-26" (120248297313890078) angelegt und aktiviert, KI-Angabe OPT_IN, Link pizza-catering mit utm_campaign leads-hauptgruppe, utm_content brautpaar-pizza-frage. Gruppe 80 €/Tag unverändert, jetzt drei Anzeigen. Prüfung durch Meta läuft. Prüfen Do 19.11. und Do 26.11.
+Bearbeitet vom Manager: ja, zurückgelesen und an Damian gemeldet
