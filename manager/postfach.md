@@ -13,6 +13,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
+- [offen] Social, Newsletter | Neue Pizza (Nduja, Stracciatella): Name, Preis, Starttag im Shop | Frist Di 17.11. 18:00 | Ohne Antwort: alle Kanäle bleiben bei "ab nächster Woche"
 - [beantwortet 15.11.] Ads Catering | Brautpaar-Static: Bild ist KI (Damian), Anzeige mit KI-Angabe, erstes schärferes Bild
 - [offen] Social Catering | Firmen-Beiträge: Anrede "ihr/euer" (Entwurf, wie Damians Titel) oder "Sie" (wie Firmen-Seite)? A ihr ... B Sie
 - [offen] Social Catering | Führt der Profil-Link von @siprego.catering auch zum Firmen-Konfigurator (siprego.de/firmen-catering/)? A ja ... B nein, Schluss-Slide ändern oder Link ergänzen
@@ -45,6 +46,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [offen, niedrig] Social | upload-33 (ID 6136) ist privat und öffentlich in der Mediathek, löschen? Dazu alte Entwürfe 406322950, 406323120, 406323232, 406323322 löschen? | Frist So 15.11. | Antworten: A beides löschen (Agent löscht die Entwürfe, Damian upload-33) ... B lassen | Quelle: Eintrag 2026-11-09 08:45
 
 ## Entscheidungen von Damian
+- 15.11. 13:05 (Chat) Social | "1 Bild und 1 Video hochgeladen. Poste es heute. Neue Pizza ab nächster Woche. Tomatensoße, Mozzarella Fior Di Latte, Scharfe Nduja, stracciatella di burata, permesan" | Fest geplant heute: 13:45 Reel Instagram 428832130 und TikTok 428832181, 17:30 Foto Instagram 428832236. Ohne Name, Preis, Starttag.
 - 15.11. nachts (Chat) Ads Catering | "nimm das vorherige bild. ist schärfer. und ja, ist KI" | Anzeige mit dem ersten Bild (V3-Fassung aus out-v1) und KI-Angabe in Meta (OPT_IN). Ads-Agent legt an.
 - 15.11. nachts (Chat) Ads Catering | Brautpaar-Static: "bild auswechseln. das ist das orginal." (neu gerendert) und auf die Frage V3 oder V1 in die kalte Hauptgruppe: "A" | A = V3 ("Was kostet italienisches Catering für eure Hochzeit?", ab 75 €) als dritte Anzeige in "Siprego Catering 2026-10-26". Ads-Agent setzt um. Prüfen Do 19.11. und Do 26.11.
 - 15.11. nachts (Chat) Ads Catering | Bild Brautpaar mit Pizzastücken (vermutlich KI, wie Mediathek 5656): "mach daraus eine static ad für pizza catering. in cold audience rein?" | Drei Varianten gebaut (lokal, nichts in Meta), Empfehlung V3 (Frage plus "Ab 75 € pro Person, Festpreis."), kalt als dritte Anzeige in der Hauptgruppe. Vorschau an Damian, live erst nach seinem OK.
@@ -298,3 +300,7 @@ Bearbeitet vom Manager: ja, zurückgelesen und an Damian gemeldet
 ### 2026-11-15 00:08 | Ads-Agent | Umsetzung Catering Brautpaar-Static | Status: OK
 Damian "A", "nimm das vorherige bild", "ja, ist KI". Anzeige "Static Brautpaar Pizza Frage 2026-11-15" (120251568227080078, Creative 1857782172017967, Mediathek 6301) in "Siprego Catering 2026-10-26" (120248297313890078) angelegt und aktiviert, KI-Angabe OPT_IN, Link pizza-catering mit utm_campaign leads-hauptgruppe, utm_content brautpaar-pizza-frage. Gruppe 80 €/Tag unverändert, jetzt drei Anzeigen. Prüfung durch Meta läuft. Prüfen Do 19.11. und Do 26.11.
 Bearbeitet vom Manager: ja, zurückgelesen und an Damian gemeldet
+
+### 2026-11-15 13:15 | Social-Media-Agent | Änderung: Neue Pizza, Bild und Video heute | Status: OK
+Uploads Damian: 6302 IMG_0261.jpeg, 6303 IMG_0262.mov (5,2 s). Reel ungekürzt (6304) Instagram 428832130 und TikTok 428832181 heute 13:45; Foto 4:5 (6305) Instagram 428832236 heute 17:30. Zutaten: Tomatensoße, Mozzarella Fior di Latte, scharfe Nduja, Stracciatella di Burrata, Parmesan. Kein Name, Preis, Datum. Keine Gäste erkennbar. Nicht als Ungeschnitten gezählt, nächste Nummer #16. Frage: Name, Preis, Starttag.
+Bearbeitet vom Manager: ja (15.11.)
