@@ -97,6 +97,7 @@ Daraus die Regeln:
 ## Menüs (Stand 02.11.2026, Details und Preise im Newsletter-Playbook)
 
 - Inhalte und Namen der Menüs immer aus dem Shop übernehmen (Damian, 29.10.2026).
+- Neue Pizza Inferno (Damian, 15.11.2026): Tomatensoße, Mozzarella Fior di Latte, scharfe 'Nduja, Stracciatella di Burrata, Parmesan. Verfügbar ab Mi 18.11.2026. Preis Piccola 16,90 €, Grande 18,90 € (vom Manager am 15.11. festgelegt auf Damians "preis entscheide du", wie Mortabella; gilt erst, wenn im Shop angelegt, vorher in keinem Post nennen und vor jedem Post mit Preis im Shop prüfen). Erlaubter Satz zur Herkunft: "Inspiriert von der 'Nduja-Pizza von Ceres in New York." Mehr dazu nicht behaupten. Stand 15.11.: noch nicht im Shop. Angekündigt am So 15.11. (Reel 13:45 ohne Namen, Foto 17:30 mit Namen und "ab Mittwoch"). Wochenplan Mo 16.11.: Start-Post am Mi 18.11. (Mittwoch-Regel, Bestell-Posts ab 12:00). Material: Foto ID 6302 und Clip ID 6303 von Damian, für weitere Inferno-Posts erlaubt; neues Material wäre besser.
 - Napoli Party Menü (4-6 Personen), 79,90 € im Shop, IM SHOP AKTIV seit 29.10.2026: 1 Pizza Familia (45 cm) nach Wahl, 6 Arancini nach Wahl, 2x Mozzarella Sticks (je 6 Stück), 2x Crispy Chicken Strips (je 5 Stück), 2 Softdrinks (1 L) nach Wahl. KEINE Vorbestellfrist. Der Name "Party Mostruosa" wird nicht verwendet. Instagram-Post Do 29.10. 16:30.
 - Siprego Mittagsmenü, 16,90 € im Shop, IM SHOP AKTIV seit 29.10.2026: Pizza Piccola nach Wahl (kleine Pizza, von Damian bestätigt), 1 Arancino (oder ein frischer Salat), 1 Softdrink 0,33 L. Zeitfenster Mi bis Fr 11:00 bis 15:30 (von Damian am 30.10.2026 bestätigt, NICHT 11 bis 17 Uhr). Der Instagram-Post vom Fr 30.10. 10:30 nannte fälschlich 11 bis 17 Uhr und war schon veröffentlicht, Korrektur der Caption durch Damian in der Instagram-App.
 - Napoli per Due: gibt es NICHT (Damian, 03.11.2026: "rausnehmen"). Napoli Famiglia: unklar, nicht im Shop. Beide nicht bewerben, bis sie im Shop stehen. Alle Erwähnungen aus den Entwürfen der Woche 04. bis 08.11. entfernt.
@@ -162,6 +163,8 @@ Damian wörtlich: "der social media agent muss außerdem regelmäßig prüfen, o
 - Feiertage 24.12. bis 01.01.: noch offen, bis 01.12.2026 keine Aussage dazu.
 
 ## Notizen von Damian an den Agenten
+
+- (über Manager, 15.11.2026) Neue Pizza: "inferno / inspiriert von der nduja pizza von ceres new york. / preis entscheide du. / ab mittwoch verfügbar". Name Inferno, ab Mi 18.11.2026. Preis vom Manager festgelegt: Piccola 16,90 €, Grande 18,90 €; erst nennen, wenn die Pizza im Shop steht. Details im Abschnitt "Menüs". Für den Wochenplan Mo 16.11.: Inferno am Mi 18.11. als Start-Post einplanen.
 
 - (über Manager, 12.11.2026) Neue Fotos von Damian in der Mediathek, über WordPress hochgeladen: ID 6185 Salami-Pizza im Karton, 6186 Margherita im Siprego-Karton vor der Bar, 6187 Prosciutto-Funghi auf dem Holzbrett (dicker Rand). Frei für Social. ID 6189 (Teig im Behälter) ist im Newsletter 113 verwendet. ID 6188 (IMG_0096) ist ein privater Screenshot: NIE verwenden.
 
