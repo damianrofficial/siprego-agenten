@@ -127,7 +127,7 @@ Diese Einträge laufen nur an Öffnungstagen (Mi bis So). Geplante Aufgaben in d
 
 | Ebene | Name | ID |
 | --- | --- | --- |
-| Kampagne | Pizzeria - Sales - Kauf - 2026-10 (Tagesbudget 150 € auf Kampagnenebene, Stand Meta 08.11.) | 120251130156120078 |
+| Kampagne | Pizzeria - Sales - Kauf - 2026-10 (Tagesbudget 120 € auf Kampagnenebene, Stand Meta 15.11.; enthält seit 13.11. auch die Gruppe "Retargeting Pizzeria 2026-11") | 120251130156120078 |
 
 Nicht in der Liste (laufen weiter durch): "Pizzeria - Awareness - Lokal - 2026-09", "Leads - Pizza Catering" samt "Retargeting Catering Statics 2026-11" (Damian, 08.11.: Antwort A, Catering-Retargeting läuft weiter durch, weil Anfragen auch an Ruhetagen kommen; eine aktive Pizzeria-Retargeting-Kampagne gibt es am 08.11. nicht).
 

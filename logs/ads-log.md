@@ -262,3 +262,4 @@ Empfehlungen in Reihenfolge (jede einzeln als Frage, eine Variable auf einmal):
   - Zurückgelesen: Kampagne 120209268286870078 ACTIVE, Gruppe ACTIVE, 80 €/Tag, keine Zwangspause, Zielgruppe unverändert. Drei Anzeigen: Teveo x Damian Edit (120250576664600078) ACTIVE, TikTok Siprego Catering (120248297313880078) ACTIVE, Brautpaar status ACTIVE, effective_status IN_PROCESS (Prüfung).
   - Hinweis: Stimmungsbild, KI, zeigt kein echtes Siprego-Event. Story und Reels zeigen das 4:5-Bild.
   - Prüfen: Do 19.11. und Do 26.11. je Anzeige Ausgabenanteil, Link-Klicks, Leads; im Sheet utm_campaign leads-hauptgruppe, utm_content brautpaar-pizza-frage.
+- 15.11. 21:36 (Manager, Öffnungstage-Schaltung): Sales-Kampagne 120251130156120078 PAUSED für Mo und Di, zurückgelesen. So 15.11. laut Meta 129,69 € und 6 Käufe. Catering läuft durch. Einschalten Mi 18.11. 08:00, dabei Prüfung der drei Produkt-Anzeigen und Link Diavolo.

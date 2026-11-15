@@ -308,3 +308,7 @@ Bearbeitet vom Manager: ja, zurückgelesen und an Damian gemeldet
 ### 2026-11-15 13:15 | Social-Media-Agent | Änderung: Neue Pizza, Bild und Video heute | Status: OK
 Uploads Damian: 6302 IMG_0261.jpeg, 6303 IMG_0262.mov (5,2 s). Reel ungekürzt (6304) Instagram 428832130 und TikTok 428832181 heute 13:45; Foto 4:5 (6305) Instagram 428832236 heute 17:30. Zutaten: Tomatensoße, Mozzarella Fior di Latte, scharfe Nduja, Stracciatella di Burrata, Parmesan. Kein Name, Preis, Datum. Keine Gäste erkennbar. Nicht als Ungeschnitten gezählt, nächste Nummer #16. Frage: Name, Preis, Starttag.
 Bearbeitet vom Manager: ja (15.11.)
+
+### 2026-11-15 21:36 | Manager | Öffnungstage-Schaltung: Ruhetage | Status: OK
+Kampagne "Pizzeria - Sales - Kauf - 2026-10" (120251130156120078) von ACTIVE auf PAUSED, zurückgelesen PAUSED, Budget 120 €/Tag unverändert. Vom Manager direkt ausgeführt (reine Pause). Keine Sonderöffnung am Mo 16.11. laut playbooks/newsletter.md. "Leads - Pizza Catering" läuft weiter (ACTIVE). So 15.11. bis 21:35 laut Meta: Sales 129,69 € und 6 Käufe; Catering 103,82 €, 0 Leads. Wieder an: Mi 18.11. 08:00.
+
