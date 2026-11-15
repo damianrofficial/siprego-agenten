@@ -46,6 +46,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [offen, niedrig] Social | upload-33 (ID 6136) ist privat und öffentlich in der Mediathek, löschen? Dazu alte Entwürfe 406322950, 406323120, 406323232, 406323322 löschen? | Frist So 15.11. | Antworten: A beides löschen (Agent löscht die Entwürfe, Damian upload-33) ... B lassen | Quelle: Eintrag 2026-11-09 08:45
 
 ## Entscheidungen von Damian
+- 15.11. abends (Chat) Umsatz | "2800€" (So 15.11.) und "Korrigiere: Do - 1800€" | So 2.800 € eingetragen, Do 12.11. von 1.730 auf 1.800 € korrigiert. KW46 gesamt 10.810 €.
 - 15.11. (Chat) Ads | Damian schickt Zusammenfassung zum Meta-Update "Andromeda 2.0" und bittet um Optimierungsvorschläge | Analyse an Damian, Arbeitsregeln in playbooks/ads.md (ANDROMEDA-NOTIZ). Vorschlag: bis 27.11. nichts Neues, dann je Kampagne auf 4 bis 5 klar verschiedene Konzepte umbauen, Auswertung über Shop-Bestellungen je UTM und Wochenumsatz.
 - 15.11. (Chat) Neue Pizza | Preise Inferno Piccola 16,90 €, Grande 18,90 €, Familia 31,90 € | Antwort: "passt" | Preise bestätigt. Damian legt die Inferno im Shop an, ab Mi 18.11. Preis in Posts und Mails nennen, sobald sie im Shop steht (vor Versand prüfen).
 - 15.11. (Chat) Neue Pizza | "familia?" | Manager: Familia 31,90 € (Shop-Staffel: Mortabella, Cheese Supreme, Salmone 16,90 / 18,90 / 31,90). Damian legt im Shop an.
