@@ -560,3 +560,11 @@ Geplante Posts Do 12.11. bis So 15.11., alle draft false, PENDING (getScheduledP
 - Gesperrt bis 27.12.2026: IMG_0261.jpeg (ID 6302) und IMG_0262.mov (ID 6303). Ausnahme: weitere Posts zur neuen Pizza, wenn Damian es will.
 - Offene Frage an Damian (über den Manager): Name, Preis und Starttag der neuen Pizza (für Shop-Abgleich, Newsletter und Folgeposts).
 - TikTok-Nachzug in diesem Lauf nicht geprüft (Eilauftrag); nächste Prüfung im Wochenplan-Lauf Mo 16.11.
+
+### Änderung So 15.11.2026 ca. 16:32 (Modus AENDERUNG, Damian im Chat zur neuen Pizza: "inferno / inspiriert von der nduja pizza von ceres new york. / preis entscheide du. / ab mittwoch verfügbar")
+
+- Entscheidung Manager: Name Inferno, ab Mi 18.11.2026, Piccola 16,90 €, Grande 18,90 € (wie Mortabella). Preis erst nennen, wenn die Pizza im Shop steht.
+- Foto-Post So 15.11. 17:30 angepasst, nur Text, Bild und Zeit unverändert, weiter fest geplant (draft false, autoPublish true): neue ID Instagram 428992839 (vorher 428832236, uuid 2246640662622127484). Per getScheduledPosts um 16:32 bestätigt (PENDING, 17:30). Neu: Einstieg "Die Neue heißt Inferno. Ab Mittwoch. 🔥", Satz "Inspiriert von der 'Nduja-Pizza von Ceres in New York.", Bestellhinweis "Die Inferno gibt es ab Mittwoch. Alles andere schon heute: offen bis 22:00, ...". Kein Preis.
+- Reel 13:45 veröffentlicht, Captions nicht angefasst: Instagram 428832130 PUBLISHED https://www.instagram.com/reel/Dfwz_9qoQb1/ ; TikTok 428832181 PUBLISHED https://www.tiktok.com/@siprego/video/7708378608582135062. Beide nennen noch keinen Namen ("ab nächster Woche").
+- Playbook ergänzt: Notizen von Damian (15.11.) und Abschnitt "Menüs" (Inferno: Zutaten, Start, Preis mit Vorbehalt Shop, Herkunftssatz).
+- Für den Wochenplan Mo 16.11.: Inferno als Start-Post am Mi 18.11. (ab 12:00, Zeile "Mittwoch offen, 11 bis 22 Uhr"), Preis nur, wenn dann im Shop. Mit dem Newsletter-Agenten abstimmen (Mittwochsmail). Inferno steht noch nicht im Newsletter-Playbook (trägt der Manager ein).
