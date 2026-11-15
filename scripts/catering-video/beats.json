@@ -1,0 +1,185 @@
+{
+ "puls_s": 0.29823,
+ "schlag_s": 0.89468,
+ "bpm": 67.06,
+ "streuung_ms": 11.2,
+ "pulse_im_fit": 70,
+ "pulse_gesamt": 74,
+ "beats": [
+  {
+   "k": 0,
+   "raster": 0.1023,
+   "einsatz": 0.0755,
+   "bass": 0.058,
+   "bass_staerke": 1.1
+  },
+  {
+   "k": 1,
+   "raster": 0.997,
+   "einsatz": 0.9854,
+   "bass": 0.9723,
+   "bass_staerke": 2.9
+  },
+  {
+   "k": 2,
+   "raster": 1.8917,
+   "einsatz": 1.8721,
+   "bass": 1.936,
+   "bass_staerke": 8.0
+  },
+  {
+   "k": 3,
+   "raster": 2.7863,
+   "einsatz": 2.7777,
+   "bass": 2.7806,
+   "bass_staerke": 6.7
+  },
+  {
+   "k": 4,
+   "raster": 3.681,
+   "einsatz": 3.6905,
+   "bass": 3.6789,
+   "bass_staerke": 8.3
+  },
+  {
+   "k": 5,
+   "raster": 4.5757,
+   "einsatz": 4.5845,
+   "bass": 4.6222,
+   "bass_staerke": 6.6
+  },
+  {
+   "k": 6,
+   "raster": 5.4704,
+   "einsatz": 5.4741,
+   "bass": 5.4886,
+   "bass_staerke": 6.6
+  },
+  {
+   "k": 7,
+   "raster": 6.365,
+   "einsatz": 6.3666,
+   "bass": 6.3608,
+   "bass_staerke": 7.7
+  },
+  {
+   "k": 8,
+   "raster": 7.2597,
+   "einsatz": 7.2751,
+   "bass": 7.2722,
+   "bass_staerke": 8.2
+  },
+  {
+   "k": 9,
+   "raster": 8.1544,
+   "einsatz": 8.1792,
+   "bass": 8.1952,
+   "bass_staerke": 7.0
+  },
+  {
+   "k": 10,
+   "raster": 9.0491,
+   "einsatz": 9.0776,
+   "bass": 9.1008,
+   "bass_staerke": 7.9
+  },
+  {
+   "k": 11,
+   "raster": 9.9438,
+   "einsatz": 9.9628,
+   "bass": 9.9425,
+   "bass_staerke": 6.1
+  },
+  {
+   "k": 12,
+   "raster": 10.8384,
+   "einsatz": 10.8423,
+   "bass": 10.8423,
+   "bass_staerke": 8.4
+  },
+  {
+   "k": 13,
+   "raster": 11.7331,
+   "einsatz": 11.7449,
+   "bass": 11.7449,
+   "bass_staerke": 7.1
+  },
+  {
+   "k": 14,
+   "raster": 12.6278,
+   "einsatz": 12.636,
+   "bass": 12.6229,
+   "bass_staerke": 6.4
+  },
+  {
+   "k": 15,
+   "raster": 13.5225,
+   "einsatz": 13.5184,
+   "bass": 13.5314,
+   "bass_staerke": 7.2
+  },
+  {
+   "k": 16,
+   "raster": 14.4171,
+   "einsatz": 14.408,
+   "bass": 14.4094,
+   "bass_staerke": 9.5
+  },
+  {
+   "k": 17,
+   "raster": 15.3118,
+   "einsatz": 15.2976,
+   "bass": 15.3063,
+   "bass_staerke": 7.6
+  },
+  {
+   "k": 18,
+   "raster": 16.2065,
+   "einsatz": 16.2003,
+   "bass": 16.1974,
+   "bass_staerke": 18.8
+  },
+  {
+   "k": 19,
+   "raster": 17.1012,
+   "einsatz": 17.1015,
+   "bass": 17.0855,
+   "bass_staerke": 17.0
+  },
+  {
+   "k": 20,
+   "raster": 17.9959,
+   "einsatz": 18.0042,
+   "bass": 17.9984,
+   "bass_staerke": 12.7
+  },
+  {
+   "k": 21,
+   "raster": 18.8905,
+   "einsatz": 18.8967,
+   "bass": 18.8822,
+   "bass_staerke": 21.1
+  },
+  {
+   "k": 22,
+   "raster": 19.7852,
+   "einsatz": 19.7921,
+   "bass": 19.782,
+   "bass_staerke": 22.5
+  },
+  {
+   "k": 23,
+   "raster": 20.6799,
+   "einsatz": 20.6933,
+   "bass": 20.6614,
+   "bass_staerke": 16.7
+  },
+  {
+   "k": 24,
+   "raster": 21.5746,
+   "einsatz": 21.5742,
+   "bass": 21.5597,
+   "bass_staerke": 23.1
+  }
+ ]
+}

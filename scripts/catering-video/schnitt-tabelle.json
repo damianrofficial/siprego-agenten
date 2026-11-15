@@ -1,0 +1,220 @@
+{
+ "gesamt_s": 19.2,
+ "bilder": 576,
+ "schnitte": [
+  {
+   "szene": "a1_pasta",
+   "was": "Pasta wird im Parmesanlaib geschwenkt",
+   "schlag": 0,
+   "bild": 0,
+   "zeit_s": 0.0,
+   "laenge_s": 1.833,
+   "schlag_im_video_s": 0.02,
+   "abweichung_ms": -20.5,
+   "abweichung_raster_ms": -47.3,
+   "abweichung_bass_ms": -3.0,
+   "quelle_s": "1.37 bis 3.07",
+   "tempo": 0.93,
+   "zoom": 1.0
+  },
+  {
+   "szene": "a2_flamme",
+   "was": "Flamme im Steinofen",
+   "schlag": 2,
+   "bild": 55,
+   "zeit_s": 1.833,
+   "laenge_s": 0.9,
+   "schlag_im_video_s": 1.817,
+   "abweichung_ms": 16.2,
+   "abweichung_raster_ms": -3.4,
+   "abweichung_bass_ms": -47.7,
+   "quelle_s": "0.20 bis 1.10",
+   "tempo": 1.0,
+   "zoom": 1.0
+  },
+  {
+   "szene": "b_pizza",
+   "was": "Mitarbeiterin reicht Rucola-Parmesan-Pizza in die Kamera",
+   "schlag": 3,
+   "bild": 82,
+   "zeit_s": 2.733,
+   "laenge_s": 2.7,
+   "schlag_im_video_s": 2.723,
+   "abweichung_ms": 10.6,
+   "abweichung_raster_ms": 2.0,
+   "abweichung_bass_ms": 7.7,
+   "quelle_s": "10.40 bis 12.67",
+   "tempo": 0.84,
+   "zoom": 1.0
+  },
+  {
+   "szene": "c1_brusch",
+   "was": "Bruschetta-Bretter",
+   "schlag": 6,
+   "bild": 163,
+   "zeit_s": 5.433,
+   "laenge_s": 0.867,
+   "schlag_im_video_s": 5.419,
+   "abweichung_ms": 14.2,
+   "abweichung_raster_ms": 17.9,
+   "abweichung_bass_ms": -0.3,
+   "quelle_s": "6.60 bis 7.47",
+   "tempo": 1.0,
+   "zoom": 1.32
+  },
+  {
+   "szene": "c2_kaese",
+   "was": "Kaeseplatte mit Trauben und Feigendip",
+   "schlag": 7,
+   "bild": 189,
+   "zeit_s": 6.3,
+   "laenge_s": 0.933,
+   "schlag_im_video_s": 6.312,
+   "abweichung_ms": -11.6,
+   "abweichung_raster_ms": -10.0,
+   "abweichung_bass_ms": -5.8,
+   "quelle_s": "8.33 bis 9.17",
+   "tempo": 0.89,
+   "zoom": 1.0
+  },
+  {
+   "szene": "c3_belegen",
+   "was": "Pizza wird vor dem Ofen belegt",
+   "schlag": 8,
+   "bild": 217,
+   "zeit_s": 7.233,
+   "laenge_s": 0.9,
+   "schlag_im_video_s": 7.22,
+   "abweichung_ms": 13.2,
+   "abweichung_raster_ms": 28.6,
+   "abweichung_bass_ms": 16.1,
+   "quelle_s": "9.30 bis 10.20",
+   "tempo": 1.0,
+   "zoom": 1.0
+  },
+  {
+   "szene": "d_trueffel",
+   "was": "Trueffel wird ueber die Pasta gehobelt",
+   "schlag": 9,
+   "bild": 244,
+   "zeit_s": 8.133,
+   "laenge_s": 2.667,
+   "schlag_im_video_s": 8.124,
+   "abweichung_ms": 9.1,
+   "abweichung_raster_ms": 33.9,
+   "abweichung_bass_ms": -6.9,
+   "quelle_s": "13.13 bis 15.23",
+   "tempo": 0.79,
+   "zoom": 1.48
+  },
+  {
+   "szene": "e1_gaeste",
+   "was": "lachende Gaeste in Weiss am Buffet",
+   "schlag": 12,
+   "bild": 324,
+   "zeit_s": 10.8,
+   "laenge_s": 0.9,
+   "schlag_im_video_s": 10.787,
+   "abweichung_ms": 12.7,
+   "abweichung_raster_ms": 16.6,
+   "abweichung_bass_ms": 12.7,
+   "quelle_s": "3.10 bis 4.00",
+   "tempo": 1.0,
+   "zoom": 1.0
+  },
+  {
+   "szene": "e2_team",
+   "was": "Koch und Team an der Station",
+   "schlag": 13,
+   "bild": 351,
+   "zeit_s": 11.7,
+   "laenge_s": 0.867,
+   "schlag_im_video_s": 11.69,
+   "abweichung_ms": 10.1,
+   "abweichung_raster_ms": 21.9,
+   "abweichung_bass_ms": 10.1,
+   "quelle_s": "18.80 bis 19.67",
+   "tempo": 1.0,
+   "zoom": 1.0
+  },
+  {
+   "szene": "e3_platte",
+   "was": "Wurst- und Schinkenplatte am Buffet",
+   "schlag": 14,
+   "bild": 377,
+   "zeit_s": 12.567,
+   "laenge_s": 0.9,
+   "schlag_im_video_s": 12.581,
+   "abweichung_ms": -14.3,
+   "abweichung_raster_ms": -6.1,
+   "abweichung_bass_ms": -1.2,
+   "quelle_s": "7.50 bis 8.33",
+   "tempo": 0.93,
+   "zoom": 1.0
+  },
+  {
+   "szene": "e4_braut",
+   "was": "Brautpaar am Buffet",
+   "schlag": 15,
+   "bild": 404,
+   "zeit_s": 13.467,
+   "laenge_s": 0.9,
+   "schlag_im_video_s": 13.463,
+   "abweichung_ms": 3.3,
+   "abweichung_raster_ms": -0.8,
+   "abweichung_bass_ms": -9.7,
+   "quelle_s": "15.23 bis 16.13",
+   "tempo": 1.0,
+   "zoom": 1.0
+  },
+  {
+   "szene": "f_ende",
+   "was": "Brautpaar und Gaeste am Buffet, Zeitlupe, abgedunkelt",
+   "schlag": 16,
+   "bild": 431,
+   "zeit_s": 14.367,
+   "laenge_s": 4.833,
+   "schlag_im_video_s": 14.353,
+   "abweichung_ms": 13.7,
+   "abweichung_raster_ms": 4.6,
+   "abweichung_bass_ms": 12.3,
+   "quelle_s": "16.17 bis 17.73",
+   "tempo": 0.32,
+   "zoom": 1.0
+  }
+ ],
+ "karten": [
+  {
+   "id": "k_a",
+   "ein_s": 0.0
+  },
+  {
+   "id": "k_b",
+   "ein_s": 2.733
+  },
+  {
+   "id": "k_c",
+   "ein_s": 5.433
+  },
+  {
+   "id": "k_d",
+   "ein_s": 8.133
+  },
+  {
+   "id": "k_e",
+   "ein_s": 10.8
+  },
+  {
+   "id": "k_f1",
+   "ein_s": 14.367
+  },
+  {
+   "id": "k_f2",
+   "ein_s": 14.667
+  },
+  {
+   "id": "k_f3",
+   "ein_s": 14.967
+  }
+ ]
+}

@@ -1,0 +1,213 @@
+{
+ "quelle": "src/original.mp4",
+ "ausgabe": "out/siprego-ad-catering-video-2026-11-neu.mp4",
+ "fps": 30,
+ "audio_start": 0.055,
+ "nachlauf_s": 0.35,
+ "ausblenden_s": 1.1,
+ "audio_gain_db": 4,
+ "letzter_schlag": 21,
+ "_hinweis": "szenen: schlag = Schlag (aus work/beats.json), auf dem die Szene beginnt. f0/f1 = erstes und letztes Quellbild (30 fps). zoom z mit Anker ax/ay (0 = links/oben, 1 = rechts/unten). mci = Bewegungsinterpolation fuer Zeitlupe. Karten: von_schlag bis bis_schlag, cx/cy = Kartenmitte im Bild 1080x1920.",
+ "szenen": [
+  {
+   "id": "a1_pasta",
+   "schlag": 0,
+   "f0": 41,
+   "f1": 91,
+   "zoom": 1.0,
+   "ax": 0.5,
+   "ay": 0.5,
+   "was": "Pasta wird im Parmesanlaib geschwenkt"
+  },
+  {
+   "id": "a2_flamme",
+   "schlag": 2,
+   "f0": 6,
+   "f1": 36,
+   "zoom": 1.0,
+   "ax": 0.5,
+   "ay": 0.5,
+   "was": "Flamme im Steinofen"
+  },
+  {
+   "id": "b_pizza",
+   "schlag": 3,
+   "f0": 312,
+   "f1": 379,
+   "zoom": 1.0,
+   "ax": 0.5,
+   "ay": 0.5,
+   "mci": true,
+   "was": "Mitarbeiterin reicht Rucola-Parmesan-Pizza in die Kamera"
+  },
+  {
+   "id": "c1_brusch",
+   "schlag": 6,
+   "f0": 198,
+   "f1": 224,
+   "zoom": 1.32,
+   "ax": 1.0,
+   "ay": 1.0,
+   "was": "Bruschetta-Bretter"
+  },
+  {
+   "id": "c2_kaese",
+   "schlag": 7,
+   "f0": 250,
+   "f1": 274,
+   "zoom": 1.0,
+   "ax": 0.5,
+   "ay": 0.5,
+   "was": "Kaeseplatte mit Trauben und Feigendip",
+   "mci": true
+  },
+  {
+   "id": "c3_belegen",
+   "schlag": 8,
+   "f0": 279,
+   "f1": 309,
+   "zoom": 1.0,
+   "ax": 0.5,
+   "ay": 0.5,
+   "was": "Pizza wird vor dem Ofen belegt"
+  },
+  {
+   "id": "d_trueffel",
+   "schlag": 9,
+   "f0": 394,
+   "f1": 456,
+   "zoom": 1.48,
+   "ax": 0.3,
+   "ay": 1.0,
+   "mci": true,
+   "was": "Trueffel wird ueber die Pasta gehobelt"
+  },
+  {
+   "id": "e1_gaeste",
+   "schlag": 12,
+   "f0": 93,
+   "f1": 122,
+   "zoom": 1.0,
+   "ax": 0.5,
+   "ay": 0.5,
+   "was": "lachende Gaeste in Weiss am Buffet"
+  },
+  {
+   "id": "e2_team",
+   "schlag": 13,
+   "f0": 564,
+   "f1": 594,
+   "zoom": 1.0,
+   "ax": 0.5,
+   "ay": 0.5,
+   "was": "Koch und Team an der Station"
+  },
+  {
+   "id": "e3_platte",
+   "schlag": 14,
+   "f0": 225,
+   "f1": 249,
+   "zoom": 1.0,
+   "ax": 0.5,
+   "ay": 0.5,
+   "was": "Wurst- und Schinkenplatte am Buffet",
+   "mci": true
+  },
+  {
+   "id": "e4_braut",
+   "schlag": 15,
+   "f0": 457,
+   "f1": 484,
+   "zoom": 1.0,
+   "ax": 0.5,
+   "ay": 0.5,
+   "was": "Brautpaar am Buffet"
+  },
+  {
+   "id": "f_ende",
+   "schlag": 16,
+   "f0": 485,
+   "f1": 531,
+   "zoom": 1.0,
+   "ax": 0.5,
+   "ay": 0.5,
+   "mci": true,
+   "was": "Brautpaar und Gaeste am Buffet, Zeitlupe, abgedunkelt"
+  }
+ ],
+ "abdunkeln": {
+  "von_schlag": 16,
+  "staerke": 0.38
+ },
+ "karten": [
+  {
+   "id": "k_a",
+   "von_schlag": 0,
+   "bis_schlag": 3,
+   "cx": 540,
+   "cy": 1350,
+   "html": "<div class='h' style='font-size:74px'><em>Hochzeit</em> oder Event<br>in Bayern &amp; BaWü?</div><div class='s' style='font-size:41px;margin-top:16px'>Vergiss langweiliges Standard-Buffet!</div>"
+  },
+  {
+   "id": "k_b",
+   "von_schlag": 3,
+   "bis_schlag": 6,
+   "cx": 540,
+   "cy": 590,
+   "html": "<div class='h' style='font-size:72px'>Wir bringen Italien<br><em>live</em> zu euch!</div><div class='s' style='font-size:37px;margin-top:16px'>Über 140 begleitete Hochzeiten <span class='stars'>★★★★★</span></div>"
+  },
+  {
+   "id": "k_c",
+   "von_schlag": 6,
+   "bis_schlag": 9,
+   "cx": 540,
+   "cy": 1340,
+   "html": "<div class='left'><div class='h' style='font-size:64px'><span class='num'>1.</span>Großes Antipasti-Buffet</div><div class='h' style='font-size:64px;margin-top:12px'><span class='num'>2.</span>485 °C Steinofen-Pizza</div><div class='s' style='font-size:40px;margin-top:10px;padding-left:1.75em'>live gebacken</div></div>"
+  },
+  {
+   "id": "k_d",
+   "von_schlag": 9,
+   "bis_schlag": 12,
+   "cx": 540,
+   "cy": 1370,
+   "html": "<div class='left'><div class='h' style='font-size:68px'><span class='num'>3.</span>Frische Trüffel-Pasta</div><div class='s' style='font-size:41px;margin-top:12px;padding-left:1.8em'>direkt aus dem Parmesanlaib</div></div>"
+  },
+  {
+   "id": "k_e",
+   "von_schlag": 12,
+   "bis_schlag": 16,
+   "cx": 540,
+   "cy": 1330,
+   "html": "<div class='h' style='font-size:64px'>Rundum sorglos ab <b>75 €</b> p. P.</div><div class='rule'></div><div class='left' style='display:inline-block'><div class='s chk' style='font-size:39px'>{CHECK}<span>Inkl. Pavillon, Licht &amp; Service-Team</span></div><div class='s chk' style='font-size:39px;margin-top:12px'>{CHECK}<span>Verkostung vorab in Augsburg möglich</span></div></div>"
+  },
+  {
+   "id": "k_f1",
+   "von_schlag": 16,
+   "bis_schlag": 99,
+   "cx": 540,
+   "cy": 940,
+   "html": "<div class='h' style='font-size:74px'>Was kostet euer<br><em>Wunsch-Menü?</em></div>"
+  },
+  {
+   "id": "k_f2",
+   "von_schlag": 16,
+   "bis_schlag": 99,
+   "verzug_s": 0.3,
+   "cx": 540,
+   "cy": 1190,
+   "kind": "raw",
+   "html": "<div class='btn' style='font-size:42px'>Jetzt in 2 Min. Preis online berechnen</div>"
+  },
+  {
+   "id": "k_f3",
+   "von_schlag": 16,
+   "bis_schlag": 99,
+   "verzug_s": 0.6,
+   "cx": 540,
+   "cy": 1375,
+   "kind": "raw",
+   "wippen": true,
+   "html": "<div style='width:104px;height:104px;border-radius:52px;background:#F3F1EB;display:flex;align-items:center;justify-content:center;box-shadow:0 8px 22px rgba(42,26,16,.45)'>{ARROW_D}</div>"
+  }
+ ]
+}
