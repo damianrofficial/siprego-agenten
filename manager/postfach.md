@@ -13,7 +13,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
-- [offen] Social, Newsletter | Neue Pizza (Nduja, Stracciatella): Name, Preis, Starttag im Shop | Frist Di 17.11. 18:00 | Ohne Antwort: alle Kanäle bleiben bei "ab nächster Woche"
+- [beantwortet 15.11.] Neue Pizza heißt Inferno, ab Mi 18.11., Preis vom Manager: Piccola 16,90 €, Grande 18,90 €. Wartet auf Damian: im Shop anlegen (Familia-Preis legt er fest)
 - [beantwortet 15.11.] Ads Catering | Brautpaar-Static: Bild ist KI (Damian), Anzeige mit KI-Angabe, erstes schärferes Bild
 - [offen] Social Catering | Firmen-Beiträge: Anrede "ihr/euer" (Entwurf, wie Damians Titel) oder "Sie" (wie Firmen-Seite)? A ihr ... B Sie
 - [offen] Social Catering | Führt der Profil-Link von @siprego.catering auch zum Firmen-Konfigurator (siprego.de/firmen-catering/)? A ja ... B nein, Schluss-Slide ändern oder Link ergänzen
@@ -46,6 +46,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [offen, niedrig] Social | upload-33 (ID 6136) ist privat und öffentlich in der Mediathek, löschen? Dazu alte Entwürfe 406322950, 406323120, 406323232, 406323322 löschen? | Frist So 15.11. | Antworten: A beides löschen (Agent löscht die Entwürfe, Damian upload-33) ... B lassen | Quelle: Eintrag 2026-11-09 08:45
 
 ## Entscheidungen von Damian
+- 15.11. (Chat) Neue Pizza | "inferno / inspiriert von der nduja pizza von ceres new york. / preis entscheide du. / ab mittwoch verfügbar" | Name Inferno, Start Mi 18.11.2026. Preis vom Manager festgelegt: Piccola 16,90 €, Grande 18,90 € (wie Mortabella und Cheese Supreme; Diavolo mit Salsiccia 14,90 / 16,90, Aufschlag 2 € für Nduja plus Stracciatella di Burrata). Damian legt sie im Shop an. Foto-Post 17:30 bekommt Name und Starttag, Preis erst nach Shop-Anlage. Mittwochsmail 18.11.: Inferno als Thema vormerken.
 - 15.11. 13:05 (Chat) Social | "1 Bild und 1 Video hochgeladen. Poste es heute. Neue Pizza ab nächster Woche. Tomatensoße, Mozzarella Fior Di Latte, Scharfe Nduja, stracciatella di burata, permesan" | Fest geplant heute: 13:45 Reel Instagram 428832130 und TikTok 428832181, 17:30 Foto Instagram 428832236. Ohne Name, Preis, Starttag.
 - 15.11. nachts (Chat) Ads Catering | "nimm das vorherige bild. ist schärfer. und ja, ist KI" | Anzeige mit dem ersten Bild (V3-Fassung aus out-v1) und KI-Angabe in Meta (OPT_IN). Ads-Agent legt an.
 - 15.11. nachts (Chat) Ads Catering | Brautpaar-Static: "bild auswechseln. das ist das orginal." (neu gerendert) und auf die Frage V3 oder V1 in die kalte Hauptgruppe: "A" | A = V3 ("Was kostet italienisches Catering für eure Hochzeit?", ab 75 €) als dritte Anzeige in "Siprego Catering 2026-10-26". Ads-Agent setzt um. Prüfen Do 19.11. und Do 26.11.
