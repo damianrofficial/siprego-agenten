@@ -1,6 +1,6 @@
 {
  "quelle": "src/original.mp4",
- "ausgabe": "out/siprego-ad-catering-video-2026-11-neu-v2.mp4",
+ "ausgabe": "out/siprego-ad-catering-video-2026-11-neu-v3.mp4",
  "fps": 30,
  "audio_start": 0.055,
  "nachlauf_s": 0.35,
@@ -76,9 +76,9 @@
    "schlag": 9,
    "f0": 394,
    "f1": 456,
-   "zoom": 1.48,
-   "ax": 0.3,
-   "ay": 1.0,
+   "zoom": 1.0,
+   "ax": 0.5,
+   "ay": 0.5,
    "mci": true,
    "was": "Trueffel wird ueber die Pasta gehobelt"
   },
@@ -169,7 +169,7 @@
    "von_schlag": 9,
    "bis_schlag": 12,
    "cx": 540,
-   "cy": 1370,
+   "cy": 1415,
    "html": "<div class='left'><div class='h' style='font-size:68px'><span class='num'>3.</span>Frische Trüffel-Pasta</div><div class='s' style='font-size:41px;margin-top:12px;padding-left:1.8em'>direkt aus dem Parmesanlaib</div></div>"
   },
   {
