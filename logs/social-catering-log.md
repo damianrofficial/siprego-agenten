@@ -61,3 +61,12 @@ Offene Punkte für den Manager: Anrede in Firmen-Beiträgen (Seite sagt "Sie", E
 - Vorher geprüft: alle 24 Slides in der Mediathek stimmen mit den finalen lokalen Dateien überein (WordPress komprimiert neu, Bildinhalt gleich). Nachher geprüft: in Metricool gespeicherte Medien je Beitrag heruntergeladen und mit den finalen Slides verglichen, Reihenfolge und Inhalt stimmen (Beitrag 1 Slide 2 Variante B, Beitrag 2 Slides 4 und 5 v2, Beitrag 3 Titel v3, Beitrag 4 Slide 3 Variante A).
 - Weiter offen für die Firmen-Variante: Anrede (Seite "Sie", Beitrag "euer") und Ziel des Profil-Links; bis 07.12. klärbar.
 
+
+### 2026-11-16 11:08 | AENDERUNG (Reel aus dem neuen Catering-Video, fest gepostet) | Status: OK
+
+- Damian über Manager: "Zu den catering ads: poste das neue Video als reel und bewirb es anschließend". Video Mediathek 6314 unverändert verwendet (geprüft: 19,2 s, 1080x1920, H.264 und AAC, 22,9 MB). Abnahme und Personen-Erlaubnis laut Damian vom 16.11.2026.
+- Metricool-Marke 7408163, ein Beitrag für beide Kanäle: ID 429816539, uuid 5401625533804792304, Mo 16.11.2026 11:02, draft false, autoPublish true. Instagram type REEL mit showReelOnFeed true, Facebook type REEL. Cover videoCoverMilliseconds 1000 (Pasta im Parmesanlaib mit Hook-Karte, Bild vorher angesehen). Alt-Text gesetzt.
+- Zurückgelesen 11:04: beide Kanäle PUBLISHING. 11:07: beide PUBLISHED.
+- Instagram: https://www.instagram.com/reel/DfzGbNxjBUL/ (Shortcode DfzGbNxjBUL; eine numerische Media-ID liefert Metricool nicht). Facebook: https://facebook.com/reel/937482995969296 (ID 937482995969296).
+- Abstand zum Karussell "Pakete Hochzeit" (428418036, heute 19:00): knapp 8 Stunden, Karussell unverändert PENDING.
+- Caption nur mit Fakten aus dem Playbook (7 Antipasti-Variationen, 485 °C, Antipasti & Pizza 75 € inkl. MwSt., Pavillon, Beleuchtung und Service-Team inklusive, Verkostung in Augsburg, Videoberatung).
