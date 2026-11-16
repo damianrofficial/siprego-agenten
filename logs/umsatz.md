@@ -36,7 +36,7 @@ Werden ersetzt bzw. ergänzt, sobald die Z-Berichte vorliegen.
 | Do 12.11.2026 | 1.800 | Damian im Chat, korrigiert am 15.11.2026 (zuerst 1.730 gemeldet) | Sondermail 113 "ich hab am teig gedreht" 10:30 (Aktiv, 1.028, Code TOP10 im PS), Reel Ungeschnitten #13 10:30, keine Ferien. Do 05.11. (Ferien): 2.000 |
 | Fr 13.11.2026 | 2.570 | Damian im Chat, 14.11.2026 | Karussell Mortabella 10:30 (IG), erster Tag neue Meta-Struktur (Sales 137,64 €, 0 Käufe laut Meta), keine Ferien. Fr 06.11. (Ferien): 2.070. KW46 Zwischenstand Mi 1.500 + Do 1.800 + Fr 2.570 = 5.870 € |
 | Sa 14.11.2026 | 2.140 | Damian im Chat, 14.11.2026 abends | Ungeschnitten #14 18:30 und #15 19:51 (IG, TikTok), keine Ferien. KW46 Zwischenstand Mi 1.500 + Do 1.800 + Fr 2.570 + Sa 2.140 = 8.010 € |
-| So 15.11.2026 | 2.800 | Damian im Chat, 15.11.2026 abends | Zweitmail 114 und 115 "heute wird der teig knapp" 10:30 (Aktiv und Schläfer, Code TOP10 letzter Tag), Reel 10:30, Ankündigung Inferno 13:45 und 17:30, Meta Sales 129,69 € und 6 Käufe laut Meta, keine Ferien. So 08.11.: siehe KW45. KW46 gesamt Mi 1.500 + Do 1.800 + Fr 2.570 + Sa 2.140 + So 2.800 = 10.810 € |
+| So 15.11.2026 | 2.800 | Damian im Chat, 15.11.2026 abends | Zweitmail 114 und 115 "heute wird der teig knapp" 10:30 (Aktiv und Schläfer, Code TOP10 letzter Tag), Reel 10:30, Ankündigung Inferno 13:45 und 17:30, Meta Sales 129,69 € und 6 Käufe laut Meta, keine Ferien. So 08.11.: siehe KW45. KW46 gesamt Mi 1.500 + Do 1.800 + Fr 2.570 + Sa 2.140 + So 2.800 = 10.810 €. Davon Shop (orderu) 1.200 € laut Damian am 16.11. (43 % vom Tagesumsatz); Meta meldet für den Tag 216,40 € Kaufwert (6 Käufe), also rund 18 % des Shop-Umsatzes |
 
 ## Wochen (Mi bis So)
 
