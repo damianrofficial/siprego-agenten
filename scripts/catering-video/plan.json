@@ -1,6 +1,6 @@
 {
  "quelle": "src/original.mp4",
- "ausgabe": "out/siprego-ad-catering-video-2026-11-neu.mp4",
+ "ausgabe": "out/siprego-ad-catering-video-2026-11-neu-v2.mp4",
  "fps": 30,
  "audio_start": 0.055,
  "nachlauf_s": 0.35,
@@ -178,7 +178,7 @@
    "bis_schlag": 16,
    "cx": 540,
    "cy": 1330,
-   "html": "<div class='h' style='font-size:64px'>Rundum sorglos ab <b>75 €</b> p. P.</div><div class='rule'></div><div class='left' style='display:inline-block'><div class='s chk' style='font-size:39px'>{CHECK}<span>Inkl. Pavillon, Licht &amp; Service-Team</span></div><div class='s chk' style='font-size:39px;margin-top:12px'>{CHECK}<span>Verkostung vorab in Augsburg möglich</span></div></div>"
+   "html": "<div class='h' style='font-size:68px'>Antipasti &amp; Pizza<br>ab <b>75 €</b> p. P.</div><div class='rule'></div><div class='left' style='display:inline-block'><div class='s chk' style='font-size:39px'>{CHECK}<span>Inkl. Pavillon, Licht &amp; Service-Team</span></div><div class='s chk' style='font-size:39px;margin-top:12px'>{CHECK}<span>Verkostung vorab in Augsburg möglich</span></div></div>"
   },
   {
    "id": "k_f1",
