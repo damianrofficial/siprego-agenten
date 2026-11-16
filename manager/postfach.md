@@ -13,6 +13,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
+- [Info an Damian 16.11.] Meta-Verbindung: Für siprego.catering fehlt die Instagram-Berechtigung (instagram_basic), deshalb kann der Connector bestehende Instagram-Posts nicht bewerben. Damian verbindet den Meta-Connector neu und erteilt die Berechtigung; danach Reel als bestehenden Beitrag bewerben (Ersatz für Anzeige 120251587068210078, die auch "Link im Profil" im Text hat)
 - [Erinnerung an Damian 16.11.] Shop | Inferno im orderu-Shop anlegen (16,90 / 18,90 / 31,90 €) bis Di 17.11. abends; Mi 18.11. vor 12:00 prüft der Manager den Shop, sonst Bestellhinweis in den Mittwoch-Posts ändern und Preis aus der Mail lassen
 - [offen] Social | Neues Rohmaterial für KW48 bis So 22.11. 18:00 (Inferno in einem Take, Teig ausziehen 4K hochkant mit Ton, Arancino aufbrechen) | A kommt ... B kein Dreh, KW48 nur Fotos und Statics
 - [offen] Ads Pizzeria | Shop-Statistik KW46 (Einstiege und Bestellungen je Kampagne, Mi 11.11. bis So 15.11.) als Screenshot mit allen Spalten
@@ -346,4 +347,8 @@ Bearbeitet vom Manager: ja (16.11.)
 ### 2026-11-16 11:08 | Social-Catering-Agent | AENDERUNG Reel neues Catering-Video | Status: OK
 Mediathek 6314 als Reel veröffentlicht Mo 16.11. 11:02, Metricool 429816539 (Marke 7408163): Instagram https://www.instagram.com/reel/DfzGbNxjBUL/ PUBLISHED, Facebook https://facebook.com/reel/937482995969296 PUBLISHED. Cover bei 1 s (Pasta im Parmesanlaib mit Hook-Karte). Caption "Hochzeit oder Event in Bayern oder Baden-Württemberg? Wir bringen Italien live zu euch." mit drei Punkten, ab 75 €, Verkostung, Preis in 2 Minuten. Sicherheitsprüfung meldete "Unrequested Commit"; vom Manager geprüft: entspricht Damians Auftrag, nur Marke 7408163, ein Post.
 Bearbeitet vom Manager: ja (16.11.), Ads-Agent bewirbt den Post
+
+### 2026-11-16 11:10 | Ads-Agent | Umsetzung Catering-Reel bewerben | Status: OK mit Abweichung
+Neue Anzeige "Reel Catering Video 2026-11-16" (120251587068210078) in "Siprego Catering 2026-10-26", eigenes Video-Creative 2030191567655088 aus Mediathek 6314 (Cover Mediathek 6321), KI-Angabe OPT_OUT (echte Aufnahmen, Schnitt ohne generative KI). Abweichung: Bewerbung des bestehenden Posts (IG-Media 18095311373695590) abgelehnt, Fehler 5152012, Berechtigung instagram_basic für Instagram 17841466926290824 fehlt; nicht umgangen. Primärtext gleich Caption, enthält "Link im Profil" und Hashtags (in der Anzeige unpassend, Ersatz nach Neuverbindung). Link pizza-catering mit utm_content reel-catering-video-2026-11, Titel "Preis in 2 Minuten berechnen", Button REQUEST_TIME. Gruppe 80 € unverändert, jetzt vier Anzeigen; Teveo, TikTok, Brautpaar-Static aktiv. Prüfen Do 19.11. und Do 26.11. (dann Entscheidung Teveo).
+Bearbeitet vom Manager: ja (16.11.), in Meta zurückgelesen
 
