@@ -645,3 +645,10 @@ Geplante Posts Do 12.11. bis So 15.11., alle draft false, PENDING (getScheduledP
 - Inferno fehlt im Shop (Stand 16.11. 08:36). Die Mittwoch-Posts nennen keinen Preis, sagen aber "über den Link in der Bio bestellen". Am Mi 18.11. vor 12:00 den Shop prüfen; fehlt sie dann noch, Bestellhinweis in Static und Abend-Reel per AENDERUNG auf "vorbeikommen oder anrufen" ändern.
 - Rohmaterial: nach dieser Woche ist kein Clip mit Handlung mehr frei. Drehwunsch für KW48 (bis So 22.11. in die Mediathek): Inferno vom Belegen bis aus dem Ofen in einem Take; Teig ausziehen in 4K hochkant; Arancino aufbrechen mit Käsefaden.
 - Weiter offen: TikTok-Nachzug (4 Dateien), upload-33 (6136) privat in der Mediathek, Alt-Entwürfe 406322950, 406323120, 406323232, 406323322.
+
+### Änderung Mo 16.11.2026 ca. 09:35 (Modus AENDERUNG, Damian zum Wochenplan: "Für Inferno kommt am Mittwoch ein besseres Bild.")
+
+- Angehalten, nur draft auf true, Inhalt und Termin unverändert (Platzhalter): Story Mi 18.11. 12:00, neue ID Instagram 429734346 (vorher 429691655, uuid 3665750876741519336); Static Mi 18.11. 12:05, neue ID Instagram 429734396 (vorher 429691733, uuid 370253000918844875). Beide draft true.
+- Unverändert fest geplant: Reel Mi 18.11. 18:00 (Instagram 429691784, TikTok 429691826) und alle anderen Posts der Woche.
+- Ablauf Mi 18.11.: Sobald Damians neues Inferno-Bild in der Mediathek liegt, ruft der Manager den Agenten mit AENDERUNG auf. Dann Static (Feed, Quadrat, Story) mit dem neuen Bild neu bauen, die beiden Entwürfe damit aktualisieren und fest einplanen: sofort oder zur nächsten sinnvollen Zeit, mindestens 2 Stunden Abstand zum Reel 18:00 (am Mittwoch also spätestens 16:00; kommt das Bild später, Static und Story auf Do 19.11. vormittags legen und den Text von "ab heute" anpassen). Vorher den Shop auf Inferno und Preis prüfen. Kommt bis Mi kein Bild, entfallen Static und Story (Entwürfe bleiben liegen, nicht veröffentlichen), das Reel 18:00 trägt den Start.
+- Die Dateien 6315, 6316, 6317 (Static mit dem bisherigen Foto) bleiben vorerst in der Mediathek; nach dem Neubau sind sie eigene Zwischendateien und können gelöscht werden.
