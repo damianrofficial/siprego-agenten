@@ -568,3 +568,80 @@ Geplante Posts Do 12.11. bis So 15.11., alle draft false, PENDING (getScheduledP
 - Reel 13:45 veröffentlicht, Captions nicht angefasst: Instagram 428832130 PUBLISHED https://www.instagram.com/reel/Dfwz_9qoQb1/ ; TikTok 428832181 PUBLISHED https://www.tiktok.com/@siprego/video/7708378608582135062. Beide nennen noch keinen Namen ("ab nächster Woche").
 - Playbook ergänzt: Notizen von Damian (15.11.) und Abschnitt "Menüs" (Inferno: Zutaten, Start, Preis mit Vorbehalt Shop, Herkunftssatz).
 - Für den Wochenplan Mo 16.11.: Inferno als Start-Post am Mi 18.11. (ab 12:00, Zeile "Mittwoch offen, 11 bis 22 Uhr"), Preis nur, wenn dann im Shop. Mit dem Newsletter-Agenten abstimmen (Mittwochsmail). Inferno steht noch nicht im Newsletter-Playbook (trägt der Manager ein).
+
+## Lauf Mo 16.11.2026 (Wochenplan KW47, Di 17.11. bis So 22.11., Modus WOCHENPLAN über den Siprego Manager, erster Autopilot-Lauf)
+
+### Geprüft
+
+- Shop 16.11. 08:36: Inferno steht NICHT im Shop (kein Treffer für Inferno oder Nduja). Deshalb in keinem Post ein Preis. Mittagsmenü 16,90 € aktiv, Margherita und Funghi aktiv, Antipasti-Platte für 2 24,90 €. Eine Pizza mit dem Namen "Prosciutto Funghi" gibt es im Shop nicht (nur Funghi und Prosciutto einzeln), deshalb im Foto-Post nur "Schinken und Champignons".
+- Mediathek: seit ID 6303 (So 15.11.) kein neues Rohmaterial von Damian für die Pizzeria. Neu sind nur 6313 (Catering-Video ohne Titel, Damian) und 6314 (Catering-Ad, Agent), beide nicht für siprego.pizza. 6188 und 6136 nicht geöffnet.
+- Instagram-Reels bis 16.11.: letzte Nummer #15 (Sa 14.11.), seit Mi 11.11. kein manuelles Reel von Damian. Neue Nummern: #16 (Di), #17 (Sa).
+- Metricool-Planer 17.11. bis 30.11. war vor dem Lauf leer.
+
+### Auswertung KW46 (Metricool, Abruf 16.11. 08:40, Reichweite / Interaktionen)
+
+| Tag | Post | Instagram | TikTok (Views / Likes) |
+| --- | --- | --- | --- |
+| Di 10.11. 17:30 | Reel Ungeschnitten #11 Kartons, Daumen hoch | 2.110 / 33 | 1.889 / 37 |
+| Mi 11.11. 12:05 | Static Mittagsmenü | 279 / 1 | nur IG |
+| Mi 11.11. 14:08 | Reel Ungeschnitten #12 (Damian, manuell) | 2.132 / 27 | nicht auf TikTok |
+| Do 12.11. 10:30 | Reel Ungeschnitten #13 Bar bis Pizzastation | 1.998 / 15 | 723 / 13 |
+| Fr 13.11. 10:30 | Karussell Mortabella (8 Slides) | 255 / 6 | nur IG |
+| Sa 14.11. 18:30 | Reel Ungeschnitten #14 Ofen, Karton | 1.766 / 25 | 1.042 / 16 |
+| Sa 14.11. 19:51 | Reel Ungeschnitten #15 Pass, Teiglinge, Laden (21 s) | 1.328 / 4 | 926 / 7 |
+| So 15.11. 10:30 | Reel "Ein Stück reicht nie." | 1.322 / 18 | 903 / 14 |
+| So 15.11. 13:45 | Reel Neue Pizza (Inferno, ohne Namen) | 1.408 / 22 | 954 / 17 |
+| So 15.11. 17:30 | Foto Inferno | 134 / 4 (erst 15 Stunden alt) | nur IG |
+
+- Konto Instagram: Follower 3.803 (Mo 09.11.) auf 3.827 (So 15.11.), plus 24. Kontoreichweite Summe der Tage 83.074 (Vorwoche 101.308). Interaktionen Feed plus Reels 158 (Vorwoche 165).
+- TikTok: Follower 3.257 auf 3.273, plus 16. Interaktionen 113 an 4 Tagen mit Daten (Vorwoche 46).
+- Was lief am besten: der Dienstag-Reel 17:30 (#11, bester Post auf beiden Kanälen) und Damians eigenes #12. Reels mit Menschen und einer klaren Handlung (Kartons, Ofen) liegen bei 1.800 bis 2.100 Reichweite und 25 bis 33 Interaktionen.
+- Was lief schwach: Static und Karussell (255 bis 279 Reichweite, 1 bis 6 Interaktionen, ein Siebtel eines Reels). Der lange Rundgang #15 (21 s, zweiter Reel am selben Abend) hatte nur 4 Interaktionen.
+- Daraus für KW47: Dienstag 17:30 bekommt den stärksten Clip mit Mensch und Handarbeit. Die Inferno startet am Mittwoch zusätzlich zum Static als Reel am Abend. Kein Karussell. Nie zwei Reels am selben Abend. Wo kein Clip da ist, ein gutes Foto von Damian mit Frage statt eines gebauten Statics.
+
+### Medien (WordPress-Mediathek)
+
+- Di Reel #16: vorhandene Datei https://siprego.de/wp-content/uploads/2026/11/siprego-ungeschnitten-12-teig-ausziehen-2026-11-12-reel.mp4 (ID 6172, aus siprego-upload.mp4 9 bis 32,6 s, 23,6 s, Pizzaiolo zieht Teig aus, 478x850 hochskaliert, Pool-Musik Italian Oldie ab 1:05, weil der Clip keinen Ton hat). Von Damian am 09.11. freigegeben ("ist ok aber Qualität schlecht"), am 11.11. durch einen anderen Clip ersetzt und nie gelaufen.
+- Mi Static Inferno, Karten-Layout mit Damians Foto IMG_0261.jpeg (ID 6302), Label "NEU · AB MITTWOCH, 18.11.", Headline "Die Neue. Inferno.", Unterzeile "Scharfe 'Nduja, Stracciatella di Burrata, Parmesan", kein Preis: https://siprego.de/wp-content/uploads/2026/11/siprego-ad-inferno-2026-11-feed.jpg (6315), -square.jpg (6316, nur Ad), -story.jpg (6317, Story Mi 12:00, mit Zeile "Mittwoch offen, 11 bis 22 Uhr").
+- Mi Reel Inferno: vorhandene Datei https://siprego.de/wp-content/uploads/2026/11/siprego-neue-pizza-nduja-2026-11-15-reel.mp4 (ID 6304, Damians Clip IMG_0262.mov, ID 6303, ganzer Clip 5,2 s). Zweite Verwendung nach So 15.11., für Inferno erlaubt.
+- Fr Foto Rand: https://siprego.de/wp-content/uploads/2026/11/siprego-rand-foto-2026-11-19.jpg (6318, aus Damians Foto IMG_0109, ID 6187, Zuschnitt 4:5 ohne den Daumen unten links; Dateiname trägt noch den zuerst geplanten Donnerstag).
+- Sa Reel #17: https://siprego.de/wp-content/uploads/2026/11/siprego-ungeschnitten-17-ofen-kartons-2026-11-21-reel.mp4 (6320, siprego-upload-2.mp4 komplett, 18,1 s, nichts gekürzt, 1080x1920, H.264, 30 fps, crf 19, Originalton um 15 dB angehoben mit Limiter, mean_volume -21,5 dB, kein Hook, keine Musik). Die ersten 8 Sekunden zeigen die Hand am Ofen, dann Pizza raus und Kartons; ein Teammitglied ist kurz zu sehen, keine Gäste.
+- So Foto Margherita im Karton: https://siprego.de/wp-content/uploads/2026/11/siprego-margherita-karton-2026-11-22.jpg (6319, aus Damians Foto IMG_0165, ID 6186, Zuschnitt 4:5).
+- Gesperrt bis 28.12.2026: siprego-upload.mp4 (9 bis 32,6 s), siprego-upload-2.mp4 (und die identische -14), IMG_0109 (6187), IMG_0165 (6186). IMG_0261 (6302) und IMG_0262 (6303) bleiben bis 27.12. gesperrt, außer für Inferno.
+
+### Geplante Posts (Metricool 7383922, alle draft false, autoPublish true, PENDING, per getScheduledPosts um 08:46 bestätigt)
+
+| Nr | Tag | Zeit | Format | Hook | Instagram-ID | TikTok-ID |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Di 17.11. | 17:30 | Raw-Reel Teig ausziehen | Ungeschnitten #16 | 429691552 | 429691602 |
+| 2 | Mi 18.11. | 12:00 | Story Inferno | Die Neue. Inferno. | 429691655 | nur IG |
+| 3 | Mi 18.11. | 12:05 | Static Inferno | Die Neue ist da: Inferno. | 429691733 | nur IG |
+| 4 | Mi 18.11. | 18:00 | Reel Inferno (Damians Clip) | Inferno. Seit heute bei uns. | 429691784 | 429691826 |
+| 5 | Fr 20.11. | 10:30 | Foto Rand | So hoch geht unser Rand. | 429691883 | nur IG |
+| 6 | Sa 21.11. | 18:30 | Raw-Reel Ofen, Kartons | Ungeschnitten #17 | 429691985 | 429692006 |
+| 7 | So 22.11. | 10:30 | Foto Margherita im Karton, Community-Frage | Dunkle Blasen am Rand: ja oder nein? | 429692020 | nur IG |
+
+- Nächste freie Ungeschnitten-Nummer: #18 (vorher in Metricool Analytics prüfen).
+
+### Ausgefallen
+
+- Do 19.11. Raw-Reel: kein freier Clip mit Handlung. Geprüft und verworfen: upload-36 (Rand im Ofen, von Damian am 09.11. abgelehnt), upload-26 (Kneter, "schwacher post"), upload-18 (Arancini in die Fritteuse, 3 Sekunden in der Mitte unscharf bis schwarz), upload-7 und -8 (Pizza am Tisch, nur Schwenk), upload-20, upload-3.
+- Freitags-Karussell: bewusst nicht gebaut (KW46: 255 Reichweite), dafür das Rand-Foto.
+- So Raw-Reel: kein Clip, dafür Foto mit Community-Frage.
+
+### TikTok-Nachzug, Stand Mo 16.11.2026 08:40 (Zeitraum 02.11. bis 16.11.)
+
+| Datum IG | Titel | Instagram-Link | Auf TikTok | Status |
+| --- | --- | --- | --- | --- |
+| Do 05.11. 09:33 | Ungeschnitten #7 "Verbessertes Biga Rezept" | https://www.instagram.com/reel/DfWm-NPNwZY/ | nein | Datei fehlt, fällt ab Do 19.11. aus dem Fenster |
+| Sa 07.11. 11:38 | Dough diary #3 (als Reel) | https://www.instagram.com/reel/Dfb-r8PtQ4C/ | nein | Datei fehlt |
+| So 08.11. 10:29 | Ungeschnitten #10 (Ferdi-Clip) | https://www.instagram.com/reel/Dfeb4FaN4Ux/ | nein | Datei fehlt |
+| Mi 11.11. 14:08 | Ungeschnitten #12 | https://www.instagram.com/reel/DfmjOxZNj38/ | nein | Datei fehlt |
+
+- Seit Mi 11.11. kein neues manuelles Reel. Alle anderen Reels im Zeitraum stammen vom Agenten und sind auf TikTok. Nichts eingeplant, weil keine der 4 Dateien in der Mediathek liegt.
+
+### Offene Punkte (an den Manager)
+
+- Inferno fehlt im Shop (Stand 16.11. 08:36). Die Mittwoch-Posts nennen keinen Preis, sagen aber "über den Link in der Bio bestellen". Am Mi 18.11. vor 12:00 den Shop prüfen; fehlt sie dann noch, Bestellhinweis in Static und Abend-Reel per AENDERUNG auf "vorbeikommen oder anrufen" ändern.
+- Rohmaterial: nach dieser Woche ist kein Clip mit Handlung mehr frei. Drehwunsch für KW48 (bis So 22.11. in die Mediathek): Inferno vom Belegen bis aus dem Ofen in einem Take; Teig ausziehen in 4K hochkant; Arancino aufbrechen mit Käsefaden.
+- Weiter offen: TikTok-Nachzug (4 Dateien), upload-33 (6136) privat in der Mediathek, Alt-Entwürfe 406322950, 406323120, 406323232, 406323322.
