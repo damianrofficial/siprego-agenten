@@ -381,3 +381,5 @@ Bearbeitet vom Manager: ja (18.11.)
 ### 2026-11-18 10:05 | Manager | Team-Anleitung Pizza Inferno (PDF) | Status: Entwurf
 Damian (18.11., Chat): "Erstellen mir ein pdf mit Anleitung wie man die Pizza Inferno macht mit Bild. Für die Mitarbeiter." Datei anleitungen/pizza-inferno-anleitung.pdf (A4, eine Seite, Bild Mediathek 6325, Zutaten und Preise laut Shop, Allergen Milch laut Shop). Mengen in Gramm fehlen (Leerfelder). Annahme des Managers aus dem Foto, von Damian zu bestätigen: Tomatensoße, Fior di Latte und Nduja vor dem Ofen, Stracciatella und Parmesan danach.
 Bearbeitet vom Manager: ja (18.11.)
+
+Nachtrag 18.11.: Damian "Die Allergene passen nicht. Lass sie weg." Allergen-Zeile aus der Anleitung entfernt. Hinweis: Im Shop ist bei Inferno nur "Milch" hinterlegt, das pflegt Damian im Shop.
