@@ -13,6 +13,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
+- [gestellt am 18.11. 11:55] Ads Pizzeria | Arancini-Reel mit Inga (Anzeige 120251623392930078, Entwurf in "Lokal 10km - Kauf", Creative 1836622694323241): Video sagt "neu mit gegrilltem Gemüse" (gibt es nicht, vierte Sorte Spinaci) und "bevor sie ausverkauft sind" | Frist Mi 18.11. 18:00 | Antworten: A so starten ... B erst Stelle rausschneiden, Damian lädt Original hoch | Ohne Antwort: bleibt Entwurf | Repost Instagram hängt an derselben Antwort | Quelle: Ads-Agent 2026-11-18 11:55
 - [erledigt 18.11. 08:57] Shop geprüft 08:32: Inferno im Shop (Piccola 16,90 €, Grande 18,90 €, Familia 31,90 €). Mail 116/117 mit Preis und Bestellsatz, Bild 6325; Static Mi 12:00 (Metricool 432473864) mit Bestellhinweis; Reel Mi 18:00 unverändert richtig
 - [gestellt am 18.11. 09:15] Newsletter | Zweitmail So 22.11.: ohne Code, mit neuem Code oder keine? | Frist Fr 20.11. 12:00 | Empfehlung Manager: keine Zweitmail (Abmeldungen)
 - [offen] Newsletter | Feiertagszeiten 24.12. bis 01.01. | Frist Di 01.12.
