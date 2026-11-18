@@ -37,6 +37,7 @@ Werden ersetzt bzw. ergänzt, sobald die Z-Berichte vorliegen.
 | Fr 13.11.2026 | 2.570 | Damian im Chat, 14.11.2026 | Karussell Mortabella 10:30 (IG), erster Tag neue Meta-Struktur (Sales 137,64 €, 0 Käufe laut Meta), keine Ferien. Fr 06.11. (Ferien): 2.070. KW46 Zwischenstand Mi 1.500 + Do 1.800 + Fr 2.570 = 5.870 € |
 | Sa 14.11.2026 | 2.140 | Damian im Chat, 14.11.2026 abends | Ungeschnitten #14 18:30 und #15 19:51 (IG, TikTok), keine Ferien. KW46 Zwischenstand Mi 1.500 + Do 1.800 + Fr 2.570 + Sa 2.140 = 8.010 € |
 | So 15.11.2026 | 2.800 | Damian im Chat, 15.11.2026 abends | Zweitmail 114 und 115 "heute wird der teig knapp" 10:30 (Aktiv und Schläfer, Code TOP10 letzter Tag), Reel 10:30, Ankündigung Inferno 13:45 und 17:30, Meta Sales 129,69 € und 6 Käufe laut Meta, keine Ferien. So 08.11.: siehe KW45. KW46 gesamt Mi 1.500 + Do 1.800 + Fr 2.570 + Sa 2.140 + So 2.800 = 10.810 €. Davon Shop (orderu) 1.200 € laut Damian am 16.11. (43 % vom Tagesumsatz); Meta meldet für den Tag 216,40 € Kaufwert (6 Käufe), also rund 18 % des Shop-Umsatzes |
+| Mi 18.11.2026 | 1.763 | Damian im Chat, 18.11.2026 abends | Start Pizza Inferno: Mittwochsmail 116 und 117 "die neue ist scharf" 10:30 (Aktiv 1.050, Schläfer 961, mit Preis), Static 12:00, Story 12:05, Reel 18:00; Meta Sales 120 €/Tag; Buß- und Bettag (schulfrei, kein Feiertag); kein Rabattcode. Mi 11.11.: 1.500 (plus 263 €, plus 17,5 %) |
 
 ## Wochen (Mi bis So)
 
