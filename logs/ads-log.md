@@ -300,3 +300,7 @@ Empfehlungen in Reihenfolge (jede einzeln als Frage, eine Variable auf einmal):
 - Prüfen: Do 19.11. (läuft die Anzeige nach der Prüfung, Anteil am Budget, Link-Klicks) und Do 26.11. (Anteil am Budget, Link-Klicks, Leads je Anzeige, Anfragen im Sheet mit utm_content reel-catering-video-2026-11). Am 26.11. entscheiden, ob "Catering Teveo x Damian Edit 2026-09-14" pausiert wird. Nicht vor 7 Tagen und rund 30 € bewerten.
 - Offen (Warteschlange): Meta-Verbindung neu verbinden und instagram_basic für siprego.catering erteilen, dann können künftige Reels als bestehender Beitrag beworben werden.
 - 16.11. nachmittags (Manager, Damian "Ja, sofort raus."): Static Brautpaar in der Hauptgruppe pausiert (120251568227080078; 48,81 €, 22 Link-Klicks, 8 LP-Views, 0 Leads seit 15.11.). Neu im Catering-Retargeting 120251429297150078: "RT Static Brautpaar Pizza Frage 2026-11-16" 120251589859320078 mit Creative 1857782172017967, aktiviert. Retargeting jetzt 4 Anzeigen, 20 €/Tag unverändert.
+
+### 2026-11-18 08:10 | Manager | Öffnungstage-Schaltung Mi an | Status: OK
+Kampagne "Pizzeria - Sales - Kauf - 2026-10" (120251130156120078) von PAUSED auf ACTIVE, zurückgelesen: ACTIVE, 120 €/Tag unverändert. Kein Sperrtermin für Mi 18.11. Kalte Gruppe: 4 Anzeigen ACTIVE (3 Reels, Shop 10 %). Retargeting-Gruppe: 6 Anzeigen ACTIVE, Auslieferung kurz nach dem Einschalten noch IN_PROCESS (auch die drei Produkt-Anzeigen), Nachprüfung Mi 09:10. Vom Manager direkt ausgeführt (eine Statusänderung).
+Bearbeitet vom Manager: ja (18.11.)

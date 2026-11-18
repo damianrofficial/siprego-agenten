@@ -369,3 +369,7 @@ Bearbeitet vom Manager: ja (17.11.)
 ### 2026-11-17 21:40 | Manager | Neues Inferno-Bild von Damian eingesetzt | Status: OK
 Damian (17.11., Chat): "hier das bild für die pizza inferno." Bild in Mediathek 6325 (1254x1254, Pizza von oben auf Holzbrett). Newsletter-Agent: Bild in 116 (Aktiv, 1.050) und 117 (Schläfer, 961) getauscht, beide weiter queued Mi 18.11. 10:30, sonst unverändert, weiter ohne Preis. Social-Agent: Static (Mediathek 6326, Metricool 431992718, Mi 12:00) und Story (6327, 431992761, Mi 12:05) mit neuem Bild fest geplant, Text "ab heute in Pfersee", kein Preis, kein Bestellaufruf. Reel Mi 18:00 (IG 429691784, TikTok 429691826) unverändert, nennt noch "über den Link in der Bio bestellen": bei Shop-Prüfung Mi 09:10 anpassen, falls Inferno nicht im Shop. Vorschauen an Damian geschickt.
 Bearbeitet vom Manager: ja (17.11.)
+
+### 2026-11-18 08:10 | Manager | Öffnungstage-Schaltung Mi an | Status: OK
+Kampagne "Pizzeria - Sales - Kauf - 2026-10" (120251130156120078) von PAUSED auf ACTIVE, zurückgelesen: ACTIVE, 120 €/Tag unverändert. Kein Sperrtermin für Mi 18.11. Kalte Gruppe: 4 Anzeigen ACTIVE (3 Reels, Shop 10 %). Retargeting-Gruppe: 6 Anzeigen ACTIVE, Auslieferung kurz nach dem Einschalten noch IN_PROCESS (auch die drei Produkt-Anzeigen), Nachprüfung Mi 09:10. Vom Manager direkt ausgeführt (eine Statusänderung).
+Bearbeitet vom Manager: ja (18.11.)
