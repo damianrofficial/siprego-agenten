@@ -13,12 +13,12 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
-- [TODO Manager Mi 18.11. 09:15] Shop auf Inferno prüfen und Mediathek auf neues Bild; dann Mail 116/117 (Preis, Bestellsatz, Bild) und Reel Mi 18:00 (IG 429691784: Bestellhinweis "über den Link in der Bio bestellen" nur, wenn Inferno im Shop) anpassen; Static und Story neu bauen (dabei "Ceres" wie in der Mail nicht namentlich, Bestellhinweis nach Shop-Stand)
+- [erledigt 18.11. 08:57] Shop geprüft 08:32: Inferno im Shop (Piccola 16,90 €, Grande 18,90 €, Familia 31,90 €). Mail 116/117 mit Preis und Bestellsatz, Bild 6325; Static Mi 12:00 (Metricool 432473864) mit Bestellhinweis; Reel Mi 18:00 unverändert richtig
 - [offen] Newsletter | Zweitmail So 22.11.: ohne Code, mit neuem Code oder keine? | Frist Fr 20.11. 12:00 | Empfehlung Manager: keine Zweitmail (Abmeldungen)
 - [offen] Newsletter | Feiertagszeiten 24.12. bis 01.01. | Frist Di 01.12.
 - [Wiedervorlage Do 19.11., Ads Catering] Falsche bzw. veraltete Aussagen in laufenden Catering-Anzeigen: RT Static Steinofen "Ab 60 € pro Person, ab 40 Gästen ... dazu Antipasti-Buffet und Pasta" (60 € ist nur Pizza); RT 80 Gäste v2 "ab 4.800 €: Steinofen live, Antipasti-Buffet" (4.800 € = nur Pizza, mit Antipasti 6.000 €); TikTok-Video "ab 50 Personen", "130+", Pakete wie Firmen-Seite; Teveo "ab 50 Gästen", "Link in Bio"; "in 2 Minuten" gegen "in 3 Minuten"
 - [Info an Damian 16.11.] Meta-Verbindung: Für siprego.catering fehlt die Instagram-Berechtigung (instagram_basic), deshalb kann der Connector bestehende Instagram-Posts nicht bewerben. Damian verbindet den Meta-Connector neu und erteilt die Berechtigung; danach Reel als bestehenden Beitrag bewerben (Ersatz für Anzeige 120251587068210078, die auch "Link im Profil" im Text hat)
-- [Erinnerung an Damian 16.11.] Shop | Inferno im orderu-Shop anlegen (16,90 / 18,90 / 31,90 €) bis Di 17.11. abends; Mi 18.11. vor 12:00 prüft der Manager den Shop, sonst Bestellhinweis in den Mittwoch-Posts ändern und Preis aus der Mail lassen
+- [erledigt 18.11.] Shop | Inferno von Damian im orderu-Shop angelegt (16,90 / 18,90 / 31,90 €), geprüft 18.11. 08:32
 - [offen] Social | Neues Rohmaterial für KW48 bis So 22.11. 18:00 (Inferno in einem Take, Teig ausziehen 4K hochkant mit Ton, Arancino aufbrechen) | A kommt ... B kein Dreh, KW48 nur Fotos und Statics
 - [offen] Ads Pizzeria | Shop-Statistik KW46 (Einstiege und Bestellungen je Kampagne, Mi 11.11. bis So 15.11.) als Screenshot mit allen Spalten
 - [Wiedervorlage Mo 23.11.] Ads Pizzeria | Google "Pizza Bestellen - Augsburg" pausieren? 28 Tage 137,04 €, 3 Conversions (45,68 €), KW46 0 Conversions; setzt Damian um
@@ -372,4 +372,8 @@ Bearbeitet vom Manager: ja (17.11.)
 
 ### 2026-11-18 08:10 | Manager | Öffnungstage-Schaltung Mi an | Status: OK
 Kampagne "Pizzeria - Sales - Kauf - 2026-10" (120251130156120078) von PAUSED auf ACTIVE, zurückgelesen: ACTIVE, 120 €/Tag unverändert. Kein Sperrtermin für Mi 18.11. Kalte Gruppe: 4 Anzeigen ACTIVE (3 Reels, Shop 10 %). Retargeting-Gruppe: 6 Anzeigen ACTIVE, Auslieferung kurz nach dem Einschalten noch IN_PROCESS (auch die drei Produkt-Anzeigen), Nachprüfung Mi 09:10. Vom Manager direkt ausgeführt (eine Statusänderung).
+Bearbeitet vom Manager: ja (18.11.)
+
+### 2026-11-18 08:57 | Manager | Tageslauf Mi KW47 | Status: OK
+Shop 08:32: Inferno im Shop, Piccola 16,90 €, Grande 18,90 €, Familia 31,90 €, Kennzeichen neu und scharf. Newsletter-Agent: Preiszeile und Bestellsatz ("Bestell sie online, komm vorbei oder ruf an") in 116 (Aktiv, 1.050) und 117 (Schläfer, 961) eingetragen, beide queued Mi 18.11. 10:30, Button bleibt "Zur Speisekarte" (Regel 6a). Kampagnennamen enthalten weiter "ohne Preis" (für die Auswertung merken). Manager: Caption Static Mi 12:00 um "oder bestell über den Link in der Bio" ergänzt, neue Metricool-ID 432473864 (uuid 370253000918844875); Story 431992761 und Reel 18:00 (IG 429691784, TikTok 429691826) unverändert. Stichproben: Metricool 8 Posts bis So 22.11. alle fest geplant, kein Entwurf offen; Meta Frequenz 7 Tage höchstens 2,27 (RT 80 Gäste v2), kalt Pizzeria 1,75 bis 1,91, alles unter den Grenzen; Retargeting Pizzeria: alle 6 Anzeigen jetzt ACTIVE.
 Bearbeitet vom Manager: ja (18.11.)
