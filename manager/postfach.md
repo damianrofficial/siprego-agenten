@@ -383,3 +383,8 @@ Damian (18.11., Chat): "Erstellen mir ein pdf mit Anleitung wie man die Pizza In
 Bearbeitet vom Manager: ja (18.11.)
 
 Nachtrag 18.11.: Damian "Die Allergene passen nicht. Lass sie weg." Allergen-Zeile aus der Anleitung entfernt. Hinweis: Im Shop ist bei Inferno nur "Milch" hinterlegt, das pflegt Damian im Shop.
+
+### 2026-11-18 11:50 | Social-Media-Agent | AENDERUNG Ungeschnitten neuer Clip, nur Entwurf | Status: OK
+Damian (18.11.): "neues ungeschnitten video hochgeladen. schick mir vorab die caption". Clip Mediathek 6328 (IMG_0324.mov, 12,2 s, Pizzaiolo verteilt Käse auf sieben Böden, Schwenk zur Bar), Posting-Version 6329. Entwürfe Do 19.11. 17:30: Instagram 432656670, TikTok 432656781, als "Ungeschnitten #17"; bei Freigabe für Donnerstag wird das Samstag-Reel (IG 429691985, TikTok 429692006) zu #18. Im Hintergrund an der Bar 6 bis 9,5 s zwei Personen, klein und unscharf. Caption an Damian geschickt, wartet auf sein Wort. Nebenbefund: Mediathek 6322 (IMG_0284.mov, 16.11.) und 6324 (IMG_0260.jpeg, 17.11.) ungesichtet.
+Damian (18.11.): "pizzeria ads: wir sollten arancini mehr pushen ... nimm eine alte creative (z.b arancini gibts nur bei uns - mit inga) und reposte und oder bewerbe." Ads-Agent UMSETZEN läuft (eine Anzeige in "Lokal 10km - Kauf", Budget unverändert, Sperrfrist auf Damians Auftrag durchbrochen).
+Bearbeitet vom Manager: ja (18.11.)
