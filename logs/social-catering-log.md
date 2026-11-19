@@ -86,3 +86,10 @@ Offene Punkte für den Manager:
 - Rechenbeispiel Sparen: 5 % auf den Paketpreis (7.500 €) gerechnet, ohne Anfahrt. Ob der Rabatt auch auf Anfahrt und Zusatzleistungen gilt, steht nirgends.
 - Reel 25.11.: Originalton aus 6313 (vermutlich Musik); Rechte daran sind nicht belegt, bei 6314 lief dieselbe Quelle bereits als Reel.
 - Eventtag-Titel 5068 ist fast dasselbe Motiv wie der Pakete-Titel vom 16.11. (5022).
+
+### 2026-11-19 09:12 | AENDERUNG (Freigabe, feste Einplanung der fünf Beiträge) | Status: OK
+
+- Damian über Manager, wörtlich: "Ungeschnitten früher posten. Sonst passt." (erster Satz betrifft die Pizzeria). Alle fünf Beiträge fest eingeplant (draft false, autoPublish true), Marke 7408163, Instagram und Facebook, Inhalt, Medien und Termine unverändert.
+- Neue Metricool-IDs (uuid unverändert): Bewertungen 433884475 (So 22.11.2026 19:00), Vor Ort 433884611 (Mo 23.11. 19:00), Reel 433884674 (Mi 25.11. 19:00), Sparen 433884796 (Fr 27.11. 19:00), Eventtag 433884899 (So 29.11. 19:00).
+- Zurückgelesen: alle fünf draft false, beide Kanäle PENDING, Zeiten stimmen.
+

@@ -126,7 +126,7 @@ Gesichtet am 14.11.2026 (Mediathek-Suche catering, hochzeit, pavillon, antipasti
 | ID | Größe | Motiv | Personen erkennbar | Verwendbar |
 | --- | --- | --- | --- | --- |
 | 5022 | 2000x1333 | Pizza im Steinofen, Flamme, nah | nein | ja, sehr gut (verwendet: Pakete Titel) |
-| 5068 | 1500x1500 | wie 5022, quadratisch | nein | ja (verwendet: Eventtag Titel, Entwurf 29.11.) |
+| 5068 | 1500x1500 | wie 5022, quadratisch | nein | ja (verwendet: Eventtag Titel, 29.11.) |
 | 5020 | 2000x1333 | Pizzen auf Edelstahl-Buffet, Basilikum, Schild | nein | ja |
 | 5066 | 1500x1500 | wie 5020, quadratisch | nein | ja (verwendet: Gästezahl Titel) |
 | 5091 | 2000x1000 | wie 5020, Querformat | nein | ja, für 4:5 zu flach |
@@ -154,7 +154,7 @@ Gesichtet am 14.11.2026 (Mediathek-Suche catering, hochzeit, pavillon, antipasti
 | 5275 | 819x1024 | Buffet mit Pizzen abends, Lichterkette, Ofen | nein | Vorsicht: Efeugirlande und Zitronenzweige im Bild (Verdacht Kunstpflanze), klein; am 19.11. nicht genommen |
 | 5276 | 1024x767 | zwei Mitarbeiter unter dem Pavillon | ja, Team | nur nach Rückfrage |
 | 5277 | 1024x873 | zwei Mitarbeiterinnen unter dem Pavillon | ja, Team | nur nach Rückfrage |
-| 5753 | 1200x1600 | Pizzen vorn, Team am Ofen von hinten, Abendlicht (Hero der Landingpage) | nein (von hinten, unscharf) | ja, sehr gut (als Verkostung-Titel v2 gebaut, von Damian durch 6282 ersetzt; frei für andere Titel; verwendet: Vor-Ort Titel, Entwurf 23.11.) |
+| 5753 | 1200x1600 | Pizzen vorn, Team am Ofen von hinten, Abendlicht (Hero der Landingpage) | nein (von hinten, unscharf) | ja, sehr gut (als Verkostung-Titel v2 gebaut, von Damian durch 6282 ersetzt; frei für andere Titel; verwendet: Vor-Ort Titel, 23.11.) |
 | 5793 | 750x1000 | Pavillon mit Fähnchen, Buffet, Kind von hinten | Team seitlich, Kind von hinten | nein |
 | 5825 | 720x900 | Standbild Hero-Video, Mitarbeiterin am Buffet | ja, Team | nur nach Rückfrage |
 | 5824 | Video | Hero-Video Hochzeit (mp4) | noch nicht gesichtet | offen, vor Reel prüfen |
@@ -190,15 +190,15 @@ Musterlauf 14.11.2026, nach Damians Änderungen am 15.11.2026 fest eingeplant (d
 | 4 | Mo 07.12.2026 19:00 | Thema 1 Variante Firmen: "Was kostet italienisches Catering für euer Firmenevent?", vier Pakete netto laut Firmen-Seite | Karussell, 7 Slides | 428418280 | -6949295604068892181 | 6275, 6293, 6294 (Slide 3 v4, Buffet-Ausschnitt aus 5841 ohne Gesichter), 6295, 6296, 6280, 6281 | FEST GEPLANT (draft false), freigegeben von Damian 15.11.2026 ("passt") |
 | 5 | Mo 16.11.2026 11:02 | Reel "Hochzeit oder Event in Bayern & BaWü?" (Video der Catering-Anzeige, 19,2 s, Texte und Musik im Video; Cover bei 1,0 s, Pasta im Parmesanlaib mit Hook-Karte). Auf Damians Auftrag vom 16.11.2026 sofort fest gepostet, wird vom Ads-Agenten beworben | Reel 1080x1920, Instagram und Facebook | 429816539 | 5401625533804792304 | 6314 (Video) | VERÖFFENTLICHT 16.11.2026 11:02. Instagram https://www.instagram.com/reel/DfzGbNxjBUL/ (Shortcode DfzGbNxjBUL), Facebook https://facebook.com/reel/937482995969296 (ID 937482995969296) |
 
-Lauf 19.11.2026 (KW48 plus So 22.11.), alle ENTWURF (draft true, autoPublish true), Instagram und Facebook, jeweils 19:00, warten auf Damians Freigabe:
+Lauf 19.11.2026 (KW48 plus So 22.11.), am 19.11.2026 nach Damians Freigabe ("Sonst passt.") fest eingeplant (draft false, autoPublish true), Instagram und Facebook, jeweils 19:00:
 
 | Nr. | Termin | Thema | Format | Metricool-ID | uuid | Mediathek | Stand |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6 | So 22.11.2026 19:00 | Thema 17, "Was sagen Brautpaare über unser Catering?" (drei Google-Bewertungen von der Landingpage: Evi, Laura, Carl; Titelfoto 5841 im Kasten) | Karussell, 5 Slides | 433861276 | 4704576834787427922 | 6332, 6337 bis 6340 | ENTWURF |
-| 7 | Mo 23.11.2026 19:00 | Thema 2 und 7, "Was braucht ihr vor Ort für euer Catering?" (4 × 4 m, mit Pasta plus ca. 2 × 2 m; Strom nach Damian: 1 × 230 V, mit Pasta zusätzlich 2 × 230 V oder 1 × 400 V, Gas bringen wir mit; kein Wasser; Zufahrt, Untergrund; bei Regen 2 Tische à 2,20 m innen; Titelfoto 5753) | Karussell, 7 Slides | 433861409 | -4021476797612210463 | 6333, 6341 bis 6346 | ENTWURF |
-| 8 | Mi 25.11.2026 19:00 | Stimmung: Reel "Bruschetta, Antipasti, Pizza, Trüffelpasta", Ausschnitt 6,43 bis 15,23 s aus Video 6313 (ohne Text, Originalton mit Ein- und Ausblendung, 8,8 s, Cover bei 7,4 s: Trüffel über Pasta) | Reel 1080x1920 | 433861457 | 2200595672103734380 | 6336 | ENTWURF |
-| 9 | Fr 27.11.2026 19:00 | Thema 4, "Wie könnt ihr bei eurem Catering sparen?" (5 % bei Vollzahlung, nur bei Festen in mehr als 6 Monaten; Beispiel 100 Gäste mal 75 € = 7.500 €, Rabatt 375 €, zu zahlen 7.125 €, ohne Anfahrt; Titel typografisch) | Karussell, 5 Slides | 433861570 | -5237554676097466228 | 6334, 6347 bis 6350 | ENTWURF |
-| 10 | So 29.11.2026 19:00 | Ablauf am Eventtag, "Wie läuft der Eventtag mit uns ab?" (Aufbau ca. 2 Stunden vorher, Buffetzeit 2 bis 4 Stunden, Abbau ca. 1 Stunde, Reste frisch verpackt; Titelfoto 5068) | Karussell, 6 Slides | 433861664 | -5523402093647607045 | 6335, 6351 bis 6355 | ENTWURF |
+| 6 | So 22.11.2026 19:00 | Thema 17, "Was sagen Brautpaare über unser Catering?" (drei Google-Bewertungen von der Landingpage: Evi, Laura, Carl; Titelfoto 5841 im Kasten) | Karussell, 5 Slides | 433884475 | 4704576834787427922 | 6332, 6337 bis 6340 | FEST GEPLANT (draft false), freigegeben von Damian 19.11.2026 ("Sonst passt.") |
+| 7 | Mo 23.11.2026 19:00 | Thema 2 und 7, "Was braucht ihr vor Ort für euer Catering?" (4 × 4 m, mit Pasta plus ca. 2 × 2 m; Strom nach Damian: 1 × 230 V, mit Pasta zusätzlich 2 × 230 V oder 1 × 400 V, Gas bringen wir mit; kein Wasser; Zufahrt, Untergrund; bei Regen 2 Tische à 2,20 m innen; Titelfoto 5753) | Karussell, 7 Slides | 433884611 | -4021476797612210463 | 6333, 6341 bis 6346 | FEST GEPLANT (draft false), freigegeben von Damian 19.11.2026 ("Sonst passt.") |
+| 8 | Mi 25.11.2026 19:00 | Stimmung: Reel "Bruschetta, Antipasti, Pizza, Trüffelpasta", Ausschnitt 6,43 bis 15,23 s aus Video 6313 (ohne Text, Originalton mit Ein- und Ausblendung, 8,8 s, Cover bei 7,4 s: Trüffel über Pasta) | Reel 1080x1920 | 433884674 | 2200595672103734380 | 6336 | FEST GEPLANT (draft false), freigegeben von Damian 19.11.2026 ("Sonst passt.") |
+| 9 | Fr 27.11.2026 19:00 | Thema 4, "Wie könnt ihr bei eurem Catering sparen?" (5 % bei Vollzahlung, nur bei Festen in mehr als 6 Monaten; Beispiel 100 Gäste mal 75 € = 7.500 €, Rabatt 375 €, zu zahlen 7.125 €, ohne Anfahrt; Titel typografisch) | Karussell, 5 Slides | 433884796 | -5237554676097466228 | 6334, 6347 bis 6350 | FEST GEPLANT (draft false), freigegeben von Damian 19.11.2026 ("Sonst passt.") |
+| 10 | So 29.11.2026 19:00 | Ablauf am Eventtag, "Wie läuft der Eventtag mit uns ab?" (Aufbau ca. 2 Stunden vorher, Buffetzeit 2 bis 4 Stunden, Abbau ca. 1 Stunde, Reste frisch verpackt; Titelfoto 5068) | Karussell, 6 Slides | 433884899 | -5523402093647607045 | 6335, 6351 bis 6355 | FEST GEPLANT (draft false), freigegeben von Damian 19.11.2026 ("Sonst passt.") |
 
 Hinweis: Nach jedem updateScheduledPost ändert sich die Metricool-ID, die uuid bleibt.
 
@@ -209,6 +209,7 @@ Hinweis: Nach jedem updateScheduledPost ändert sich die Metricool-ID, die uuid 
 - 14.11.2026 spät, zweite Antwort: Für die Verkostung will Damian das erste Bild aus dem eigenen Instagram-Beitrag DAMH8ZZomrf ("nimm dieses bild"), Mediathek 6282. Lehre: Bei Antipasti und Verkostung das Gesamtbild mit allen drei Brettern zeigen, nicht nur einen engen Ausschnitt; eigene Instagram-Beiträge von siprego.catering sind eine Bildquelle.
 - 14.11.2026 spät, vierte Antwort: Foto vom Antipasti-Buffet mit Brautpaar geschickt (Mediathek 5841), "dieses bild kannst du nehmen." und "wir haben die erlaubnis vom paar und team." Damit ist 5841 ganz verwendbar.
 - 15.11.2026 (über Manager): Zur Wahl A oder B bei Pakete Hochzeit Slide 2: "B." (Brautpaar am Buffet). Zur festen Einplanung der vier Beiträge (Mo 16.11., Mi 18.11., Fr 20.11., Mo 07.12., jeweils 19:00): "passt". Die Freigabe-Phase für weitere Beiträge gilt weiter (alles zuerst als Entwurf).
+- 19.11.2026 (über Manager, auf die Vorlage der fünf Beiträge für 22.11. bis 29.11.): "Ungeschnitten früher posten. Sonst passt." Der erste Satz betrifft die Pizzeria, "Sonst passt" gibt die fünf Catering-Beiträge frei. Die Freigabe-Phase für weitere Beiträge gilt weiter.
 - 16.11.2026 (über Manager): "Zu den catering ads: poste das neue Video als reel und bewirb es anschließend". Freigabe nur für diesen einen Reel (Mediathek 6314), sofort fest gepostet. Die Freigabe-Phase für alle anderen Beiträge gilt weiter.
 - 14.11.2026 spät, fünfte Antwort, zum flachen Ausschnitt 904x384 aus 5841: "schlechter ausschnitt". Lehre: Paket-Slides mit hohem Bildkasten (904x600), Name links und Preis rechts darunter, zwei Zeilen; Fotos als Bild wirken lassen, keine engen Streifen aus Hochformat-Fotos.
 - 14.11.2026 spät, dritte Antwort: "zu 1. slide 2 - anders bild nehmen. man sieht dass es eine plastipflanze ist" (Foto 5268). Lehre: Vor jeder Verwendung prüfen, ob künstliche Pflanzen oder Deko im Bild sind; solche Fotos nicht nehmen. Verdacht auch bei 5266, 5269, 5270 (Zitronenzweige, Grün auf dem Buffet) und bei den Efeuranken am Pavillon (5020, 5021, 5066, 5067, 5023, 5069).

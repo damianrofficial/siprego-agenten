@@ -421,3 +421,7 @@ Bearbeitet vom Manager: ja (19.11.)
 ### 2026-11-19 09:07 | Ads-Agent | Umsetzung Bildkorrektur Catering-Statics | Status: OK
 Bilder korrigiert (nur Unterzeile neu gesetzt, Skript scripts/catering_static_unterzeile.py): 80 Gäste "Pizza live aus dem Steinofen, ab 60 € pro Person." (Mediathek 6356), Steinofen "Ab 60 € pro Person." (6357). Neu ACTIVE: "RT Static 80 Gaeste 2026-11 v4" 120251639420270078, "RT Static Steinofen 2026-11 v3" 120251639420540078; pausiert v3 120251639207180078 und v2 120251639207370078. Nur 4:5. Retargeting aktiv 4, Budgets 20 und 80 €/Tag unverändert. Prüfen Do 26.11.
 Bearbeitet vom Manager: ja (19.11.), Vergleichsbilder angesehen
+
+### 2026-11-19 09:12 | Social und Social-Catering | AENDERUNG nach Damians Freigabe | Status: OK
+Pizzeria: Ungeschnitten #17 fest Do 19.11. 12:00 (Instagram 433884467, TikTok 433884525); Samstag-Reel Sa 21.11. 18:30 jetzt #18 (Instagram 433884591, TikTok 433884623); nächste Nummer #19. Catering fest geplant, je 19:00, Instagram und Facebook: So 22.11. Bewertungen 433884475, Mo 23.11. Vor Ort 433884611, Mi 25.11. Reel 433884674, Fr 27.11. Sparen 433884796, So 29.11. Eventtag 433884899; dazu Fr 20.11. Verkostung 428418192, Mo 07.12. Firmen 428418280. Reel-Ton vor Mi 25.11. einmal anhören (Damian).
+Bearbeitet vom Manager: ja (19.11.)
