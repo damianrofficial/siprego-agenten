@@ -203,7 +203,121 @@ const p4 = [
   { cls: 'cta', html: cta({ h: 'Preis in 2&nbsp;Minuten berechnen', lead: 'Im Konfigurator stellt ihr euer Catering zusammen und seht euren Preis sofort.', note: ctaNoteF }) },
 ];
 
-const posts = { 'pakete': p1, 'gaestezahl': p2, 'verkostung': p3, 'firmen': p4 };
+// ---------- Bausteine seit 19.11.2026 (KW48) ----------
+// Titel mit Foto im Kasten (für Fotos schmaler als 1080 px, wird nie hochskaliert)
+const coverInset = ({ img, pos = 'center', eyebrow, h, lead, photoH = 620, size = 80 }) => `
+<div class="pad">
+  <div class="photo" style="height:${photoH}px;background-image:url(${F(img)});background-position:${pos}"></div>
+  <div class="eyebrow" style="margin-top:52px">${eyebrow}</div>
+  <div class="h" style="font-size:${size}px;margin-top:26px">${h}</div>
+  <div class="lead" style="margin-top:26px;font-size:35px">${lead}</div>
+</div>`;
+// Titel ohne Foto
+const coverType = ({ eyebrow, h, lead, size = 118 }) => `
+<div class="pad">
+  <div class="eyebrow">${eyebrow}</div>
+  <div style="flex:1;display:flex;flex-direction:column;justify-content:center;padding-bottom:20px">
+    <div style="width:72px;height:3px;background:#B0241F;margin-bottom:52px"></div>
+    <div class="h" style="font-size:${size}px">${h}</div>
+    <div class="lead" style="margin-top:48px;max-width:820px">${lead}</div>
+    <div style="margin-top:84px;display:flex;align-items:center;gap:20px"><span class="swipe">Weiter</span>${arrow()}</div>
+  </div>
+</div>`;
+// Große Zahl mit Einheit (z. B. 4 × 4 m), darunter Aussage
+const figure = ({ eyebrow, fig, h, lead, figSize = 210, hSize = 76, extra = '' }) => `
+<div class="pad">
+  <div class="eyebrow">${eyebrow}</div>
+  <div style="flex:1;display:flex;flex-direction:column;justify-content:center;padding-bottom:50px">
+    <div class="num" style="font-size:${figSize}px;margin-left:-6px;white-space:nowrap;line-height:1">${fig}</div>
+    <div class="h" style="font-size:${hSize}px;margin-top:60px">${h}</div>
+    <div class="lead" style="margin-top:34px;max-width:860px">${lead}</div>
+    ${extra}
+  </div>
+</div>`;
+const star = `<svg width="38" height="38" viewBox="0 0 24 24" fill="#B0241F"><path d="M12 2.6l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.4l-5.8 3.1 1.1-6.5L2.6 9.4l6.5-.9z"/></svg>`;
+const quote = ({ q, name, src, size = 62 }) => `
+<div class="pad">
+  <div class="eyebrow">Google-Bewertung</div>
+  <div style="flex:1;display:flex;flex-direction:column;justify-content:center;padding-bottom:40px">
+    <div style="display:flex;gap:8px">${star.repeat(5)}</div>
+    <div class="h" style="font-size:${size}px;line-height:1.2;letter-spacing:-.012em;margin-top:52px;color:#42301C">„${q}“</div>
+    <div style="width:72px;height:1px;background:#76503C;margin-top:60px"></div>
+    <div style="font-size:36px;font-weight:600;color:#42301C;margin-top:34px">${name}</div>
+    <div class="muted" style="font-size:28px;margin-top:8px">${src}</div>
+  </div>
+</div>`;
+const ctaStd = { cls: 'cta', html: cta({ h: 'Preis in 2&nbsp;Minuten berechnen', lead: 'Im Konfigurator stellt ihr euer Catering zusammen und seht euren Preis sofort.', note: ctaNote }) };
+
+// ---------- Beitrag 6: Bewertungen (wörtlich und gekürzt von der Landingpage, nur Vorname) ----------
+const p6 = [
+  { html: coverInset({ img: 'img/5841.jpg', pos: '50% 25%', photoH: 640, eyebrow: 'Hochzeits-Catering', h: 'Was sagen <em>Brautpaare</em> über unser Catering?', lead: 'Drei Stimmen aus unseren Google-Bewertungen.' }) },
+  { html: quote({ q: 'Perfektes Hochzeitscatering. Wir waren unfassbar zufrieden. Das Essen war super lecker, der Aufbau auch optisch sehr ansprechend.', name: 'Evi', src: 'Hochzeit · Google-Bewertung' }) },
+  { html: quote({ q: 'Wir hatten Siprego für unsere Hochzeit im September 25 gebucht und hätten keinen besseren Caterer nehmen können.', name: 'Laura', src: 'Hochzeit im September 2025 · Google-Bewertung' }) },
+  { html: quote({ q: 'Kommunikation war top, Service war top und Essen war ausgezeichnet. Man merkt, dass eine Familie mit Leidenschaft und Herz dahinter steckt.', name: 'Carl', src: 'Hochzeit im Mai · Google-Bewertung', size: 58 }) },
+  ctaStd,
+];
+
+// ---------- Beitrag 7: Was braucht ihr vor Ort? (Strom nach Damian 14.11.2026) ----------
+const p7 = [
+  { html: cover({ img: 'img/5753.jpg', pos: '50% 22%', photoH: 680, size: 80, eyebrow: 'Gut zu wissen', h: 'Was braucht ihr <em>vor Ort</em> für euer Catering?', lead: 'Platz, Strom, Wasser und Zufahrt im Überblick.' }) },
+  { html: figure({ eyebrow: 'Platz', fig: '4 × 4 m', h: 'Fläche für unsere Außenstation', lead: 'Mindestens. Hier backen, bereiten wir vor und geben aus. Mit Pasta-Station zusätzlich ca. 2&nbsp;×&nbsp;2&nbsp;m.' }) },
+  { html: figure({ eyebrow: 'Strom', fig: '1 × 230 V', figSize: 190, h: 'Eine Steckdose für die Pizza-Station', lead: 'Mit Pasta-Station zusätzlich 2&nbsp;×&nbsp;230&nbsp;V (oder 1&nbsp;×&nbsp;400&nbsp;V). Das Gas bringen wir mit.' }) },
+  { html: statement({ eyebrow: 'Wasser', size: 96, h: '<em>Kein</em> Wasseranschluss nötig', lead: 'Was wir brauchen, bringen wir mit.' }) },
+  { html: `
+<div class="pad">
+  <div class="eyebrow">Zufahrt und Untergrund</div>
+  <div class="h" style="font-size:84px;margin-top:40px">So kommen wir zu <em>euch</em></div>
+  <div style="margin-top:52px;border-bottom:1px solid #DCD8CF">
+    ${fact('Zufahrt', 'Mit Transporter (Sprintergröße) bis zur Backstation')}
+    ${fact('Parken', 'Ein Parkplatz in der Nähe')}
+    ${fact('Untergrund', 'Fest und eben. Wiese nur bei Trockenheit')}
+    ${fact('Treppen', 'Treppen oder Rampe nur nach Absprache')}
+  </div>
+</div>` },
+  { html: statement({ eyebrow: 'Schlechtwetter', h: 'Und wenn es <em>regnet</em>?', lead: 'Dann brauchen wir zusätzlich Platz für 2&nbsp;Tische à 2,20&nbsp;m im Innenbereich, am besten nahe der Backstation.' }) },
+  ctaStd,
+];
+
+// ---------- Beitrag 8: So könnt ihr sparen (5 % bei Vollzahlung, nur bei Events in mehr als 6 Monaten) ----------
+const pay = (k, v, strong) => `<div style="padding:38px 0;${strong ? '' : 'border-bottom:1px solid #DCD8CF;'}"><div class="eyebrow" style="font-size:22px;color:${strong ? '#B0241F' : '#76503C'}">${k}</div><div class="h" style="font-size:44px;line-height:1.2;letter-spacing:-.01em;color:#42301C;margin-top:18px">${v}</div></div>`;
+const p8 = [
+  { html: coverType({ eyebrow: 'Hochzeits-Catering', h: 'Wie könnt ihr bei eurem Catering <em>sparen</em>?', lead: 'Ein Tipp für alle, die früh planen.' }) },
+  { html: figure({ eyebrow: 'Der Tipp', fig: '5 %', figSize: 330, h: 'Rabatt bei Vollzahlung', lead: 'Ihr zahlt den gesamten Betrag bei Vertragsunterschrift statt in zwei Teilen.' }) },
+  { html: `
+<div class="pad">
+  <div class="eyebrow">Die Bedingung</div>
+  <div class="h" style="font-size:84px;margin-top:40px">Euer Fest ist in <em>mehr als 6&nbsp;Monaten</em></div>
+  <div class="card" style="margin-top:56px;padding:14px 52px 18px">
+    ${pay('Üblich', '50&nbsp;% Anzahlung bei Vertragsunterschrift, 50&nbsp;% am Veranstaltungstag')}
+    ${pay('Mit Vollzahlung', '100&nbsp;% bei Vertragsunterschrift, dafür 5&nbsp;%&nbsp;Rabatt', true)}
+  </div>
+  <div class="muted" style="font-size:28px;line-height:1.45;margin-top:40px">Bei Festen in weniger als 6 Monaten gilt: 80&nbsp;% Anzahlung, 20&nbsp;% am Veranstaltungstag, ohne Rabatt.</div>
+</div>` },
+  { html: `
+<div class="pad">
+  <div class="eyebrow">Rechenbeispiel</div>
+  <div class="h" style="font-size:92px;margin-top:40px">Ein Beispiel <em>in Zahlen</em></div>
+  <div class="card" style="margin-top:72px;padding:36px 52px 56px">
+    ${ex('100 Gäste, Antipasti &amp; Pizza', '7.500 €')}
+    ${ex('5 % Rabatt bei Vollzahlung', '375 €')}
+    ${ex('Ihr zahlt', '7.125 €', true)}
+  </div>
+  <div class="muted" style="font-size:28px;line-height:1.45;margin-top:44px">Die Zahlen sind ein Beispiel: 100 Gäste mal 75 € pro Person inkl. MwSt., ohne Anfahrt.</div>
+</div>` },
+  ctaStd,
+];
+
+// ---------- Beitrag 9: Ablauf am Eventtag (Zeiten von der Landingpage) ----------
+const p9 = [
+  { html: cover({ img: 'img/5068.jpg', pos: '50% 62%', photoH: 720, size: 84, gap: 64, eyebrow: 'Euer Eventtag', h: 'Wie läuft der <em>Eventtag</em> mit uns ab?', lead: 'Vom Aufbau bis zum letzten Stück Pizza.' }) },
+  { html: figure({ eyebrow: 'Vor dem Start', fig: '2 Stunden', figSize: 136, h: 'Aufbau', lead: 'Ca. 2 Stunden vor dem Start bauen wir auf. Ab dann brauchen wir Zugang zu eurer Location.' }) },
+  { html: figure({ eyebrow: 'Während eures Festes', fig: '2 bis 4 Stunden', figSize: 136, h: 'Buffetzeit', lead: 'In der Regel, je nach Gästezahl und Paket. Wir backen laufend frisch und legen nach.' }) },
+  { html: figure({ eyebrow: 'Danach', fig: '1 Stunde', figSize: 136, h: 'Abbau im Hintergrund', lead: 'Direkt im Anschluss, ca. 1 Stunde.' }) },
+  { html: statement({ eyebrow: 'Und was übrig bleibt?', h: 'Bleibt bei <em>euch</em>', lead: 'Was am Ende übrig ist, lassen wir euch frisch verpackt da. Ideal als Snack für später.' }) },
+  ctaStd,
+];
+
+const posts = { 'pakete': p1, 'gaestezahl': p2, 'verkostung': p3, 'firmen': p4, 'bewertung': p6, 'vorort': p7, 'sparen': p8, 'eventtag': p9 };
 const monat = { firmen: '2026-12' };
 (async () => {
   const only = process.argv[2];

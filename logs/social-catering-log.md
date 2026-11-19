@@ -70,3 +70,19 @@ Offene Punkte für den Manager: Anrede in Firmen-Beiträgen (Seite sagt "Sie", E
 - Instagram: https://www.instagram.com/reel/DfzGbNxjBUL/ (Shortcode DfzGbNxjBUL; eine numerische Media-ID liefert Metricool nicht). Facebook: https://facebook.com/reel/937482995969296 (ID 937482995969296).
 - Abstand zum Karussell "Pakete Hochzeit" (428418036, heute 19:00): knapp 8 Stunden, Karussell unverändert PENDING.
 - Caption nur mit Fakten aus dem Playbook (7 Antipasti-Variationen, 485 °C, Antipasti & Pizza 75 € inkl. MwSt., Pavillon, Beleuchtung und Service-Team inklusive, Verkostung in Augsburg, Videoberatung).
+
+### 2026-11-19 08:45 | WOCHENPLAN (KW48 plus So 22.11.) | Status: OK
+
+- Stand in Metricool (05.11. bis 08.12.2026, Marke 7408163): Pakete Hochzeit 16.11. veröffentlicht, Reel 16.11. veröffentlicht, Gästezahl 18.11. veröffentlicht (Instagram https://www.instagram.com/p/Df5HXldn3TA/), Verkostung 20.11. 19:00 PENDING (428418192), Firmen 07.12. 19:00 PENDING (428418280). Keine weiteren Einträge.
+- Beste Zeit laut Metricool (Instagram, 22.11. bis 29.11.): an allen Tagen 19 bis 20 Uhr vorn, deshalb alle Entwürfe 19:00.
+- Landingpage frisch gelesen (curl): Zeiten, Platz, Zufahrt, Bezahlung unverändert zum Playbook. Bewertungen: jetzt vier (Evi, Laura G., Carl Si., Sandra B.).
+- Fünf Entwürfe (draft true, autoPublish true, Instagram und Facebook), zurückgelesen aus der Antwort von Metricool: 433861276 (So 22.11., Bewertungen, 5 Slides), 433861409 (Mo 23.11., Vor Ort, 7 Slides), 433861457 (Mi 25.11., Reel 8,8 s aus Video 6313), 433861570 (Fr 27.11., Sparen, 5 Slides), 433861664 (So 29.11., Eventtag, 6 Slides). In 7383922 nichts angelegt.
+- Mediathek: 6332 bis 6355 (23 Slides, 6336 Reel). Jede Slide vor dem Hochladen angesehen; Umbrüche bei Maßen und Prozentzahlen mit festen Leerzeichen korrigiert.
+- Vorlage scripts/catering_karussell.js erweitert: coverInset, coverType, figure, quote, vier neue Beiträge (bewertung, vorort, sparen, eventtag).
+- Bildwahl: Standbild aus Video 6313 als Eventtag-Titel verworfen (unscharf, Arm im Anschnitt), dafür 5068. 5842 und 5275 nicht genommen (Efeugirlande, Zitronenzweige: Verdacht Kunstpflanze). Sparen-Titel typografisch.
+- Nicht gebaut (offen bei Damian): Vorlaufzeiten, Firmen-Themen (Anrede, Profil-Link), Rundung der Mindestanzahl.
+
+Offene Punkte für den Manager:
+- Rechenbeispiel Sparen: 5 % auf den Paketpreis (7.500 €) gerechnet, ohne Anfahrt. Ob der Rabatt auch auf Anfahrt und Zusatzleistungen gilt, steht nirgends.
+- Reel 25.11.: Originalton aus 6313 (vermutlich Musik); Rechte daran sind nicht belegt, bei 6314 lief dieselbe Quelle bereits als Reel.
+- Eventtag-Titel 5068 ist fast dasselbe Motiv wie der Pakete-Titel vom 16.11. (5022).
