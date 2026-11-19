@@ -166,6 +166,7 @@ Damian wörtlich: "der social media agent muss außerdem regelmäßig prüfen, o
 - Feiertage 24.12. bis 01.01.: noch offen, bis 01.12.2026 keine Aussage dazu.
 
 ## Notizen von Damian an den Agenten
+- (über Manager, 19.11.) Captions der Ungeschnitten-Reels: Damian zur Zeile "Warten am Ofen, dann geht es schnell: Pizza raus, rüber zu den Kartons, die nächsten liegen schon drin. Achtzehn Sekunden, kein Schnitt.": "ist nicht gut ... weglassen oder was authentisches rein. was menschlich klingt das klingt fake und ai". Regel: KEINE Nacherzählung dessen, was im Video passiert, keine Sekundenzahl, kein "kein Schnitt". Caption = "Ungeschnitten #N", der feste Satz "Wir posten so lange ungeschnittene Clips, bis wir viral gehen.", Öffnungszeit und Bestellhinweis, Kontakt, Hashtags. Ein persönlicher Satz nur, wenn Damian ihn liefert oder er aus seinen eigenen Worten stammt.
 
 - (über Manager, 15.11.2026) Neue Pizza: "inferno / inspiriert von der nduja pizza von ceres new york. / preis entscheide du. / ab mittwoch verfügbar". Name Inferno, ab Mi 18.11.2026. Preis vom Manager festgelegt: Piccola 16,90 €, Grande 18,90 €; erst nennen, wenn die Pizza im Shop steht. Details im Abschnitt "Menüs". Für den Wochenplan Mo 16.11.: Inferno am Mi 18.11. als Start-Post einplanen.
 
