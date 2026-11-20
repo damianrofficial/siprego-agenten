@@ -185,6 +185,7 @@ Ohne Eintrag hier gibt es in keiner Mail einen Code, Rabatt oder eine Zugabe. Da
 - Test-Vorschlag November (noch nicht entschieden): Am 18.11. Brevo A/B-Test auf den Betreff, Vorname gegen Preis oder Zahl, Kriterium Klicks.
 
 ## Notizen von Damian an den Agenten
+- (über Manager, 20.11.) Positionierung: Siprego macht PIZZA CONTEMPORANEA, nicht mehr "Pizza Napoletana". Damian wörtlich: "Neue Schaufensterbeklebung ist dran und gleichzeitig wechsel zu Pizza contemporanea statt Napoletana, da wir uns nicht an die klassische napoletana anlehnen möchten, weil zu weich und für unseren anspruch nicht Liefer-geeignet genug." Schaufenster seit 20.11.: "Pizza Contemporanea." und "Home of Arancini." Ab sofort nirgends mehr "Napoletana", "neapolitanisch" oder #pizzanapoletana als Beschreibung der eigenen Pizza (Captions, Hashtags, Statics, Fußzeilen, Mails, Anzeigen, Alt-Texte). Stattdessen "Pizza Contemporanea" und #pizzacontemporanea. "Mehl aus Neapel" bleibt nur, wenn es als Zutat belegt ist. Catering ist davon nicht berührt, bis Damian es sagt (Landingpage gilt).
 
 - 17.10.2026: Zweitmail mit Gutscheincode darf auch am Samstag rausgehen, wenn der Code bis Sonntag gilt.
 - 17.10.2026: Kein Bild doppelt in einer Woche.

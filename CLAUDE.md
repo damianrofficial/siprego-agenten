@@ -1,6 +1,6 @@
 # Siprego Agenten
 
-Repo der automatisierten Marketing-Agenten der Siprego GbR (Pizza Napoletana und italienisches Streetfood, Hessenbachstr. 1, 86157 Augsburg-Pfersee, Telefon 0821 20817218; Inhaber Damian Rogaczewski und Inga Dragone; dazu Premium-Pizza-Catering für Hochzeiten und Firmen unter der Marke siprego.catering).
+Repo der automatisierten Marketing-Agenten der Siprego GbR (Pizza Contemporanea und italienisches Streetfood, Hessenbachstr. 1, 86157 Augsburg-Pfersee, Telefon 0821 20817218; Inhaber Damian Rogaczewski und Inga Dragone; dazu Premium-Pizza-Catering für Hochzeiten und Firmen unter der Marke siprego.catering).
 
 ## Architektur
 
@@ -34,6 +34,7 @@ Repo der automatisierten Marketing-Agenten der Siprego GbR (Pizza Napoletana und
 
 - Deutsch, per Du, kurz, Zahlen zuerst, klare Empfehlung statt Optionsliste.
 - **Keine Gedankenstriche** (weder langer noch halblanger Strich), nirgends: nicht in Mails, Captions, Berichten, Dateien.
+- (Damian, 20.11.2026) Positionierung: Siprego macht PIZZA CONTEMPORANEA, nicht mehr "Pizza Napoletana". Damian wörtlich: "Neue Schaufensterbeklebung ist dran und gleichzeitig wechsel zu Pizza contemporanea statt Napoletana, da wir uns nicht an die klassische napoletana anlehnen möchten, weil zu weich und für unseren anspruch nicht Liefer-geeignet genug." Schaufenster seit 20.11.: "Pizza Contemporanea." und "Home of Arancini." Ab sofort nirgends mehr "Napoletana", "neapolitanisch" oder #pizzanapoletana als Beschreibung der eigenen Pizza (Captions, Hashtags, Statics, Fußzeilen, Mails, Anzeigen, Alt-Texte). Stattdessen "Pizza Contemporanea" und #pizzacontemporanea. "Mehl aus Neapel" bleibt nur, wenn es als Zutat belegt ist. Catering ist davon nicht berührt, bis Damian es sagt (Landingpage gilt).
 - Nichts erfinden. Preise, Codes, Öffnungszeiten, Zutaten, Zahlen nur aus Playbooks, Shop (siprego.orderu.shop/store/pfersee/menu), Brevo, Metricool, Sheet oder `logs/umsatz.md`. Fehlt etwas: "fehlt" plus Grund, und eine Frage an Damian.
 - Im Zweifel die vorsichtige Variante (Entwurf statt Versand, kein Angebot statt Angebot, Post entfällt) UND die Frage ausdrücklich stellen.
 - Fragen an Damian: **genau eine pro Nachricht**, zeitlich getrennt vom Bericht, mit Frist und "Antwort A ... Antwort B ...". Nie mehrere Fragen in einem Textblock.
