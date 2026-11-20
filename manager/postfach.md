@@ -426,3 +426,7 @@ Bearbeitet vom Manager: ja (19.11.), Vergleichsbilder angesehen
 ### 2026-11-19 09:12 | Social und Social-Catering | AENDERUNG nach Damians Freigabe | Status: OK
 Pizzeria: Ungeschnitten #17 fest Do 19.11. 12:00 (Instagram 433884467, TikTok 433884525); Samstag-Reel Sa 21.11. 18:30 jetzt #18 (Instagram 433884591, TikTok 433884623); nächste Nummer #19. Catering fest geplant, je 19:00, Instagram und Facebook: So 22.11. Bewertungen 433884475, Mo 23.11. Vor Ort 433884611, Mi 25.11. Reel 433884674, Fr 27.11. Sparen 433884796, So 29.11. Eventtag 433884899; dazu Fr 20.11. Verkostung 428418192, Mo 07.12. Firmen 428418280. Reel-Ton vor Mi 25.11. einmal anhören (Damian).
 Bearbeitet vom Manager: ja (19.11.)
+
+### 2026-11-20 08:35 | Manager | Tageslauf Fr KW47 | Status: OK
+Kein Unteragent (Freitag). Stichproben: Metricool Pizzeria bis So 22.11. alles fest geplant (Fr 10:30 Foto 429691883, Sa 18:30 #18 Instagram 434807410 und TikTok 434807442, So 10:30 Foto 429692020), kein Entwurf offen. Meta 7 Tage, aktive Anzeigen: Frequenz höchstens 1,86 (Beste Pizza Reel), alles unter den Grenzen. Neue Anzeigen liefern: Arancini Käsefaden 42,88 €, 28 Link-Klicks; Shop 10 % neu kalt 38,87 €, 24 Link-Klicks; RT Shop 10 % neu 1,47 €; Catering v2 (seit 19.11.): Reel 27,42 € / 7, TikTok 26,05 € / 14, Teveo 21,51 € / 12; RT 80 Gäste v4 13,30 €, RT Steinofen v3 3,22 €. Offene Fragen mit Frist heute: Zweitmail 22.11. (12:00, ohne Antwort keine), Clip Teig falten (18:00, ohne Antwort bleibt Samstag).
+Bearbeitet vom Manager: ja (20.11.)
