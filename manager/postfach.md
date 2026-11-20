@@ -13,6 +13,8 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
+- [vorgelegt 20.11. 15:00] Social | Schaufenster-Post Sa 21.11. 12:00 Feed (Entwurf 435602334) und 12:05 Story (435602400): Caption A kurz oder B mit Begründung (im Entwurf) | Frist Sa 21.11. 11:30 | Ohne Antwort: bleibt Entwurf
+- [abgelaufen 20.11. 12:00, keine Zweitmail am 22.11.] Newsletter | Zweitmail So 22.11.
 - [offen] Ads Catering | Google-Keyword "hochzeit catering" pausieren (28 Tage 151,03 €, 72 Klicks, 0 Conversions; setzt Damian um)? A pausieren ... B weiterlaufen | Prüfen Do 26.11.
 - [Wiedervorlage Do 26.11.] Ads Catering | Hauptgruppe 80 auf 40 €/Tag, wenn 19. bis 25.11. unter 2 Leads (14 Tage 278,72 € je Lead, letzte 7 Tage 533,93 € ohne Lead)
 - [beantwortet 19.11. "Sonst passt.", wird fest eingeplant] Social Catering | Fünf Entwürfe, je 19:00, Instagram und Facebook: 1 So 22.11. Bewertungen (433861276), 2 Mo 23.11. Vor Ort (433861409), 3 Mi 25.11. Reel Buffet (433861457), 4 Fr 27.11. Sparen (433861570), 5 So 29.11. Eventtag (433861664) | Frist für Nr. 1: So 22.11. 12:00 | Antworten: passt (alle) oder Nummern | Ohne Antwort: bleiben Entwürfe
@@ -431,3 +433,7 @@ Bearbeitet vom Manager: ja (19.11.)
 ### 2026-11-20 08:35 | Manager | Tageslauf Fr KW47 | Status: OK
 Kein Unteragent (Freitag). Stichproben: Metricool Pizzeria bis So 22.11. alles fest geplant (Fr 10:30 Foto 429691883, Sa 18:30 #18 Instagram 434807410 und TikTok 434807442, So 10:30 Foto 429692020), kein Entwurf offen. Meta 7 Tage, aktive Anzeigen: Frequenz höchstens 1,86 (Beste Pizza Reel), alles unter den Grenzen. Neue Anzeigen liefern: Arancini Käsefaden 42,88 €, 28 Link-Klicks; Shop 10 % neu kalt 38,87 €, 24 Link-Klicks; RT Shop 10 % neu 1,47 €; Catering v2 (seit 19.11.): Reel 27,42 € / 7, TikTok 26,05 € / 14, Teveo 21,51 € / 12; RT 80 Gäste v4 13,30 €, RT Steinofen v3 3,22 €. Offene Fragen mit Frist heute: Zweitmail 22.11. (12:00, ohne Antwort keine), Clip Teig falten (18:00, ohne Antwort bleibt Samstag).
 Bearbeitet vom Manager: ja (20.11.)
+
+### 2026-11-20 14:56 | Social-Media-Agent | AENDERUNG Schaufenster-Entwurf, Umstellung Contemporanea | Status: OK
+Feed-Foto 4:5 (Mediathek 6359) und Story (6360) aus Damians Bild 6358, Entwürfe Sa 21.11. 12:00 (435602334) und 12:05 (435602400), zwei Caption-Varianten (A kurz, B mit Damians Begründung). Fest geplante Posts von #pizzanapoletana bereinigt: #18 Instagram 435602500, TikTok 435602569, So Foto 435602653. Post von heute 10:30 trägt den Hashtag noch (nur in der App änderbar). Keine Fundstelle in Vorlagen und Skripten.
+Bearbeitet vom Manager: ja (20.11.), an Damian vorgelegt
