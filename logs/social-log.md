@@ -708,3 +708,21 @@ TikTok-Nachzug, Stand Do 19.11.2026 08:33 (Zeitraum 05.11. bis 19.11., Metricool
 - Nicht angefasst: Foto Rand von heute 10:30 (429691883, veröffentlicht https://www.instagram.com/p/Df9VpP9iJEr/, trägt noch #pizzanapoletana).
 - Vorlagen und Skripte geprüft: scripts/brand_static.py, scripts/hookstyle.py, scripts/catering_karussell.js und meine Bau-Skripte im Scratchpad enthalten kein "Napoletana" und keine Fußzeile "Pizza Napoletana · Arancini" (Fußzeile ist "siprego.de" plus Lieferando-Satz). Nichts zu ändern. playbooks/social.md ist schon bereinigt (Hashtag-Pool ohne #pizzanapoletana). Fundstellen außerhalb meines Bereichs: playbooks/newsletter.md, playbooks/ads.md, logs/ads-log.md, manager/postfach.md, CLAUDE.md und die Referenzdateien unter alt/geplante-aufgaben/ (dort steht im Kopf der alten Social-Aufgabe "Pizza Napoletana und italienisches Streetfood"; derselbe Satz steht in der Anweisung des Agenten social).
 - Gesperrt bis 02.01.2027, sobald veröffentlicht: IMG_0356.jpeg (ID 6358).
+
+### Änderung Sa 21.11.2026 vormittags (Modus AENDERUNG, Samstags-Routine des Managers: TikTok-Nachzug und Kontrolle, nur gelesen)
+
+TikTok-Nachzug, Stand Sa 21.11.2026 (Zeitraum 07.11. bis 21.11.):
+
+| Datum IG | Titel | Instagram-Link | Auf TikTok | Status |
+| --- | --- | --- | --- | --- |
+| Sa 07.11. 11:38 | Dough diary #3 (als Reel) | https://www.instagram.com/reel/Dfb-r8PtQ4C/ | nein | Datei fehlt, fällt heute aus dem Fenster |
+| So 08.11. 10:29 | Ungeschnitten #10 (Ferdi-Clip) | https://www.instagram.com/reel/Dfeb4FaN4Ux/ | nein | Datei fehlt, fällt So 22.11. aus dem Fenster |
+| Mi 11.11. 14:08 | Ungeschnitten #12 | https://www.instagram.com/reel/DfmjOxZNj38/ | nein | Datei fehlt, im Fenster bis Mi 25.11. |
+
+- Seit Mi 11.11. kein neues manuelles Reel von Damian. Nichts eingeplant. #7 (05.11.) ist aus dem Fenster gefallen, ohne nachgezogen zu werden.
+- Do 19.11. 12:00 Ungeschnitten #17 veröffentlicht: Instagram 433884467 https://www.instagram.com/reel/Df67wbfAhwz/ (603 Reichweite, 5 Interaktionen nach 2 Tagen, schwächstes Reel seit dem 07.11.); TikTok 433884525 https://www.tiktok.com/@siprego/video/7709836851070340354 (1.092 Views, 6 Likes).
+- Fr 20.11. 10:30 Foto Rand veröffentlicht: Instagram 429691883 https://www.instagram.com/p/Df9VpP9iJEr/ (97 Reichweite, 0 Interaktionen nach 1 Tag).
+- Zwischenstand der Woche: Inferno-Reel Mi 18:00 Instagram 1.549 / 22, TikTok 821 Views; #16 Di 1.046 / 16, TikTok 362 Views.
+- Schaufenster-Entwürfe Sa 12:00 und 12:05 (435602334, 435602400): liegen unverändert als Entwurf (draft true). Nicht eingeplant.
+- Fest geplant, PENDING, ohne #pizzanapoletana und ohne "Napoletana": Sa 18:30 #18 Instagram 435602500 und TikTok 435602569, So 10:30 Foto Margherita 435602653.
+- Clip 6322 (Teig falten, gespiegelt) im Playbook unter Rohmaterial für den Wochenplan KW48 vorgemerkt, mit Hinweis "gespiegelt, Damian fragen". Samstag bleibt der Ofen-Clip.
