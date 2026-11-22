@@ -461,5 +461,5 @@ Damian (22.11. 13:15): "die inferno ist für heute ausverkauft und wir haben nur
 Bearbeitet vom Manager: ja (22.11.)
 
 ### 2026-11-22 13:36 | Newsletter-Agent | Info-Mail KW47 (Eilauftrag) | Status: OK
-Kampagnen 118 (Aktiv, Segment 1, 1.060) und 119 (Schläfer, Segment 2, 924), queued für So 22.11. 13:42 (erster Versuch 13:25 von Brevo abgelehnt, Zeitpunkt war vorbei). Betreff "inferno ist für heute weg", Vorschautext "Und bei den Arancini wird es knapp. Deshalb schreibe ich dir kurz.", Text nur aus Damians Satz, Bild arancini-holzbrett.jpg, roter Button, PS Sonntag bis 22 Uhr. Kein Code, kein Preis. Zweite Mail in KW47, Abmeldungen am Di 24.11. auswerten. Story von 13:22: Manager hat um 13:45 PUBLISHED zurückgelesen.
+Kampagnen 118 (Aktiv, Segment 1, 1.060) und 119 (Schläfer, Segment 2, 924), queued für So 22.11. 13:42 (erster Versuch 13:25 von Brevo abgelehnt, Zeitpunkt war vorbei). Betreff "inferno ist für heute weg", Vorschautext "Und bei den Arancini wird es knapp. Deshalb schreibe ich dir kurz.", Text nur aus Damians Satz, Bild arancini-holzbrett.jpg, roter Button, PS Sonntag bis 22 Uhr. Kein Code, kein Preis. Zweite Mail in KW47, Abmeldungen am Di 24.11. auswerten. Story von 13:22: Manager hat um 13:35 PUBLISHED zurückgelesen.
 Bearbeitet vom Manager: ja (22.11.), Vorschau an Damian
