@@ -454,3 +454,7 @@ Bearbeitet vom Manager: ja (21.11.)
 ### 2026-11-21 09:00 | Manager | Analyse Umsatz KW47 nach Damians "Irgendwas stimmt nicht." | Status: OK
 Umsatz Mi bis Fr: KW45 5.170 (1.100 / 2.000 / 2.070), KW46 5.870 (1.500 / 1.800 / 2.570, Code TOP10, drei Mails), KW47 5.163 (1.763 / 1.300 / 2.100, kein Code, eine Mail). Meta Sales-Kampagne je Tag (Ausgaben / Link-Klicks / Warenkörbe / Käufe / Kaufwert): Mi 11.11. 252,30 / 195 / 8 / 0; Do 12.11. 223,77 / 217 / 6 / 4 / 181,60; Fr 13.11. 137,72 / 143 / 1 / 0; Sa 14.11. 98,72 / 82 / 4 / 0; So 15.11. 131,10 / 109 / 23 / 6 / 216,40; Mi 18.11. 185,38 / 195 / 9 / 4 / 320,00; Do 19.11. 196,92 / 184 / 13 / 7 / 466,60; Fr 20.11. 178,84 / 123 / 10 / 2 / 101,20. Befund: Meta gibt Mi bis Fr im Schnitt 187 € statt 120 € aus (Wochenbudget 7 x 120 = 840 € wird auf 5 Tage verteilt, deckt sich mit Damians Notiz vom 09.11.). Meta-Käufe Mi bis Fr KW47 13 (887,80 €) gegen KW46 4 (181,60 €). Werbekosten Meta Sales Mi bis Fr 561,14 € = 10,9 % vom Umsatz.
 Bearbeitet vom Manager: ja (21.11.)
+
+### 2026-11-22 13:19 | Social-Media-Agent | EILAUFTRAG Story Inferno ausverkauft | Status: OK
+Damian (22.11. 13:15): "die inferno ist für heute ausverkauft und wir haben nur wenige arancini vorrätig. info e-mail und story posten. jetzt". Story fest für So 22.11. 13:22, Metricool 437509949, Mediathek 6362: "Heute ausverkauft: Inferno." / "Arancini: nur noch wenige da." / "Sonntag offen bis 22 Uhr". Heutige Posts nennen die Inferno nicht als bestellbar. Mail: Newsletter-Agent legt zwei Kampagnen an (läuft).
+Bearbeitet vom Manager: ja (22.11.)

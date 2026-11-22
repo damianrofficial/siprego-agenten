@@ -726,3 +726,10 @@ TikTok-Nachzug, Stand Sa 21.11.2026 (Zeitraum 07.11. bis 21.11.):
 - Schaufenster-Entwürfe Sa 12:00 und 12:05 (435602334, 435602400): liegen unverändert als Entwurf (draft true). Nicht eingeplant.
 - Fest geplant, PENDING, ohne #pizzanapoletana und ohne "Napoletana": Sa 18:30 #18 Instagram 435602500 und TikTok 435602569, So 10:30 Foto Margherita 435602653.
 - Clip 6322 (Teig falten, gespiegelt) im Playbook unter Rohmaterial für den Wochenplan KW48 vorgemerkt, mit Hinweis "gespiegelt, Damian fragen". Samstag bleibt der Ofen-Clip.
+
+### Eilauftrag So 22.11.2026 13:16 (Modus AENDERUNG, Damian: "die inferno ist für heute ausverkauft und wir haben nur wenige arancini vorrätig. info e-mail und story posten. jetzt")
+
+- Story 1080x1920 im Website-Design gebaut (Creme, Logomark, Label "SONNTAG, 22.11.", Headline "Heute ausverkauft: Inferno." mit Inferno in Rot, runder Freisteller aus Damians Bild ID 6325, darunter "Arancini: nur noch wenige da." und klein "Sonntag offen bis 22 Uhr"; Text zwischen 16 % und 75 % der Höhe). Kein Grund, keine Stückzahl, kein Ausblick. https://siprego.de/wp-content/uploads/2026/11/siprego-story-inferno-ausverkauft-2026-11-22.jpg (ID 6362).
+- Fest eingeplant als Instagram STORY für So 22.11. 13:22 (draft false, autoPublish true), Metricool-ID 437509949 (uuid 4253087396427417545), um 13:18 per getScheduledPosts bestätigt (PENDING). Damians Auftrag ist die Freigabe.
+- Geprüft: Keiner der heutigen Posts nennt die Inferno. 10:30 Foto Margherita (435602653, veröffentlicht https://www.instagram.com/p/DgCfOoliNfN/), 17:30 Schaufenster (437074319) und 17:35 Story (437074340) bleiben. Das Schaufenster-Bild zeigt "Home of Arancini." und die Caption trägt #arancini, ohne Arancini als Angebot zu bewerben.
+- Die Schaufenster-Posts tragen seit Sa 21.11. 23:16 neue IDs und eine neue Caption (Stil statt Name, nach Damians Hinweis vom 21.11.), Änderung nicht in diesem Lauf.
