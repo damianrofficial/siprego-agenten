@@ -463,3 +463,7 @@ Bearbeitet vom Manager: ja (22.11.)
 ### 2026-11-22 13:36 | Newsletter-Agent | Info-Mail KW47 (Eilauftrag) | Status: OK
 Kampagnen 118 (Aktiv, Segment 1, 1.060) und 119 (Schläfer, Segment 2, 924), queued für So 22.11. 13:42 (erster Versuch 13:25 von Brevo abgelehnt, Zeitpunkt war vorbei). Betreff "inferno ist für heute weg", Vorschautext "Und bei den Arancini wird es knapp. Deshalb schreibe ich dir kurz.", Text nur aus Damians Satz, Bild arancini-holzbrett.jpg, roter Button, PS Sonntag bis 22 Uhr. Kein Code, kein Preis. Zweite Mail in KW47, Abmeldungen am Di 24.11. auswerten. Story von 13:22: Manager hat um 13:35 PUBLISHED zurückgelesen.
 Bearbeitet vom Manager: ja (22.11.), Vorschau an Damian
+
+### 2026-11-22 17:36 | Social-Media-Agent | EILAUFTRAG Ungeschnitten #19 | Status: OK
+Damian (22.11.): "Video hochgeladen. Jetzt als Ungeschnitten posten. Ende ist 🤯". Clip Mediathek 6363 (70,7 s, Kamera auf dem Pass, Pizzaiolo belegt Pizzen nach, am Ende reißt er ein Stück Rand ab und zeigt die Krume), Posting-Version 6364, fest So 22.11. 17:40: Instagram 437720119, TikTok 437720223, Caption mit "Ende ist 🤯", ohne Nacherzählung. Video hat KEINE Tonspur (720x1280, vermutlich Messenger-Export), stumm gepostet, auf 1080 hochskaliert. Schaufenster-Post war schon 17:30 veröffentlicht (https://www.instagram.com/p/DgDPWBnCDd0/), Story 17:35; nicht verschoben. Nächste Nummer #20.
+Bearbeitet vom Manager: ja (22.11.)
