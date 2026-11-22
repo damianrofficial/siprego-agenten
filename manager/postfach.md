@@ -480,3 +480,7 @@ Bearbeitet vom Manager: ja (22.11.)
 ### 2026-11-22 19:50 | Manager | Budget Sales-Kampagne 120 auf 144 €/Tag | Status: OK
 Damian (22.11.): "Sales Kampagne mehr Tagesbudget? Seit paar Stunden kein Budget mehr verfügbar" und nach der Empfehlung: "Jetzt umstellen". Kampagne "Pizzeria - Sales - Kauf - 2026-10" (120251130156120078): Tagesbudget alt 120 €, neu 144 € (plus 20 %), über Entwurf veröffentlicht (nur die Kampagne), zurückgelesen: daily_budget 144, status ACTIVE, effective_status kurz IN_PROCESS, Restbudget heute 8,95 €. Inga-Arancini-Entwurf weiter nicht live. Wochenrahmen neu 7 x 144 = 1.008 €. Zählt als Budgetänderung vom 22.11.; nächste Erhöhung frühestens So 29.11. Abschaltung heute 21:30 und Einschalten Mi 08:00 unverändert.
 Bearbeitet vom Manager: ja (22.11.)
+
+### 2026-11-22 21:35 | Manager | Öffnungstage-Schaltung So aus | Status: OK
+Kampagne "Pizzeria - Sales - Kauf - 2026-10" (120251130156120078) von ACTIVE auf PAUSED, zurückgelesen: PAUSED, Tagesbudget 144 € (seit heute 19:50). Kein Sonderöffnungstag am Mo 23.11. Ausgaben heute 152,21 € (nach der Erhöhung liefen noch rund 18 €), Woche Mi bis So 861,11 €. Einschalten Mi 25.11. 08:00. Dabei prüfen: Auslieferung der vier Ersatzanzeigen vom 20.11.; vorher Di 24.11.: Metas Budgetplanung für Fr bis So prüfen (Damians Frage vom 22.11., wie am Wochenende mehr Budget fließt).
+Bearbeitet vom Manager: ja (22.11.)
