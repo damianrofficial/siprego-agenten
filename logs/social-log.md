@@ -815,3 +815,10 @@ TikTok-Nachzug, Stand Sa 21.11.2026 (Zeitraum 07.11. bis 21.11.):
 - Black-Friday-Code fehlt.
 - Rohmaterial: nach dieser Woche ist kein Clip mehr frei.
 - Weiter offen, niedrig: upload-33 (6136) privat in der Mediathek, Alt-Entwürfe 406322950, 406323120, 406323232, 406323322, ungenutzte eigene Statics 6315 bis 6317.
+
+### Änderung Mo 23.11.2026 ca. 08:39 (Modus AENDERUNG, Auftrag des Managers: Ungeschnitten #20 auf Entwurf)
+
+- Ungeschnitten #20 (Mi 25.11. 18:00, Clip 6365, Posting-Version 6366) von fest geplant auf ENTWURF gesetzt (draft true), Text, Termin und Medium unverändert: Instagram neue ID 438393086 (vorher 438391614, uuid 3768208806207048922), TikTok neue ID 438393112 (vorher 438391666, uuid -2907981472595687254). Per getScheduledPosts zurückgelesen.
+- Grund laut Manager: Clip ist quer und zeigt fertige Pizzen statt Handlung (Damians Regel vom 03.11.), Damian hat ihn nicht ausdrücklich beauftragt. Der Manager legt ihn Damian vor.
+- Stand KW48 damit: kein Post fest geplant, zwei Entwürfe (#20 Mi 18:00, #21 Sa 18:30). Die Tabelle "Geplante Posts" im Lauf darüber zeigt für #20 noch den Stand vor dieser Änderung.
+- Merker für künftige Läufe: Ein Clip von Damian ohne Anweisung wird nur dann fest geplant, wenn er Handlung zeigt und hochkant ist; sonst Entwurf.
