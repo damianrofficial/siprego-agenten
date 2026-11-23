@@ -744,3 +744,74 @@ TikTok-Nachzug, Stand Sa 21.11.2026 (Zeitraum 07.11. bis 21.11.):
 - Schaufenster-Post NICHT verschoben: Er war beim Start des Auftrags schon veröffentlicht (17:30, Instagram 437074319, https://www.instagram.com/p/DgDPWBnCDd0/), die Story 437074340 war für 17:35 fällig. Reel folgt damit 10 Minuten nach dem Feed-Foto.
 - Die Story von 13:22 (437509949) ist veröffentlicht (https://www.instagram.com/stories/siprego.pizza/4036011941067316028).
 - Gesperrt bis 03.01.2027: Clip ID 6363.
+
+## Lauf Mo 23.11.2026 (Wochenplan KW48, Mi 25.11. bis So 29.11., Modus WOCHENPLAN über den Siprego Manager, Autopilot)
+
+### Geprüft
+
+- Shop 23.11. 08:40 (siprego.orderu.shop/store/pfersee/menu, 59 aktive Produkte): Pizza Inferno steht NICHT mehr im Shop (kein Treffer für Inferno oder Nduja; Mortabella, Diavolo, Margherita und alle vier Arancini-Sorten sind aktiv). Am So 22.11. war sie ausverkauft. Deshalb kein Inferno-Post in KW48, Foto ID 6324 bleibt Reserve.
+- Mediathek seit ID 6364: ein neuer Upload von Damian, ID 6365 (So 22.11. abends, ohne Anweisung). Sonst nichts Neues für die Pizzeria.
+- Instagram-Reels 09.11. bis 23.11. (Metricool Analytics): letzte Nummer #19 (So 22.11.), kein manuelles Reel von Damian seit Mi 11.11. Neue Nummern: #20 (Mi), #21 (Entwurf Sa).
+- Metricool-Planer 23.11. bis 07.12. war vor dem Lauf leer.
+- Black Friday (Fr 27.11.): kein Code von Damian, im Newsletter-Playbook steht "noch kein Code". Kein Angebot, kein Post dazu.
+- Brevo nicht geöffnet: Die Hauptmail für Mi 25.11. legt der Newsletter-Agent erst am Di 24.11. an; Thema laut Manager und Newsletter-Playbook: Schaufenster und Pizza Contemporanea.
+
+### Auswertung KW47 (Metricool, Abruf 23.11. 08:35, Reichweite / Interaktionen gesamt)
+
+| Tag | Post | Instagram | TikTok (Views / Likes) |
+| --- | --- | --- | --- |
+| Di 17.11. 17:30 | Reel Ungeschnitten #16 Teig ausziehen | 1.074 / 17 | 388 / 10 |
+| Mi 18.11. 12:00 | Static Inferno | 263 / 3 | nur IG |
+| Mi 18.11. 18:00 | Reel Inferno | 1.586 / 23 | 857 / 6 |
+| Do 19.11. 12:00 | Reel Ungeschnitten #17 Käse auf die Böden | 646 / 5 | 1.166 / 7 |
+| Fr 20.11. 10:30 | Foto Rand | 171 / 0 | nur IG |
+| Sa 21.11. 18:30 | Reel Ungeschnitten #18 Ofen, Kartons | 1.732 / 21 | 466 / 5 |
+| So 22.11. 10:30 | Foto Margherita im Karton | 151 / 6 | nur IG |
+| So 22.11. 17:30 | Foto Schaufenster | 223 / 10 (15 Stunden alt) | nur IG |
+| So 22.11. 17:40 | Reel Ungeschnitten #19 (71 s, ohne Ton) | 277 / 3 (15 Stunden alt), mittlere Wiedergabe 5,7 s | 314 / 2 |
+
+- Konto Instagram: Follower 3.827 (Mo 16.11.) auf 3.846 (So 22.11.), plus 19. Kontoreichweite Summe der Tage Mo bis So 80.800 (Vorwoche 83.793). Interaktionen Feed plus Reels 87 (Vorwoche 162).
+- TikTok: Follower 3.276 auf 3.292, plus 16.
+- Lesart: Reels am Abend (Mi 18:00, Sa 18:30) liegen bei 1.600 bis 1.700 Reichweite, das Mittags-Reel am Do bei 646. Alle vier Fotos und Statics zusammen 808 Reichweite, weniger als ein einziges Abend-Reel. #19 startet schwach (lang, stumm, 10 Minuten nach dem Schaufenster-Foto). Interaktionen haben sich gegenüber KW46 fast halbiert, obwohl mehr Posts liefen.
+- Daraus für KW48: nur Reels, nur abends (Mi 18:00, Sa 18:30). Keine Fotos oder Statics als Lückenfüller. Lieber zwei Posts mit Material als fünf ohne.
+
+### Medien (WordPress-Mediathek)
+
+- Neu von Damian: ID 6365, https://siprego.de/wp-content/uploads/2026/11/0694d2c0-cc72-4dfd-b198-0578f0fc50c4.mov (5,7 MB, 13,8 s, 1280x720 QUERFORMAT, H.264, Ton vorhanden, mean_volume -29,0 dB, erstellt So 22.11. abends). Inhalt: Kamera fährt über sechs fertige Pizzen in offenen Kartons am Pass (Salami, Schinken, Champignons, Oliven; Sorten nicht benannt), dann Schwenk an der Ziegelwand vorbei zum Fenster mit der Lampe mit Siprego-Logomark. Keine Personen. In den letzten 3 Sekunden ist durch das Fenster das Leuchtschild des Nachbarlokals auf der anderen Straßenseite lesbar (dasselbe Schild wie auf Foto 6324); dem Manager gemeldet, nicht gekürzt.
+- Mi Reel #20: https://siprego.de/wp-content/uploads/2026/11/siprego-ungeschnitten-20-2026-11-25-reel.mp4 (ID 6366, ganzer Clip 13,8 s, nichts gekürzt, im Querformat belassen und auf 1920x1080 skaliert, H.264, 30 fps, crf 19, Originalton um 8 dB angehoben mit Limiter, mean_volume -21,6 dB, kein Hook, keine Musik). Querformat statt Zuschnitt, weil ein 9:16-Ausschnitt nur 405x720 Pixel übrig ließe und zwei Drittel des Bildes wegschneiden würde.
+- Sa Reel #21 (Entwurf): https://siprego.de/wp-content/uploads/2026/11/siprego-ungeschnitten-21-teig-2026-11-28-reel.mp4 (ID 6367, aus IMG_0284.mov, ID 6322, ganzer Clip 17,2 s, nichts gekürzt, horizontal zurückgespiegelt, 1080x1920, H.264, 30 fps, crf 19, Originalton unverändert, mean_volume -18,4 dB). Kontrolle am Standbild: Kartonaufschrift im Regal und Logo auf der Schürze sind jetzt seitenrichtig.
+- Gesperrt bis 06.01.2027, sobald veröffentlicht: Clip ID 6365. Clip ID 6322 gesperrt bis 09.01.2027, sobald veröffentlicht.
+
+### Geplante Posts (Metricool 7383922, per getScheduledPosts um 08:38 bestätigt)
+
+| Nr | Tag | Zeit | Format | Hook | Status | Instagram-ID | TikTok-ID |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Mi 25.11. | 18:00 | Raw-Reel Pizzen in Kartons am Pass (quer) | Ungeschnitten #20 | fest, draft false, PENDING | 438391614 | 438391666 |
+| 2 | Sa 28.11. | 18:30 | Raw-Reel Teig falten | Ungeschnitten #21 | ENTWURF, draft true | 438391706 | 438391760 |
+
+- uuids: 438391614 = 3768208806207048922, 438391666 = -2907981472595687254, 438391706 = -306128028997761504, 438391760 = -6523827822822275363.
+- Captions nach der Regel vom 19.11. (Nummer, fester Satz, Öffnungszeit und Bestellhinweis, Kontakt, Hashtags; keine Beschreibung des Videos). Mittwoch mit der Zeile "Mittwoch offen, 11 bis 22 Uhr".
+- Entwurf #21 wartet auf Damian: Mann im Clip und Spiegelung nicht bestätigt. Lehnt er ab, entfällt der Samstag und die Nummer #21 bleibt frei.
+- Nächste freie Ungeschnitten-Nummer: #21, wenn der Entwurf nicht kommt, sonst #22 (vorher in Metricool Analytics prüfen).
+
+### Ausgefallen
+
+- Mi 25.11. Story und Static zur Mittwochsmail (Schaufenster, Pizza Contemporanea): kein neues Bild, das Schaufenster-Foto lief am So 22.11. als Feed und Story. Das Reel um 18:00 trägt die Mittwoch-Zeile.
+- Do 26.11., Fr 27.11., So 29.11.: kein Clip. Foto 6324 (Inferno vor der Fassade) nicht geplant, weil die Inferno nicht im Shop steht. Damians Antipasti-Static (ID 6163) nicht geplant, weil Statics in KW46 und KW47 nur 255 bis 279 Reichweite hatten und kein Anlass da ist.
+- Black Friday Fr 27.11.: kein Code, kein Post.
+
+### TikTok-Nachzug, Stand Mo 23.11.2026 08:35 (Zeitraum 09.11. bis 23.11.)
+
+| Datum IG | Titel | Instagram-Link | Auf TikTok | Status |
+| --- | --- | --- | --- | --- |
+| Mi 11.11. 14:08 | Ungeschnitten #12 | https://www.instagram.com/reel/DfmjOxZNj38/ | nein | Datei fehlt, fällt Mi 25.11. aus dem Fenster |
+
+- Seit Mi 11.11. kein neues manuelles Reel von Damian. Alle anderen Reels im Zeitraum stammen vom Agenten und sind auf TikTok. Nichts eingeplant. Dough diary #3 und #10 sind aus dem Fenster gefallen.
+
+### Offene Punkte (an den Manager)
+
+- Entwurf #21 (Teig falten): Freigabe von Damian, dazu wer zu sehen ist.
+- Inferno fehlt im Shop (23.11. 08:40): wieder da ab Mittwoch oder vorerst raus? Davon hängt ab, ob Foto 6324 gepostet werden kann.
+- Black-Friday-Code fehlt.
+- Rohmaterial: nach dieser Woche ist kein Clip mehr frei.
+- Weiter offen, niedrig: upload-33 (6136) privat in der Mediathek, Alt-Entwürfe 406322950, 406323120, 406323232, 406323322, ungenutzte eigene Statics 6315 bis 6317.
