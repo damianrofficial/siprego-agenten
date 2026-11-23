@@ -13,7 +13,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
-- [offen] Newsletter | Black-Friday-Code für Mi 25.11. bzw. Fr 27.11. (Code, Wert, Mindestbestellwert, Gültigkeit, im orderu-Shop angelegt)? | Frist Mo 23.11. 20:00 | Ohne Antwort: Mail ohne Rabatt
+- [gestellt am 23.11. 08:45] Newsletter | Black-Friday-Code für Mi 25.11. bzw. Fr 27.11. (Code, Wert, Mindestbestellwert, Gültigkeit, im orderu-Shop angelegt)? | Frist Mo 23.11. 20:00 | Ohne Antwort: Mail ohne Rabatt
 - [offen] Ads Pizzeria | Budgetplanung Fr bis So im Ads Manager (Basis 100 €/Tag, Fr plus 80, Sa plus 100, So plus 120), richtet Damian Fr 27.11. ein | Frist Di 24.11. 20:00 | A ja ... B 144 €/Tag bleibt | Ohne Antwort: 144 € bleibt
 - [offen] Social | Ungeschnitten #20 (Clip 6365, quer, fertige Pizzen) Mi 18:00 und #21 (Teig falten, zurückgespiegelt) Sa 28.11. 18:30 freigeben | Frist Mi 25.11. 12:00 bzw. Fr 27.11. 18:00
 - [offen] Alle | Inferno steht am 23.11. nicht im Shop: wieder ab Mittwoch oder vorerst raus? (betrifft Foto 6324, Mail, Shop-10-%-Anzeige mit Inferno-Bild)
