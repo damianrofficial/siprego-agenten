@@ -449,3 +449,6 @@ Bearbeitet vom Manager: ja (22.11.)
   Zielbild kalte Gruppe ab 27.11.: Beste Pizza (Beweis, Shop-Link), Inga Reel (Handwerk), Arancini Käsefaden (Produkt), RT Produkt Diavolo bzw. Inferno-Motiv (Produkt Pizza), Shop 10 % (Angebot). Rolle Gefühl fehlt weiter (kein Motiv).
 - Google "Pizza Bestellen - Augsburg": pausieren JA (setzt Damian um). Warum: 28 Tage 151,68 €, 3 Conversions, 50,56 € je Bestellung (Ziel unter 20 €), vier Wochen in Folge über 40 €; Brand-Kampagne daneben 3,33 €. Risiko: KW47 kam 1 Bestellung über 204,80 €; es geht um rund 30 € je Woche. Prüfen Mo 07.12. (Brand-Conversions unverändert?).
 - Offen (Warteschlange): Shop-Statistik je UTM für KW46 und KW47 und Shop-Umsatz je Tag (Damian); Google Ads mit 7383922 verbinden; TikTok Ads verbinden; #pizzanapoletana in drei beworbenen Beiträgen und Google-Keyword "pizza napoletana augsburg"; Motiv für die Rolle Gefühl; Inferno-Anzeige (Sonntag ausverkauft, erst mit Damian klären).
+
+### 2026-11-24 08:40 | Manager | Zwei Awareness-Anzeigen pausiert
+"Arancini Ragu" (120250614453670078, Text "Do bis So bei uns", falsch: Mi bis So) und "Arancini 4 Käse" (120250614456640078, nennt Sorte "Veggie", gibt es nicht): ACTIVE auf PAUSED, Befund aus dem Kontrolllauf 24.11. Captions alter Instagram-Beiträge, über Ads nicht änderbar. Awareness 30 €/Tag unverändert.
