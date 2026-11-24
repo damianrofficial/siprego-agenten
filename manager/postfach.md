@@ -13,7 +13,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
-- [gestellt am 24.11. 08:42] Social | BLACK15 auch auf Instagram und TikTok nennen (Story Mi und Sa, eine Zeile in #20 und #21)? | Frist Di 24.11. 18:00 | A ja ... B nur in der Mail | Ohne Antwort: kein Post zum Code
+- [beantwortet 24.11. "A", umgesetzt] Social | BLACK15 auch auf Instagram und TikTok nennen (Story Mi und Sa, eine Zeile in #20 und #21)? | Frist Di 24.11. 18:00 | A ja ... B nur in der Mail | Ohne Antwort: kein Post zum Code
 - [offen] Newsletter | Erinnerungsmail Sa 28.11. "letzter Tag BLACK15"? | Frist Fr 27.11. 12:00 | Ohne Antwort: keine
 - [offen] Newsletter | Nikolaus-Gutschein für Hauptmail Mi 02.12.? | Frist Mo 30.11. 18:00 | Ohne Antwort: Mail ohne Angebot
 - [beantwortet 24.11.: BLACK15, 30 € Mindestbestellwert, Mi bis Sa] Newsletter | Black-Friday-Code für Mi 25.11. bzw. Fr 27.11. (Code, Wert, Mindestbestellwert, Gültigkeit, im orderu-Shop angelegt)? | Frist Mo 23.11. 20:00 | Ohne Antwort: Mail ohne Rabatt
@@ -72,6 +72,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [offen, niedrig] Social | upload-33 (ID 6136) ist privat und öffentlich in der Mediathek, löschen? Dazu alte Entwürfe 406322950, 406323120, 406323232, 406323322 löschen? | Frist So 15.11. | Antworten: A beides löschen (Agent löscht die Entwürfe, Damian upload-33) ... B lassen | Quelle: Eintrag 2026-11-09 08:45
 
 ## Entscheidungen von Damian
+- 24.11. (Chat) Social | BLACK15 auf Instagram und TikTok: "A" | Storys fest: Mi 25.11. 11:30 (Metricool 439946786, Mediathek 6370) und Sa 28.11. 17:15 (439946823, Mediathek 6371). Code-Zeile in den Reel-Entwürfen #20 (Instagram 439946901, TikTok 439946972) und #21 (Instagram 439947039, TikTok 439947087), beide weiter Entwurf.
 - 24.11. (Chat, mit Grafik) Social | "poste dass wir fahrer als verstärkung suchen." | Stellenpost fest geplant Di 24.11. 17:30 Instagram Feed (Metricool 439877206, Mediathek 6368) und 17:35 Story (439877220, Mediathek 6369), KI-Kennzeichnung gesetzt (Foto wirkt KI-erzeugt), Fakten gegen siprego.de/jobs geprüft.
 - 24.11. (Chat) Newsletter, Social, Ads | Black-Friday-Code: "Ja. Wir sollten einen Code machen. Aber was für einen? In was für einer Höhe?", dann "Warum Code nicht mi-Sa? Sonntag ist eh viel los", dann "code ist eingestellt: BLACK15 / 30€ mindestbestellwert mi-sa" | BLACK15, 15 % auf alles (Vorschlag Manager), Mindestbestellwert 30 €, Mi 25.11. bis Sa 28.11., nur im Siprego Shop, nicht am Sonntag. In playbooks/newsletter.md eingetragen. Mittwochsmail mit Code-Box.
 - 22.11. abends (Chat) Ads Pizzeria | "Sales Kampagne mehr Tagesbudget? Seit paar Stunden kein Budget mehr verfügbar" und "Jetzt umstellen" | Sales-Kampagne von 120 auf 144 €/Tag, sofort umgesetzt. Neuer von Damian genannter Stand des Budgets: 144 €/Tag.
