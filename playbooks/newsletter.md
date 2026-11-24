@@ -140,7 +140,7 @@ Ohne Eintrag hier gibt es in keiner Mail einen Code, Rabatt oder eine Zugabe. Da
 | WOCHENENDE10 | 10 % | 25 € | Sa 17.10.2026 17:00 bis So 18.10.2026 22:00 | Zweitmail 106. ABGELAUFEN. |
 | HALLOWEEN | 10 % | 25 € | Mi 28.10.2026 11:00 bis So 01.11.2026 22:00 | Hauptmail 109 und Zweitmail 110. ABGELAUFEN. |
 | TOP10 | 10 % auf alles | keiner | Mi 11.11.2026 11:00 bis So 15.11.2026 22:00 | Von Damian am 09.11.2026 bestätigt: im orderu-Shop so angelegt. Für Hauptmail Mi 11.11. "Eure Top 10" und Zweitmail So 15.11. GÜLTIG. |
-| BLACK15 | 15 % auf alles (Höhe laut Vorschlag des Managers vom 24.11., von Damian mit "code ist eingestellt: BLACK15" übernommen; Prozentwert vor dem Versand in der Vorschau von Damian bestätigen lassen) | 30 € | Mi 25.11.2026 bis Sa 28.11.2026 (Samstag bis Ladenschluss 23:00; genaue Start- und Endzeit im Shop hat Damian nicht genannt) | Von Damian am 24.11.2026 bestätigt: "code ist eingestellt: BLACK15 / 30€ mindestbestellwert mi-sa". Black-Friday-Code. Für Hauptmail Mi 25.11. GÜLTIG. Gilt NICHT am So 29.11. |
+| BLACK15 | 15 % auf alles (von Damian am 24.11.2026 bestätigt: "ja. 15%") | 30 € | Mi 25.11.2026 bis Sa 28.11.2026 (Samstag bis Ladenschluss 23:00; genaue Start- und Endzeit im Shop hat Damian nicht genannt) | Von Damian am 24.11.2026 bestätigt: "code ist eingestellt: BLACK15 / 30€ mindestbestellwert mi-sa". Black-Friday-Code. Für Hauptmail Mi 25.11. GÜLTIG. Gilt NICHT am So 29.11. |
 | Black Friday (Mi 25.11. bis So 29.11.) | noch kein Code | | | Damian legt Code, Wert, Mindestbestellwert und Gültigkeit bis spätestens Mo 23.11.2026 hier ein, sonst Black-Friday-Mail ohne Rabatt. |
 
 ## Versandmodus
