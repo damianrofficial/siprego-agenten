@@ -13,7 +13,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
-- [offen] Social | BLACK15 auch auf Instagram und TikTok nennen (Story Mi und Sa, eine Zeile in #20 und #21)? | Frist Di 24.11. 18:00 | A ja ... B nur in der Mail | Ohne Antwort: kein Post zum Code
+- [gestellt am 24.11. 08:42] Social | BLACK15 auch auf Instagram und TikTok nennen (Story Mi und Sa, eine Zeile in #20 und #21)? | Frist Di 24.11. 18:00 | A ja ... B nur in der Mail | Ohne Antwort: kein Post zum Code
 - [offen] Newsletter | Erinnerungsmail Sa 28.11. "letzter Tag BLACK15"? | Frist Fr 27.11. 12:00 | Ohne Antwort: keine
 - [offen] Newsletter | Nikolaus-Gutschein für Hauptmail Mi 02.12.? | Frist Mo 30.11. 18:00 | Ohne Antwort: Mail ohne Angebot
 - [beantwortet 24.11.: BLACK15, 30 € Mindestbestellwert, Mi bis Sa] Newsletter | Black-Friday-Code für Mi 25.11. bzw. Fr 27.11. (Code, Wert, Mindestbestellwert, Gültigkeit, im orderu-Shop angelegt)? | Frist Mo 23.11. 20:00 | Ohne Antwort: Mail ohne Rabatt
