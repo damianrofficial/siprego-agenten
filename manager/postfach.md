@@ -539,3 +539,7 @@ Bearbeitet vom Manager: ja (25.11.)
 ### 2026-11-25 17:05 | Ads-Agent | Umsetzung Wild-West-Static | Status: OK
 Anzeige "Wild West - Static 2026-11-25" (120251735064650078, Creative 1099135949822791) veröffentlicht in "Lokal 10km - Kauf", status ACTIVE, effective_status IN_PROCESS (Prüfung Meta). Bilder 4:5 (6374) und 9:16 (6375) als Platzierungs-Zuordnung, Shop-Link mit utm_content wild-west-static-2026-11, Button ORDER_NOW, kein Code. Budget unverändert 144 €/Tag. Inga-Arancini-Entwurf 120251623392930078 weiter Entwurf. Prüfen Do 26.11.: Freigabe durch Meta. Bewertung frühestens Mi 02.12. WIEDERVORLAGE: spätestens Mi 23.12.2026 abends pausieren.
 Bearbeitet vom Manager: ja (25.11., Damian gemeldet)
+
+### 2026-11-25 17:40 | Entscheidung von Damian | Team-Anleitungen: Aufbau
+Damian: "2. teig ausziehen weg - unnötige anmerkung. standardmäßig 3 abschnitte bei jedem neuen rezept einbauen: Vorbereitung (vor der Schicht), Vor dem Backen, Nach dem Backen." DAUERREGEL für alle Team-PDFs: genau diese drei Abschnitte, keine Selbstverständlichkeiten (Teig ausziehen, backen wie gewohnt). Wild West Vorbereitung laut Damian: Hackfleisch anbraten, mit Salz und Pfeffer würzen, in GN-Behälter; Mais abtropfen, GN-Behälter; Kidneybohnen abtropfen, GN-Behälter; BBQ-Sauce in Quetschflasche füllen, Flasche beschriften. Damit geklärt: Hackfleisch kommt vorgebraten auf die Pizza. PDF anleitungen/pizza-wild-west-anleitung.pdf neu gebaut. Vorlage: scratchpad/anleitung/ww.html (Kopie in anleitungen/vorlage-anleitung.html).
+Bearbeitet vom Manager: ja (25.11.)
