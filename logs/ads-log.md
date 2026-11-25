@@ -452,3 +452,7 @@ Bearbeitet vom Manager: ja (22.11.)
 
 ### 2026-11-24 08:40 | Manager | Zwei Awareness-Anzeigen pausiert
 "Arancini Ragu" (120250614453670078, Text "Do bis So bei uns", falsch: Mi bis So) und "Arancini 4 Käse" (120250614456640078, nennt Sorte "Veggie", gibt es nicht): ACTIVE auf PAUSED, Befund aus dem Kontrolllauf 24.11. Captions alter Instagram-Beiträge, über Ads nicht änderbar. Awareness 30 €/Tag unverändert.
+
+### 2026-11-25 08:15 | Manager | Öffnungstage-Schaltung Mi an | Status: OK
+Kampagne "Pizzeria - Sales - Kauf - 2026-10" (120251130156120078) von PAUSED auf ACTIVE, zurückgelesen: ACTIVE, 144 €/Tag. Kein Sperrtermin für Mi 25.11. Shop 08:08: Inferno weiter NICHT im Shop, Kategorietext weiter "Neapolitanische Pizza ...". Deshalb vor dem Einschalten pausiert: "Shop 10 % günstiger - Static 2026-11-20" (120251662591690078) und "RT Shop 10 % günstiger - Static 2026-11-20" (120251662592980078), beide zeigen die Inferno im Bild (ACTIVE auf PAUSED; Ersatz mit anderem Bild beim Umbau Fr 27.11.). Aktiv: kalt 4 (Beste Pizza, Erst backen, Inga Reel 20.11., Arancini Käsefaden), Retargeting 5 (Mittagsmenü 20.11., Diavolo, Bufala Verde, Margherita, Napoli Party Menü), alle effective_status ACTIVE. Die Ersatzanzeigen vom 20.11. liefern aus.
+Bearbeitet vom Manager: ja (25.11.)
