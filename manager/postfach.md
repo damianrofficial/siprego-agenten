@@ -17,7 +17,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [offen] Newsletter | Erinnerungsmail Sa 28.11. "letzter Tag BLACK15"? | Frist Fr 27.11. 12:00 | Ohne Antwort: keine
 - [offen] Newsletter | Nikolaus-Gutschein für Hauptmail Mi 02.12.? | Frist Mo 30.11. 18:00 | Ohne Antwort: Mail ohne Angebot
 - [beantwortet 24.11.: BLACK15, 30 € Mindestbestellwert, Mi bis Sa] Newsletter | Black-Friday-Code für Mi 25.11. bzw. Fr 27.11. (Code, Wert, Mindestbestellwert, Gültigkeit, im orderu-Shop angelegt)? | Frist Mo 23.11. 20:00 | Ohne Antwort: Mail ohne Rabatt
-- [offen] Ads Pizzeria | Budgetplanung Fr bis So im Ads Manager (Basis 100 €/Tag, Fr plus 80, Sa plus 100, So plus 120), richtet Damian Fr 27.11. ein | Frist Di 24.11. 20:00 | A ja ... B 144 €/Tag bleibt | Ohne Antwort: 144 € bleibt
+- [abgelaufen 24.11. 20:00, 144 €/Tag bleibt; beim Umbau Fr 27.11. erneut vorlegen] Ads Pizzeria | Budgetplanung Fr bis So im Ads Manager (Basis 100 €/Tag, Fr plus 80, Sa plus 100, So plus 120), richtet Damian Fr 27.11. ein | Frist Di 24.11. 20:00 | A ja ... B 144 €/Tag bleibt | Ohne Antwort: 144 € bleibt
 - [offen] Social | Ungeschnitten #20 (Clip 6365, quer, fertige Pizzen) Mi 18:00 und #21 (Teig falten, zurückgespiegelt) Sa 28.11. 18:30 freigeben | Frist Mi 25.11. 12:00 bzw. Fr 27.11. 18:00
 - [offen] Alle | Inferno steht am 23.11. nicht im Shop: wieder ab Mittwoch oder vorerst raus? (betrifft Foto 6324, Mail, Shop-10-%-Anzeige mit Inferno-Bild)
 - [offen] Ads Pizzeria | Google "Pizza Bestellen - Augsburg" pausieren (28 Tage 151,68 €, 3 Conversions, 50,56 €; Keyword "pizza napoletana augsburg" läuft dort), setzt Damian um
@@ -72,6 +72,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [offen, niedrig] Social | upload-33 (ID 6136) ist privat und öffentlich in der Mediathek, löschen? Dazu alte Entwürfe 406322950, 406323120, 406323232, 406323322 löschen? | Frist So 15.11. | Antworten: A beides löschen (Agent löscht die Entwürfe, Damian upload-33) ... B lassen | Quelle: Eintrag 2026-11-09 08:45
 
 ## Entscheidungen von Damian
+- 25.11. (Chat) Social | "Reel gerne früher posten heute." | Ungeschnitten #20 (Clip 6365, quer) freigegeben und von 18:00 auf Mi 25.11. 12:00 vorgezogen, fest geplant: Instagram 441353822, TikTok 441353871, Caption mit BLACK15-Zeile.
 - 24.11. (Chat) Social | BLACK15 auf Instagram und TikTok: "A" | Storys fest: Mi 25.11. 11:30 (Metricool 439946786, Mediathek 6370) und Sa 28.11. 17:15 (439946823, Mediathek 6371). Code-Zeile in den Reel-Entwürfen #20 (Instagram 439946901, TikTok 439946972) und #21 (Instagram 439947039, TikTok 439947087), beide weiter Entwurf.
 - 24.11. (Chat, mit Grafik) Social | "poste dass wir fahrer als verstärkung suchen." | Stellenpost fest geplant Di 24.11. 17:30 Instagram Feed (Metricool 439877206, Mediathek 6368) und 17:35 Story (439877220, Mediathek 6369), KI-Kennzeichnung gesetzt (Foto wirkt KI-erzeugt), Fakten gegen siprego.de/jobs geprüft.
 - 24.11. (Chat) Newsletter, Social, Ads | Black-Friday-Code: "Ja. Wir sollten einen Code machen. Aber was für einen? In was für einer Höhe?", dann "Warum Code nicht mi-Sa? Sonntag ist eh viel los", dann "code ist eingestellt: BLACK15 / 30€ mindestbestellwert mi-sa" | BLACK15, 15 % auf alles (Vorschlag Manager), Mindestbestellwert 30 €, Mi 25.11. bis Sa 28.11., nur im Siprego Shop, nicht am Sonntag. In playbooks/newsletter.md eingetragen. Mittwochsmail mit Code-Box.
@@ -515,4 +516,8 @@ Bearbeitet vom Manager: ja (24.11.)
 
 ### 2026-11-25 08:15 | Manager | Öffnungstage-Schaltung Mi an | Status: OK
 Kampagne "Pizzeria - Sales - Kauf - 2026-10" (120251130156120078) von PAUSED auf ACTIVE, zurückgelesen: ACTIVE, 144 €/Tag. Kein Sperrtermin für Mi 25.11. Shop 08:08: Inferno weiter NICHT im Shop, Kategorietext weiter "Neapolitanische Pizza ...". Deshalb vor dem Einschalten pausiert: "Shop 10 % günstiger - Static 2026-11-20" (120251662591690078) und "RT Shop 10 % günstiger - Static 2026-11-20" (120251662592980078), beide zeigen die Inferno im Bild (ACTIVE auf PAUSED; Ersatz mit anderem Bild beim Umbau Fr 27.11.). Aktiv: kalt 4 (Beste Pizza, Erst backen, Inga Reel 20.11., Arancini Käsefaden), Retargeting 5 (Mittagsmenü 20.11., Diavolo, Bufala Verde, Margherita, Napoli Party Menü), alle effective_status ACTIVE. Die Ersatzanzeigen vom 20.11. liefern aus.
+Bearbeitet vom Manager: ja (25.11.)
+
+### 2026-11-25 08:35 | Manager | Tageslauf Mi KW48 | Status: OK
+Kein Unteragent (Mittwoch). Sales-Kampagne seit 08:15 an (144 €/Tag), Shop-10-%-Anzeigen mit Inferno-Bild pausiert. Metricool heute: 11:30 Story BLACK15 (439946786, fest), 12:00 Ungeschnitten #20 (Instagram 441353822, TikTok 441353871, nach Damians "früher posten" fest), Catering 19:00 Reel Buffet (433884674). Mail 120/121 queued 10:30. Offen bei Damian: #21 Sa 18:30 (Entwurf), Inferno im Shop ja oder nein, Budgetplanung (Frist Di 20:00 abgelaufen: 144 €/Tag bleibt), Google "Pizza Bestellen" pausieren, Erinnerungsmail Sa, Nikolaus-Gutschein, Feiertagszeiten.
 Bearbeitet vom Manager: ja (25.11.)
