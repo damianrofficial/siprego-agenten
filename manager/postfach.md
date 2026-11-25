@@ -522,3 +522,7 @@ Bearbeitet vom Manager: ja (25.11.)
 ### 2026-11-25 08:35 | Manager | Tageslauf Mi KW48 | Status: OK
 Kein Unteragent (Mittwoch). Sales-Kampagne seit 08:15 an (144 €/Tag), Shop-10-%-Anzeigen mit Inferno-Bild pausiert. Metricool heute: 11:30 Story BLACK15 (439946786, fest), 12:00 Ungeschnitten #20 (Instagram 441353822, TikTok 441353871, nach Damians "früher posten" fest), Catering 19:00 Reel Buffet (433884674). Mail 120/121 queued 10:30. Offen bei Damian: #21 Sa 18:30 (Entwurf), Inferno im Shop ja oder nein, Budgetplanung (Frist Di 20:00 abgelaufen: 144 €/Tag bleibt), Google "Pizza Bestellen" pausieren, Erinnerungsmail Sa, Nikolaus-Gutschein, Feiertagszeiten.
 Bearbeitet vom Manager: ja (25.11.)
+
+### 2026-11-25 08:35 | Social-Media-Agent | AENDERUNG neuer Clip | Status: NICHT gepostet
+Neuer Upload Mediathek 6372 ist derselbe Querformat-Clip wie 6365 (1280x720, 13,8 s, Bild- und Tonspur bitgleich, Dateiname mit Anhang "-1"): sechs Pizzen in Kartons am Pass, Schwenk zum Fenster. Nach Damians Regel "nicht posten wenn quer" nicht gepostet, kein Zuschnitt. Heute fest geplant nur die BLACK15-Story 11:30 (439946786). Entwürfe #20 mit Querclip (Instagram 441354977, TikTok 441354999) bleiben Entwurf. Einziger freier Hochkant-Clip: Teig falten (6322, Entwurf Sa 18:30, Instagram 439947039, TikTok 439947087). Dauerregel im Playbook: Querformat nie als Reel.
+Bearbeitet vom Manager: ja (25.11.)
