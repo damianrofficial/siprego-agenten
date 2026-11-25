@@ -535,3 +535,7 @@ Kampagnen 122 (Aktiv, 1.074) und 123 (Schläfer, 871) queued für Do 26.11. 10:3
 ### 2026-11-25 17:10 | Manager | Team-Anleitung Wild West (PDF)
 anleitungen/pizza-wild-west-anleitung.pdf, Mengen als Leerfelder, Reihenfolge vor dem Ofen aus dem Foto abgelesen, BBQ-Sauce nach Damians Vorgabe. Ads-Agent UMSETZEN läuft (Static-Anzeige in der kalten Gruppe). Push zu GitHub 17:00 bis 17:20 mit 503 (credential service) gescheitert, lokal committet.
 Bearbeitet vom Manager: ja (25.11.)
+
+### 2026-11-25 17:05 | Ads-Agent | Umsetzung Wild-West-Static | Status: OK
+Anzeige "Wild West - Static 2026-11-25" (120251735064650078, Creative 1099135949822791) veröffentlicht in "Lokal 10km - Kauf", status ACTIVE, effective_status IN_PROCESS (Prüfung Meta). Bilder 4:5 (6374) und 9:16 (6375) als Platzierungs-Zuordnung, Shop-Link mit utm_content wild-west-static-2026-11, Button ORDER_NOW, kein Code. Budget unverändert 144 €/Tag. Inga-Arancini-Entwurf 120251623392930078 weiter Entwurf. Prüfen Do 26.11.: Freigabe durch Meta. Bewertung frühestens Mi 02.12. WIEDERVORLAGE: spätestens Mi 23.12.2026 abends pausieren.
+Bearbeitet vom Manager: ja (25.11., Damian gemeldet)
