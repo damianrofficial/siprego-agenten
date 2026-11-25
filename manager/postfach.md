@@ -527,3 +527,11 @@ Bearbeitet vom Manager: ja (25.11.)
 ### 2026-11-25 08:35 | Social-Media-Agent | AENDERUNG neuer Clip | Status: NICHT gepostet
 Neuer Upload Mediathek 6372 ist derselbe Querformat-Clip wie 6365 (1280x720, 13,8 s, Bild- und Tonspur bitgleich, Dateiname mit Anhang "-1"): sechs Pizzen in Kartons am Pass, Schwenk zum Fenster. Nach Damians Regel "nicht posten wenn quer" nicht gepostet, kein Zuschnitt. Heute fest geplant nur die BLACK15-Story 11:30 (439946786). Entwürfe #20 mit Querclip (Instagram 441354977, TikTok 441354999) bleiben Entwurf. Einziger freier Hochkant-Clip: Teig falten (6322, Entwurf Sa 18:30, Instagram 439947039, TikTok 439947087). Dauerregel im Playbook: Querformat nie als Reel.
 Bearbeitet vom Manager: ja (25.11.)
+
+### 2026-11-25 17:02 | Social-Media-Agent | AENDERUNG Pizza Wild West | Status: OK
+Feed-Post Mi 25.11. 18:30 (Metricool 441949373) und Story 18:35 (441949461), fest. Static 4:5 Mediathek 6374, Story 9:16 Mediathek 6375 ("SPECIAL · BIS 23.12.", "Sie ist zurück. Wild West.", "ab 15,90 €", Zutaten). Caption mit Zutatenliste, ab 15,90 €, BLACK15-Zeile, Mittwoch 11 bis 22 Uhr. Bild 6373 gesperrt bis 06.01.2027 außer für Wild West; ab 24.12. nicht mehr bewerben.
+### 2026-11-25 17:03 | Newsletter-Agent | Info-Mail KW48 Wild West | Status: OK
+Kampagnen 122 (Aktiv, 1.074) und 123 (Schläfer, 871) queued für Do 26.11. 10:30. Betreff "wild west ist zurück", Vorschautext "Nach langer Zeit. Und nur bis zum 23. Dezember.", 64 Wörter, weiße Pizza mit Zutaten, BBQ-Sauce nach dem Backen, ab 15,90 €, Code-Box BLACK15 "noch bis Samstag", Bild 6373, PS Donnerstag 11 bis 22 Uhr. Mail von heute, Stand 17:00: 120 Aktiv 1.061 zugestellt, 154 Öffnungen (16,16 %), 10 Klicks, 9 Abmeldungen (0,85 %); 121 Schläfer 882 zugestellt, 17 Öffnungen, 2 Klicks, 5 Abmeldungen (0,57 %), 0 Beschwerden. Zweite Mail der Woche auf Damians Auftrag. Shop-Beschreibung der Wild West nennt die Mozzarella-Basis nicht.
+### 2026-11-25 17:10 | Manager | Team-Anleitung Wild West (PDF)
+anleitungen/pizza-wild-west-anleitung.pdf, Mengen als Leerfelder, Reihenfolge vor dem Ofen aus dem Foto abgelesen, BBQ-Sauce nach Damians Vorgabe. Ads-Agent UMSETZEN läuft (Static-Anzeige in der kalten Gruppe). Push zu GitHub 17:00 bis 17:20 mit 503 (credential service) gescheitert, lokal committet.
+Bearbeitet vom Manager: ja (25.11.)

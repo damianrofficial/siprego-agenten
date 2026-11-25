@@ -851,3 +851,14 @@ TikTok-Nachzug, Stand Sa 21.11.2026 (Zeitraum 07.11. bis 21.11.):
 - Neue Dauerregel im Playbook unter "Notizen von Damian" eingetragen: Querformat-Clips werden nicht als Reel gepostet.
 - Nummer: #20 bleibt frei. Der Samstag-Entwurf Teig falten (Instagram 439947039, TikTok 439947087, Stand 24.11.) trägt #21; bei Freigabe auf #20 ändern, wenn vorher kein Reel lief.
 - Was Damian anders machen müsste: Handy aufrecht halten und in der Kamera-App filmen, mit Ton, Handlung ab der ersten Sekunde; Original hochladen (Kurzbefehl "An Siprego senden" oder Safari wp-admin), nicht den 720p-Export aus einem Messenger.
+
+### Änderung Mi 25.11.2026 ca. 17:02 (Modus AENDERUNG, Damian: "die pizza wild west ist nach langer zeit wieder als special verfügbar! ... plane heute noch einen post (evtl auch als static ad ...")
+
+- Fakten von Damian (Playbook, Notiz 25.11.) und Shop-Prüfung des Managers 16:59: Wild West aktiv, Piccola 15,90 €, Grande 17,90 €, Familia 28,90 €; Mozzarella Fior di Latte als Base ohne Tomatensoße, Rinderhackfleisch, Mais, Kidneybohnen, BBQ-Sauce, scharfe Jalapeños; Special bis 23.12.2026.
+- Bild von Damian: Mediathek 6373 (1254x1254, Pizza von oben auf rundem Holzbrett). Runder Freisteller um das Brett (Mitte 637/596, Radius 530 px, weiche Kante), Hero-Layout auf Creme wie Inferno am 18.11. Skript im Scratchpad: scripts/ww.py.
+- Feed 1080x1350: Label "SPECIAL · BIS 23.12.", Headline "Sie ist zurück. Wild West." (zweite Zeile rot), Preis "ab 15,90 €", Unterzeile "Fior di Latte, Rinderhack, Mais, Kidneybohnen, Jalapeños, BBQ-Sauce", Fußzeile siprego.de und Lieferando-Satz. https://siprego.de/wp-content/uploads/2026/11/siprego-ad-wild-west-2026-11-feed.jpg (ID 6374).
+- Story 1080x1920: gleicher Text ohne Fußzeile, Text und Logo zwischen y 286 und 902 (frei: oben 268, unten ab 1248), Pizza y 942 bis 1802. https://siprego.de/wp-content/uploads/2026/11/siprego-ad-wild-west-2026-11-story.jpg (ID 6375). Beide Dateien angesehen.
+- Fest geplant (draft false, autoPublish true, PENDING, zurückgelesen 17:02): Instagram Feed Mi 25.11. 18:30, Metricool 441949373 (uuid 6136971585800392199); Instagram Story 18:35, Metricool 441949461 (uuid -6600278736493657627). Kein TikTok (Bild).
+- Caption: Damians Worte (wieder da, nach langer Zeit, Special bis 23.12.), Zutatenliste, ab 15,90 €, Shop und Link in der Bio, BLACK15-Zeile, Mittwoch offen 11 bis 22 Uhr, Kontakt, 8 Hashtags.
+- Kollision: keine. Heute sonst nur die BLACK15-Story 11:30 (veröffentlicht bzw. fällig) und die #20-Entwürfe mit dem Querclip um 18:00 (441354977, 441354999, draft true, nicht angefasst). #21-Entwürfe nicht angefasst.
+- Bild 6373 gesperrt bis 06.01.2027, außer für Wild West. Quadrat 1080x1080 für Ads nicht gebaut (nicht beauftragt).
