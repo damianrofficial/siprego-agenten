@@ -15,7 +15,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Offene Fragen an Damian
 - [beantwortet 24.11. "A", umgesetzt] Social | BLACK15 auch auf Instagram und TikTok nennen (Story Mi und Sa, eine Zeile in #20 und #21)? | Frist Di 24.11. 18:00 | A ja ... B nur in der Mail | Ohne Antwort: kein Post zum Code
 - [entschieden vom Manager 26.11.: keine Erinnerungsmail (schon 2 Mails diese Woche, Abmeldungen 1,04 % Aktiv); Damian im Bericht genannt] Newsletter | Erinnerungsmail Sa 28.11. "letzter Tag BLACK15"? | Frist Fr 27.11. 12:00 | Ohne Antwort: keine
-- [gestellt am 26.11. 09:15] Social | Reel Teig falten Sa 28.11. 18:30 (Instagram 439947039, TikTok 439947087) freigeben, Nummer wird #20 | Frist Fr 27.11. 18:00 | A freigeben ... B nicht posten | Ohne Antwort: bleibt Entwurf
+- [beantwortet 26.11. "A", fest geplant Sa 28.11. 18:30: Instagram 442804070, TikTok 442804116, Ungeschnitten #20] Social | Reel Teig falten Sa 28.11. 18:30 (Instagram 439947039, TikTok 439947087) freigeben, Nummer wird #20 | Frist Fr 27.11. 18:00 | A freigeben ... B nicht posten | Ohne Antwort: bleibt Entwurf
 - [offen, als Nächstes] Social Catering | Vier Karussell-Entwürfe je 19:00: Mo 30.11. Pizzen (442757032), Mi 02.12. Pasta im Parmesanlaib (442757183), Fr 04.12. vegan und glutenfrei (442757262), So 06.12. Cannoli Concierge (442757377) | Frist Mo 30.11. 12:00 | passt (alle) oder Nummern | Ohne Antwort: bleiben Entwürfe
 - [offen, niedrig] Social Catering | Veganer Käse "4 € pro Person": je veganem Gast oder je Gast der Feier? A je veganem Gast ... B Wortlaut Landingpage | Ohne Antwort: Wortlaut Landingpage
 - [offen] Shop | Wild West im Shop: Allergen Milch und Mozzarella in der Beschreibung fehlen (nur Damian in orderu)
@@ -561,4 +561,8 @@ Bearbeitet vom Manager: ja (26.11.)
 
 ### 2026-11-26 08:50 | Social-Catering-Agent | WOCHENPLAN | Status: OK
 Vier Entwürfe (draft true), je 19:00, Instagram und Facebook: Mo 30.11. Pizzen "5 aus 22" 7 Slides (442757032, Mediathek 6376 bis 6382); Mi 02.12. Pasta im Parmesanlaib 6 Slides (442757183, 6383 bis 6388); Fr 04.12. vegan und glutenfrei 5 Slides (442757262, 6389 bis 6393); So 06.12. Cannoli Concierge 6 Slides (442757377, 6394 bis 6399). Reel Buffet 25.11. 19:07 veröffentlicht. Zahlen Instagram: Pakete Hochzeit 16.11. Reichweite 992 (17 gespeichert, 15 geteilt), Gästezahl 595, Verkostung 244, Bewertungen 209, Vor Ort 187, Reel Buffet 307 nach 13 Stunden. Reichweite der Karussells sinkt. Bild gesucht: Pasta im Parmesanlaib und Cannoli Concierge als Originalfoto mit mindestens 1080 px Breite. Frage: veganer Käse 4 € pro Person (je veganem Gast oder je Gast). Neu von der Landingpage: Änderungen bis eine Woche vor dem Event, glutenfreier Teig ohne Mehlkontakt. Übersichten vom Manager angesehen (Pizzen, vegan und glutenfrei).
+Bearbeitet vom Manager: ja (26.11.)
+
+### 2026-11-26 09:42 | Social-Media-Agent | AENDERUNG Ungeschnitten #20 Teig falten | Status: OK
+Damian "A" (26.11.). Fest geplant Sa 28.11. 18:30: Instagram 442804070 (vorher 439947039), TikTok 442804116 (vorher 439947087), Nummer #20 in Caption und Titel, nichts im Video eingebrannt. BLACK15-Zeile "Heute letzter Tag" stimmt am Samstag; bei Verschiebung auf Sonntag muss sie raus. Nächste freie Nummer #21. Querclip-Entwürfe 441354977 und 441354999 tragen auch "#20", bleiben Entwurf.
 Bearbeitet vom Manager: ja (26.11.)

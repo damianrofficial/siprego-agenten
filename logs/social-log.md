@@ -898,3 +898,13 @@ Tage ohne Post bis So 29.11.: Do 26.11., Fr 27.11., So 29.11. (Sa nur Story fest
 - So 29.11.: nur ein Hochkant-Clip von Damian oder der Teig-falten-Entwurf ohne Code-Zeile, falls die Freigabe erst nach Samstag kommt. Sonst entfällt der Tag.
 - Do 26.11.: kein Post (kein Clip, Lehre aus KW47: keine Lückenfüller).
 - Nicht vorgeschlagen: 6185 Salami im Karton (stark komprimiert), 6186 und 6187 (gesperrt bis 28.12.), 6373 (lief gestern), Querclips 6365 und 6372, 6136 und 6188 (privat).
+
+### Änderung Do 26.11.2026 ca. 09:40 (Modus AENDERUNG, Damian "A": Reel Teig falten Sa 28.11. 18:30 freigegeben)
+
+- Fest geplant (draft false, autoPublish true, PENDING, per getScheduledPosts um 09:41 zurückgelesen), Termin Sa 28.11. 18:30 unverändert: Instagram Reel neue ID 442804070 (vorher 439947039, uuid -306128028997761504), TikTok neue ID 442804116 (vorher 439947087, uuid -6523827822822275363). Medium unverändert: Posting-Version ID 6367 (https://siprego.de/wp-content/uploads/2026/11/siprego-ungeschnitten-21-teig-2026-11-28-reel.mp4, aus IMG_0284.mov, ID 6322, 17,2 s, zurückgespiegelt). Der Dateiname enthält noch "21", er ist auf Instagram und TikTok nicht sichtbar.
+- Nummer von #21 auf #20 geändert: Instagram-Caption Zeile 1 "Ungeschnitten #20 🤌", TikTok-Caption "Ungeschnitten #20. ...", TikTok-Titel "Ungeschnitten #20". Im Video ist keine Nummer und kein Text eingebrannt (Kontaktbogen über die volle Länge angesehen), kein neues Video gebaut.
+- Nummern-Prüfung: Metricool Analytics Instagram-Reels 22.11. bis 26.11. (Abruf 09:39) zeigt als letztes Reel nur #19 vom So 22.11. Kein manuelles Reel von Damian, #20 war frei.
+- Caption geprüft, sonst nichts geändert: BLACK15-Zeile "Heute letzter Tag für den Code BLACK15: 15 % auf alles ab 30 €." stimmt am Sa 28.11. (Code laut playbooks/newsletter.md Mi 25.11. bis Sa 28.11., 15 %, ab 30 €); Samstag 17:00 bis 23:00 laut Newsletter-Playbook; keine Nacherzählung des Videos; kein "Napoletana", Hashtag #pizzacontemporanea; keine Gedankenstriche.
+- Nicht angefasst: Story Sa 28.11. 17:15 (439946823, fest, PENDING) und die Entwürfe mit dem Querclip (Instagram 441354977, TikTok 441354999, draft true). Hinweis: Diese beiden Entwürfe tragen im Text ebenfalls "Ungeschnitten #20" und stehen mit Termin Mi 25.11. 18:00 in der Vergangenheit; sie dürfen nicht freigeschaltet werden.
+- Clip ID 6322 gesperrt bis 09.01.2027. Nächste freie Ungeschnitten-Nummer: #21 (vorher in Metricool Analytics prüfen). Playbook ergänzt.
+- Achtung: Wird das Reel auf So 29.11. oder später verschoben, muss die BLACK15-Zeile raus.
