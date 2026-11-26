@@ -109,3 +109,10 @@ Offene Punkte für den Manager:
 - Veganer Käse "4 € pro Person": Die Landingpage sagt nicht, ob je veganem Gast oder je Gast der ganzen Feier. Der Beitrag zitiert die Seite wörtlich.
 - Die Reichweite der Karussells sinkt seit dem 16.11. von 992 auf 187.
 - Bild gesucht: Pasta im Parmesanlaib und Cannoli hochauflösend im Hochformat.
+
+### 2026-11-26 10:36 | AENDERUNG (Freigabe, feste Einplanung der vier Karussells KW49) | Status: OK
+
+- Damian über Manager: "Ja" auf die Freigabe-Frage (A = alle vier fest einplanen). Alle vier Beiträge fest eingeplant (draft false, autoPublish true), Marke 7408163, Instagram und Facebook, Text, Medien, Alt-Texte und Termine unverändert.
+- Neue Metricool-IDs (uuid unverändert): Pizzen 442856987 (Mo 30.11.2026 19:00, 7 Slides), Pasta im Parmesanlaib 442857113 (Mi 02.12. 19:00, 6 Slides), vegan und glutenfrei 442857185 (Fr 04.12. 19:00, 5 Slides), Cannoli Concierge 442857297 (So 06.12. 19:00, 6 Slides).
+- Zurückgelesen: alle vier draft false, beide Kanäle PENDING, Zeiten und Zahl der Slides stimmen. In 7383922 nichts geändert.
+- Weiter offen: veganer Käse "4 € pro Person" (Wortlaut der Landingpage, Beitrag vom 04.12. zitiert ihn wörtlich).

@@ -16,7 +16,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 - [beantwortet 24.11. "A", umgesetzt] Social | BLACK15 auch auf Instagram und TikTok nennen (Story Mi und Sa, eine Zeile in #20 und #21)? | Frist Di 24.11. 18:00 | A ja ... B nur in der Mail | Ohne Antwort: kein Post zum Code
 - [entschieden vom Manager 26.11.: keine Erinnerungsmail (schon 2 Mails diese Woche, Abmeldungen 1,04 % Aktiv); Damian im Bericht genannt] Newsletter | Erinnerungsmail Sa 28.11. "letzter Tag BLACK15"? | Frist Fr 27.11. 12:00 | Ohne Antwort: keine
 - [beantwortet 26.11. "A", fest geplant Sa 28.11. 18:30: Instagram 442804070, TikTok 442804116, Ungeschnitten #20] Social | Reel Teig falten Sa 28.11. 18:30 (Instagram 439947039, TikTok 439947087) freigeben, Nummer wird #20 | Frist Fr 27.11. 18:00 | A freigeben ... B nicht posten | Ohne Antwort: bleibt Entwurf
-- [offen, als Nächstes] Social Catering | Vier Karussell-Entwürfe je 19:00: Mo 30.11. Pizzen (442757032), Mi 02.12. Pasta im Parmesanlaib (442757183), Fr 04.12. vegan und glutenfrei (442757262), So 06.12. Cannoli Concierge (442757377) | Frist Mo 30.11. 12:00 | passt (alle) oder Nummern | Ohne Antwort: bleiben Entwürfe
+- [beantwortet 26.11. "Ja" = alle vier, fest geplant: 442856987, 442857113, 442857185, 442857297] Social Catering | Vier Karussell-Entwürfe je 19:00: Mo 30.11. Pizzen (442757032), Mi 02.12. Pasta im Parmesanlaib (442757183), Fr 04.12. vegan und glutenfrei (442757262), So 06.12. Cannoli Concierge (442757377) | Frist Mo 30.11. 12:00 | passt (alle) oder Nummern | Ohne Antwort: bleiben Entwürfe
 - [offen, niedrig] Social Catering | Veganer Käse "4 € pro Person": je veganem Gast oder je Gast der Feier? A je veganem Gast ... B Wortlaut Landingpage | Ohne Antwort: Wortlaut Landingpage
 - [offen] Shop | Wild West im Shop: Allergen Milch und Mozzarella in der Beschreibung fehlen (nur Damian in orderu)
 - [offen] Newsletter | Nikolaus-Gutschein für Hauptmail Mi 02.12.? | Frist Mo 30.11. 18:00 | Ohne Antwort: Mail ohne Angebot
@@ -565,4 +565,8 @@ Bearbeitet vom Manager: ja (26.11.)
 
 ### 2026-11-26 09:42 | Social-Media-Agent | AENDERUNG Ungeschnitten #20 Teig falten | Status: OK
 Damian "A" (26.11.). Fest geplant Sa 28.11. 18:30: Instagram 442804070 (vorher 439947039), TikTok 442804116 (vorher 439947087), Nummer #20 in Caption und Titel, nichts im Video eingebrannt. BLACK15-Zeile "Heute letzter Tag" stimmt am Samstag; bei Verschiebung auf Sonntag muss sie raus. Nächste freie Nummer #21. Querclip-Entwürfe 441354977 und 441354999 tragen auch "#20", bleiben Entwurf.
+Bearbeitet vom Manager: ja (26.11.)
+
+### 2026-11-26 10:36 | Social-Catering-Agent | AENDERUNG | Status: OK
+Damian "Ja" (26.11.). Vier Karussells fest geplant (draft false, PENDING), je 19:00, Instagram und Facebook: Mo 30.11. Pizzen 442856987 (7 Slides), Mi 02.12. Pasta 442857113 (6), Fr 04.12. vegan und glutenfrei 442857185 (5, Wortlaut "4 € pro Person" unverändert), So 06.12. Cannoli Concierge 442857297 (6). Übrige Beiträge unberührt.
 Bearbeitet vom Manager: ja (26.11.)
