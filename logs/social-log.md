@@ -862,3 +862,39 @@ TikTok-Nachzug, Stand Sa 21.11.2026 (Zeitraum 07.11. bis 21.11.):
 - Caption: Damians Worte (wieder da, nach langer Zeit, Special bis 23.12.), Zutatenliste, ab 15,90 €, Shop und Link in der Bio, BLACK15-Zeile, Mittwoch offen 11 bis 22 Uhr, Kontakt, 8 Hashtags.
 - Kollision: keine. Heute sonst nur die BLACK15-Story 11:30 (veröffentlicht bzw. fällig) und die #20-Entwürfe mit dem Querclip um 18:00 (441354977, 441354999, draft true, nicht angefasst). #21-Entwürfe nicht angefasst.
 - Bild 6373 gesperrt bis 06.01.2027, außer für Wild West. Quadrat 1080x1080 für Ads nicht gebaut (nicht beauftragt).
+
+### Änderung Do 26.11.2026 ca. 08:40 (Modus AENDERUNG, Donnerstags-Routine des Managers: TikTok-Nachzug, Kontrolle Mittwoch, Vorschau; nur gelesen, nichts angelegt oder geändert)
+
+TikTok-Nachzug, Stand Do 26.11.2026 08:35 (Zeitraum 12.11. bis 26.11., Metricool Analytics IG reels und TikTok posts, Planer):
+
+- 10 Instagram-Reels im Zeitraum (#13 Do 12.11., #14 und #15 Sa 14.11., zwei Reels So 15.11., #16 Di 17.11., Inferno Mi 18.11., #17 Do 19.11., #18 Sa 21.11., #19 So 22.11.). Alle stammen vom Agenten, alle 10 stehen mit gleichem Tag und gleicher Nummer auf TikTok. Kein manuelles Reel von Damian. Nichts nachgezogen.
+- Seit So 22.11. 17:40 (#19) kein neues Reel, weder vom Agenten noch manuell. Ungeschnitten #12 vom Mi 11.11. (Datei fehlte) ist aus dem Fenster gefallen und abgeschlossen.
+- Mediathek: kein Upload nach ID 6375. Letztes Video ist 6372 (Querclip, verworfen).
+
+Kontrolle Mi 25.11. (Planer, Status PUBLISHED):
+
+- Story BLACK15 11:30 (439946786): veröffentlicht.
+- Wild-West-Feed 18:30 (441949373): veröffentlicht, https://www.instagram.com/p/DgLEzGBit2D/. Erste Zahlen Do 08:35 (rund 14 Stunden): Reichweite 115, Aufrufe 191, Interaktionen 0 (Likes, Kommentare, Speichern, Teilen je 0 laut Metricool, kann nachlaufen).
+- Wild-West-Story 18:35 (441949461): veröffentlicht.
+- Zum Vergleich Stellenpost Di 24.11. (439877206): Reichweite 198, Aufrufe 343, Interaktionen 0.
+
+Planer Do 26.11. bis So 06.12. (Marke 7383922):
+
+| ID | Tag | Uhrzeit | Kanal | Format | draft |
+| --- | --- | --- | --- | --- | --- |
+| 439946823 | Sa 28.11. | 17:15 | Instagram | Story BLACK15 letzter Tag | nein, fest |
+| 439947039 | Sa 28.11. | 18:30 | Instagram | Reel Ungeschnitten #21 Teig falten | ja |
+| 439947087 | Sa 28.11. | 18:30 | TikTok | Video Ungeschnitten #21 Teig falten | ja |
+
+- Dazu liegen die überfälligen Entwürfe #20 Querclip (Instagram 441354977, TikTok 441354999, Mi 25.11. 18:00, draft true). Nicht angefasst, gehen nicht raus.
+- Ab Mo 30.11. ist nichts geplant (Wochenplan-Lauf Mo 30.11.).
+- Merker: Der Samstag-Entwurf trägt "#21", die letzte veröffentlichte Nummer ist #19. Bei Freigabe auf #20 ändern (Instagram und TikTok).
+
+Shop Do 26.11. 08:40 (siprego.orderu.shop/store/pfersee/menu, Seitendaten): "Wild West" aktiv, 15,90 / 17,90 / 28,90 €. "Inferno" steht in den Seitendaten wieder als Produkt mit state active, Label "new", 16,90 / 18,90 / 31,90 €. Das widerspricht dem Stand des Managers (Inferno nicht im Shop). Vor jedem Inferno-Post vom Manager oder Check-Agenten bestätigen lassen.
+
+Tage ohne Post bis So 29.11.: Do 26.11., Fr 27.11., So 29.11. (Sa nur Story fest, Reel wartet auf Damian). Vorschläge an den Manager, nichts angelegt:
+
+- Fr 27.11. abends: Foto 6324 (Inferno auf dem Holzbrett vor der Fassade, noch nie gepostet), nur wenn die Inferno bestätigt im Shop steht; mit BLACK15-Zeile. Vorher Kennzeichen des geparkten Autos im Zuschnitt prüfen.
+- So 29.11.: nur ein Hochkant-Clip von Damian oder der Teig-falten-Entwurf ohne Code-Zeile, falls die Freigabe erst nach Samstag kommt. Sonst entfällt der Tag.
+- Do 26.11.: kein Post (kein Clip, Lehre aus KW47: keine Lückenfüller).
+- Nicht vorgeschlagen: 6185 Salami im Karton (stark komprimiert), 6186 und 6187 (gesperrt bis 28.12.), 6373 (lief gestern), Querclips 6365 und 6372, 6136 und 6188 (privat).
