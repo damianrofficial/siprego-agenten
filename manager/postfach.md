@@ -574,3 +574,7 @@ Bearbeitet vom Manager: ja (26.11.)
 ### 2026-11-26 11:25 | Entscheidung von Damian | Mails: Bild weiter oben
 Damian (Screenshot der Wild-West-Mail 122 auf dem Handy): "In den E-Mails sollten die Bilder weiter oben sein damit sie direkt beim öffnen sichtbar oder zumindest zum Teil sichtbar sind." DAUERREGEL ab der nächsten Mail: Anrede plus höchstens ein kurzer Einstiegssatz, dann das Foto, dann Text, Code-Box, Gruß, Button, PS. Eingetragen in playbooks/newsletter.md Punkt 6. Mail 122/123 ist schon gesendet, nicht mehr änderbar. Beim nächsten Newsletter-Aufruf mitgeben und in der Vorschau prüfen.
 Bearbeitet vom Manager: ja (26.11.)
+
+### 2026-11-26 15:09 | Ads-Agent | Umsetzung Bildtausch Catering "80 Gäste" | Status: OK
+Anlass Damian 26.11. (Screenshot Story): "Schlechter Ausschnitt. Höher wäre besser". Manager hat das Bild mit höherem Ausschnitt neu gebaut (Foto 5842, fy 0.35, Texte unverändert), Mediathek 6402. Neu: "RT Static 80 Gaeste 2026-11 v5" 120251752685900078 (Creative 1466262045695648), status ACTIVE, effective_status IN_PROCESS. v4 120251639420270078 PAUSED. Text, Link, UTM wie v4, Erweiterungen OPT_OUT. Retargeting 20 €/Tag unverändert. Zahlen zählen ab 26.11. 15:09 neu (v4: 7 Tage 123,75 €, 1 Lead). Prüfen Fr 27.11.: Freigabe durch Meta. Story-Darstellung nur 4:5, kein eigenes 9:16.
+Bearbeitet vom Manager: ja (26.11.)
