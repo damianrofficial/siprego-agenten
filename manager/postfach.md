@@ -570,3 +570,7 @@ Bearbeitet vom Manager: ja (26.11.)
 ### 2026-11-26 10:36 | Social-Catering-Agent | AENDERUNG | Status: OK
 Damian "Ja" (26.11.). Vier Karussells fest geplant (draft false, PENDING), je 19:00, Instagram und Facebook: Mo 30.11. Pizzen 442856987 (7 Slides), Mi 02.12. Pasta 442857113 (6), Fr 04.12. vegan und glutenfrei 442857185 (5, Wortlaut "4 € pro Person" unverändert), So 06.12. Cannoli Concierge 442857297 (6). Übrige Beiträge unberührt.
 Bearbeitet vom Manager: ja (26.11.)
+
+### 2026-11-26 11:25 | Entscheidung von Damian | Mails: Bild weiter oben
+Damian (Screenshot der Wild-West-Mail 122 auf dem Handy): "In den E-Mails sollten die Bilder weiter oben sein damit sie direkt beim öffnen sichtbar oder zumindest zum Teil sichtbar sind." DAUERREGEL ab der nächsten Mail: Anrede plus höchstens ein kurzer Einstiegssatz, dann das Foto, dann Text, Code-Box, Gruß, Button, PS. Eingetragen in playbooks/newsletter.md Punkt 6. Mail 122/123 ist schon gesendet, nicht mehr änderbar. Beim nächsten Newsletter-Aufruf mitgeben und in der Vorschau prüfen.
+Bearbeitet vom Manager: ja (26.11.)
