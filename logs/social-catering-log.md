@@ -93,3 +93,19 @@ Offene Punkte für den Manager:
 - Neue Metricool-IDs (uuid unverändert): Bewertungen 433884475 (So 22.11.2026 19:00), Vor Ort 433884611 (Mo 23.11. 19:00), Reel 433884674 (Mi 25.11. 19:00), Sparen 433884796 (Fr 27.11. 19:00), Eventtag 433884899 (So 29.11. 19:00).
 - Zurückgelesen: alle fünf draft false, beide Kanäle PENDING, Zeiten stimmen.
 
+### 2026-11-26 08:50 | WOCHENPLAN (KW49, Mo 30.11. bis So 06.12.) | Status: OK
+
+- Stand in Metricool (12.11. bis 10.12.2026, Marke 7408163): Reel Buffet vom 25.11. ist veröffentlicht (Instagram https://www.instagram.com/reel/DgLIvjnqjfO/, Facebook https://facebook.com/reel/29156140200675718). Bewertungen 22.11. und Vor Ort 23.11. veröffentlicht. Sparen 27.11., Eventtag 29.11. und Firmen 07.12. PENDING. 30.11. bis 06.12. war leer.
+- Beste Zeit laut Metricool (Instagram, 30.11. bis 06.12.): an allen Tagen 19 bis 20 Uhr vorn, deshalb alle Entwürfe 19:00.
+- Landingpage frisch gelesen (curl): 22 Pizzen (8 "Besonders beliebt", 14 Klassiker), Pasta, Cannoli, vegan und glutenfrei unverändert zum Playbook. Neu gelesen: "Änderungen sind bis eine Woche vor dem Event möglich", glutenfreier Teig "ohne Mehlkontakt".
+- Vier Entwürfe (draft true, autoPublish true, Instagram und Facebook), aus der Antwort von Metricool zurückgelesen: 442757032 (Mo 30.11., Pizzen, 7 Slides), 442757183 (Mi 02.12., Pasta im Parmesanlaib, 6 Slides), 442757262 (Fr 04.12., vegan und glutenfrei, 5 Slides), 442757377 (So 06.12., Cannoli Concierge, 6 Slides). In 7383922 nichts angelegt.
+- Mediathek: 6376 bis 6399 (24 Slides). Jede Slide vor dem Hochladen angesehen.
+- Vorlage scripts/catering_karussell.js erweitert: dishes, vier neue Beiträge (pizzen, pasta, veganglutenfrei, cannoli).
+- Bildwahl: Standbilder der Pasta-Szene aus Video 6313 verworfen (weich), dafür Foto 5849 im Kasten (1,13-fach vergrößert). 5272 nicht genommen (Zitronen und Blätter wirken wie Deko). 5020 nur als Ausschnitt ohne Girlande.
+- Erste Zahlen Instagram (organisch): Pakete 16.11. Reichweite 992, 17 gespeichert, 15 geteilt; Gästezahl 18.11. 595, 6 gespeichert; Verkostung 20.11. 244; Bewertungen 22.11. 209; Vor Ort 23.11. 187; Reel 16.11. 605; Reel 25.11. 307 nach rund 13 Stunden.
+- Nicht gebaut (offen bei Damian): Vorlaufzeiten, Firmen-Themen (Anrede, Profil-Link), Mindestanzahl mit Rundung, Team-Fotos mit Gesichtern.
+
+Offene Punkte für den Manager:
+- Veganer Käse "4 € pro Person": Die Landingpage sagt nicht, ob je veganem Gast oder je Gast der ganzen Feier. Der Beitrag zitiert die Seite wörtlich.
+- Die Reichweite der Karussells sinkt seit dem 16.11. von 992 auf 187.
+- Bild gesucht: Pasta im Parmesanlaib und Cannoli hochauflösend im Hochformat.

@@ -317,8 +317,77 @@ const p9 = [
   ctaStd,
 ];
 
-const posts = { 'pakete': p1, 'gaestezahl': p2, 'verkostung': p3, 'firmen': p4, 'bewertung': p6, 'vorort': p7, 'sparen': p8, 'eventtag': p9 };
-const monat = { firmen: '2026-12' };
+// ---------- Lauf 26.11.2026 (KW49): Pizzen, Pasta im Parmesanlaib, vegan und glutenfrei, Cannoli Concierge ----------
+const dish = (n, d) => `<div style="padding:32px 0;border-top:1px solid #DCD8CF"><div class="h" style="font-size:60px;color:#42301C">${n}</div><div class="muted" style="font-size:31px;line-height:1.35;margin-top:12px">${d}</div></div>`;
+const dishes = ({ eyebrow, h, items }) => `
+<div class="pad">
+  <div class="eyebrow">${eyebrow}</div>
+  <div class="h" style="font-size:84px;margin-top:40px">${h}</div>
+  <div style="margin-top:48px;border-bottom:1px solid #DCD8CF">${items.map(i => dish(i[0], i[1])).join('')}</div>
+</div>`;
+const p10 = [
+  { html: cover({ img: 'img/5020-pizza.jpg', pos: '60% 50%', photoH: 690, size: 80, eyebrow: 'Eure Pizza-Auswahl', h: 'Welche Pizzen gibt es bei eurem <em>Catering</em>?', lead: '22 Kreationen, ihr wählt 5.' }) },
+  { html: figure({ eyebrow: 'So funktioniert es', fig: '5 aus 22', figSize: 200, h: 'Eure Favoriten, live aus dem Steinofen', lead: 'Ihr wählt 5 Pizzen aus aktuell 22 Kreationen. Änderungen sind bis eine Woche vor dem Event möglich.' }) },
+  { html: dishes({ eyebrow: 'Besonders beliebt · 1 von 2', h: 'Unsere <em>Lieblinge</em>', items: [['Bufala', 'Büffelmozzarella, frisches Basilikum'], ['Parma', 'Luftgetrockneter Schinken, Rucola, Parmesan, Cherrytomaten'], ['Mortabella', 'Mozzarella, Mortadella, Büffelmozzarella, Basilikumpesto und Pistazien'], ['Diavolo', 'Scharfe Salsiccia, Cherrytomaten']] }) },
+  { html: dishes({ eyebrow: 'Besonders beliebt · 2 von 2', h: 'Unsere <em>Lieblinge</em>', items: [['Paradiso', 'Salami, Hinterschinken, Champignons, Peperoni'], ['Pescatora', 'Meeresfrüchte, Knoblauch'], ['Capri', 'Zucchini, Auberginen, Salsiccia, Fetakäse'], ['Pepe Spinaci', 'Mozzarella, frischer Spinat, Edamer Käse, schwarzer Pfeffer']] }) },
+  { html: `
+<div class="pad">
+  <div class="eyebrow">Dazu 14 Klassiker</div>
+  <div class="h" style="font-size:84px;margin-top:40px">Von Margherita<br>bis <em>Tonno</em></div>
+  <div style="margin-top:52px;display:grid;grid-template-columns:1fr 1fr;column-gap:56px">
+    ${['Margherita', 'Marinara', 'Salami', 'Prosciutto', 'Funghi', 'Sofia', 'Pompei', 'Quattro Stagioni', 'Tonno', 'Zola', 'Cinque Formaggi', 'Vegetaria', 'Amalfi', 'Sucuk Supreme'].map(n => `<div class="h" style="font-size:46px;line-height:1;color:#42301C;padding:27px 0;border-top:1px solid #DCD8CF;white-space:nowrap">${n}</div>`).join('')}
+  </div>
+</div>` },
+  { html: statement({ eyebrow: 'Sonderwünsche', size: 96, h: 'Wünsche erfüllen wir direkt am <em>Ofen</em>', lead: 'Zutaten weglassen oder eigene Kombinationen: Wünsche eurer Gäste erfüllen wir gern direkt am Ofen.' }) },
+  ctaStd,
+];
+const p11 = [
+  { html: coverInset({ img: 'img/5849.jpg', pos: '50% 32%', photoH: 640, size: 76, eyebrow: 'Live-Station', h: 'Kennt ihr schon unsere Pasta aus dem <em>Parmesanlaib</em>?', lead: 'Frisch geschwenkt, vor den Augen eurer Gäste.' }) },
+  { html: statement({ eyebrow: 'Das Highlight', size: 92, h: 'Frische Pasta, live geschwenkt im <em>Parmesanlaib</em>', lead: 'An unserer Live-Station schwenken wir frische Pasta vor den Augen eurer Gäste im ausgehöhlten Parmesanlaib.' }) },
+  { html: statement({ eyebrow: 'Sorte 1 von 2', h: 'Fettuccine al <em>Tartufo</em>', lead: 'Frische Pasta, im Parmesanlaib geschwenkt, verfeinert mit schwarzem Trüffel, Butter und Parmigiano Reggiano.' }) },
+  { html: statement({ eyebrow: 'Sorte 2 von 2', h: 'Pasta al <em>Limone</em>', lead: 'Frische Pasta, im Parmesanlaib geschwenkt, verfeinert mit Zitronenzeste und Basilikum, Butter und Parmigiano Reggiano.' }) },
+  { html: `
+<div class="pad">
+  <div class="eyebrow">Gut zu wissen</div>
+  <div class="h" style="font-size:84px;margin-top:40px">Beide Sorten sind <em>inklusive</em></div>
+  <div style="margin-top:52px;border-bottom:1px solid #DCD8CF">
+    ${fact('Paket', 'Antipasti, Pizza &amp; Pasta: 95&nbsp;€ pro Person')}
+    ${fact('Mit Dessert', 'Antipasti, Pizza, Pasta &amp; Dessert: 115&nbsp;€ pro Person')}
+    ${fact('Geschirr', 'Bambus-Pastateller und Schälchen inklusive')}
+    ${fact('Platz', 'Zusätzlich ca. 2&nbsp;×&nbsp;2&nbsp;m für die Pasta-Station')}
+  </div>
+  <div class="muted" style="font-size:28px;line-height:1.45;margin-top:36px">Preise pro Person inkl. MwSt.</div>
+</div>` },
+  ctaStd,
+];
+const p12 = [
+  { html: coverType({ eyebrow: 'Gut zu wissen', size: 108, h: 'Was ist mit veganen und glutenfreien <em>Gästen</em>?', lead: 'Kurz erklärt, was bei uns möglich ist.' }) },
+  { html: statement({ eyebrow: 'Glutenfrei', h: 'Glutenfreier Teig, <em>ohne</em> Aufpreis', lead: 'Gebacken auf einem separaten Blech, ohne Mehlkontakt.' }) },
+  { html: statement({ eyebrow: 'Vegan', h: 'Veganer Käse für eure <em>Pizza</em>', lead: 'Für 4&nbsp;€ pro Person.' }) },
+  { html: statement({ eyebrow: 'Vegetarisch', size: 96, h: 'Antipasti auf Wunsch komplett <em>vegetarisch</em>', lead: 'Unser Antipasti-Buffet mit sieben Variationen gibt es klassisch oder komplett vegetarisch.' }) },
+  ctaStd,
+];
+const p13 = [
+  { html: coverInset({ img: 'img/5271.jpg', pos: '50% 38%', photoH: 640, size: 78, eyebrow: 'Dessert', h: 'Kennt ihr schon unseren Cannoli <em>Concierge</em>?', lead: 'Dessert, live gefüllt, mitten unter euren Gästen.' }) },
+  { html: statement({ eyebrow: 'Die Idee', size: 96, h: 'Das Dessert kommt zu euren <em>Gästen</em>', lead: 'Mit seiner mobilen Station mischt sich unser Cannoli Concierge direkt unter eure Gesellschaft. Ein persönlicher Genussmoment statt Dessertbuffet.' }) },
+  { html: statement({ eyebrow: 'Frisch gefüllt', size: 92, h: 'Jedes Cannolo entsteht vor den Augen eurer <em>Gäste</em>', lead: 'Knusprig, cremig, authentisch.' }) },
+  { html: step({ nr: '3', eyebrow: 'Eure Wahl', h: 'Füllungen', lead: 'Pistazie, Schokolade oder kandierte Früchte.<br>Ihr wählt eure Favoriten.' }) },
+  { html: `
+<div class="pad">
+  <div class="eyebrow">Gut zu wissen</div>
+  <div class="h" style="font-size:84px;margin-top:40px">So kommt der Cannoli Concierge zu <em>euch</em></div>
+  <div style="margin-top:52px;border-bottom:1px solid #DCD8CF">
+    ${fact('Paket', 'Antipasti, Pizza, Pasta &amp; Dessert: 115&nbsp;€ pro Person')}
+    ${fact('Dessert', 'Nach Wahl: Cannoli Concierge oder Tiramisu und Panna Cotta im Glas')}
+    ${fact('Gäste', 'Für jede Gruppengröße, bis 500+ Personen')}
+  </div>
+  <div class="muted" style="font-size:28px;line-height:1.45;margin-top:36px">Preis pro Person inkl. MwSt.</div>
+</div>` },
+  ctaStd,
+];
+
+const posts = { 'pakete': p1, 'gaestezahl': p2, 'verkostung': p3, 'firmen': p4, 'bewertung': p6, 'vorort': p7, 'sparen': p8, 'eventtag': p9, 'pizzen': p10, 'pasta': p11, 'veganglutenfrei': p12, 'cannoli': p13 };
+const monat = { firmen: '2026-12', pizzen: '2026-12', pasta: '2026-12', veganglutenfrei: '2026-12', cannoli: '2026-12' };
 (async () => {
   const only = process.argv[2];
   const b = await chromium.launch();
