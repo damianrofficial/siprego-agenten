@@ -578,3 +578,7 @@ Bearbeitet vom Manager: ja (26.11.)
 ### 2026-11-26 15:09 | Ads-Agent | Umsetzung Bildtausch Catering "80 Gäste" | Status: OK
 Anlass Damian 26.11. (Screenshot Story): "Schlechter Ausschnitt. Höher wäre besser". Manager hat das Bild mit höherem Ausschnitt neu gebaut (Foto 5842, fy 0.35, Texte unverändert), Mediathek 6402. Neu: "RT Static 80 Gaeste 2026-11 v5" 120251752685900078 (Creative 1466262045695648), status ACTIVE, effective_status IN_PROCESS. v4 120251639420270078 PAUSED. Text, Link, UTM wie v4, Erweiterungen OPT_OUT. Retargeting 20 €/Tag unverändert. Zahlen zählen ab 26.11. 15:09 neu (v4: 7 Tage 123,75 €, 1 Lead). Prüfen Fr 27.11.: Freigabe durch Meta. Story-Darstellung nur 4:5, kein eigenes 9:16.
 Bearbeitet vom Manager: ja (26.11.)
+
+### 2026-11-26 15:50 | Social-Media-Agent | Zwei Ungeschnitten-Clips heute | Status: OK
+Auftrag Damian 26.11.: "Zwei neue Ungeschnitten Videos hochgeladen. Gerne heute noch posten". Beide hochkant, nicht gespiegelt. Fest geplant: #20 Do 17:30 (Pizzaiolo belegt Böden, 46,8 s, Mediathek 6403; Instagram 443233059, TikTok 443233148), #21 Do 19:30 (Pizza in den Ofen, Daumen hoch, 26,1 s, 6404; Instagram 443233232, TikTok 443233314). Captions mit BLACK15 bis Samstag, ohne Nacherzählung. Samstag Teig falten jetzt #22 (Instagram 443233379, TikTok 443233460). Nächste freie Nummer #23. Hinweis: in 6400 zeitweise eine Person klein und unscharf hinter der Theke (vermutlich Team).
+Bearbeitet vom Manager: ja (26.11.)

@@ -908,3 +908,19 @@ Tage ohne Post bis So 29.11.: Do 26.11., Fr 27.11., So 29.11. (Sa nur Story fest
 - Nicht angefasst: Story Sa 28.11. 17:15 (439946823, fest, PENDING) und die Entwürfe mit dem Querclip (Instagram 441354977, TikTok 441354999, draft true). Hinweis: Diese beiden Entwürfe tragen im Text ebenfalls "Ungeschnitten #20" und stehen mit Termin Mi 25.11. 18:00 in der Vergangenheit; sie dürfen nicht freigeschaltet werden.
 - Clip ID 6322 gesperrt bis 09.01.2027. Nächste freie Ungeschnitten-Nummer: #21 (vorher in Metricool Analytics prüfen). Playbook ergänzt.
 - Achtung: Wird das Reel auf So 29.11. oder später verschoben, muss die BLACK15-Zeile raus.
+
+### Änderung Do 26.11.2026 ca. 15:50 (Modus AENDERUNG, Damian: "Zwei neue Ungeschnitten Videos hochgeladen. Gerne heute noch posten")
+
+- Neue Clips in der Mediathek (Upload Do 26.11. 13:27 und 13:28, nach 6372 die ersten Videos): ID 6400 IMG_0424.mov (46,8 s, 3840x2160 mit rotation -90, also hochkant 2160x3840, 268 MB, Ton vorhanden) und ID 6401 IMG_0425.mov (26,1 s, gleiches Format, 149 MB, Ton vorhanden). Beide über die volle Länge als Kontaktbogen angesehen.
+- Ausrichtung: beide HOCHKANT, werden gepostet. Nicht gespiegelt (Coca-Cola, Siprego-Leuchtschrift und "Bestellen" seitenrichtig lesbar), kein Zurückspiegeln nötig.
+- Inhalt 6400: Pizzaiolo mit roter Schürze an der Pizzastation, Tomatensoße auf viele Böden, dann Käse und Belag. Inhalt 6401: Pizza auf die Schaufel, in den Ofen, nächste Pizza, Schluss mit Daumen hoch in die Kamera. Keine Wild West erkennbar, deshalb nicht erwähnt. Keine Gäste im Vordergrund; in 6400 hinter der Glastheke an der Bar zeitweise eine Person klein und unscharf (vermutlich Team), dem Manager gemeldet.
+- Posting-Versionen (ganzer Clip, kein Schnitt, 1080x1920, H.264, 30 fps, crf 19, Originalton unverändert, keine Musik, kein Text): ID 6403 https://siprego.de/wp-content/uploads/2026/11/siprego-ungeschnitten-20-belegen-2026-11-26-reel.mp4 (46,8 s, 71 MB) und ID 6404 https://siprego.de/wp-content/uploads/2026/11/siprego-ungeschnitten-21-ofen-2026-11-26-reel.mp4 (26,1 s, 41 MB). Vorschau beider Dateien angesehen.
+- Nummern-Prüfung: Metricool Analytics Instagram-Reels 22.11. bis 26.11. (Abruf 15:46) zeigt als letztes Reel nur #19. #20 und #21 frei.
+- Beste Zeiten Instagram Do laut Metricool: 18 Uhr 5078, 17 Uhr 4697, 19 Uhr 4124, 20 Uhr 3156. Gewählt 17:30 und 19:30 (2 Stunden Abstand, 19 Uhr besser als 20 Uhr).
+- Fest geplant (draft false, autoPublish true, PENDING, um 15:48 per getScheduledPosts zurückgelesen):
+  - Ungeschnitten #20, Do 26.11. 17:30: Instagram Reel 443233059 (uuid 7106724852596819615), TikTok 443233148 (uuid -970934569760503171), Datei 6403.
+  - Ungeschnitten #21, Do 26.11. 19:30: Instagram Reel 443233232 (uuid -8133421141938453990), TikTok 443233314 (uuid 3608192240861856948), Datei 6404.
+- Samstag-Reel Teig falten Sa 28.11. 18:30 von #20 auf #22 umgestellt (nur Nummer in Caption und TikTok-Titel, sonst nichts): Instagram neue ID 443233379 (vorher 442804070), TikTok neue ID 443233460 (vorher 442804116), beide draft false, PENDING.
+- Captions: fester Satz, Öffnungszeit heute bis 22 Uhr, Bestellhinweis, BLACK15 (15 % auf alles ab 30 €, bis Samstag), Kontakt, 6 Hashtags mit #pizzacontemporanea. Keine Nacherzählung, kein "Napoletana", keine Gedankenstriche.
+- Nicht angefasst: Querclip-Entwürfe 441354977 und 441354999, Story Sa 28.11. 17:15 (439946823).
+- Gesperrt bis 07.01.2027: IMG_0424.mov (6400) und IMG_0425.mov (6401). Nächste freie Ungeschnitten-Nummer: #23.
