@@ -13,8 +13,9 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 ## Eingänge" an. Der Manager-Berichts-Lauf (Mo bis Sa 09:45) fasst zusammen und pflegt die Warteschlange, der Manager-Fragen-Lauf (Mo bis Sa 10:15) stellt Damian die Fragen einzeln und trägt seine Antworten unter "## Entscheidungen von Damian" ein. Damian trägt hier nichts selbst ein; Notizen an die Agenten gehören in die Playbooks. Angelegt 04.11.2026.
 
 ## Offene Fragen an Damian
-- [gestellt am 27.11. 15:05] Social | Ungeschnitten #23 (Teig portionieren, Clip 6405 zurückgespiegelt) Fr 27.11. 18:30 freigeben (Instagram 444408871, TikTok 444408928) | Frist Fr 27.11. 18:00 | A freigeben ... B nicht posten | Ohne Antwort: bleibt Entwurf
+- [beantwortet 27.11. "Ja", fest Fr 18:30: Instagram 444593619, TikTok 444593675] Social | Ungeschnitten #23 (Teig portionieren, Clip 6405 zurückgespiegelt) Fr 27.11. 18:30 freigeben (Instagram 444408871, TikTok 444408928) | Frist Fr 27.11. 18:00 | A freigeben ... B nicht posten | Ohne Antwort: bleibt Entwurf
 - [offen, als Nächstes] Social | Ungeschnitten #24 (Pizza schneiden, Clip 6408) So 29.11. 17:30 (Instagram 444409025, TikTok 444409063): Mann im beigen T-Shirt mit Daumen hoch am Ende, Team oder Gast? | Frist So 29.11. 16:30 | A Team, posten ... B Gast oder unklar, stattdessen Teig-Clip 6406 | Ohne Antwort: bleibt Entwurf
+- [offen, nach #24] Social | Ungeschnitten #25 (Ofen, Pizzen drehen, Clip 6413) Mi 02.12. 18:00 (Instagram 444596452, TikTok 444596571) freigeben | Frist Mi 02.12. 17:00 | Ohne Antwort: bleibt Entwurf. Entfällt #24, wird dieser Clip #24 und ist Sonntags-Ersatz
 - [offen, niedrig] Damian | Mediathek 6409 ist ein privater Screenshot und öffentlich abrufbar: in WordPress löschen (nur Damian)
 - [beantwortet 24.11. "A", umgesetzt] Social | BLACK15 auch auf Instagram und TikTok nennen (Story Mi und Sa, eine Zeile in #20 und #21)? | Frist Di 24.11. 18:00 | A ja ... B nur in der Mail | Ohne Antwort: kein Post zum Code
 - [entschieden vom Manager 26.11.: keine Erinnerungsmail (schon 2 Mails diese Woche, Abmeldungen 1,04 % Aktiv); Damian im Bericht genannt] Newsletter | Erinnerungsmail Sa 28.11. "letzter Tag BLACK15"? | Frist Fr 27.11. 12:00 | Ohne Antwort: keine
@@ -595,4 +596,8 @@ Bearbeitet vom Manager: ja (27.11.)
 
 ### 2026-11-27 14:58 | Social-Media-Agent | Neue Uploads 27.11. | Status: OK
 6 Uploads (6405 bis 6410): 6405 Teig portionieren 35,2 s hochkant, gespiegelt (zurückgespiegelt als 6411, Entwurf #23 Fr 18:30, Instagram 444408871, TikTok 444408928); 6406 Teig Glutenfäden 8,2 s hochkant, frei (Vorschlag Do 03.12.); 6407 Dublette von 6303, nicht verwenden; 6408 Pizza schneiden 22,5 s hochkant, am Ende Mann mit Daumen hoch (Team oder Gast offen), Entwurf #24 So 17:30 (6412, Instagram 444409025, TikTok 444409063, ohne Code); 6409 privater Screenshot, NIE verwenden; 6410 Foto Salami-Pizza im Karton, frei (Vorschlag Fr 04.12., Sortenname prüfen). Motivwünsche: Wild West BBQ im Zickzack hochkant, Pizza auf der Schaufel, Arancini aufbrechen. Übersicht vom Manager angesehen.
+Bearbeitet vom Manager: ja (27.11.)
+
+### 2026-11-27 17:32 | Social-Media-Agent | #23 fest, neues Video 6413 als Entwurf #25 | Status: OK
+#23 fest Fr 27.11. 18:30 (Instagram 444593619, TikTok 444593675), zurückgelesen 17:29. Neues Video 6413 (32,4 s, hochkant, Ofen mit Pizzen, Pizzaiolo dreht mit der Schaufel, zweiter Mitarbeiter am Pass, keine Gäste, keine Wild West), Posting-Version 6414, Entwurf #25 Mi 02.12. 18:00 (Instagram 444596452, TikTok 444596571). Frei danach: 6406, 6410.
 Bearbeitet vom Manager: ja (27.11.)
