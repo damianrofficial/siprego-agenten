@@ -630,3 +630,7 @@ Bearbeitet vom Manager: ja (28.11.)
 ### 2026-11-28 | Entscheidung von Damian | Ungeschnitten #22 archiviert
 (Damian, 28.11.2026: "Das heutige Teig Reel habe ich archiviert. War nicht gut") Ungeschnitten #22 (Teig falten, Clip 6322, zurückgespiegelt, Sa 28.11. 14:00) hat Damian auf Instagram archiviert. Die TikTok-Fassung (7713207534810696982) ist weiter online, nur Damian kann sie in der App entfernen. Clip 6322 und die Posting-Version 6367 NIE wieder verwenden. Nummer #22 bleibt vergeben, keine Neunummerierung; nächste freie Nummer weiter #26. Merker: zurückgespiegelte Teig-Clips vor dem Einplanen besonders kritisch ansehen.
 Bearbeitet vom Manager: ja (28.11.)
+
+### 2026-11-28 17:20 | Social-Media-Agent | Ersatz-Reel nach Archivierung #22 | Status: OK
+Damian: "Poste was anderes jetzt". Ofen-Clip (6414) fest Sa 28.11. 17:30 als Ungeschnitten #24 (Instagram 445580655, TikTok 445580712), Caption heute ab 14:00 bis 23:00, BLACK15 letzter Tag. Sonntag Pizza schneiden jetzt #25 (Instagram 445580773, TikTok 445580819), So 12:00. Mi 02.12. ohne Reel (Wochenplan Mo 30.11., frei 6406). Nächste freie Nummer #26. TikTok #22 weiter online (nur Damian kann löschen).
+Bearbeitet vom Manager: ja (28.11.)

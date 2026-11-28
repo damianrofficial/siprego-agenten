@@ -1023,3 +1023,13 @@ Planer Sa 28.11. bis So 06.12. (Marke 7383922): 439946823 Sa 17:15 Story fest; 4
 - Shop-Stand 28.11. 11:09: Kategorie-Text Pizza weiter "Neapolitanische Pizza mit einem super luftigen Teig. 48-72 Stunden bis zur Perfektion gegärt." (kann nur Damian in orderu ändern).
 - Kontaktbogen: Scratchpad karu/siprego-contemporanea-karussell-kontaktbogen.jpg. Nicht angefasst: alle anderen Posts im Planer.
 - Bei Veröffentlichung: 6410 und 6185 gesperrt bis 15.01.2027.
+
+### Änderung Sa 28.11.2026 ca. 17:20 (Modus AENDERUNG, Eilauftrag Damian über den Manager: #22 archiviert "War nicht gut", "Poste was anderes jetzt")
+
+- Stand vorher (Planer 17:17): Story BLACK15 445330146 veröffentlicht 13:30; Ungeschnitten #22 veröffentlicht 14:00, Instagram 445330192 https://www.instagram.com/reel/DgSUdh_MgaV/ (von Damian archiviert), TikTok 445330234 https://www.tiktok.com/@siprego/video/7713207534810696982 (steht laut Planer noch, vom Agenten nicht löschbar).
+- Ofen-Clip (Original ID 6413 IMG_0439.mov, Posting-Version ID 6414 https://siprego.de/wp-content/uploads/2026/11/siprego-ungeschnitten-25-ofen-2026-12-02-reel.mp4) vom Entwurf Mi 02.12. 18:00 auf Sa 28.11. 17:30 gezogen und FEST geplant (draft false, autoPublish true, PENDING) als Ungeschnitten #24: Instagram Reel neue ID 445580655 (vorher 444596452, uuid -8903090088445394745), TikTok neue ID 445580712 (vorher 444596571, uuid -7712592341052668722). Caption: "Heute haben wir schon ab 14:00 offen, bis 23:00." und "Heute letzter Tag für den Code BLACK15: 15 % auf alles ab 30 €." statt der Mittwoch-Zeile; TikTok "Heute schon ab 14 Uhr offen, bis 23 Uhr. Letzter Tag für den Code BLACK15: 15 % auf alles ab 30 € im Siprego Shop." Der Dateiname in der Mediathek trägt weiter "25" und "2026-12-02", in der Caption steht #24.
+- Sonntags-Post Pizza schneiden (6412) umbenannt auf Ungeschnitten #25, Termin So 29.11. 12:00 unverändert, fest: Instagram neue ID 445580773 (vorher 445217017), TikTok neue ID 445580819 (vorher 445217043). Nur Nummer in Caption und TikTok-Titel geändert.
+- Um 17:18 per getScheduledPosts zurückgelesen: alle vier PENDING, draft false.
+- Mi 02.12. ist ohne Reel, nichts angelegt (Wochenplan Mo 30.11., frei: 6406).
+- Im Planer steht außerdem ein Entwurf, der nicht aus diesem Lauf stammt: 445343959, Fr 04.12. 18:00, Instagram Karussell "Was ist eigentlich eine Pizza Contemporanea?" (8 Bilder, draft true, angelegt 28.11. 12:12). Nicht angefasst.
+- Gesperrt bis 13.01.2027: 6413 und 6414. Teig falten (6322) nach Damians Urteil nicht wieder vorschlagen. Nächste freie Nummer: #26. Im Playbook eingetragen.
