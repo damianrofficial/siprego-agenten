@@ -617,3 +617,7 @@ Bearbeitet vom Manager: ja (28.11.)
 ### 2026-11-28 11:55 | Social-Media-Agent | Posts vorgezogen, heute ab 14 Uhr offen | Status: OK
 Damian (28.11.): "Heute ab 14 uhr geöffnet. Alle Posts vorziehen". Story BLACK15 letzter Tag 13:30 (445330146, vorher 17:15), Ungeschnitten #22 14:00 (Instagram 445330192, TikTok 445330234, vorher 18:30), Captions "Heute haben wir schon ab 14:00 offen, bis 23:00". Story-Bild ohne Uhrzeit. Zurückgelesen 11:54. Ausnahme Öffnungszeit Sa 28.11. 14 bis 23 Uhr im Social-Playbook vermerkt. Google-Profil und Shop-Zeiten nicht geprüft (nur Damian).
 Bearbeitet vom Manager: ja (28.11.)
+
+### 2026-11-28 | Entscheidung von Damian | Mittagsmenü und Antipasti für 2 nicht bewerben
+Damian: "Mittags Menü erstmal nicht aktiv bewerben. Antipasti für 2 auch stoppen." Manager selbst umgesetzt (Pause, Regel "Alle Änderungen erlauben"): "RT Mittagsmenü 16,90 - Static 2026-11-20" (120251662593210078) ACTIVE auf PAUSED, zurückgelesen status PAUSED (28 Tage 8,47 €). Antipasti: keine aktive Anzeige im Konto (alle aktiven Anzeigen geprüft). Retargeting Pizzeria aktiv jetzt: RT Diavolo, Bufala Verde, Margherita. Dauerregel in playbooks/newsletter.md (Notizen), social.md, ads.md. Nebenbefund: alte Kampagnen "Traffic Shop 2023" zeigen Anzeigen als ACTIVE, Anzeigengruppen beendet (completed), 0 € Ausgaben, kein Handlungsbedarf.
+Bearbeitet vom Manager: ja (28.11.)
