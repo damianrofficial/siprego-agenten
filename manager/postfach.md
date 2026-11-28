@@ -601,3 +601,7 @@ Bearbeitet vom Manager: ja (27.11.)
 ### 2026-11-27 17:32 | Social-Media-Agent | #23 fest, neues Video 6413 als Entwurf #25 | Status: OK
 #23 fest Fr 27.11. 18:30 (Instagram 444593619, TikTok 444593675), zurückgelesen 17:29. Neues Video 6413 (32,4 s, hochkant, Ofen mit Pizzen, Pizzaiolo dreht mit der Schaufel, zweiter Mitarbeiter am Pass, keine Gäste, keine Wild West), Posting-Version 6414, Entwurf #25 Mi 02.12. 18:00 (Instagram 444596452, TikTok 444596571). Frei danach: 6406, 6410.
 Bearbeitet vom Manager: ja (27.11.)
+
+### 2026-11-28 08:40 | Newsletter-Agent | Zweitmail KW48 | Status: KEINE ZWEITMAIL (Entscheidung Manager)
+Stand Sa 08:33: 120 Aktiv 190 Öffnungen (22,9 %), 13 Klicks, 11 Abmeldungen (1,04 %); 121 Schläfer 21 Öffnungen, 3 Klicks, 6 Abmeldungen (0,68 %); 122 Aktiv 177 Öffnungen (21,6 %), 6 Klicks, 12 Abmeldungen (1,16 %), 45 Soft Bounces; 123 Schläfer 15 Öffnungen, 2 Klicks, 7 Abmeldungen (0,82 %). 0 Beschwerden, Stopp-Regel Schläfer nicht ausgelöst. Abmeldungen KW48 36 (KW47 46). Zweite Mail der Woche: 8 Klicks, 19 Abmeldungen. Empfehlung: KW49 nur eine Mail; Aktiv seit 11.11. in jeder Mail über 1 % Abmeldungen (Ziel 0,5 %). Ausblick Hauptmail Mi 02.12.: mit Gutschein Nikolaus, sonst "Inferno ist wieder da", Wild West im PS; Bild frei z. B. 6323; neue Bild-Regel (oben) gilt. Monatsbericht November fällig. Seit 10.10. 2 neue Kontakte.
+Bearbeitet vom Manager: ja (28.11.)

@@ -956,3 +956,43 @@ Tage ohne Post bis So 29.11.: Do 26.11., Fr 27.11., So 29.11. (Sa nur Story fest
 - Als ENTWURF angelegt (draft true, autoPublish true): Ungeschnitten #25, Mi 02.12. 18:00, Instagram Reel 444596452 (uuid -8903090088445394745), TikTok 444596571 (uuid -7712592341052668722). Caption mit "Mittwoch offen, 11 bis 22 Uhr" (Mittwoch-Regel), ohne BLACK15, ohne Nacherzählung. Die Nummer #25 setzt voraus, dass #24 am So 29.11. rausgeht; entfällt #24, wird dieser Clip #24 (Caption und TikTok-Titel ändern). Bei anderem Tag die Zeile "Mittwoch offen" anpassen.
 - Kontaktbogen: siprego-upload-6413-kontaktbogen-2026-11-27.jpg im Scratchpad.
 - Freies Material danach: 6406 (Teig, Glutenfäden) und Foto 6410. Bei Veröffentlichung 6413 gesperrt bis 13.01.2027.
+
+### Änderung Sa 28.11.2026 ca. 08:40 (Modus AENDERUNG, Samstags-Routine des Managers: TikTok-Nachzug, Kontrolle #23, Zahlen, Planer; nur gelesen, nichts angelegt oder geändert)
+
+TikTok-Nachzug, Stand Sa 28.11.2026 08:38 (Zeitraum 14.11. bis 28.11., Metricool Analytics IG reels und TikTok posts, Planer):
+
+- 12 Instagram-Reels im Zeitraum (#14 und #15 Sa 14.11., zwei Reels So 15.11., #16 Di 17.11., Inferno Mi 18.11., #17 Do 19.11., #18 Sa 21.11., #19 So 22.11., #20 und #21 Do 26.11., #23 Fr 27.11.). Alle 12 stammen vom Agenten (Link im Planer identisch), alle 12 stehen mit gleichem Tag und gleicher Nummer auf TikTok. Kein manuelles Reel von Damian, kein Querformat betroffen. Nichts nachgezogen.
+
+Kontrolle Fr 27.11. (Planer, Status PUBLISHED):
+
+- Ungeschnitten #23: Instagram 444593619 veröffentlicht 18:35, https://www.instagram.com/reel/DgQOWtqg8CF/; TikTok 444593675 veröffentlicht 18:32, https://www.tiktok.com/@siprego/video/7712905474823212310.
+
+Erste Zahlen, Abruf Sa 28.11. 08:38 (Metricool Analytics, organisch):
+
+| Post | Kanal | Reichweite | Aufrufe | Interaktionen | davon |
+| --- | --- | --- | --- | --- | --- |
+| #20 Do 26.11. 17:30 | Instagram | 1.735 | 2.194 | 26 | 19 Likes, 3 Speichern, 4 Teilen |
+| #20 Do 26.11. 17:30 | TikTok | fehlt (Metricool liefert kein Reach) | 1.047 | 24 | 23 Likes, 1 Kommentar |
+| #21 Do 26.11. 19:30 | Instagram | 1.558 | 1.920 | 28 | 26 Likes, 1 Speichern, 1 Teilen |
+| #21 Do 26.11. 19:30 | TikTok | fehlt | 1.013 | 13 | 13 Likes |
+| #23 Fr 27.11. 18:30 (rund 14 Stunden) | Instagram | 1.626 | 1.992 | 23 | 22 Likes, 1 Teilen |
+| #23 Fr 27.11. 18:30 (rund 14 Stunden) | TikTok | fehlt | 698 | 4 | 4 Likes |
+| Wild-West-Feed Mi 25.11. 18:30 (441949373) | Instagram | 186 | 306 | 0 | Likes, Kommentare, Speichern, Teilen je 0 |
+
+- Einordnung: Die drei Reels liegen bei 1.558 bis 1.735 Reichweite, also auf dem Niveau von #18 (1.823) und #14 (1.909) und klar über #19 (444) und #17 (714). Zwei Reels am selben Abend (#20 und #21) haben sich nicht gegenseitig gebremst. Der Wild-West-Feed ist mit 186 Reichweite und 0 Interaktionen der schwächste Feed-Post der letzten 14 Tage (Stellenpost 236, Schaufenster 485).
+
+Heute fest, zurückgelesen 08:36 (Status PENDING, draft false, autoPublish true):
+
+- Story BLACK15 letzter Tag, Sa 28.11. 17:15: 439946823.
+- Ungeschnitten #22 Teig falten, Sa 28.11. 18:30: Instagram 443233379, TikTok 443233460. Instagram-Caption enthält "Heute letzter Tag für den Code BLACK15: 15 % auf alles ab 30 €." und "Samstag haben wir von 17:00 bis 23:00 offen", TikTok "Letzter Tag für den Code BLACK15". Beides für heute richtig.
+
+Entwürfe unverändert (draft true, IDs gleich, nicht angefasst):
+
+- #24 So 29.11. 17:30: Instagram 444409025, TikTok 444409063 (Freigabe offen, Mann mit Daumen hoch).
+- #25 Mi 02.12. 18:00: Instagram 444596452, TikTok 444596571.
+- Querclips #20 alt (Mi 25.11. 18:00, überfällig): Instagram 441354977, TikTok 441354999. Gehen nicht raus.
+
+Planer Sa 28.11. bis So 06.12. (Marke 7383922): 439946823 Sa 17:15 Story fest; 443233379 und 443233460 Sa 18:30 #22 fest; 444409025 und 444409063 So 29.11. 17:30 #24 Entwurf; 444596452 und 444596571 Mi 02.12. 18:00 #25 Entwurf. Do 03.12. bis So 06.12. leer (Wochenplan-Lauf Mo 30.11.).
+
+- Merker: Bleibt #24 am So 29.11. Entwurf, muss #25 vor einer Freigabe auf #24 umbenannt werden (Caption und TikTok-Titel).
+- Nummern-Stand: zuletzt veröffentlicht #23, heute läuft #22. Nächste freie Nummer #26, wenn #24 und #25 rausgehen.
