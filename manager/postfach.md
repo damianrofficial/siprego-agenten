@@ -613,3 +613,7 @@ Bearbeitet vom Manager: ja (28.11.)
 ### 2026-11-28 08:45 | Social-Media-Agent | #24 fest geplant | Status: OK
 Damian "A. Aber früher posten" (28.11.): Mann mit Daumen hoch ist Team oder Bekannter. #24 fest So 29.11. 12:00 statt 17:30 (Instagram 445217017, TikTok 445217043), Captions unverändert, kein Code. #25 Mi 02.12. 18:00 bleibt Entwurf. Nächste freie Nummer #26. Hinweis Agent: Mittags-Reels liefen bisher schwächer (#17 Do 12:00: 714), Vergleich im Wochenplan Mo 30.11.
 Bearbeitet vom Manager: ja (28.11.)
+
+### 2026-11-28 11:55 | Social-Media-Agent | Posts vorgezogen, heute ab 14 Uhr offen | Status: OK
+Damian (28.11.): "Heute ab 14 uhr geöffnet. Alle Posts vorziehen". Story BLACK15 letzter Tag 13:30 (445330146, vorher 17:15), Ungeschnitten #22 14:00 (Instagram 445330192, TikTok 445330234, vorher 18:30), Captions "Heute haben wir schon ab 14:00 offen, bis 23:00". Story-Bild ohne Uhrzeit. Zurückgelesen 11:54. Ausnahme Öffnungszeit Sa 28.11. 14 bis 23 Uhr im Social-Playbook vermerkt. Google-Profil und Shop-Zeiten nicht geprüft (nur Damian).
+Bearbeitet vom Manager: ja (28.11.)

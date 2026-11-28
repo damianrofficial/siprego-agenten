@@ -176,6 +176,7 @@ Damian wörtlich: "der social media agent muss außerdem regelmäßig prüfen, o
 - Betriebsurlaub, Feiertage, Veranstaltungen: hier eintragen. Aktuell keine.
 - So 01.11.2026 (Allerheiligen): normal geöffnet 11 bis 22 Uhr (siehe Newsletter-Playbook).
 - Feiertage 24.12. bis 01.01.: noch offen, bis 01.12.2026 keine Aussage dazu.
+- Sa 28.11.2026: ausnahmsweise 14 bis 23 Uhr geöffnet statt 17 bis 23 Uhr (Damian über den Manager, 28.11.: "Heute ab 14 uhr geöffnet. Alle Posts vorziehen"). Gilt nur für diesen Tag, die reguläre Samstagszeit im Newsletter-Playbook bleibt.
 
 ## Notizen von Damian an den Agenten
 - (über Manager, 25.11.) Pizza WILD WEST (Damian, 25.11.2026): "die pizza wild west ist nach langer zeit wieder als special verfügbar! hier die zutaten: Mozzarella Fior di Latte Base (keine Tomatensoße), Rinderhackfleisch, Mais, Kidneybohnen, BBQ-Sauce, scharfe Jalapeños / ab 15,90€ / ab sofort verfügbar im Siprego Shop. / verfügbar bis 23.12.26." Shop geprüft 25.11. 16:59: "Wild West" aktiv, Piccola 15,90 €, Grande 17,90 €, Familia 28,90 €. Special, verfügbar bis 23.12.2026. Bild Mediathek 6373 (https://siprego.de/wp-content/uploads/2026/11/siprego-pizza-wild-west-2026-11-25.jpg, 1254x1254, von oben auf Holzbrett). Zubereitung laut Damian: BBQ-Sauce kommt NACH dem Backen im Zickzack über die ganze Pizza, nicht auf den Rand, vorab in eine Quetschflasche füllen.

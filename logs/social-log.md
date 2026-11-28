@@ -1003,3 +1003,11 @@ Planer Sa 28.11. bis So 06.12. (Marke 7383922): 439946823 Sa 17:15 Story fest; 4
 - Ungeschnitten #25 (Mi 02.12. 18:00, Instagram 444596452, TikTok 444596571) weiter ENTWURF mit Nummer #25, nicht angefasst. Heute Sa 28.11. (439946823, 443233379, 443233460) nicht angefasst.
 - IMG_0183.mov (6408) gesperrt bis 10.01.2027. Nächste freie Ungeschnitten-Nummer: #26.
 - Hinweis: 12:00 weicht von der Lehre aus KW47 ab (Reels abends rund 1.600 bis 1.800 Reichweite, Do 12:00 nur 646 bis 714); Termin ist Damians Wunsch. Zahlen am Montag vergleichen.
+
+### Änderung Sa 28.11.2026 ca. 11:55 (Modus AENDERUNG, Damian über den Manager: "Heute ab 14 uhr geöffnet. Alle Posts vorziehen")
+
+- Heute Sa 28.11. ausnahmsweise 14:00 bis 23:00 offen statt 17:00 bis 23:00. Im Playbook unter "Sperrtermine und Sonderfälle" notiert.
+- Story BLACK15 letzter Tag: Bild vorher angesehen (Metricool-Datei 7383922-file-18186058582090870801.jpeg). Text im Bild: "BLACK FRIDAY · SAMSTAG", "Letzter Tag.", "BLACK15", "15 % auf alles ab 30 €", "Nur noch heute, im Siprego Shop". Keine Uhrzeit, keine Öffnungszeit. Von 17:15 auf 13:30 vorgezogen, neue ID 445330146 (vorher 439946823, uuid -6771436286763645723), Bild und Alt-Text unverändert.
+- Ungeschnitten #22 Teig falten von 18:30 auf 14:00 vorgezogen: Instagram Reel neue ID 445330192 (vorher 443233379, uuid -306128028997761504), TikTok neue ID 445330234 (vorher 443233460, uuid -6523827822822275363). Instagram: "Samstag haben wir von 17:00 bis 23:00 offen." ersetzt durch "Heute haben wir schon ab 14:00 offen, bis 23:00." TikTok: "Heute bis 23 Uhr offen." ersetzt durch "Heute schon ab 14 Uhr offen, bis 23 Uhr." BLACK15-Zeile, Hashtags, Titel, Medien, Cover unverändert.
+- Um 11:54 per getScheduledPosts zurückgelesen: alle drei PENDING, draft false, autoPublish true.
+- Nicht angefasst: #24 So 29.11. 12:00 (445217017, 445217043, fest), #25 Mi 02.12. 18:00 (444596452, 444596571, Entwurf), Querclips 441354977 und 441354999.
