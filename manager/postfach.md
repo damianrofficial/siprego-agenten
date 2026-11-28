@@ -14,8 +14,8 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 
 ## Offene Fragen an Damian
 - [beantwortet 27.11. "Ja", fest Fr 18:30: Instagram 444593619, TikTok 444593675] Social | Ungeschnitten #23 (Teig portionieren, Clip 6405 zurückgespiegelt) Fr 27.11. 18:30 freigeben (Instagram 444408871, TikTok 444408928) | Frist Fr 27.11. 18:00 | A freigeben ... B nicht posten | Ohne Antwort: bleibt Entwurf
-- [gestellt am 28.11. 09:00] Social | Ungeschnitten #24 (Pizza schneiden, Clip 6408) So 29.11. 17:30 (Instagram 444409025, TikTok 444409063): Mann im beigen T-Shirt mit Daumen hoch am Ende, Team oder Gast? | Frist So 29.11. 16:30 | A Team, posten ... B Gast oder unklar, stattdessen Teig-Clip 6406 | Ohne Antwort: bleibt Entwurf
-- [offen, nach #24] Social | Ungeschnitten #25 (Ofen, Pizzen drehen, Clip 6413) Mi 02.12. 18:00 (Instagram 444596452, TikTok 444596571) freigeben | Frist Mi 02.12. 17:00 | Ohne Antwort: bleibt Entwurf. Entfällt #24, wird dieser Clip #24 und ist Sonntags-Ersatz
+- [beantwortet 28.11. "A. Aber früher posten", fest So 29.11. 12:00: Instagram 445217017, TikTok 445217043] Social | Ungeschnitten #24 (Pizza schneiden, Clip 6408) So 29.11. 17:30 (Instagram 444409025, TikTok 444409063): Mann im beigen T-Shirt mit Daumen hoch am Ende, Team oder Gast? | Frist So 29.11. 16:30 | A Team, posten ... B Gast oder unklar, stattdessen Teig-Clip 6406 | Ohne Antwort: bleibt Entwurf
+- [offen, als Nächstes] Social | Ungeschnitten #25 (Ofen, Pizzen drehen, Clip 6413) Mi 02.12. 18:00 (Instagram 444596452, TikTok 444596571) freigeben | Frist Mi 02.12. 17:00 | Ohne Antwort: bleibt Entwurf. Entfällt #24, wird dieser Clip #24 und ist Sonntags-Ersatz
 - [offen, niedrig] Damian | Mediathek 6409 ist ein privater Screenshot und öffentlich abrufbar: in WordPress löschen (nur Damian)
 - [beantwortet 24.11. "A", umgesetzt] Social | BLACK15 auch auf Instagram und TikTok nennen (Story Mi und Sa, eine Zeile in #20 und #21)? | Frist Di 24.11. 18:00 | A ja ... B nur in der Mail | Ohne Antwort: kein Post zum Code
 - [entschieden vom Manager 26.11.: keine Erinnerungsmail (schon 2 Mails diese Woche, Abmeldungen 1,04 % Aktiv); Damian im Bericht genannt] Newsletter | Erinnerungsmail Sa 28.11. "letzter Tag BLACK15"? | Frist Fr 27.11. 12:00 | Ohne Antwort: keine
@@ -608,4 +608,8 @@ Bearbeitet vom Manager: ja (28.11.)
 
 ### 2026-11-28 08:40 | Social-Media-Agent | Samstags-Routine KW48 | Status: OK
 TikTok-Nachzug: 12 Reels in 14 Tagen, alle auf TikTok, nichts nachzuziehen. #23 Fr 27.11. veröffentlicht (Instagram 18:35, TikTok 18:32). Instagram-Reichweite nach rund 14 Stunden: #20 1.735 (26 Interaktionen), #21 1.558 (28), #23 1.626 (23); TikTok-Aufrufe #20 1.047, #21 1.013, #23 698. Zwei Reels am selben Abend haben sich nicht gebremst. Wild-West-Feed 25.11.: Reichweite 186, 0 Interaktionen (schwächster Feed-Post in 14 Tagen). Heute fest: Story BLACK15 17:15, #22 18:30, Captions richtig. Do 03.12. bis So 06.12. leer (Wochenplan Mo 30.11.). Bleibt #24 Entwurf, wird #25 zu #24.
+Bearbeitet vom Manager: ja (28.11.)
+
+### 2026-11-28 08:45 | Social-Media-Agent | #24 fest geplant | Status: OK
+Damian "A. Aber früher posten" (28.11.): Mann mit Daumen hoch ist Team oder Bekannter. #24 fest So 29.11. 12:00 statt 17:30 (Instagram 445217017, TikTok 445217043), Captions unverändert, kein Code. #25 Mi 02.12. 18:00 bleibt Entwurf. Nächste freie Nummer #26. Hinweis Agent: Mittags-Reels liefen bisher schwächer (#17 Do 12:00: 714), Vergleich im Wochenplan Mo 30.11.
 Bearbeitet vom Manager: ja (28.11.)

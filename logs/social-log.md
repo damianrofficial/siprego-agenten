@@ -996,3 +996,10 @@ Planer Sa 28.11. bis So 06.12. (Marke 7383922): 439946823 Sa 17:15 Story fest; 4
 
 - Merker: Bleibt #24 am So 29.11. Entwurf, muss #25 vor einer Freigabe auf #24 umbenannt werden (Caption und TikTok-Titel).
 - Nummern-Stand: zuletzt veröffentlicht #23, heute läuft #22. Nächste freie Nummer #26, wenn #24 und #25 rausgehen.
+
+### Änderung Sa 28.11.2026 ca. 08:45 (Modus AENDERUNG, Damian über den Manager zu #24: "A. Aber früher posten")
+
+- Ungeschnitten #24 FEST GEPLANT nach Damians Freigabe über den Manager (Mann mit Daumen hoch in 6408 ist Team oder Bekannter, darf gezeigt werden): draft false, autoPublish true, Termin von So 29.11. 17:30 auf So 29.11. 12:00 vorgezogen. Instagram Reel neue ID 445217017 (vorher 444409025, uuid 6103544230817385502), TikTok neue ID 445217043 (vorher 444409063, uuid 4591961384218480518), Datei 6412. Captions, Titel, Medien und Cover unverändert: "Heute noch bis 22:00 offen" (Sonntag 11:00 bis 22:00), kein Code.
+- Ungeschnitten #25 (Mi 02.12. 18:00, Instagram 444596452, TikTok 444596571) weiter ENTWURF mit Nummer #25, nicht angefasst. Heute Sa 28.11. (439946823, 443233379, 443233460) nicht angefasst.
+- IMG_0183.mov (6408) gesperrt bis 10.01.2027. Nächste freie Ungeschnitten-Nummer: #26.
+- Hinweis: 12:00 weicht von der Lehre aus KW47 ab (Reels abends rund 1.600 bis 1.800 Reichweite, Do 12:00 nur 646 bis 714); Termin ist Damians Wunsch. Zahlen am Montag vergleichen.
