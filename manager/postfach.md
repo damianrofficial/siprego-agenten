@@ -626,3 +626,7 @@ Bearbeitet vom Manager: ja (28.11.)
 ### 2026-11-28 12:15 | Social-Media-Agent | Karussell "Was ist eine Pizza Contemporanea?" | Status: OK
 Auftrag Damian 28.11. 8 Slides 4:5 (Mediathek 6415 bis 6422), Entwurf 445343959 Fr 04.12. 18:00 (draft true). Aufbau: Titel (Foto 6410), Ein Stil kein Name, Napoletana die Klassische, Romana die Knusprige, Contemporanea die Luftige (je Querschnitt-Skizze), Vergleich auf einen Blick, Bewusst Contemporanea (Damians Grund, Biga, 48 Stunden Teigruhe; Foto 6185), Probier den Unterschied. Caption 112 Wörter mit Kommentarfrage. Quellen genannt; 33 % Biga bewusst weggelassen. Offen: 48 Stunden noch richtig? Shop-Kategorietext weiter "Neapolitanische Pizza" (nur Damian). Manager hat alle Slides angesehen.
 Bearbeitet vom Manager: ja (28.11.)
+
+### 2026-11-28 | Entscheidung von Damian | Ungeschnitten #22 archiviert
+(Damian, 28.11.2026: "Das heutige Teig Reel habe ich archiviert. War nicht gut") Ungeschnitten #22 (Teig falten, Clip 6322, zurückgespiegelt, Sa 28.11. 14:00) hat Damian auf Instagram archiviert. Die TikTok-Fassung (7713207534810696982) ist weiter online, nur Damian kann sie in der App entfernen. Clip 6322 und die Posting-Version 6367 NIE wieder verwenden. Nummer #22 bleibt vergeben, keine Neunummerierung; nächste freie Nummer weiter #26. Merker: zurückgespiegelte Teig-Clips vor dem Einplanen besonders kritisch ansehen.
+Bearbeitet vom Manager: ja (28.11.)
