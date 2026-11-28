@@ -14,7 +14,7 @@ Gemeinsames Postfach der Siprego-Agenten (Social Wochenplan, Newsletter Hauptmai
 
 ## Offene Fragen an Damian
 - [beantwortet 27.11. "Ja", fest Fr 18:30: Instagram 444593619, TikTok 444593675] Social | Ungeschnitten #23 (Teig portionieren, Clip 6405 zurückgespiegelt) Fr 27.11. 18:30 freigeben (Instagram 444408871, TikTok 444408928) | Frist Fr 27.11. 18:00 | A freigeben ... B nicht posten | Ohne Antwort: bleibt Entwurf
-- [offen, als Nächstes] Social | Ungeschnitten #24 (Pizza schneiden, Clip 6408) So 29.11. 17:30 (Instagram 444409025, TikTok 444409063): Mann im beigen T-Shirt mit Daumen hoch am Ende, Team oder Gast? | Frist So 29.11. 16:30 | A Team, posten ... B Gast oder unklar, stattdessen Teig-Clip 6406 | Ohne Antwort: bleibt Entwurf
+- [gestellt am 28.11. 09:00] Social | Ungeschnitten #24 (Pizza schneiden, Clip 6408) So 29.11. 17:30 (Instagram 444409025, TikTok 444409063): Mann im beigen T-Shirt mit Daumen hoch am Ende, Team oder Gast? | Frist So 29.11. 16:30 | A Team, posten ... B Gast oder unklar, stattdessen Teig-Clip 6406 | Ohne Antwort: bleibt Entwurf
 - [offen, nach #24] Social | Ungeschnitten #25 (Ofen, Pizzen drehen, Clip 6413) Mi 02.12. 18:00 (Instagram 444596452, TikTok 444596571) freigeben | Frist Mi 02.12. 17:00 | Ohne Antwort: bleibt Entwurf. Entfällt #24, wird dieser Clip #24 und ist Sonntags-Ersatz
 - [offen, niedrig] Damian | Mediathek 6409 ist ein privater Screenshot und öffentlich abrufbar: in WordPress löschen (nur Damian)
 - [beantwortet 24.11. "A", umgesetzt] Social | BLACK15 auch auf Instagram und TikTok nennen (Story Mi und Sa, eine Zeile in #20 und #21)? | Frist Di 24.11. 18:00 | A ja ... B nur in der Mail | Ohne Antwort: kein Post zum Code
@@ -604,4 +604,8 @@ Bearbeitet vom Manager: ja (27.11.)
 
 ### 2026-11-28 08:40 | Newsletter-Agent | Zweitmail KW48 | Status: KEINE ZWEITMAIL (Entscheidung Manager)
 Stand Sa 08:33: 120 Aktiv 190 Öffnungen (22,9 %), 13 Klicks, 11 Abmeldungen (1,04 %); 121 Schläfer 21 Öffnungen, 3 Klicks, 6 Abmeldungen (0,68 %); 122 Aktiv 177 Öffnungen (21,6 %), 6 Klicks, 12 Abmeldungen (1,16 %), 45 Soft Bounces; 123 Schläfer 15 Öffnungen, 2 Klicks, 7 Abmeldungen (0,82 %). 0 Beschwerden, Stopp-Regel Schläfer nicht ausgelöst. Abmeldungen KW48 36 (KW47 46). Zweite Mail der Woche: 8 Klicks, 19 Abmeldungen. Empfehlung: KW49 nur eine Mail; Aktiv seit 11.11. in jeder Mail über 1 % Abmeldungen (Ziel 0,5 %). Ausblick Hauptmail Mi 02.12.: mit Gutschein Nikolaus, sonst "Inferno ist wieder da", Wild West im PS; Bild frei z. B. 6323; neue Bild-Regel (oben) gilt. Monatsbericht November fällig. Seit 10.10. 2 neue Kontakte.
+Bearbeitet vom Manager: ja (28.11.)
+
+### 2026-11-28 08:40 | Social-Media-Agent | Samstags-Routine KW48 | Status: OK
+TikTok-Nachzug: 12 Reels in 14 Tagen, alle auf TikTok, nichts nachzuziehen. #23 Fr 27.11. veröffentlicht (Instagram 18:35, TikTok 18:32). Instagram-Reichweite nach rund 14 Stunden: #20 1.735 (26 Interaktionen), #21 1.558 (28), #23 1.626 (23); TikTok-Aufrufe #20 1.047, #21 1.013, #23 698. Zwei Reels am selben Abend haben sich nicht gebremst. Wild-West-Feed 25.11.: Reichweite 186, 0 Interaktionen (schwächster Feed-Post in 14 Tagen). Heute fest: Story BLACK15 17:15, #22 18:30, Captions richtig. Do 03.12. bis So 06.12. leer (Wochenplan Mo 30.11.). Bleibt #24 Entwurf, wird #25 zu #24.
 Bearbeitet vom Manager: ja (28.11.)
